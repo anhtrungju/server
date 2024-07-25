@@ -5,7 +5,7 @@ skills:
     xp: 5510.390000000004
   auraskills/fighting:
     level: 4
-    xp: 305.9000000000007
+    xp: 313.6000000000007
   auraskills/excavation:
     level: 3
     xp: 120.80000000000075
@@ -36,15 +36,6 @@ skills:
 mana: 118.0
 action_bar:
   idle: true
-stat_modifiers:
-  '0':
-    name: AbilityModifier-EnchantedStrength
-    stat: auraskills/strength
-    value: 1.0
-  '1':
-    name: foraging-valor
-    stat: auraskills/strength
-    value: 2.0
 trait_modifiers:
   '0':
     name: excavation_luck_ability
@@ -63,7 +54,7 @@ trait_modifiers:
     trait: auraskills/farming_luck
     value: 30.0
 ability_data:
+  auraskills/xp_convert:
+    xp: 8.707318594552246
   auraskills/first_strike:
     counter: 2
-  auraskills/xp_convert:
-    xp: 1.0073185945522454
