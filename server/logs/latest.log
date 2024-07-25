@@ -1,0 +1,139 @@
+[16:03:52] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:03:55] [ServerMain/INFO]: Loaded 1290 recipes
+[16:03:56] [ServerMain/INFO]: Loaded 1399 advancements
+[16:03:57] [Server thread/INFO]: Starting minecraft server version 1.21
+[16:03:57] [Server thread/INFO]: Loading properties
+[16:03:57] [Server thread/INFO]: This server is running Paper version 1.21-27-master@76c2f16 (2024-06-22T18:19:36Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[16:03:58] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:03:58] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:04:00] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[16:04:00] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[16:04:00] [Server thread/INFO]: Default game type: SURVIVAL
+[16:04:00] [Server thread/INFO]: Generating keypair
+[16:04:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:04:01] [Server thread/INFO]: Using epoll channel type
+[16:04:01] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:04:01] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[16:04:02] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+106-8b08a8f
+[16:04:02] [Server thread/INFO]: [playit-gg] Loading server plugin playit-gg v0.1.4
+[16:04:02] [Server thread/INFO]: [ChestSort] Loading server plugin ChestSort v14.1.0
+[16:04:02] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.1.5
+[16:04:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[16:04:02] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[16:04:02] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[16:04:02] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[16:04:02] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[16:04:02] [Server thread/INFO]: Preparing level "world"
+[16:04:03] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:04:06] [Server thread/INFO]: Time elapsed: 2996 ms
+[16:04:06] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:04:07] [Server thread/INFO]: Time elapsed: 590 ms
+[16:04:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:04:07] [Server thread/INFO]: Time elapsed: 415 ms
+[16:04:08] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+106-8b08a8f
+[16:04:11] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[16:04:11] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[16:04:12] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
+[16:04:12] [Server thread/INFO]: [Essentials] Using locale en_US
+[16:04:13] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[16:04:14] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[16:04:14] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[16:04:14] [Server thread/INFO]: [playit-gg] Enabling playit-gg v0.1.4
+[16:04:18] [Thread-5/INFO]: [gg.playit.minecraft.PlayitKeysSetup] secret key found, checking
+[16:04:18] [Thread-5/INFO]: [gg.playit.minecraft.PlayitKeysSetup] check secret
+[16:04:18] [Server thread/INFO]: [ChestSort] Enabling ChestSort v14.1.0
+[16:04:19] [Server thread/INFO]: [ChestSort] Use permissions: true
+[16:04:19] [Server thread/INFO]: [ChestSort] Current sorting method: {category},{itemsFirst},{name},{color},{customName}
+[16:04:19] [Server thread/INFO]: [ChestSort] Allow automatic chest sorting:true
+[16:04:19] [Server thread/INFO]: [ChestSort]   |- Chest sorting enabled by default: false
+[16:04:19] [Server thread/INFO]: [ChestSort]   |- Sort time: close
+[16:04:19] [Server thread/INFO]: [ChestSort] Allow automatic inventory sorting:true
+[16:04:19] [Server thread/INFO]: [ChestSort]   |- Inventory sorting enabled by default: false
+[16:04:19] [Server thread/INFO]: [ChestSort] Auto generate category files: true
+[16:04:19] [Server thread/INFO]: [ChestSort] Allow hotkeys: true
+[16:04:19] [Server thread/INFO]: [ChestSort] Hotkeys enabled by default:
+[16:04:19] [Server thread/INFO]: [ChestSort]   |- Middle-Click: true
+[16:04:19] [Server thread/INFO]: [ChestSort]   |- Shift-Click: true
+[16:04:19] [Server thread/INFO]: [ChestSort]   |- Double-Click: true
+[16:04:19] [Server thread/INFO]: [ChestSort]   |- Shift-Right-Click: true
+[16:04:19] [Server thread/INFO]: [ChestSort] Allow additional hotkeys: true
+[16:04:19] [Server thread/INFO]: [ChestSort] Additional hotkeys enabled by default:
+[16:04:19] [Server thread/INFO]: [ChestSort]   |- Left-Click: false
+[16:04:19] [Server thread/INFO]: [ChestSort]   |- Right-Click: false
+[16:04:19] [Server thread/INFO]: [ChestSort] Check for updates: true
+[16:04:19] [Server thread/INFO]: [ChestSort] Check interval: 4 hours (4.0 seconds)
+[16:04:19] [Server thread/INFO]: [ChestSort] Categories: 900-weapons (6), 905-common-tools (4), 907-other-tools (6), 909-food (33), 910-valuables (47), 920-armor-and-arrows (9), 930-brewing (18), 950-redstone (23), 960-wood (60), 970-stone (38), 980-plants (50), 981-corals (1)
+[16:04:19] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.1.5
+[16:04:21] [Thread-5/INFO]: [gg.playit.minecraft.PlayitKeysSetup] found minecraft java tunnel: hold-mighty.gl.joinmc.link
+[16:04:21] [Thread-5/INFO]: [gg.playit.minecraft.PlayitManager] keys and tunnel setup
+[16:04:22] [Thread-5/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[16:04:23] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[16:04:23] [Thread-5/INFO]: [gg.playit.control.ChannelSetup] request queued, waiting 1 second before resend
+[16:04:24] [Server thread/INFO]: [AuraSkills] Loaded 126 config options in 98 ms
+[16:04:24] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21! Trying to find NMS support
+[16:04:24] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
+[16:04:24] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[16:04:25] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[16:04:25] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[16:04:27] [Server thread/INFO]: Running delayed init tasks
+[16:04:27] [Craft Scheduler Thread - 4 - Essentials/INFO]: [Essentials] Fetching version information...
+[16:04:28] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 312 total sources
+[16:04:28] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[16:04:28] [Server thread/INFO]: [AuraSkills] Loaded 36 pattern rewards and 0 level rewards
+[16:04:28] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[16:04:29] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:04:29] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
+[16:04:29] [Server thread/INFO]: Done (32.349s)! For help, type "help"
+[16:04:29] [Server thread/INFO]: Timings Reset
+[16:04:36] [Thread-5/INFO]: [gg.playit.minecraft.PlayitManager] got new client: NewClient{connectAddr=209.25.142.194:17858, peerAddr=222.254.162.242:1291, claimAddress=209.25.142.2:43784, claimToken=[44, 0, 60, -47, 25, -114, -62, 69, -62, -34, -2, -94, -14, 5, 11, 5, 24, 58, 3, -85, 8, 102, -94, 119, -108, 0, 0, 0, 0, 0, 9, -94, 52, 0, 0, 0, 0, 0, 52, -23, 124, -127, 3, -85, 8, 0, 0, 0, 0, 18, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 112, 86, 12, 29, 120, 64, 18, -127, -128, -45, 17, -12, 34, 6, -123, -27], tunnelServerId=1, dataCenterId=18}
+[16:04:36] [Thread-5/INFO]: [gg.playit.minecraft.PlayitManager] starting tcp tunnel for client
+[16:04:36] [Thread-5/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] start connection to /209.25.142.2:43784 to claim client
+[16:04:36] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to tunnel server, sending claim token
+[16:04:36] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] claim token sent
+[16:04:36] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connection to tunnel server has been established
+[16:04:36] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] Reflect: ReflectionHelper{ServerConnection=class net.minecraft.server.network.ServerConnectionListener, LegacyPingHandler=class net.minecraft.server.network.LegacyQueryHandler, MinecraftServer=class net.minecraft.server.MinecraftServer, PacketSplitter=class net.minecraft.network.Varint21FrameDecoder, PacketDecoder=class net.minecraft.network.PacketDecoder, EnumProtocolDirection=class net.minecraft.network.protocol.PacketFlow, PacketPrepender=class net.minecraft.network.Varint21LengthFieldPrepender, PacketEncoder=class net.minecraft.network.PacketEncoder, NetworkManagerServer=class net.minecraft.network.RateKickingConnection, NetworkManager=class net.minecraft.network.Connection, HandshakeListener=class net.minecraft.server.network.ServerHandshakePacketListenerImpl, PacketListener=interface net.minecraft.network.PacketListener, CraftServer=class org.bukkit.craftbukkit.CraftServer}
+[16:04:36] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] legacyPingHandler is null
+[16:04:36] [nioEventLoopGroup-2-1/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connecting to minecraft server at localhost/127.0.0.1:25565
+[16:04:36] [nioEventLoopGroup-2-2/INFO]: [gg.playit.minecraft.PlayitTcpTunnel] connected to local minecraft server
+[16:04:36] [User Authenticator #0/INFO]: UUID of player an8bithahaha is e9c246cc-bc31-3fef-9a9c-b34d773135e6
+[16:04:38] [Server thread/INFO]: an8bithahaha joined the game
+[16:04:38] [Server thread/INFO]: an8bithahaha[/127.0.0.1:45256] logged in with entity id 25 at ([world]-456.69999998807907, 67.0, 252.18079153995834)
+[16:04:40] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2528ms or 50 ticks behind
+[16:07:41] [Server thread/INFO]: an8bithahaha issued server command: /skill
+[16:08:24] [Thread-5/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[16:09:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3760ms or 75 ticks behind
+[16:12:24] [Thread-5/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[16:16:25] [Thread-5/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[16:20:25] [Thread-5/INFO]: [gg.playit.control.ChannelSetup] send keep alive
+[16:20:50] [nioEventLoopGroup-2-1/WARN]: [gg.playit.minecraft.PlayitTcpTunnel] failed to send data to tunnel
+[16:20:50] [Server thread/INFO]: an8bithahaha lost connection: Disconnected
+[16:20:50] [Server thread/INFO]: an8bithahaha left the game
+[16:20:59] [Server thread/INFO]: Stopping the server
+[16:20:59] [Server thread/INFO]: Stopping server
+[16:20:59] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.1.5
+[16:20:59] [Server thread/INFO]: [ChestSort] Disabling ChestSort v14.1.0
+[16:20:59] [Server thread/INFO]: [playit-gg] Disabling playit-gg v0.1.4
+[16:20:59] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+106-8b08a8f
+[16:20:59] [Server thread/INFO]: Saving players
+[16:20:59] [Server thread/INFO]: Saving worlds
+[16:20:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:20:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[16:20:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[16:20:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[16:20:59] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 12 entity chunks, 0 poi chunks in world 'world' in 0.03s
+[16:20:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[16:20:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[16:20:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[16:20:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[16:20:59] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[16:20:59] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:20:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[16:20:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[16:20:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[16:20:59] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[16:20:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:20:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:20:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:20:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

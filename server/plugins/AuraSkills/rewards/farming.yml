@@ -1,0 +1,22 @@
+patterns:
+  - type: stat
+    stat: health
+    value: 0.3
+    pattern:
+      interval: 1
+  - type: stat
+    stat: strength
+    value: 0.5
+    pattern:
+      interval: 2
+  - type: stat
+    stat: toughness
+    value: 0.3
+    pattern:
+      interval: 2
+  - type: stat
+    stat: wisdom
+    value: 1
+    pattern:
+      interval: 2
+levels:

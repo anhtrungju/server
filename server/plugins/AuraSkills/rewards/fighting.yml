@@ -1,0 +1,17 @@
+patterns:
+  - type: stat
+    stat: crit_damage
+    value: 1
+    pattern:
+      interval: 1
+  - type: stat
+    stat: regeneration
+    value: 1.5
+    pattern:
+      interval: 2
+  - type: stat
+    stat: wisdom
+    value: 1
+    pattern:
+      interval: 2
+levels:
