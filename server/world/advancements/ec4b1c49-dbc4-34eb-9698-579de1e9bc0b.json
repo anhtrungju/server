@@ -7,17 +7,24 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:deep_cold_ocean": "2024-07-25 10:33:02 +0000",
       "minecraft:cold_ocean": "2024-07-24 09:11:58 +0000",
+      "minecraft:beach": "2024-07-26 07:38:27 +0000",
       "minecraft:old_growth_pine_taiga": "2024-07-25 10:27:25 +0000",
-      "minecraft:frozen_river": "2024-07-24 08:27:19 +0000",
+      "minecraft:dark_forest": "2024-07-26 06:56:25 +0000",
       "minecraft:forest": "2024-07-24 08:27:27 +0000",
       "minecraft:taiga": "2024-07-25 10:23:44 +0000",
-      "minecraft:windswept_forest": "2024-07-25 10:31:03 +0000",
       "minecraft:river": "2024-07-24 08:34:29 +0000",
       "minecraft:snowy_plains": "2024-07-24 08:25:29 +0000",
-      "minecraft:old_growth_spruce_taiga": "2024-07-25 10:26:11 +0000",
       "minecraft:snowy_taiga": "2024-07-24 08:27:21 +0000",
+      "minecraft:deep_cold_ocean": "2024-07-25 10:33:02 +0000",
+      "minecraft:old_growth_birch_forest": "2024-07-26 06:58:19 +0000",
+      "minecraft:frozen_river": "2024-07-24 08:27:19 +0000",
+      "minecraft:windswept_forest": "2024-07-25 10:31:03 +0000",
+      "minecraft:ocean": "2024-07-26 08:03:58 +0000",
+      "minecraft:swamp": "2024-07-26 08:06:53 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-07-25 10:26:11 +0000",
+      "minecraft:bamboo_jungle": "2024-07-26 08:20:24 +0000",
+      "minecraft:windswept_savanna": "2024-07-26 06:57:49 +0000",
       "minecraft:plains": "2024-07-24 08:46:46 +0000"
     },
     "done": false
@@ -618,13 +625,18 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "beetroot_soup": "2024-07-24 08:45:09 +0000",
+      "mutton": "2024-07-26 07:43:10 +0000",
       "bread": "2024-07-24 08:39:02 +0000",
+      "suspicious_stew": "2024-07-26 08:22:54 +0000",
+      "sweet_berries": "2024-07-26 07:47:48 +0000",
+      "baked_potato": "2024-07-24 09:31:39 +0000",
+      "beef": "2024-07-26 07:43:18 +0000",
+      "melon_slice": "2024-07-26 06:18:37 +0000",
+      "beetroot": "2024-07-25 09:28:43 +0000",
+      "beetroot_soup": "2024-07-24 08:45:09 +0000",
       "cooked_chicken": "2024-07-24 09:16:32 +0000",
       "potato": "2024-07-24 08:51:22 +0000",
       "cod": "2024-07-24 11:23:48 +0000",
-      "baked_potato": "2024-07-24 09:31:39 +0000",
-      "beetroot": "2024-07-25 09:28:43 +0000",
       "carrot": "2024-07-24 08:48:44 +0000"
     },
     "done": false
@@ -776,15 +788,21 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2024-07-25 09:20:59 +0000",
+      "minecraft:blaze": "2024-07-26 07:27:00 +0000",
       "minecraft:skeleton": "2024-07-24 08:48:28 +0000",
+      "minecraft:phantom": "2024-07-26 07:54:30 +0000",
+      "minecraft:zombified_piglin": "2024-07-26 07:32:00 +0000",
+      "minecraft:witch": "2024-07-25 08:56:51 +0000",
+      "minecraft:wither_skeleton": "2024-07-26 07:31:34 +0000",
+      "minecraft:ravager": "2024-07-25 09:21:16 +0000",
       "minecraft:vindicator": "2024-07-25 09:19:58 +0000",
       "minecraft:stray": "2024-07-24 11:04:02 +0000",
-      "minecraft:witch": "2024-07-25 08:56:51 +0000",
+      "minecraft:enderman": "2024-07-26 06:58:11 +0000",
+      "minecraft:magma_cube": "2024-07-26 07:24:46 +0000",
       "minecraft:spider": "2024-07-24 09:42:14 +0000",
       "minecraft:zombie": "2024-07-24 09:05:22 +0000",
       "minecraft:creeper": "2024-07-24 09:43:44 +0000",
-      "minecraft:drowned": "2024-07-25 04:44:40 +0000",
-      "minecraft:ravager": "2024-07-25 09:21:16 +0000"
+      "minecraft:drowned": "2024-07-25 04:44:40 +0000"
     },
     "done": false
   },
@@ -2167,6 +2185,200 @@
       "has_iron_nugget": "2024-07-25 10:47:05 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-07-26 07:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-07-26 07:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-07-26 08:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-07-26 08:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-07-26 08:25:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-07-26 07:22:22 +0000",
+      "minecraft:soul_sand_valley": "2024-07-26 07:23:03 +0000",
+      "minecraft:basalt_deltas": "2024-07-26 07:26:31 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-07-26 07:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2024-07-26 08:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-07-26 07:22:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2024-07-26 08:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2024-07-26 08:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-07-26 07:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2024-07-26 08:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-07-26 08:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2024-07-26 07:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-07-26 08:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-07-26 07:23:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-07-26 07:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2024-07-26 08:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-07-26 08:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-07-26 07:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2024-07-26 07:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "fortress": "2024-07-26 07:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-07-26 08:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-07-26 07:22:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-07-26 06:37:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2024-07-26 08:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-07-26 07:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2024-07-26 08:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-07-26 07:22:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2024-07-26 08:25:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/complete_catalogue": {
+    "criteria": {
+      "minecraft:all_black": "2024-07-26 08:13:22 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3953
 }

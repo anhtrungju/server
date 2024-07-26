@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1721974198842
+  login: 1721974204207
+money: '0'
+last-account-name: Leviathan
+logoutlocation:
+  world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
+  world-name: world
+  x: -447.04805411972325
+  y: 63.0
+  z: 286.9007867703899
+  yaw: 20.09454917907715
+  pitch: 2.9875171184539795
+lastlocation:
+  world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
+  world-name: world
+  x: -455.6928848629566
+  y: 64.0
+  z: 256.44723749452277
+  yaw: 82.825439453125
+  pitch: 36.879356384277344

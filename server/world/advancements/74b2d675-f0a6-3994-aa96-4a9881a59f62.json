@@ -7,15 +7,23 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "minecraft:deep_cold_ocean": "2024-07-25 10:33:39 +0000",
       "minecraft:cold_ocean": "2024-07-25 10:32:11 +0000",
-      "minecraft:frozen_river": "2024-07-24 08:32:21 +0000",
+      "minecraft:beach": "2024-07-26 07:27:04 +0000",
+      "minecraft:old_growth_pine_taiga": "2024-07-26 07:35:16 +0000",
+      "minecraft:dark_forest": "2024-07-26 07:35:25 +0000",
       "minecraft:forest": "2024-07-24 08:53:25 +0000",
       "minecraft:taiga": "2024-07-25 04:48:31 +0000",
       "minecraft:river": "2024-07-24 08:49:01 +0000",
       "minecraft:snowy_plains": "2024-07-24 08:21:27 +0000",
       "minecraft:snowy_taiga": "2024-07-24 08:32:27 +0000",
       "minecraft:dripstone_caves": "2024-07-25 08:36:41 +0000",
+      "minecraft:deep_cold_ocean": "2024-07-25 10:33:39 +0000",
+      "minecraft:old_growth_birch_forest": "2024-07-26 07:39:42 +0000",
+      "minecraft:frozen_river": "2024-07-24 08:32:21 +0000",
+      "minecraft:ocean": "2024-07-26 07:43:33 +0000",
+      "minecraft:swamp": "2024-07-26 08:02:59 +0000",
+      "minecraft:bamboo_jungle": "2024-07-26 08:17:51 +0000",
+      "minecraft:windswept_savanna": "2024-07-26 08:06:26 +0000",
       "minecraft:plains": "2024-07-24 08:47:02 +0000"
     },
     "done": false
@@ -30,15 +38,17 @@
     "criteria": {
       "minecraft:pillager": "2024-07-25 09:19:06 +0000",
       "minecraft:blaze": "2024-07-25 09:50:27 +0000",
-      "minecraft:cave_spider": "2024-07-25 09:07:35 +0000",
       "minecraft:skeleton": "2024-07-24 08:26:46 +0000",
-      "minecraft:piglin": "2024-07-25 09:28:29 +0000",
       "minecraft:phantom": "2024-07-25 09:18:27 +0000",
+      "minecraft:wither_skeleton": "2024-07-25 09:42:01 +0000",
+      "minecraft:bogged": "2024-07-26 08:30:11 +0000",
+      "minecraft:cave_spider": "2024-07-25 09:07:35 +0000",
+      "minecraft:piglin": "2024-07-25 09:28:29 +0000",
       "minecraft:magma_cube": "2024-07-25 09:51:16 +0000",
       "minecraft:spider": "2024-07-24 09:00:45 +0000",
-      "minecraft:wither_skeleton": "2024-07-25 09:42:01 +0000",
       "minecraft:zombie": "2024-07-24 08:34:03 +0000",
-      "minecraft:drowned": "2024-07-24 09:11:18 +0000"
+      "minecraft:drowned": "2024-07-24 09:11:18 +0000",
+      "minecraft:zombie_villager": "2024-07-26 07:17:54 +0000"
     },
     "done": false
   },
@@ -519,13 +529,17 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2024-07-24 09:54:33 +0000",
-      "apple": "2024-07-25 09:59:05 +0000",
-      "cooked_rabbit": "2024-07-25 09:42:07 +0000",
       "cooked_mutton": "2024-07-24 09:02:01 +0000",
+      "sweet_berries": "2024-07-26 07:46:38 +0000",
       "cooked_beef": "2024-07-24 08:46:56 +0000",
       "baked_potato": "2024-07-24 09:31:01 +0000",
-      "cooked_salmon": "2024-07-24 09:16:32 +0000",
+      "porkchop": "2024-07-26 08:43:59 +0000",
       "beetroot": "2024-07-25 09:52:29 +0000",
+      "golden_carrot": "2024-07-26 08:44:29 +0000",
+      "apple": "2024-07-25 09:59:05 +0000",
+      "cooked_rabbit": "2024-07-25 09:42:07 +0000",
+      "cod": "2024-07-26 07:06:37 +0000",
+      "cooked_salmon": "2024-07-24 09:16:32 +0000",
       "carrot": "2024-07-24 08:38:09 +0000"
     },
     "done": false
@@ -2191,6 +2205,319 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2024-07-25 10:33:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-07-26 08:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-07-26 07:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2024-07-26 08:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2024-07-26 08:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-07-26 07:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-07-26 08:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-07-26 08:18:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2024-07-26 07:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-26 08:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/whole_pack": {
+    "criteria": {
+      "minecraft:woods": "2024-07-26 07:07:14 +0000",
+      "minecraft:pale": "2024-07-26 07:19:58 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-26 08:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-07-26 06:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-26 08:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-26 08:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-07-26 08:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-26 08:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:wolf": "2024-07-26 07:28:42 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-26 08:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-07-26 07:56:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-26 08:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-07-26 07:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-26 08:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-07-26 08:44:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-26 08:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-26 08:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-26 08:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_rose_bush": "2024-07-26 07:38:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-26 08:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-07-26 08:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-26 08:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2024-07-26 06:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-07-26 07:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2024-07-26 06:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-07-26 08:29:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2024-07-26 08:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-07-26 08:01:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2024-07-26 06:31:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-26 08:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-07-26 06:56:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-07-26 08:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2024-07-26 08:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-26 08:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-07-26 08:47:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jack_o_lantern": {
+    "criteria": {
+      "has_carved_pumpkin": "2024-07-26 08:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2024-07-26 08:19:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-26 08:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-26 08:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2024-07-26 06:33:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2024-07-26 08:00:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-07-26 07:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-07-26 08:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-07-26 08:17:58 +0000"
     },
     "done": true
   },
