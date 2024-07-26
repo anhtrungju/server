@@ -1,237 +1,147 @@
-[06:02:31] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[06:02:33] [ServerMain/INFO]: Loaded 1290 recipes
-[06:02:33] [ServerMain/INFO]: Loaded 1399 advancements
-[06:02:33] [Server thread/INFO]: Starting minecraft server version 1.21
-[06:02:33] [Server thread/INFO]: Loading properties
-[06:02:33] [Server thread/INFO]: This server is running Paper version 1.21-27-master@76c2f16 (2024-06-22T18:19:36Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[06:02:34] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[06:02:34] [Server thread/INFO]: Using 4 threads for Netty based IO
-[06:02:35] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[14:22:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:22:13] [ServerMain/INFO]: Loaded 1290 recipes
+[14:22:13] [ServerMain/INFO]: Loaded 1399 advancements
+[14:22:13] [Server thread/INFO]: Starting minecraft server version 1.21
+[14:22:13] [Server thread/INFO]: Loading properties
+[14:22:13] [Server thread/INFO]: This server is running Paper version 1.21-27-master@76c2f16 (2024-06-22T18:19:36Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[14:22:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[14:22:14] [Server thread/INFO]: Using 4 threads for Netty based IO
+[14:22:15] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[06:02:35] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[06:02:35] [Server thread/INFO]: Default game type: SURVIVAL
-[06:02:35] [Server thread/INFO]: Generating keypair
-[06:02:35] [Server thread/INFO]: Starting Minecraft server on *:25565
-[06:02:35] [Server thread/INFO]: Using epoll channel type
-[06:02:35] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[06:02:35] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[06:02:36] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.1.5
-[06:02:36] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+106-8b08a8f
-[06:02:36] [Server thread/INFO]: [ChestSort] Loading server plugin ChestSort v14.1.0
-[06:02:36] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[06:02:36] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[06:02:36] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[06:02:36] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[06:02:36] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[06:02:36] [Server thread/INFO]: Preparing level "world"
-[06:02:36] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[06:02:37] [Server thread/INFO]: Time elapsed: 1054 ms
-[06:02:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[06:02:37] [Server thread/INFO]: Time elapsed: 179 ms
-[06:02:37] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[06:02:38] [Server thread/INFO]: Time elapsed: 98 ms
-[06:02:38] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.1.5
-[06:02:39] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
-[06:02:39] [Server thread/INFO]: [AuraSkills] Loaded 126 config options in 55 ms
-[06:02:39] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21! Trying to find NMS support
-[06:02:39] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
-[06:02:39] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
-[06:02:40] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
-[06:02:40] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
-[06:02:41] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+106-8b08a8f
-[06:02:42] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[06:02:42] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[06:02:42] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
-[06:02:42] [Server thread/INFO]: [Essentials] Using locale en
-[06:02:43] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[06:02:43] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[06:02:43] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[06:02:43] [Server thread/INFO]: [ChestSort] Enabling ChestSort v14.1.0
-[06:02:43] [Server thread/INFO]: [ChestSort] Use permissions: true
-[06:02:43] [Server thread/INFO]: [ChestSort] Current sorting method: {category},{itemsFirst},{name},{color},{customName}
-[06:02:43] [Server thread/INFO]: [ChestSort] Allow automatic chest sorting:true
-[06:02:43] [Server thread/INFO]: [ChestSort]   |- Chest sorting enabled by default: false
-[06:02:43] [Server thread/INFO]: [ChestSort]   |- Sort time: close
-[06:02:43] [Server thread/INFO]: [ChestSort] Allow automatic inventory sorting:true
-[06:02:43] [Server thread/INFO]: [ChestSort]   |- Inventory sorting enabled by default: false
-[06:02:43] [Server thread/INFO]: [ChestSort] Auto generate category files: true
-[06:02:43] [Server thread/INFO]: [ChestSort] Allow hotkeys: true
-[06:02:43] [Server thread/INFO]: [ChestSort] Hotkeys enabled by default:
-[06:02:43] [Server thread/INFO]: [ChestSort]   |- Middle-Click: true
-[06:02:43] [Server thread/INFO]: [ChestSort]   |- Shift-Click: true
-[06:02:43] [Server thread/INFO]: [ChestSort]   |- Double-Click: true
-[06:02:43] [Server thread/INFO]: [ChestSort]   |- Shift-Right-Click: true
-[06:02:43] [Server thread/INFO]: [ChestSort] Allow additional hotkeys: true
-[06:02:43] [Server thread/INFO]: [ChestSort] Additional hotkeys enabled by default:
-[06:02:43] [Server thread/INFO]: [ChestSort]   |- Left-Click: false
-[06:02:43] [Server thread/INFO]: [ChestSort]   |- Right-Click: false
-[06:02:43] [Server thread/INFO]: [ChestSort] Check for updates: true
-[06:02:43] [Server thread/INFO]: [ChestSort] Check interval: 4 hours (4.0 seconds)
-[06:02:43] [Server thread/INFO]: [ChestSort] Categories: 900-weapons (6), 905-common-tools (4), 907-other-tools (6), 909-food (33), 910-valuables (47), 920-armor-and-arrows (9), 930-brewing (18), 950-redstone (23), 960-wood (60), 970-stone (38), 980-plants (50), 981-corals (1)
-[06:02:43] [Server thread/INFO]: Running delayed init tasks
-[06:02:43] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
-[06:02:44] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 312 total sources
-[06:02:44] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
-[06:02:44] [Server thread/INFO]: [AuraSkills] Loaded 36 pattern rewards and 0 level rewards
-[06:02:44] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
-[06:02:44] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[06:02:44] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
-[06:02:44] [Server thread/INFO]: Done (10.878s)! For help, type "help"
-[06:02:44] [Server thread/INFO]: Timings Reset
-[06:02:45] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] Unable to check your version! Self-built? Build information: id:'8b08a8f' branch:'2.x' isDev:true.
-[06:03:17] [User Authenticator #0/INFO]: UUID of player an8bithahaha is e9c246cc-bc31-3fef-9a9c-b34d773135e6
-[06:03:19] [Server thread/INFO]: an8bithahaha joined the game
-[06:03:19] [Server thread/INFO]: an8bithahaha[/[0:0:0:0:0:0:0:1%0]:58456] logged in with entity id 25 at ([world]-454.5, 67.0, 252.5)
-[06:06:46] [Server thread/INFO]: an8bithahaha issued server command: /warp quyluaspawn
-[06:06:54] [Server thread/INFO]: an8bithahaha issued server command: /home
-[06:07:09] [User Authenticator #1/INFO]: UUID of player Leviathan is ec4b1c49-dbc4-34eb-9698-579de1e9bc0b
-[06:07:12] [Server thread/INFO]: Leviathan joined the game
-[06:07:12] [Server thread/INFO]: Leviathan[/[0:0:0:0:0:0:0:1%0]:41288] logged in with entity id 1159 at ([world]-447.04805411972325, 63.0, 286.9007867703899)
-[06:07:17] [User Authenticator #1/INFO]: UUID of player Thuandepzai is 74b2d675-f0a6-3994-aa96-4a9881a59f62
-[06:07:19] [Server thread/INFO]: Thuandepzai joined the game
-[06:07:19] [Server thread/INFO]: Thuandepzai[/[0:0:0:0:0:0:0:1%0]:58746] logged in with entity id 1161 at ([world]-456.9118491945314, 64.0, 254.7215882099246)
-[06:07:47] [Server thread/INFO]: Leviathan lost connection: Timed out
-[06:07:47] [Server thread/INFO]: Leviathan left the game
-[06:07:53] [Server thread/INFO]: Thuandepzai lost connection: Timed out
-[06:07:53] [Server thread/INFO]: Thuandepzai left the game
-[06:07:58] [User Authenticator #1/INFO]: UUID of player Thuandepzai is 74b2d675-f0a6-3994-aa96-4a9881a59f62
-[06:08:00] [Server thread/INFO]: Thuandepzai joined the game
-[06:08:00] [Server thread/INFO]: Thuandepzai[/[0:0:0:0:0:0:0:1%0]:41820] logged in with entity id 1259 at ([world]-456.9118491945314, 64.0, 254.7215882099246)
-[06:09:23] [User Authenticator #2/INFO]: UUID of player Leviathan is ec4b1c49-dbc4-34eb-9698-579de1e9bc0b
-[06:09:24] [Server thread/INFO]: Leviathan joined the game
-[06:09:24] [Server thread/INFO]: Leviathan[/[0:0:0:0:0:0:0:1%0]:52846] logged in with entity id 1408 at ([world]-447.04805411972325, 63.0, 286.9007867703899)
-[06:09:58] [Server thread/INFO]: Leviathan lost connection: Timed out
-[06:09:58] [Server thread/INFO]: Leviathan left the game
-[06:10:02] [User Authenticator #2/INFO]: UUID of player Leviathan is ec4b1c49-dbc4-34eb-9698-579de1e9bc0b
-[06:10:04] [Server thread/INFO]: Leviathan joined the game
-[06:10:04] [Server thread/INFO]: Leviathan[/[0:0:0:0:0:0:0:1%0]:41552] logged in with entity id 1495 at ([world]-447.04805411972325, 63.0, 286.9007867703899)
-[06:12:54] [Server thread/INFO]: an8bithahaha issued server command: /skill
-[06:21:20] [Server thread/INFO]: Server Plugins (3):
-[06:21:20] [Server thread/INFO]: Bukkit Plugins:
-[06:21:20] [Server thread/INFO]:  - AuraSkills, ChestSort, Essentials
-[06:24:48] [Server thread/INFO]: Leviathan issued server command: /skill
-[06:30:12] [Server thread/WARN]: Oak Boat (vehicle of Thuandepzai) moved wrongly! 0.8456412768597943
-[06:30:12] [Server thread/WARN]: Oak Boat (vehicle of Thuandepzai) moved wrongly! 0.8554155354956379
-[06:30:12] [Server thread/WARN]: Oak Boat (vehicle of Thuandepzai) moved wrongly! 0.8642123680348277
-[06:30:12] [Server thread/WARN]: Oak Boat (vehicle of Thuandepzai) moved wrongly! 0.872129517110352
-[06:30:13] [Server thread/WARN]: Oak Boat (vehicle of Thuandepzai) moved wrongly! 0.8806512323850484
-[06:30:13] [Server thread/WARN]: Oak Boat (vehicle of Thuandepzai) moved wrongly! 0.8899613722397248
-[06:30:13] [Server thread/WARN]: Oak Boat (vehicle of Thuandepzai) moved wrongly! 0.9001975287908408
-[06:30:13] [Server thread/WARN]: Oak Boat (vehicle of Thuandepzai) moved wrongly! 0.9114586021541413
-[06:32:05] [Server thread/INFO]: Thuandepzai issued server command: /skill
-[06:34:02] [Server thread/INFO]: Leviathan issued server command: /skill
-[06:45:50] [Server thread/INFO]: Leviathan issued server command: /skill
-[06:47:04] [Server thread/INFO]: an8bithahaha issued server command: /skill
-[06:50:40] [Server thread/INFO]: Server Plugins (3):
-[06:50:40] [Server thread/INFO]: Bukkit Plugins:
-[06:50:40] [Server thread/INFO]:  - AuraSkills, ChestSort, Essentials
-[06:53:18] [Server thread/INFO]: Leviathan issued server command: /set home
-[06:53:27] [Server thread/INFO]: Leviathan issued server command: /sethome
-[06:53:27] [Server thread/INFO]: [Essentials] Leviathan was denied access to command.
-[06:53:39] [Server thread/INFO]: Leviathan issued server command: /sethome Lang1
-[06:53:39] [Server thread/INFO]: [Essentials] Leviathan was denied access to command.
-[06:59:39] [Server thread/INFO]: an8bithahaha has made the advancement [Fishy Business]
-[07:02:46] [Server thread/INFO]: Thuandepzai issued server command: /skill
-[07:04:55] [Server thread/INFO]: an8bithahaha issued server command: /skill
-[07:07:14] [Server thread/INFO]: Thuandepzai has made the advancement [Best Friends Forever]
-[07:08:49] [Server thread/INFO]: an8bithahaha issued server command: /tp Thuandepzai an8bithahaha
-[07:10:21] [Server thread/INFO]: an8bithahaha issued server command: /warpinfo
-[07:10:32] [Server thread/INFO]: an8bithahaha issued server command: /pl
-[07:10:39] [Server thread/INFO]: an8bithahaha issued server command: /essentials
-[07:10:56] [Server thread/INFO]: Server Plugins (3):
-[07:10:56] [Server thread/INFO]: Bukkit Plugins:
-[07:10:56] [Server thread/INFO]:  - AuraSkills, ChestSort, Essentials
-[07:12:47] [Server thread/INFO]: an8bithahaha issued server command: /tp Leviathan an8bithahaha
-[07:14:41] [Server thread/INFO]: an8bithahaha issued server command: /whitelist
-[07:14:48] [Server thread/INFO]: an8bithahaha issued server command: /home
-[07:15:19] [Server thread/INFO]: an8bithahaha issued server command: /essentials homes
-[07:20:45] [Server thread/INFO]: an8bithahaha issued server command: /warp quyluaspawn
-[07:22:22] [Server thread/INFO]: Leviathan has made the advancement [We Need to Go Deeper]
-[07:26:30] [Server thread/INFO]: an8bithahaha issued server command: /tp Leviathan an8bithahaha
-[07:26:31] [Server thread/INFO]: Leviathan has made the advancement [A Terrible Fortress]
-[07:28:42] [Server thread/INFO]: Thuandepzai has made the advancement [The Parrots and the Bats]
-[07:32:46] [Server thread/INFO]: an8bithahaha issued server command: /home
-[07:33:02] [Server thread/INFO]: an8bithahaha issued server command: /tp Leviathan an8bithahaha
-[07:34:00] [Server thread/INFO]: Thuandepzai issued server command: /skill
-[07:35:32] [Server thread/INFO]: an8bithahaha issued server command: /tp an8bithahaha Leviathan
-[07:35:46] [Server thread/INFO]: an8bithahaha issued server command: /tp an8bithahaha Thuandepzai
-[07:41:10] [Server thread/INFO]: an8bithahaha issued server command: /tp Thuandepzai Leviathan
-[07:42:06] [Server thread/INFO]: an8bithahaha issued server command: /tp Thuandepzai an8bithahaha
-[07:44:51] [Server thread/INFO]: an8bithahaha issued server command: /setwarp a
-[07:44:56] [Server thread/INFO]: an8bithahaha issued server command: /home
-[07:45:08] [Server thread/INFO]: an8bithahaha issued server command: /tp Thuandepzai an8bithahaha
-[07:45:14] [Server thread/INFO]: an8bithahaha issued server command: /warp a
-[07:45:23] [Server thread/INFO]: an8bithahaha issued server command: /home'
-[07:45:27] [Server thread/INFO]: an8bithahaha issued server command: /home
-[07:48:53] [Server thread/INFO]: Leviathan issued server command: /skill
-[07:53:01] [Server thread/INFO]: an8bithahaha issued server command: /tp an8bithahaha Thuandepzai
-[07:53:44] [Server thread/INFO]: Seed: [-8610443464094235102]
-[07:54:07] [Server thread/INFO]: Villager Villager['Mason'/36444, uuid='3cbe0a54-c1b5-4592-b3bf-099d43d68968', l='ServerLevel[world]', x=-1312.70, y=64.00, z=25.30, cpos=[-83, 1], tl=20907, v=true] died, message: 'Mason was slain by Zombie'
-[07:55:13] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /tp 1024 65 -768
-[07:55:13] [Server thread/INFO]: Error: Player not found.
-[07:55:25] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /tp an8bithahaha 1024 65 -768
-[07:55:25] [Server thread/INFO]: Teleporting...
-[07:56:14] [Server thread/INFO]: an8bithahaha issued server command: /tp Thuandepzai an8bithahaha
-[07:56:14] [Server thread/INFO]: Villager Villager['Villager'/38675, uuid='c978f1ba-c597-4686-a0af-31773bd0da9e', l='ServerLevel[world]', x=1211.28, y=100.56, z=-702.63, cpos=[75, -44], tl=191, v=true] died, message: 'Villager suffocated in a wall'
-[07:57:57] [Server thread/INFO]: an8bithahaha issued server command: /tp Leviathan an8bithahaha
-[07:58:59] [Server thread/INFO]: an8bithahaha issued server command: /tp Thuandepzai an8bithahaha
-[07:59:14] [Server thread/INFO]: an8bithahaha issued server command: /tp Leviathan an8bithahaha
-[08:00:36] [Server thread/INFO]: Thuandepzai has made the advancement [Ol' Betsy]
-[08:01:31] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /tp an8bithahaha 1848 65 -2232
-[08:01:31] [Server thread/INFO]: Teleporting...
-[08:02:49] [Server thread/INFO]: an8bithahaha issued server command: /tp Thuandepzai an8bithahaha
-[08:03:35] [Server thread/INFO]: an8bithahaha issued server command: /tp Leviathan an8bithahaha
-[08:04:01] [Async Chat Thread - #0/INFO]: [Not Secure] <an8bithahaha> 1,945 Z: -2,183
-[08:04:13] [Server thread/INFO]: an8bithahaha issued server command: /tp 2041 ~ -2263
-[08:04:49] [Async Chat Thread - #0/INFO]: [Not Secure] <Thuandepzai> t
-[08:05:54] [Server thread/INFO]: an8bithahaha issued server command: /tp an8bithahaha Thuandepzai
-[08:07:40] [Async Chat Thread - #2/INFO]: [Not Secure] <Thuandepzai> trt
-[08:09:09] [Server thread/INFO]: an8bithahaha issued server command: /tp 1993 ~ -2727
-[08:09:31] [Server thread/INFO]: an8bithahaha issued server command: /tp an8bithahaha Thuandepzai
-[08:11:57] [Async Chat Thread - #4/INFO]: [Not Secure] <an8bithahaha> 1993 ~ -2727
-[08:12:14] [Async Chat Thread - #4/INFO]: [Not Secure] <Thuandepzai> T
-[08:13:22] [Server thread/INFO]: Leviathan has made the advancement [Best Friends Forever]
-[08:17:50] [Server thread/INFO]: an8bithahaha issued server command: /tp Thuandepzai 3160 65 -2344
-[08:19:26] [Server thread/INFO]: an8bithahaha issued server command: /tp an8bithahaha Thuandepzai
-[08:20:23] [Server thread/INFO]: an8bithahaha issued server command: /tp Leviathan an8bithahaha
-[08:21:08] [Server thread/INFO]: an8bithahaha issued server command: /setwarp bamboo
-[08:23:45] [Server thread/INFO]: an8bithahaha issued server command: /skill
-[08:23:55] [Server thread/INFO]: Thuandepzai issued server command: /skill
-[08:24:25] [Server thread/INFO]: an8bithahaha issued server command: /home
-[08:24:46] [Server thread/INFO]: an8bithahaha issued server command: /tp Thuandepzai an8bithahaha
-[08:27:08] [Server thread/INFO]: an8bithahaha issued server command: /tp Thuandepzai an8bithahaha
-[08:28:30] [Server thread/INFO]: an8bithahaha issued server command: /tp Leviathan an8bithahaha
-[08:29:20] [Server thread/INFO]: Thuandepzai has made the advancement [A Seedy Place]
-[08:29:44] [Server thread/INFO]: an8bithahaha issued server command: /tp Thuandepzai 2329 -16 -1847
-[08:29:45] [Server thread/INFO]: Thuandepzai has made the advancement [Minecraft: Trial(s) Edition]
-[08:30:18] [Server thread/INFO]: an8bithahaha issued server command: /tp Thuandepzai an8bithahaha
-[08:36:25] [Server thread/INFO]: an8bithahaha issued server command: /warp bamboo
-[08:37:02] [Server thread/INFO]: an8bithahaha issued server command: /home
-[08:37:24] [Async Chat Thread - #6/INFO]: [Not Secure] <Thuandepzai> ew
-[08:38:55] [Server thread/INFO]: an8bithahaha issued server command: /skill
-[08:39:48] [Server thread/INFO]: Thuandepzai issued server command: /skill
-[08:42:19] [Server thread/INFO]: Leviathan issued server command: /skill
-[08:42:21] [Server thread/INFO]: an8bithahaha issued server command: /skill
-[08:42:39] [Server thread/INFO]: an8bithahaha issued server command: /skill
-[08:45:24] [Server thread/INFO]: Thuandepzai issued server command: /skill
-[08:45:41] [Server thread/INFO]: an8bithahaha issued server command: /skill
-[08:49:49] [Server thread/INFO]: Leviathan issued server command: /skill
-[08:51:54] [Server thread/INFO]: an8bithahaha issued server command: /tp Leviathan an8bithahaha
-[08:52:15] [Server thread/INFO]: Thuandepzai lost connection: Timed out
-[08:52:16] [Server thread/INFO]: Thuandepzai left the game
-[08:53:52] [Server thread/INFO]: Leviathan issued server command: /ski
-[08:53:55] [Server thread/INFO]: Leviathan issued server command: /skill
-[08:54:58] [Server thread/INFO]: an8bithahaha issued server command: /skill
-[08:55:03] [Server thread/INFO]: Leviathan issued server command: /skill
-[08:55:51] [Server thread/INFO]: Server Plugins (3):
-[08:55:51] [Server thread/INFO]: Bukkit Plugins:
-[08:55:51] [Server thread/INFO]:  - AuraSkills, ChestSort, Essentials
-[08:59:12] [Server thread/INFO]: an8bithahaha issued server command: /skill
-[08:59:46] [Server thread/INFO]: an8bithahaha issued server command: /skilltop
-[09:00:56] [Server thread/INFO]: an8bithahaha lost connection: Timed out
-[09:00:56] [Server thread/INFO]: an8bithahaha left the game
-[09:08:22] [Server thread/INFO]: Server Plugins (3):
-[09:08:22] [Server thread/INFO]: Bukkit Plugins:
-[09:08:22] [Server thread/INFO]:  - AuraSkills, ChestSort, Essentials
-[09:08:39] [Server thread/INFO]: Villager Villager['Villager'/55938, uuid='aaea906b-2f0a-4c2a-aa32-2acf6c1e0602', l='ServerLevel[world]', x=-285.70, y=25.00, z=319.30, cpos=[-18, 19], tl=828509, v=true] died, message: 'Villager was slain by Zombie'
+[14:22:15] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[14:22:15] [Server thread/INFO]: Default game type: SURVIVAL
+[14:22:15] [Server thread/INFO]: Generating keypair
+[14:22:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[14:22:15] [Server thread/INFO]: Using epoll channel type
+[14:22:15] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[14:22:15] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[14:22:16] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[14:22:18] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.1.5
+[14:22:18] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+106-8b08a8f
+[14:22:18] [Server thread/INFO]: [ChestSort] Loading server plugin ChestSort v14.1.0
+[14:22:18] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[14:22:18] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[14:22:18] [Server thread/INFO]:         __    
+[14:22:18] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[14:22:18] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[14:22:18] [Server thread/INFO]: 
+[14:22:18] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[14:22:18] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[14:22:19] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[14:22:19] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[14:22:19] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1544ms)
+[14:22:19] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[14:22:19] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[14:22:19] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[14:22:19] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[14:22:19] [Server thread/INFO]: Preparing level "world"
+[14:22:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[14:22:21] [Server thread/INFO]: Time elapsed: 1110 ms
+[14:22:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[14:22:21] [Server thread/INFO]: Time elapsed: 273 ms
+[14:22:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[14:22:22] [Server thread/INFO]: Time elapsed: 196 ms
+[14:22:22] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.1.5
+[14:22:22] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[14:22:23] [Server thread/INFO]: [AuraSkills] Successfully registered hook LuckPerms
+[14:22:23] [Server thread/INFO]: [AuraSkills] Loaded 126 config options in 66 ms
+[14:22:23] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21! Trying to find NMS support
+[14:22:23] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
+[14:22:23] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[14:22:23] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[14:22:24] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[14:22:25] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+106-8b08a8f
+[14:22:26] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[14:22:26] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[14:22:26] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
+[14:22:26] [Server thread/INFO]: [Essentials] Using locale en
+[14:22:27] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[14:22:27] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[14:22:27] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[14:22:27] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[14:22:27] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[14:22:27] [Server thread/INFO]: [ChestSort] Enabling ChestSort v14.1.0
+[14:22:27] [Server thread/INFO]: [ChestSort] Use permissions: true
+[14:22:27] [Server thread/INFO]: [ChestSort] Current sorting method: {category},{itemsFirst},{name},{color},{customName}
+[14:22:27] [Server thread/INFO]: [ChestSort] Allow automatic chest sorting:true
+[14:22:27] [Server thread/INFO]: [ChestSort]   |- Chest sorting enabled by default: false
+[14:22:27] [Server thread/INFO]: [ChestSort]   |- Sort time: close
+[14:22:27] [Server thread/INFO]: [ChestSort] Allow automatic inventory sorting:true
+[14:22:27] [Server thread/INFO]: [ChestSort]   |- Inventory sorting enabled by default: false
+[14:22:27] [Server thread/INFO]: [ChestSort] Auto generate category files: true
+[14:22:27] [Server thread/INFO]: [ChestSort] Allow hotkeys: true
+[14:22:27] [Server thread/INFO]: [ChestSort] Hotkeys enabled by default:
+[14:22:27] [Server thread/INFO]: [ChestSort]   |- Middle-Click: true
+[14:22:27] [Server thread/INFO]: [ChestSort]   |- Shift-Click: true
+[14:22:27] [Server thread/INFO]: [ChestSort]   |- Double-Click: true
+[14:22:27] [Server thread/INFO]: [ChestSort]   |- Shift-Right-Click: true
+[14:22:27] [Server thread/INFO]: [ChestSort] Allow additional hotkeys: true
+[14:22:27] [Server thread/INFO]: [ChestSort] Additional hotkeys enabled by default:
+[14:22:27] [Server thread/INFO]: [ChestSort]   |- Left-Click: false
+[14:22:27] [Server thread/INFO]: [ChestSort]   |- Right-Click: false
+[14:22:27] [Server thread/INFO]: [ChestSort] Check for updates: true
+[14:22:27] [Server thread/INFO]: [ChestSort] Check interval: 4 hours (4.0 seconds)
+[14:22:27] [Server thread/INFO]: [ChestSort] Categories: 900-weapons (6), 905-common-tools (4), 907-other-tools (6), 909-food (33), 910-valuables (47), 920-armor-and-arrows (9), 930-brewing (18), 950-redstone (23), 960-wood (60), 970-stone (38), 980-plants (50), 981-corals (1)
+[14:22:28] [Server thread/INFO]: Running delayed init tasks
+[14:22:28] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
+[14:22:28] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 312 total sources
+[14:22:28] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[14:22:28] [Server thread/INFO]: [AuraSkills] Loaded 36 pattern rewards and 0 level rewards
+[14:22:28] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[14:22:29] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[14:22:29] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
+[14:22:29] [Server thread/INFO]: Done (15.346s)! For help, type "help"
+[14:22:29] [Server thread/INFO]: Timings Reset
+[14:22:30] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] Unable to check your version! Self-built? Build information: id:'8b08a8f' branch:'2.x' isDev:true.
+[14:23:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+luckperm<--[HERE]
+[14:23:35] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /help 
+[14:23:35] [Server thread/INFO]: To view help from the console, type '?'.
+[14:23:42] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/help<--[HERE]
+[14:26:02] [luckperms-command-executor/INFO]: [LP] A group named thuandepzai could not be found.
+[14:29:17] [luckperms-command-executor/INFO]: [LP] tennhom was successfully created.
+[14:30:28] [luckperms-command-executor/INFO]: [LP] Set essentials.home to true for tennhom in context global.
+[14:30:53] [luckperms-command-executor/INFO]: [LP] Set essentials.sethome to true for tennhom in context server=tennhom, server=true, server=true
+lp, server=permission, server=set, server=essentials.delhome, world=group.
+[14:31:13] [luckperms-command-executor/INFO]: [LP] Set essentials.warp to true for tennhom in context global.
+[14:32:11] [luckperms-command-executor/INFO]: [LP] Set ChestSort.sort to true for tennhom in context global.
+[14:32:28] [luckperms-command-executor/INFO]: [LP] A group named nguoidung could not be found.
+[14:32:38] [luckperms-command-executor/INFO]: [LP] tennhom's Permissions:  (page 1 of 1 - 4 entries)
+[14:32:38] [luckperms-command-executor/INFO]: > essentials.sethome (server=essentials.delhome) (server=permission) (server=set) (server=tennhom) (server=true) (server=true
+lp) (world=group)
+[14:32:38] [luckperms-command-executor/INFO]: > ChestSort.sort 
+[14:32:38] [luckperms-command-executor/INFO]: > essentials.home 
+[14:32:38] [luckperms-command-executor/INFO]: > essentials.warp 
+[14:33:46] [luckperms-command-executor/INFO]: [LP] A user for Thuandepzai could not be found.
+[14:33:58] [Server thread/INFO]: Stopping the server
+[14:33:58] [Server thread/INFO]: Stopping server
+[14:33:58] [Server thread/INFO]: [ChestSort] Disabling ChestSort v14.1.0
+[14:33:58] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+106-8b08a8f
+[14:33:58] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.1.5
+[14:33:58] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[14:33:58] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[14:33:58] [Server thread/INFO]: [LuckPerms] Closing storage...
+[14:33:58] [Server thread/INFO]: [LuckPerms] Goodbye!
+[14:33:58] [Server thread/INFO]: Saving players
+[14:33:58] [Server thread/INFO]: Saving worlds
+[14:33:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[14:33:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[14:33:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[14:33:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[14:33:58] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 12 entity chunks, 0 poi chunks in world 'world' in 0.03s
+[14:33:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[14:33:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[14:33:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[14:33:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[14:33:58] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 12 entity chunks, 0 poi chunks in world 'world_nether' in 0.06s
+[14:33:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[14:33:59] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[14:33:59] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[14:33:59] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[14:33:59] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.06s
+[14:33:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[14:33:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[14:33:59] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[14:33:59] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
