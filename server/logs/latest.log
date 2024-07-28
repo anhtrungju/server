@@ -1,640 +1,239 @@
-[18:29:06] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:29:08] [ServerMain/INFO]: Loaded 1290 recipes
-[18:29:08] [ServerMain/INFO]: Loaded 1399 advancements
-[18:29:08] [Server thread/INFO]: Starting minecraft server version 1.21
-[18:29:08] [Server thread/INFO]: Loading properties
-[18:29:08] [Server thread/INFO]: This server is running Paper version 1.21-27-master@76c2f16 (2024-06-22T18:19:36Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[18:29:09] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[18:29:09] [Server thread/INFO]: Using 4 threads for Netty based IO
-[18:29:10] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[12:09:04] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/CraftEnhance-2.5.6.1.jar'...
+[12:09:06] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/CraftEnhance-2.5.6.1.jar' in 1882ms.
+[12:09:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:09:13] [ServerMain/INFO]: Loaded 1290 recipes
+[12:09:13] [ServerMain/INFO]: Loaded 1399 advancements
+[12:09:13] [Server thread/INFO]: Starting minecraft server version 1.21
+[12:09:13] [Server thread/INFO]: Loading properties
+[12:09:14] [Server thread/INFO]: This server is running Paper version 1.21-27-master@76c2f16 (2024-06-22T18:19:36Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[12:09:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:09:14] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:09:15] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[18:29:10] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[18:29:10] [Server thread/INFO]: Default game type: SURVIVAL
-[18:29:10] [Server thread/INFO]: Generating keypair
-[18:29:10] [Server thread/INFO]: Starting Minecraft server on *:25565
-[18:29:10] [Server thread/INFO]: Using epoll channel type
-[18:29:10] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[18:29:10] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[18:29:11] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[18:29:11] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.1.5
-[18:29:11] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+106-8b08a8f
-[18:29:11] [Server thread/INFO]: [ChestSort] Loading server plugin ChestSort v14.1.0
-[18:29:11] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[18:29:11] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[18:29:12] [Server thread/INFO]:         __    
-[18:29:12] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[18:29:12] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[18:29:12] [Server thread/INFO]: 
-[18:29:12] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[18:29:12] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[18:29:12] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[18:29:13] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[18:29:13] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1544ms)
-[18:29:13] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18:29:13] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[18:29:13] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18:29:13] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[18:29:13] [Server thread/INFO]: Preparing level "world"
-[18:29:14] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[18:29:15] [Server thread/INFO]: Time elapsed: 1071 ms
-[18:29:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[18:29:15] [Server thread/INFO]: Time elapsed: 276 ms
-[18:29:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[18:29:15] [Server thread/INFO]: Time elapsed: 131 ms
-[18:29:15] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.1.5
-[18:29:16] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
-[18:29:17] [Server thread/INFO]: [AuraSkills] Successfully registered hook LuckPerms
-[18:29:17] [Server thread/INFO]: [AuraSkills] Loaded 126 config options in 60 ms
-[18:29:17] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21! Trying to find NMS support
-[18:29:17] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
-[18:29:17] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
-[18:29:17] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
-[18:29:17] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
-[18:29:18] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+106-8b08a8f
-[18:29:19] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[18:29:19] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[18:29:20] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
-[18:29:20] [Server thread/INFO]: [Essentials] Using locale en
-[18:29:20] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[18:29:20] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[18:29:20] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[18:29:20] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[18:29:20] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[18:29:20] [Server thread/INFO]: [ChestSort] Enabling ChestSort v14.1.0
-[18:29:21] [Server thread/INFO]: [ChestSort] Use permissions: true
-[18:29:21] [Server thread/INFO]: [ChestSort] Current sorting method: {category},{itemsFirst},{name},{color},{customName}
-[18:29:21] [Server thread/INFO]: [ChestSort] Allow automatic chest sorting:true
-[18:29:21] [Server thread/INFO]: [ChestSort]   |- Chest sorting enabled by default: false
-[18:29:21] [Server thread/INFO]: [ChestSort]   |- Sort time: close
-[18:29:21] [Server thread/INFO]: [ChestSort] Allow automatic inventory sorting:true
-[18:29:21] [Server thread/INFO]: [ChestSort]   |- Inventory sorting enabled by default: false
-[18:29:21] [Server thread/INFO]: [ChestSort] Auto generate category files: true
-[18:29:21] [Server thread/INFO]: [ChestSort] Allow hotkeys: true
-[18:29:21] [Server thread/INFO]: [ChestSort] Hotkeys enabled by default:
-[18:29:21] [Server thread/INFO]: [ChestSort]   |- Middle-Click: true
-[18:29:21] [Server thread/INFO]: [ChestSort]   |- Shift-Click: true
-[18:29:21] [Server thread/INFO]: [ChestSort]   |- Double-Click: true
-[18:29:21] [Server thread/INFO]: [ChestSort]   |- Shift-Right-Click: true
-[18:29:21] [Server thread/INFO]: [ChestSort] Allow additional hotkeys: true
-[18:29:21] [Server thread/INFO]: [ChestSort] Additional hotkeys enabled by default:
-[18:29:21] [Server thread/INFO]: [ChestSort]   |- Left-Click: false
-[18:29:21] [Server thread/INFO]: [ChestSort]   |- Right-Click: false
-[18:29:21] [Server thread/INFO]: [ChestSort] Check for updates: true
-[18:29:21] [Server thread/INFO]: [ChestSort] Check interval: 4 hours (4.0 seconds)
-[18:29:21] [Server thread/INFO]: [ChestSort] Categories: 900-weapons (6), 905-common-tools (4), 907-other-tools (6), 909-food (33), 910-valuables (47), 920-armor-and-arrows (9), 930-brewing (18), 950-redstone (23), 960-wood (60), 970-stone (38), 980-plants (50), 981-corals (1)
-[18:29:21] [Server thread/INFO]: Running delayed init tasks
-[18:29:21] [Craft Scheduler Thread - 3 - Essentials/INFO]: [Essentials] Fetching version information...
-[18:29:21] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 312 total sources
-[18:29:21] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
-[18:29:21] [Server thread/INFO]: [AuraSkills] Loaded 36 pattern rewards and 0 level rewards
-[18:29:22] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
-[18:29:22] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[18:29:22] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
-[18:29:22] [Server thread/INFO]: Done (13.637s)! For help, type "help"
-[18:29:22] [Server thread/INFO]: Timings Reset
-[18:29:23] [Craft Scheduler Thread - 3 - Essentials/WARN]: [Essentials] Unable to check your version! Self-built? Build information: id:'8b08a8f' branch:'2.x' isDev:true.
-[18:30:53] [User Authenticator #0/INFO]: UUID of player Leviathan is ec4b1c49-dbc4-34eb-9698-579de1e9bc0b
-[18:30:56] [Server thread/INFO]: Leviathan joined the game
-[18:30:56] [Server thread/INFO]: Leviathan[/[0:0:0:0:0:0:0:1%0]:54654] logged in with entity id 40 at ([world]-323.6991875960361, 63.9375, 296.4116983926536)
-[18:31:44] [luckperms-command-executor/INFO]: [LP] A group named nguoidung could not be found.
-[18:31:52] [luckperms-command-executor/INFO]: [LP] > Group Info: tennhom
-[18:31:52] [luckperms-command-executor/INFO]: [LP] - Display Name: tennhom
-[18:31:52] [luckperms-command-executor/INFO]: [LP] - Weight: None
-[18:31:52] [luckperms-command-executor/INFO]: [LP] - Contextual Data: (mode: server)
-[18:31:52] [luckperms-command-executor/INFO]: [LP]     Prefix: None
-[18:31:52] [luckperms-command-executor/INFO]: [LP]     Suffix: None
-[18:31:52] [luckperms-command-executor/INFO]: [LP]     Meta: None
-[18:32:37] [luckperms-command-executor/INFO]: [LP] leviathan now inherits permissions from tennhom in context global.
-[18:32:50] [luckperms-command-executor/INFO]: [LP] Running LuckPerms v5.4.131.
-[18:32:50] [luckperms-command-executor/INFO]: > /lp user <user>
-[18:32:50] [luckperms-command-executor/INFO]: > /lp group <group>
-[18:32:50] [luckperms-command-executor/INFO]: > /lp track <track>
-[18:32:50] [luckperms-command-executor/INFO]: > /lp log
-[18:32:50] [luckperms-command-executor/INFO]: > /lp sync
-[18:32:50] [luckperms-command-executor/INFO]: > /lp info
-[18:32:50] [luckperms-command-executor/INFO]: > /lp editor [type]
-[18:32:50] [luckperms-command-executor/INFO]: > /lp verbose <on|record|off|upload> [filter]
-[18:32:50] [luckperms-command-executor/INFO]: > /lp tree [scope] [player]
-[18:32:50] [luckperms-command-executor/INFO]: > /lp search <permission>
-[18:32:50] [luckperms-command-executor/INFO]: > /lp networksync
-[18:32:50] [luckperms-command-executor/INFO]: > /lp import <file>
-[18:32:50] [luckperms-command-executor/INFO]: > /lp export <file>
-[18:32:50] [luckperms-command-executor/INFO]: > /lp reloadconfig
-[18:32:50] [luckperms-command-executor/INFO]: > /lp bulkupdate
-[18:32:50] [luckperms-command-executor/INFO]: > /lp translations
-[18:32:50] [luckperms-command-executor/INFO]: > /lp creategroup <group>
-[18:32:50] [luckperms-command-executor/INFO]: > /lp deletegroup <group>
-[18:32:50] [luckperms-command-executor/INFO]: > /lp listgroups
-[18:32:50] [luckperms-command-executor/INFO]: > /lp createtrack <track>
-[18:32:50] [luckperms-command-executor/INFO]: > /lp deletetrack <track>
-[18:32:50] [luckperms-command-executor/INFO]: > /lp listtracks
-[18:33:01] [luckperms-command-executor/INFO]: [LP] The configuration file was reloaded. (some options will only apply after the server has restarted)
-[18:33:20] [Server thread/INFO]: Leviathan issued server command: /home
-[18:34:01] [luckperms-command-executor/INFO]: [LP] Running LuckPerms v5.4.131 by Luck.
-[18:34:01] [luckperms-command-executor/INFO]: [LP] -  Platform: Bukkit
-[18:34:01] [luckperms-command-executor/INFO]: [LP] -  Server Brand: Paper
-[18:34:01] [luckperms-command-executor/INFO]: [LP] -  Server Version:
-[18:34:01] [luckperms-command-executor/INFO]: [LP]      1.21-27-76c2f16 (MC: 1.21) - 1.21-R0.1-SNAPSHOT
-[18:34:01] [luckperms-command-executor/INFO]: [LP] -  Storage:
-[18:34:01] [luckperms-command-executor/INFO]: [LP]      Type: H2
-[18:34:01] [luckperms-command-executor/INFO]: [LP]      File Size: 0.04MB
-[18:34:01] [luckperms-command-executor/INFO]: [LP] -  Extensions:
-[18:34:01] [luckperms-command-executor/INFO]: [LP]      None
-[18:34:01] [luckperms-command-executor/INFO]: [LP] -  Messaging: None
-[18:34:01] [luckperms-command-executor/INFO]: [LP] -  Instance:
-[18:34:01] [luckperms-command-executor/INFO]: [LP]      Static contexts: None
-[18:34:01] [luckperms-command-executor/INFO]: [LP]      Online Players: 1 (1 unique)
-[18:34:01] [luckperms-command-executor/INFO]: [LP]      Uptime: 4m 49s
-[18:34:01] [luckperms-command-executor/INFO]: [LP]      Local Data: 1 users, 2 groups, 0 tracks
-[18:35:34] [luckperms-command-executor/INFO]: [LP] Searching for available translations, please wait...
-[18:35:34] [luckperms-command-executor/INFO]: [LP] Installed Translations: ar, ar-SA, bg, bg-BG, cs, cs-CZ, da, da-DK, de, de-DE, el, el-GR, en-PT, es, es-ES, fa, fa-IR, fi, fi-FI, fil, fil-PH, fr, fr-FR, he, he-IL, hi, hi-IN, hu, hu-HU, id, id-ID, it, it-IT, ja, ja-JP, ka, ka-GE, ko, ko-KR, nl, nl-NL, no, no-NO, pl, pl-PL, pt, pt-BR, ro, ro-RO, ru, ru-RU, sk, sk-SK, sr, sr-CS, sv, sv-SE, tr, tr-TR, uk, uk-UA, vi, vi-VN, zh, zh-CN, zh-TW
-[18:35:34] [luckperms-command-executor/INFO]: [LP] Available Translations:
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - ar-SA (العربية) - 100% translated - by KYOCUTI, Sandwicha, M1shal, Happy7, Saradumb
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - bg-BG (български) - 86% translated - by MrIvanPlays, Pukejoy_, Happy7, dimitar.bogdanov
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - cs-CZ (čeština) - 100% translated - by Fjuro, martijnpu, Happy7
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - da-DK (dansk) - 100% translated - by martijnpu, Laukage, Fifa12fcb, REMOVED_USER, catsnote, Happy7, MADSOLADEN
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - de-DE (Deutsch) - 100% translated - by martijnpu, lusu007, NiclAss, Pistonmaster, aerulion, Tobi406, Happy7, Andre601
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - el-GR (Ελληνικά) - 100% translated - by nikos291070, Georgak, Happy7
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - en-PT (Pirate) - 100% translated - by martijnpu, Unix0, Pistonmaster, Laarryy, Happy7, LoJoSho, BomBardyGamer, Pederva
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - es-ES (español) - 100% translated - by emilyy, Unix0, Juanca436, MisticSun, Happy7
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - fa-IR (فارسی) - 9% translated - by Happy7, henterpriser, BobbyZeeto
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - fi-FI (suomi) - 57% translated - by korho, PlayerXI, pataruutu, Happy7, 3peruna
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - fil-PH (Filipino) - 100% translated - by KYOCUTI, Happy7
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - fr-FR (français) - 100% translated - by martijnpu, MrMicky, Poulette, volcanofr, Happy7, ElBananaa, Jojotes
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - he-IL (עברית) - 100% translated - by thefourCraft, Adrician, rishon, Happy7, Plenguin, Fitik
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - hi-IN (हिन्दी) - 26% translated - by AadiMone, Happy7
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - hu-HU (magyar) - 100% translated - by EpicDarks, grossrobert0118, Zsomi5, FabricSoftener, Happy7, davie04, mrdeadi02
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - id-ID (Indonesia) - 88% translated - by kill3rbyte, Steliga, Jiternos, shmzo3467, Happy7
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - it-IT (italiano) - 100% translated - by Peppe-73, leonardo_dgs, Happy7, Herbie_23, Manfry
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - ja-JP (日本語) - 100% translated - by Siroshun09, Happy7, LazyGon, cosmos223
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - ka-GE (ქართული) - 15% translated - by Gr1ZzLy, longevity.gilmore, Happy7
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - ko-KR (한국어) - 100% translated - by remsomets, hoehoetvhs, Mirnyang, HURDOO, Happy7, nownallo
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - nl-NL (Nederlands) - 100% translated - by martijnpu, Unix0, omit01, xpple, Thrasilias, Happy7, HvPanda
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - no-NO (norsk) - 100% translated - by Baktus_79, odd-erik, Happy7, Pederva
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - pl-PL (polski) - 100% translated - by YouHaveTrouble, szumielxd, koloksk, Happy7, Czapla, CrazyWorldPL, Michall_, xosnikdanych, zrdzn, xR4Z3R, KebabXL
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - pt-BR (português) - 100% translated - by martijnpu, Laarryy, MisticSun, Luiz_Fer245, felipecardosoruff, oldShimaah, Happy7, Pryzinho, emanuelfnc, RPGMais, Peng1104
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - ro-RO (română) - 54% translated - by nicuch100, doublenico69, iGabyTM, Happy7, Edward205, Octy
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - ru-RU (русский) - 100% translated - by Feniksovich, martijnpu, thefourCraft, gigabit-, maksamek, Mr.Zomka, Ivan8or, saetgar, nothendev, Fitik
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - sk-SK (slovenčina) - 22% translated - by KYOCUTI, adr3ez, brutalalexyt, Happy7, SouDeir, GGGEDR
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - sr-CS (српски) - 78% translated - by Crepesman, Konfix, markobog, Happy7, Drekec
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - sv-SE (svenska) - 100% translated - by KYOCUTI, tummy, Happy7, VSwede, qinakk, ant0n742, Conclure
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - tr-TR (Türkçe) - 100% translated - by martijnpu, Voejux, REMOVED_USER, KeremWho, byfurkan, Deliable, Cazcez
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - uk-UA (українська) - 100% translated - by Astragor, moues, Happy7, gigabit-
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - vi-VN (Tiếng Việt) - 100% translated - by WickyPlays, Deliable, Happy7
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - zh-CN (简体中文) - 100% translated - by eason329, martijnpu, myunco, Asiaria, _Beoo, haoteng, ahdg, Happy7, WhiteGiveKing, FrankieZ
-[18:35:34] [luckperms-command-executor/INFO]: [LP] - zh-TW (繁體中文) - 100% translated - by eason329, martijnpu, flandretw, haoteng, Happy7, notlin4, mrdiploben
-[18:35:34] [luckperms-command-executor/INFO]: [LP] 
-[18:35:34] [luckperms-command-executor/INFO]: [LP] Use /lp translations install to download and install up-to-date versions of these translations provided by the community.
-[18:35:34] [luckperms-command-executor/INFO]: [LP] Please note that this will override any changes you've made for these languages.
-[18:36:21] [Server thread/INFO]: Leviathan issued server command: /warps A
-[18:36:33] [Server thread/INFO]: Leviathan issued server command: /homes
-[18:37:20] [User Authenticator #1/INFO]: UUID of player an8bithahaha is e9c246cc-bc31-3fef-9a9c-b34d773135e6
-[18:37:22] [Server thread/INFO]: an8bithahaha joined the game
-[18:37:22] [Server thread/INFO]: an8bithahaha[/[0:0:0:0:0:0:0:1%0]:41976] logged in with entity id 1524 at ([world]-453.30000001192093, 64.0, 254.93388298361722)
-[18:37:32] [Server thread/INFO]: an8bithahaha issued server command: /sort
-[18:38:01] [Server thread/INFO]: an8bithahaha issued server command: /warpinfo
-[18:38:12] [Server thread/INFO]: an8bithahaha issued server command: /warps
-[18:38:37] [User Authenticator #2/INFO]: UUID of player Thuandepzai is 74b2d675-f0a6-3994-aa96-4a9881a59f62
-[18:38:39] [Server thread/INFO]: Thuandepzai joined the game
-[18:38:39] [Server thread/INFO]: Thuandepzai[/[0:0:0:0:0:0:0:1%0]:40318] logged in with entity id 1653 at ([world]-333.7584112037044, 66.0, 303.2574397367516)
-[18:39:34] [Async Chat Thread - #0/INFO]: [Not Secure] <an8bithahaha> lp user thuandepzai parent add tennhom
-[18:39:42] [Server thread/INFO]: an8bithahaha issued server command: /lp user thuandepzai parent add tennhom
-[18:39:42] [luckperms-command-executor/INFO]: [LP] LOG > (an8bithahaha) [U] (thuandepzai)
-[18:39:42] [luckperms-command-executor/INFO]: [LP] LOG > parent add tennhom
-[18:40:09] [Server thread/INFO]: Thuandepzai issued server command: /warps
-[18:40:57] [Server thread/INFO]: an8bithahaha issued server command: /lp group nguoidung permission set essentials.delhome true
-[18:41:07] [Server thread/INFO]: an8bithahaha issued server command: /lp group tennhom permission set essentials.delhome true
-[18:41:07] [luckperms-command-executor/INFO]: [LP] LOG > (an8bithahaha) [G] (tennhom)
-[18:41:07] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.delhome true
-[18:41:28] [Server thread/INFO]: an8bithahaha issued server command: /lp group tennhom permission set essentials.warpinfo true
-[18:41:28] [luckperms-command-executor/INFO]: [LP] LOG > (an8bithahaha) [G] (tennhom)
-[18:41:28] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.warpinfo true
-[18:42:19] [Server thread/INFO]: an8bithahaha issued server command: /lp group tennhom permission set essentials.a true
-[18:42:19] [luckperms-command-executor/INFO]: [LP] LOG > (an8bithahaha) [G] (tennhom)
-[18:42:19] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.a true
-[18:42:30] [Server thread/INFO]: an8bithahaha issued server command: /lp group tennhom permission set essentials.afk true
-[18:42:30] [luckperms-command-executor/INFO]: [LP] LOG > (an8bithahaha) [G] (tennhom)
-[18:42:30] [luckperms-command-executor/INFO]: [LP] LOG > permission set essentials.afk true
-[18:42:53] [Server thread/INFO]: an8bithahaha issued server command: /lp group tennhom permission set chestsort.automatic true
-[18:42:53] [luckperms-command-executor/INFO]: [LP] LOG > (an8bithahaha) [G] (tennhom)
-[18:42:53] [luckperms-command-executor/INFO]: [LP] LOG > permission set chestsort.automatic true
-[18:43:06] [Server thread/INFO]: an8bithahaha issued server command: /lp group tennhom permission set chestsort.use true
-[18:43:06] [luckperms-command-executor/INFO]: [LP] LOG > (an8bithahaha) [G] (tennhom)
-[18:43:06] [luckperms-command-executor/INFO]: [LP] LOG > permission set chestsort.use true
-[18:43:22] [Server thread/INFO]: an8bithahaha issued server command: /lp group tennhom permission set chestsort. true
-[18:43:22] [luckperms-command-executor/INFO]: [LP] LOG > (an8bithahaha) [G] (tennhom)
-[18:43:22] [luckperms-command-executor/INFO]: [LP] LOG > permission set chestsort. true
-[18:43:30] [Server thread/INFO]: an8bithahaha issued server command: /lp group tennhom permission set chestsort.hotkey true
-[18:43:30] [luckperms-command-executor/INFO]: [LP] LOG > (an8bithahaha) [G] (tennhom)
-[18:43:30] [luckperms-command-executor/INFO]: [LP] LOG > permission set chestsort.hotkey true
-[18:43:42] [Server thread/INFO]: an8bithahaha issued server command: /lp group tennhom permission set chestsort. true
-[18:43:51] [Server thread/INFO]: an8bithahaha issued server command: /lp group tennhom permission set chestsort.reload true
-[18:43:51] [luckperms-command-executor/INFO]: [LP] LOG > (an8bithahaha) [G] (tennhom)
-[18:43:51] [luckperms-command-executor/INFO]: [LP] LOG > permission set chestsort.reload true
-[18:44:26] [Server thread/INFO]: an8bithahaha issued server command: /lp group tennhom permission set chestsort.resetplayersettings true
-[18:44:26] [luckperms-command-executor/INFO]: [LP] LOG > (an8bithahaha) [G] (tennhom)
-[18:44:26] [luckperms-command-executor/INFO]: [LP] LOG > permission set chestsort.resetplayersettings true
-[18:45:15] [Server thread/INFO]: an8bithahaha issued server command: /lp reloadconfig
-[18:45:30] [Server thread/INFO]: an8bithahaha issued server command: /chestsort
-[18:46:04] [Async Chat Thread - #1/INFO]: [Not Secure] <Thuandepzai> e
-[18:46:09] [Async Chat Thread - #1/INFO]: [Not Secure] <Thuandepzai> www
-[18:46:35] [Server thread/INFO]: Leviathan issued server command: /homes
-[18:53:10] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/help<--[HERE]
-[18:53:13] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /help 
-[18:53:13] [Server thread/INFO]: To view help from the console, type '?'.
-[18:53:16] [Server thread/INFO]: --------- Help: Index ---------------------------
-[18:53:16] [Server thread/INFO]: Use /help [n] to get page n of help.
-[18:53:16] [Server thread/INFO]: Aliases: Lists command aliases
-[18:53:16] [Server thread/INFO]: AuraSkills: All commands for AuraSkills
-[18:53:16] [Server thread/INFO]: Bukkit: All commands for Bukkit
-[18:53:16] [Server thread/INFO]: ChestSort: All commands for ChestSort
-[18:53:16] [Server thread/INFO]: Essentials: All commands for Essentials
-[18:53:16] [Server thread/INFO]: LuckPerms: All commands for LuckPerms
-[18:53:16] [Server thread/INFO]: Minecraft: All commands for Minecraft
-[18:53:16] [Server thread/INFO]: /abtoggle: Toggle your own action bar
-[18:53:16] [Server thread/INFO]: /advancement: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /afk: Marks you as away-from-keyboard.
-[18:53:16] [Server thread/INFO]: /agility: 
-[18:53:16] [Server thread/INFO]: /alchemy: 
-[18:53:16] [Server thread/INFO]: /antioch: A little surprise for operators.
-[18:53:16] [Server thread/INFO]: /anvil: Opens up an anvil.
-[18:53:16] [Server thread/INFO]: /archery: 
-[18:53:16] [Server thread/INFO]: /attribute: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /back: Teleports you to your location prior to tp/spawn/warp.
-[18:53:16] [Server thread/INFO]: /backup: Runs the backup if configured.
-[18:53:16] [Server thread/INFO]: /balance: States the current balance of a player.
-[18:53:16] [Server thread/INFO]: /balancetop: Gets the top balance values.
-[18:53:16] [Server thread/INFO]: /ban: Bans a player.
-[18:53:16] [Server thread/INFO]: /ban-ip: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /banip: Bans an IP address.
-[18:53:16] [Server thread/INFO]: /banlist: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /beezooka: Throw an exploding bee at your opponent.
-[18:53:16] [Server thread/INFO]: /bigtree: Spawn a big tree where you are looking.
-[18:53:16] [Server thread/INFO]: /book: Allows reopening and editing of sealed books.
-[18:53:16] [Server thread/INFO]: /bossbar: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /bottom: Teleport to the lowest block at your current position.
-[18:53:16] [Server thread/INFO]: /break: Breaks the block you are looking at.
-[18:53:16] [Server thread/INFO]: /broadcast: Broadcasts a message to the entire server.
-[18:53:16] [Server thread/INFO]: /broadcastworld: Broadcasts a message to a world.
-[18:53:16] [Server thread/INFO]: /bukkit:help: Shows the help menu
-[18:53:16] [Server thread/INFO]: /burn: Set a player on fire.
-[18:53:16] [Server thread/INFO]: /callback: ClickEvent callback
-[18:53:16] [Server thread/INFO]: /cartographytable: Opens up a cartography table.
-[18:53:16] [Server thread/INFO]: /clearinventory: Clear all items in your inventory.
-[18:53:16] [Server thread/INFO]: /clearinventoryconfirmtoggle: Toggles whether you are prompted to confirm inventory clears.
-[18:53:16] [Server thread/INFO]: /clone: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /compass: Describes your current bearing.
-[18:53:16] [Server thread/INFO]: /condense: Condenses items into a more compact blocks.
-[18:53:16] [Server thread/INFO]: /createkit: Create a kit in game!
-[18:53:16] [Server thread/INFO]: /customtext: Allows you to create custom text commands.
-[18:53:16] [Server thread/INFO]: /damage: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /data: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /datapack: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /debug: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /defaultgamemode: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /defense: 
-[18:53:16] [Server thread/INFO]: /delhome: Removes a home.
-[18:53:16] [Server thread/INFO]: /deljail: Removes a jail.
-[18:53:16] [Server thread/INFO]: /delkit: Deletes the specified kit.
-[18:53:16] [Server thread/INFO]: /delwarp: Deletes the specified warp.
-[18:53:16] [Server thread/INFO]: /deop: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /depth: States current depth, relative to sea level.
-[18:53:16] [Server thread/INFO]: /difficulty: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /disposal: Opens a portable disposal menu.
-[18:53:16] [Server thread/INFO]: /eco: Manages the server economy.
-[18:53:16] [Server thread/INFO]: /editsign: Edits a sign in the world.
-[18:53:16] [Server thread/INFO]: /effect: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /enchant: Enchants the item the user is holding.
-[18:53:16] [Server thread/INFO]: /enchanting: 
-[18:53:16] [Server thread/INFO]: /enderchest: Lets you see inside an enderchest.
-[18:53:16] [Server thread/INFO]: /essentials: Reloads essentials.
-[18:53:16] [Server thread/INFO]: /excavation: 
-[18:53:16] [Server thread/INFO]: /execute: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /exp: Give, set, reset, or look at a players experience.
-[18:53:16] [Server thread/INFO]: /experience: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /ext: Extinguish players.
-[18:53:16] [Server thread/INFO]: /farming: 
-[18:53:16] [Server thread/INFO]: /feed: Satisfy the hunger.
-[18:53:16] [Server thread/INFO]: /fighting: 
-[18:53:16] [Server thread/INFO]: /fill: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /fillbiome: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /fireball: Throw a fireball or other assorted projectiles.
-[18:53:16] [Server thread/INFO]: /firework: Allows you to modify a stack of fireworks.
-[18:53:16] [Server thread/INFO]: /fishing: 
-[18:53:16] [Server thread/INFO]: /fly: Take off, and soar!
-[18:53:16] [Server thread/INFO]: /foraging: 
-[18:53:16] [Server thread/INFO]: /forceload: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /function: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /gamemode: Change player gamemode.
-[18:53:16] [Server thread/INFO]: /gamerule: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /gc: Reports memory, uptime and tick info.
-[18:53:16] [Server thread/INFO]: /getpos: Get your current coordinates or those of a player.
-[18:53:16] [Server thread/INFO]: /give: Give a player an item.
-[18:53:16] [Server thread/INFO]: /god: Enables your godly powers.
-[18:53:16] [Server thread/INFO]: /grindstone: Opens up a grindstone.
-[18:53:16] [Server thread/INFO]: /hat: Get some cool new headgear.
-[18:53:16] [Server thread/INFO]: /heal: Heals you or the given player.
-[18:53:16] [Server thread/INFO]: /help: Views a list of available commands.
-[18:53:16] [Server thread/INFO]: /helpop: Message online admins.
-[18:53:16] [Server thread/INFO]: /home: Teleport to your home.
-[18:53:16] [Server thread/INFO]: /ice: Cools a player off.
-[18:53:16] [Server thread/INFO]: /ignore: Ignore or unignore other players.
-[18:53:16] [Server thread/INFO]: /info: Shows information set by the server owner.
-[18:53:16] [Server thread/INFO]: /invsee: See the inventory of other players.
-[18:53:16] [Server thread/INFO]: /isort: Toggle automatic inventory sorting or sorts the player's inventory.
-[18:53:16] [Server thread/INFO]: /item: Spawn an item.
-[18:53:16] [Server thread/INFO]: /itemdb: Searches for an item.
-[18:53:16] [Server thread/INFO]: /itemlore: Edit the lore of an item.
-[18:53:16] [Server thread/INFO]: /itemname: Names an item.
-[18:53:16] [Server thread/INFO]: /jails: List all jails.
-[18:53:16] [Server thread/INFO]: /jfr: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /jump: Jumps to the nearest block in the line of sight.
-[18:53:16] [Server thread/INFO]: /kick: Kicks a specified player with a reason.
-[18:53:16] [Server thread/INFO]: /kickall: Kicks all players off the server except the issuer.
-[18:53:16] [Server thread/INFO]: /kill: Kills specified player.
-[18:53:16] [Server thread/INFO]: /kit: Obtains the specified kit or views all available kits.
-[18:53:16] [Server thread/INFO]: /kitreset: Resets the cooldown on the specified kit.
-[18:53:16] [Server thread/INFO]: /kittycannon: Throw an exploding kitten at your opponent.
-[18:53:16] [Server thread/INFO]: /lightning: The power of Thor. Strike at cursor or player.
-[18:53:16] [Server thread/INFO]: /list: List all online players.
-[18:53:16] [Server thread/INFO]: /locate: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /loom: Opens up a loom.
-[18:53:16] [Server thread/INFO]: /loot: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /luckperms: Manage permissions
-[18:53:16] [Server thread/INFO]: /mail: Manages inter-player, intra-server mail.
-[18:53:16] [Server thread/INFO]: /mana: Display your or another player's current and max mana
-[18:53:16] [Server thread/INFO]: /me: Describes an action in the context of the player.
-[18:53:16] [Server thread/INFO]: /minecraft:advancement: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:attribute: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:ban: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:ban-ip: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:banlist: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:bossbar: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:clear: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:clone: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:damage: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:data: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:datapack: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:debug: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:defaultgamemode: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:deop: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:difficulty: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:effect: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:enchant: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:execute: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:experience: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:fill: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:fillbiome: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:forceload: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:function: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:gamemode: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:gamerule: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:give: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:help: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:item: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:jfr: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:kick: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:kill: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:list: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:locate: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:loot: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:me: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:msg: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:op: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:pardon: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:pardon-ip: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:particle: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:perf: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:place: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:playsound: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:random: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:recipe: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:reload: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:return: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:ride: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:save-all: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:save-off: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:save-on: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:say: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:schedule: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:scoreboard: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:seed: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:setblock: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:setidletimeout: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:setworldspawn: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:spawnpoint: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:spectate: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:spreadplayers: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:stop: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:stopsound: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:summon: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:tag: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:team: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:teammsg: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:teleport: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:tell: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:tellraw: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:tick: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:time: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:title: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:tm: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:tp: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:transfer: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:trigger: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:w: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:weather: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:whitelist: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:worldborder: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /minecraft:xp: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /mining: 
-[18:53:16] [Server thread/INFO]: /more: Fills the item stack in hand to specified amount, or to maximum size if none is specified.
-[18:53:16] [Server thread/INFO]: /motd: Views the Message Of The Day.
-[18:53:16] [Server thread/INFO]: /msg: Sends a private message to the specified player.
-[18:53:16] [Server thread/INFO]: /msgtoggle: Blocks receiving all private messages.
-[18:53:16] [Server thread/INFO]: /mspt: View server tick times
-[18:53:16] [Server thread/INFO]: /mute: Mutes or unmutes a player.
-[18:53:16] [Server thread/INFO]: /near: Lists the players near by or around a player.
-[18:53:16] [Server thread/INFO]: /nick: Change your nickname or that of another player.
-[18:53:16] [Server thread/INFO]: /nuke: May death rain upon them.
-[18:53:16] [Server thread/INFO]: /op: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /paper: Paper related commands
-[18:53:16] [Server thread/INFO]: /pardon-ip: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /particle: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /pay: Pays another player from your balance.
-[18:53:16] [Server thread/INFO]: /payconfirmtoggle: Toggles whether you are prompted to confirm payments.
-[18:53:16] [Server thread/INFO]: /paytoggle: Toggles whether you are accepting payments.
-[18:53:16] [Server thread/INFO]: /perf: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /ping: Pong!
-[18:53:16] [Server thread/INFO]: /place: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /playsound: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /playtime: Shows a player's time played in game
-[18:53:16] [Server thread/INFO]: /plugins: Gets a list of plugins running on the server
-[18:53:16] [Server thread/INFO]: /potion: Adds custom potion effects to a potion.
-[18:53:16] [Server thread/INFO]: /powertool: Assigns a command to the item in hand.
-[18:53:16] [Server thread/INFO]: /powertooltoggle: Enables or disables all current powertools.
-[18:53:16] [Server thread/INFO]: /ptime: Adjust player's client time. Add @ prefix to fix.
-[18:53:16] [Server thread/INFO]: /pweather: Adjust a player's weather
-[18:53:16] [Server thread/INFO]: /r: Quickly reply to the last player to message you.
-[18:53:16] [Server thread/INFO]: /random: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /realname: Displays the username of a user based on nick.
-[18:53:16] [Server thread/INFO]: /recipe: Displays how to craft items.
-[18:53:16] [Server thread/INFO]: /reload: Reloads the server configuration and plugins
-[18:53:16] [Server thread/INFO]: /remove: Removes entities in your world.
-[18:53:16] [Server thread/INFO]: /renamehome: Renames a home.
-[18:53:16] [Server thread/INFO]: /repair: Repairs the durability of one or all items.
-[18:53:16] [Server thread/INFO]: /rest: Rests you or the given player.
-[18:53:16] [Server thread/INFO]: /restart: Restarts the server
-[18:53:16] [Server thread/INFO]: /ride: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /rtoggle: Change whether the recipient of the reply is last recipient or last sender
-[18:53:16] [Server thread/INFO]: /rules: Views the server rules.
-[18:53:16] [Server thread/INFO]: /save-all: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /save-off: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /save-on: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /say: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /schedule: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /scoreboard: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /seed: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /seen: Shows the last logout time of a player.
-[18:53:16] [Server thread/INFO]: /sell: Sells the item currently in your hand.
-[18:53:16] [Server thread/INFO]: /setblock: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /sethome: Set your home to your current location.
-[18:53:16] [Server thread/INFO]: /setidletimeout: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /setjail: Creates a jail where you specified named [jailname].
-[18:53:16] [Server thread/INFO]: /settpr: Set the random teleport location and parameters.
-[18:53:16] [Server thread/INFO]: /setwarp: Creates a new warp.
-[18:53:16] [Server thread/INFO]: /setworldspawn: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /setworth: Set the sell value of an item.
-[18:53:16] [Server thread/INFO]: /showkit: Show contents of a kit.
-[18:53:16] [Server thread/INFO]: /sk: Opens the Skills menu, where you can browse skills, progress, and abilities.
-[18:53:16] [Server thread/INFO]: /skill: Opens the Skills menu, where you can browse skills, progress, and abilities.
-[18:53:16] [Server thread/INFO]: /skillrank: Shows your skill rankings
-[18:53:16] [Server thread/INFO]: /skills: Opens the Skills menu, where you can browse skills, progress, and abilities.
-[18:53:16] [Server thread/INFO]: /skilltop: Shows the top players in a skill
-[18:53:16] [Server thread/INFO]: /skull: Set the owner of a player skull
-[18:53:16] [Server thread/INFO]: /smithingtable: Opens up a smithing table.
-[18:53:16] [Server thread/INFO]: /socialspy: Toggles if you can see msg/mail commands in chat.
-[18:53:16] [Server thread/INFO]: /sort: Toggle automatic chest sorting or change your hotkey settings
-[18:53:16] [Server thread/INFO]: /spawner: Change the mob type of a spawner.
-[18:53:16] [Server thread/INFO]: /spawnmob: Spawns a mob.
-[18:53:16] [Server thread/INFO]: /spawnpoint: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /spectate: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /speed: Change your speed limits.
-[18:53:16] [Server thread/INFO]: /spigot: Spigot related commands
-[18:53:16] [Server thread/INFO]: /spreadplayers: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /stats: Opens the Stats menu where you can see current stat levels and descriptions.
-[18:53:16] [Server thread/INFO]: /stonecutter: Opens up a stonecutter.
-[18:53:16] [Server thread/INFO]: /stop: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /stopsound: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /sudo: Make another user perform a command.
-[18:53:16] [Server thread/INFO]: /suicide: Causes you to perish.
-[18:53:16] [Server thread/INFO]: /summon: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /tag: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /team: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /teammsg: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /tellraw: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /tempban: Temporary ban a user.
-[18:53:16] [Server thread/INFO]: /tempbanip: Temporarily ban an IP Address.
-[18:53:16] [Server thread/INFO]: /thunder: Enable/disable thunder.
-[18:53:16] [Server thread/INFO]: /tick: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /time: Display/Change the world time. Defaults to current world.
-[18:53:16] [Server thread/INFO]: /timings: Manages Spigot Timings data to see performance of the server.
-[18:53:16] [Server thread/INFO]: /title: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /tm: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /togglejail: Jails/Unjails a player, TPs them to the jail specified.
-[18:53:16] [Server thread/INFO]: /top: Teleport to the highest block at your current position.
-[18:53:16] [Server thread/INFO]: /tp: Teleport to a player.
-[18:53:16] [Server thread/INFO]: /tpa: Request to teleport to the specified player.
-[18:53:16] [Server thread/INFO]: /tpaall: Requests all players online to teleport to you.
-[18:53:16] [Server thread/INFO]: /tpacancel: Cancel all outstanding teleport requests. Specify [player] to cancel requests with them.
-[18:53:16] [Server thread/INFO]: /tpaccept: Accepts teleport requests.
-[18:53:16] [Server thread/INFO]: /tpahere: Request that the specified player teleport to you.
-[18:53:16] [Server thread/INFO]: /tpall: Teleport all online players to another player.
-[18:53:16] [Server thread/INFO]: /tpauto: Automatically accept teleportation requests.
-[18:53:16] [Server thread/INFO]: /tpdeny: Rejects teleport requests.
-[18:53:16] [Server thread/INFO]: /tphere: Teleport a player to you.
-[18:53:16] [Server thread/INFO]: /tpo: Teleport override for tptoggle.
-[18:53:16] [Server thread/INFO]: /tpoffline: Teleport to a player's last known logout location
-[18:53:16] [Server thread/INFO]: /tpohere: Teleport here override for tptoggle.
-[18:53:16] [Server thread/INFO]: /tppos: Teleport to coordinates.
-[18:53:16] [Server thread/INFO]: /tpr: Teleport randomly.
-[18:53:16] [Server thread/INFO]: /tps: Gets the current ticks per second for the server
-[18:53:16] [Server thread/INFO]: /tptoggle: Blocks all forms of teleportation.
-[18:53:16] [Server thread/INFO]: /transfer: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /tree: Spawn a tree where you are looking.
-[18:53:16] [Server thread/INFO]: /trigger: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /unban: Unbans the specified player.
-[18:53:16] [Server thread/INFO]: /unbanip: Unbans the specified IP address.
-[18:53:16] [Server thread/INFO]: /unlimited: Allows the unlimited placing of items.
-[18:53:16] [Server thread/INFO]: /vanish: Hide yourself from other players.
-[18:53:16] [Server thread/INFO]: /version: Gets the version of this server including any plugins in use
-[18:53:16] [Server thread/INFO]: /warp: List all warps or warp to the specified location.
-[18:53:16] [Server thread/INFO]: /warpinfo: Finds location information for a specified warp.
-[18:53:16] [Server thread/INFO]: /weather: Sets the weather.
-[18:53:16] [Server thread/INFO]: /whitelist: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /whois: Determine the username behind a nickname.
-[18:53:16] [Server thread/INFO]: /workbench: Opens up a workbench.
-[18:53:16] [Server thread/INFO]: /world: Switch between worlds.
-[18:53:16] [Server thread/INFO]: /worldborder: A Mojang provided command.
-[18:53:16] [Server thread/INFO]: /worth: Calculates the worth of items in hand or as specified.
-[18:53:57] [Server thread/INFO]: an8bithahaha issued server command: /ping
-[19:03:43] [Server thread/INFO]: an8bithahaha issued server command: /home
-[19:07:12] [Server thread/INFO]: Thuandepzai lost connection: Timed out
-[19:07:12] [Server thread/INFO]: Thuandepzai left the game
-[19:16:13] [Server thread/INFO]: an8bithahaha issued server command: /gamemode 3
-[19:17:41] [Server thread/INFO]: an8bithahaha issued server command: /gamemode survival
-[19:23:23] [Server thread/INFO]: Leviathan issued server command: /homes
-[19:23:36] [Server thread/INFO]: an8bithahaha issued server command: /home
-[19:28:49] [Server thread/INFO]: an8bithahaha lost connection: Timed out
-[19:28:49] [Server thread/INFO]: an8bithahaha left the game
-[19:38:23] [Server thread/INFO]: Leviathan issued server command: /homes
-[19:45:56] [Server thread/INFO]: Leviathan issued server command: /h
-[19:46:00] [Server thread/INFO]: Leviathan issued server command: /homes
-[19:55:47] [Server thread/INFO]: Leviathan issued server command: /skill
-[20:11:26] [Server thread/INFO]: Leviathan issued server command: /skill
-[20:11:31] [Server thread/INFO]: Leviathan issued server command: /skillrank
-[20:11:34] [Server thread/INFO]: Leviathan issued server command: /skilltop
-[20:34:50] [Server thread/INFO]: Unknown or incomplete command, see below for error
-?l<--[HERE]
-[20:37:08] [Server thread/INFO]: Leviathan issued server command: /afk
-[20:37:56] [Server thread/INFO]: Leviathan lost connection: Disconnected
-[20:37:56] [Server thread/INFO]: Leviathan left the game
-[23:16:53] [Server thread/INFO]: Server Plugins (4):
-[23:16:53] [Server thread/INFO]: Bukkit Plugins:
-[23:16:53] [Server thread/INFO]:  - AuraSkills, ChestSort, Essentials, LuckPerms
-[23:18:54] [User Authenticator #3/INFO]: UUID of player Leviathan is ec4b1c49-dbc4-34eb-9698-579de1e9bc0b
-[23:18:57] [Server thread/INFO]: Leviathan joined the game
-[23:18:57] [Server thread/INFO]: Leviathan[/[0:0:0:0:0:0:0:1%0]:36410] logged in with entity id 63251 at ([world]-319.30000001192093, 67.0, 279.3557096424698)
-[23:20:05] [Server thread/INFO]: Leviathan lost connection: Disconnected
-[23:20:05] [Server thread/INFO]: Leviathan left the game
-[23:20:10] [Server thread/INFO]: Stopping the server
-[23:20:10] [Server thread/INFO]: Stopping server
-[23:20:10] [Server thread/INFO]: [ChestSort] Disabling ChestSort v14.1.0
-[23:20:10] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+106-8b08a8f
-[23:20:10] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.1.5
-[23:20:10] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
-[23:20:10] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[23:20:10] [Server thread/INFO]: [LuckPerms] Closing storage...
-[23:20:10] [Server thread/INFO]: [LuckPerms] Goodbye!
-[23:20:10] [Server thread/INFO]: Saving players
-[23:20:10] [Server thread/INFO]: Saving worlds
-[23:20:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:20:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[23:20:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[23:20:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[23:20:11] [Server thread/INFO]: [ChunkHolderManager] Saved 18 block chunks, 204 entity chunks, 0 poi chunks in world 'world' in 0.18s
-[23:20:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[23:20:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[23:20:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[23:20:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[23:20:11] [Server thread/INFO]: [ChunkHolderManager] Saved 6 block chunks, 69 entity chunks, 0 poi chunks in world 'world_nether' in 0.07s
-[23:20:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[23:20:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[23:20:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[23:20:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[23:20:11] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.05s
-[23:20:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:20:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:20:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:20:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[12:09:15] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[12:09:15] [Server thread/INFO]: Default game type: SURVIVAL
+[12:09:15] [Server thread/INFO]: Generating keypair
+[12:09:15] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:09:15] [Server thread/INFO]: Using epoll channel type
+[12:09:15] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[12:09:15] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[12:09:16] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[12:09:16] [Server thread/INFO]: [CraftEnhance] Loading server plugin CraftEnhance v2.5.6.1
+[12:09:16] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.1.5
+[12:09:16] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+106-8b08a8f
+[12:09:16] [Server thread/INFO]: [ChestSort] Loading server plugin ChestSort v14.1.0
+[12:09:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:09:16] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[12:09:17] [Server thread/INFO]:         __    
+[12:09:17] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[12:09:17] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[12:09:17] [Server thread/INFO]: 
+[12:09:17] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[12:09:17] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[12:09:18] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[12:09:18] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[12:09:18] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1717ms)
+[12:09:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:09:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:09:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:09:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:09:18] [Server thread/INFO]: Preparing level "world"
+[12:09:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:09:20] [Server thread/INFO]: Time elapsed: 1414 ms
+[12:09:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:09:21] [Server thread/INFO]: Time elapsed: 341 ms
+[12:09:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:09:21] [Server thread/INFO]: Time elapsed: 159 ms
+[12:09:21] [Server thread/INFO]: [CraftEnhance] Enabling CraftEnhance v2.5.6.1
+[12:09:21] [Server thread/INFO]: [com.dutchjelly.craftenhance.libs.menu.library.RegisterMenuAPI] Now starting MenuApi.. Any errors will be shown below.
+[12:09:22] [Server thread/INFO]: [CraftEnhance] items.yml doesn't exist... creating it.
+[12:09:22] [Server thread/INFO]: [CraftEnhance] recipes.yml doesn't exist... creating it.
+[12:09:22] [Server thread/INFO]: [CraftEnhance] server-recipes.yml doesn't exist... creating it.
+[12:09:22] [Server thread/INFO]: [CraftEnhance] container-owners.yml doesn't exist... creating it.
+[12:09:22] [Server thread/INFO]: [CraftEnhance] CraftEnhance is managed and developed by DutchJelly.
+[12:09:23] [Server thread/INFO]: [CraftEnhance] If you find a bug in the plugin, please report it to https://github.com/DutchJelly/CraftEnhance/issues .
+[12:09:23] [Server thread/INFO]: [CraftEnhance] Running a version check to check that the server is compatible with game version 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20.
+[12:09:23] [Server thread/INFO]: [CraftEnhance] 
+[12:09:23] [Server thread/INFO]: [CraftEnhance] !! Incompatibility found !!
+[12:09:23] [Server thread/INFO]: [CraftEnhance] The installed version of CraftEnhance only supports spigot/bukkit versions "1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20"
+[12:09:23] [Server thread/INFO]: [CraftEnhance] while your server is running 1.21-R0.1-SNAPSHOT.
+[12:09:23] [Server thread/INFO]: [CraftEnhance] The correct version can be installed here: https://www.spigotmc.org/resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/ or https://dev.bukkit.org/projects/craftenhance/files .
+[12:09:23] [Server thread/INFO]: [CraftEnhance] Alternatively do you find latest here: https://github.com/broken1arrow/CraftEnhance/releases .
+[12:09:23] [Server thread/INFO]: [CraftEnhance] When installing the plugin make sure that the game version matches your bukkit or spigot version.
+[12:09:23] [Server thread/INFO]: [CraftEnhance] Please note that this incompatibility could cause duping glitches.
+[12:09:23] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[12:09:23] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[12:09:23] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[12:09:23] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[12:09:23] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.1.5
+[12:09:23] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[12:09:24] [Server thread/INFO]: [AuraSkills] Successfully registered hook LuckPerms
+[12:09:24] [Server thread/INFO]: [AuraSkills] Loaded 126 config options in 65 ms
+[12:09:24] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21! Trying to find NMS support
+[12:09:24] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
+[12:09:24] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[12:09:24] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[12:09:25] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[12:09:25] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+106-8b08a8f
+[12:09:26] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[12:09:26] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[12:09:27] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
+[12:09:27] [Server thread/INFO]: [Essentials] Using locale en
+[12:09:27] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[12:09:27] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[12:09:27] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[12:09:27] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[12:09:27] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[12:09:27] [Server thread/INFO]: [ChestSort] Enabling ChestSort v14.1.0
+[12:09:27] [Server thread/INFO]: [ChestSort] Use permissions: true
+[12:09:27] [Server thread/INFO]: [ChestSort] Current sorting method: {category},{itemsFirst},{name},{color},{customName}
+[12:09:27] [Server thread/INFO]: [ChestSort] Allow automatic chest sorting:true
+[12:09:27] [Server thread/INFO]: [ChestSort]   |- Chest sorting enabled by default: false
+[12:09:27] [Server thread/INFO]: [ChestSort]   |- Sort time: close
+[12:09:27] [Server thread/INFO]: [ChestSort] Allow automatic inventory sorting:true
+[12:09:27] [Server thread/INFO]: [ChestSort]   |- Inventory sorting enabled by default: false
+[12:09:27] [Server thread/INFO]: [ChestSort] Auto generate category files: true
+[12:09:27] [Server thread/INFO]: [ChestSort] Allow hotkeys: true
+[12:09:27] [Server thread/INFO]: [ChestSort] Hotkeys enabled by default:
+[12:09:27] [Server thread/INFO]: [ChestSort]   |- Middle-Click: true
+[12:09:27] [Server thread/INFO]: [ChestSort]   |- Shift-Click: true
+[12:09:27] [Server thread/INFO]: [ChestSort]   |- Double-Click: true
+[12:09:27] [Server thread/INFO]: [ChestSort]   |- Shift-Right-Click: true
+[12:09:27] [Server thread/INFO]: [ChestSort] Allow additional hotkeys: true
+[12:09:27] [Server thread/INFO]: [ChestSort] Additional hotkeys enabled by default:
+[12:09:27] [Server thread/INFO]: [ChestSort]   |- Left-Click: false
+[12:09:27] [Server thread/INFO]: [ChestSort]   |- Right-Click: false
+[12:09:27] [Server thread/INFO]: [ChestSort] Check for updates: true
+[12:09:27] [Server thread/INFO]: [ChestSort] Check interval: 4 hours (4.0 seconds)
+[12:09:27] [Server thread/INFO]: [ChestSort] Categories: 900-weapons (6), 905-common-tools (4), 907-other-tools (6), 909-food (33), 910-valuables (47), 920-armor-and-arrows (9), 930-brewing (18), 950-redstone (23), 960-wood (60), 970-stone (38), 980-plants (50), 981-corals (1)
+[12:09:28] [Server thread/INFO]: Running delayed init tasks
+[12:09:28] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
+[12:09:28] [Craft Scheduler Thread - 3 - CraftEnhance/INFO]: [CraftEnhance] CraftEnhance is up to date.
+[12:09:28] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 312 total sources
+[12:09:28] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[12:09:28] [Server thread/INFO]: [AuraSkills] Loaded 36 pattern rewards and 0 level rewards
+[12:09:28] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[12:09:29] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:09:29] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
+[12:09:29] [Server thread/INFO]: Done (15.137s)! For help, type "help"
+[12:09:29] [Server thread/INFO]: Timings Reset
+[12:10:36] [User Authenticator #0/INFO]: UUID of player an8bithahaha is e9c246cc-bc31-3fef-9a9c-b34d773135e6
+[12:10:38] [Server thread/INFO]: an8bithahaha joined the game
+[12:10:38] [Server thread/INFO]: an8bithahaha[/[0:0:0:0:0:0:0:1%0]:41608] logged in with entity id 44 at ([world]-454.5, 67.0, 253.5)
+[12:11:20] [Server thread/INFO]: an8bithahaha issued server command: /ceh cleanitemfile
+[12:11:36] [Server thread/INFO]: an8bithahaha issued server command: /ceh createrecipe
+[12:12:28] [Server thread/INFO]: an8bithahaha issued server command: /ceh
+[12:12:37] [Server thread/INFO]: an8bithahaha issued server command: /ceh createrecipe
+[12:12:59] [Server thread/INFO]: an8bithahaha issued server command: /ceh
+[12:13:05] [Server thread/INFO]: an8bithahaha issued server command: /ceh createrecipe
+[12:15:12] [Server thread/INFO]: an8bithahaha issued server command: /ceh
+[12:15:16] [Server thread/INFO]: an8bithahaha issued server command: /ceh createrecipe
+[12:18:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/give @a chainmail_chestplate[enchantments={levels:{fire_protection:1,looting:0,projectile_protection:4,thorns:4}}]<--[HERE]
+[12:18:51] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /give @a chainmail_chestplate[enchantments={levels:{fire_protection:1,looting:0,projectile_protection:4,thorns:4}}]
+[12:18:51] [Server thread/INFO]: Error: Unknown item name: chainmail_chestplate[enchantments={levels:{fire_protection:1,looting:0,projectile_protection:4,thorns:4}}].
+[12:19:06] [Server thread/INFO]: an8bithahaha issued server command: /give @a chainmail_chestplate[enchantments={levels:{fire_protection:1,looting:0,projectile_protection:4,thorns:4}}]
+[12:19:39] [Server thread/INFO]: an8bithahaha issued server command: /give @a chainmail_chestplate[enchantments={levels:{fire_protection:1,looting:0,projectile_protection:4,thorns:4}}]
+[12:19:50] [Server thread/INFO]: an8bithahaha issued server command: /give @a chainmail_chestplate[enchantments={levels:{fire_protection:1,looting:0,projectile_protection:4,thorns:4}}]
+[12:20:33] [Server thread/INFO]: an8bithahaha issued server command: /give @a chainmail_chestplate
+[12:20:43] [Server thread/INFO]: an8bithahaha issued server command: /give an8bithahaha chainmail_chestplate
+[12:23:48] [Server thread/INFO]: an8bithahaha issued server command: /give an8bithahaha chainmail_chestplate[enchantments={levels:{blast_protection:3,sweeping_edge:0,thorns:3}}]
+[12:24:26] [Server thread/INFO]: an8bithahaha issued server command: /ceh
+[12:24:41] [Server thread/INFO]: an8bithahaha issued server command: /ceh viewer
+[12:25:11] [Server thread/INFO]: an8bithahaha issued server command: /ceh viewer
+[12:27:05] [Server thread/INFO]: an8bithahaha issued server command: /give @a acacia_log[enchantments={levels:{looting:15}}]
+[12:28:43] [Server thread/INFO]: an8bithahaha issued server command: /enchantment looting 3
+[12:29:13] [Server thread/INFO]: an8bithahaha issued server command: /enchant looting 3
+[12:30:30] [Server thread/INFO]: an8bithahaha issued server command: /ceh changekey
+[12:30:43] [Server thread/INFO]: an8bithahaha issued server command: /ceh rl
+[12:30:43] [Server thread/INFO]: [CraftEnhance] CraftEnhance is managed and developed by DutchJelly.
+[12:30:43] [Server thread/INFO]: [CraftEnhance] If you find a bug in the plugin, please report it to https://github.com/DutchJelly/CraftEnhance/issues .
+[12:30:43] [Server thread/INFO]: [CraftEnhance] Running a version check to check that the server is compatible with game version 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20.
+[12:30:43] [Server thread/INFO]: [CraftEnhance] 
+[12:30:43] [Server thread/INFO]: [CraftEnhance] !! Incompatibility found !!
+[12:30:43] [Server thread/INFO]: [CraftEnhance] The installed version of CraftEnhance only supports spigot/bukkit versions "1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20"
+[12:30:43] [Server thread/INFO]: [CraftEnhance] while your server is running 1.21-R0.1-SNAPSHOT.
+[12:30:43] [Server thread/INFO]: [CraftEnhance] The correct version can be installed here: https://www.spigotmc.org/resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/ or https://dev.bukkit.org/projects/craftenhance/files .
+[12:30:43] [Server thread/INFO]: [CraftEnhance] Alternatively do you find latest here: https://github.com/broken1arrow/CraftEnhance/releases .
+[12:30:43] [Server thread/INFO]: [CraftEnhance] When installing the plugin make sure that the game version matches your bukkit or spigot version.
+[12:30:43] [Server thread/INFO]: [CraftEnhance] Please note that this incompatibility could cause duping glitches.
+[12:30:43] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[12:30:43] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[12:30:43] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[12:30:43] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[12:30:44] [Craft Scheduler Thread - 22 - CraftEnhance/INFO]: [CraftEnhance] CraftEnhance is up to date.
+[12:30:53] [Server thread/INFO]: an8bithahaha issued server command: /ceh specs
+[12:33:00] [Server thread/INFO]: an8bithahaha issued server command: /ceh rl
+[12:33:00] [Server thread/INFO]: [CraftEnhance] CraftEnhance is managed and developed by DutchJelly.
+[12:33:00] [Server thread/INFO]: [CraftEnhance] If you find a bug in the plugin, please report it to https://github.com/DutchJelly/CraftEnhance/issues .
+[12:33:00] [Server thread/INFO]: [CraftEnhance] Running a version check to check that the server is compatible with game version 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20.
+[12:33:00] [Server thread/INFO]: [CraftEnhance] 
+[12:33:00] [Server thread/INFO]: [CraftEnhance] !! Incompatibility found !!
+[12:33:00] [Server thread/INFO]: [CraftEnhance] The installed version of CraftEnhance only supports spigot/bukkit versions "1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20"
+[12:33:00] [Server thread/INFO]: [CraftEnhance] while your server is running 1.21-R0.1-SNAPSHOT.
+[12:33:00] [Server thread/INFO]: [CraftEnhance] The correct version can be installed here: https://www.spigotmc.org/resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/ or https://dev.bukkit.org/projects/craftenhance/files .
+[12:33:00] [Server thread/INFO]: [CraftEnhance] Alternatively do you find latest here: https://github.com/broken1arrow/CraftEnhance/releases .
+[12:33:00] [Server thread/INFO]: [CraftEnhance] When installing the plugin make sure that the game version matches your bukkit or spigot version.
+[12:33:00] [Server thread/INFO]: [CraftEnhance] Please note that this incompatibility could cause duping glitches.
+[12:33:00] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[12:33:00] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[12:33:00] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[12:33:00] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[12:33:01] [Craft Scheduler Thread - 25 - CraftEnhance/INFO]: [CraftEnhance] CraftEnhance is up to date.
+[12:33:28] [Server thread/INFO]: an8bithahaha issued server command: /ceh createrecipe
+[12:35:01] [Server thread/INFO]: an8bithahaha issued server command: /ceh createrecipe
+[12:35:40] [Server thread/INFO]: an8bithahaha issued server command: /ceh
+[12:35:47] [Server thread/INFO]: an8bithahaha issued server command: /ceh reload
+[12:35:47] [Server thread/INFO]: [CraftEnhance] CraftEnhance is managed and developed by DutchJelly.
+[12:35:47] [Server thread/INFO]: [CraftEnhance] If you find a bug in the plugin, please report it to https://github.com/DutchJelly/CraftEnhance/issues .
+[12:35:47] [Server thread/INFO]: [CraftEnhance] Running a version check to check that the server is compatible with game version 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20.
+[12:35:47] [Server thread/INFO]: [CraftEnhance] 
+[12:35:47] [Server thread/INFO]: [CraftEnhance] !! Incompatibility found !!
+[12:35:47] [Server thread/INFO]: [CraftEnhance] The installed version of CraftEnhance only supports spigot/bukkit versions "1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20"
+[12:35:47] [Server thread/INFO]: [CraftEnhance] while your server is running 1.21-R0.1-SNAPSHOT.
+[12:35:47] [Server thread/INFO]: [CraftEnhance] The correct version can be installed here: https://www.spigotmc.org/resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/ or https://dev.bukkit.org/projects/craftenhance/files .
+[12:35:47] [Server thread/INFO]: [CraftEnhance] Alternatively do you find latest here: https://github.com/broken1arrow/CraftEnhance/releases .
+[12:35:47] [Server thread/INFO]: [CraftEnhance] When installing the plugin make sure that the game version matches your bukkit or spigot version.
+[12:35:47] [Server thread/INFO]: [CraftEnhance] Please note that this incompatibility could cause duping glitches.
+[12:35:47] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[12:35:47] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[12:35:47] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[12:35:47] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[12:35:48] [Craft Scheduler Thread - 30 - CraftEnhance/INFO]: [CraftEnhance] CraftEnhance is up to date.
+[12:39:36] [Server thread/INFO]: an8bithahaha was slain by Zombie
+[12:39:40] [Server thread/INFO]: an8bithahaha lost connection: Timed out
+[12:39:40] [Server thread/INFO]: an8bithahaha left the game
+[12:46:12] [Server thread/INFO]: Stopping the server
+[12:46:12] [Server thread/INFO]: Stopping server
+[12:46:12] [Server thread/INFO]: [ChestSort] Disabling ChestSort v14.1.0
+[12:46:12] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+106-8b08a8f
+[12:46:12] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.1.5
+[12:46:12] [Server thread/INFO]: [CraftEnhance] Disabling CraftEnhance v2.5.6.1
+[12:46:13] [Worker-Main-1/INFO]: Loaded 1290 recipes
+[12:46:13] [Worker-Main-1/INFO]: Loaded 1399 advancements
+[12:46:13] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[12:46:13] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[12:46:13] [Server thread/INFO]: [LuckPerms] Closing storage...
+[12:46:14] [Server thread/INFO]: [LuckPerms] Goodbye!
+[12:46:14] [Server thread/INFO]: Saving players
+[12:46:14] [Server thread/INFO]: Saving worlds
+[12:46:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 182 entity chunks, 0 poi chunks in world 'world' in 0.10s
+[12:46:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 24 entity chunks, 0 poi chunks in world 'world_nether' in 0.06s
+[12:46:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.04s
+[12:46:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:46:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:46:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:46:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

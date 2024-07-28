@@ -1,0 +1,82 @@
+recipe1:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  permission: null
+  matchtype: MATCH_META
+  hidden: false
+  check_partial_match: false
+  oncraftcommand: null
+  result: IRON_INGOT
+  recipe:
+  - COBBLESTONE
+  - null
+  - COBBLESTONE
+  - null
+  - COBBLESTONE
+  - null
+  - COBBLESTONE
+  - null
+  - COBBLESTONE
+  allowed_worlds: []
+  shapeless: false
+recipe2:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.furnace.BlastRecipe
+  page: -1
+  slot: -1
+  result_slot: 1
+  category: furnace
+  permission: null
+  matchtype: MATCH_META
+  hidden: false
+  check_partial_match: false
+  oncraftcommand: null
+  result: IRON_NUGGET
+  recipe:
+  - COBBLESTONE
+  allowed_worlds: []
+  exp: 0.0
+  duration: 160
+recipe3:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.furnace.BlastRecipe
+  page: -1
+  slot: -1
+  result_slot: 1
+  category: furnace
+  permission: null
+  matchtype: MATCH_META
+  hidden: false
+  check_partial_match: false
+  oncraftcommand: null
+  result: IRON_INGOT1
+  recipe:
+  - DANDELION
+  allowed_worlds: []
+  exp: 0.0
+  duration: 160
+recipe4:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  permission: null
+  matchtype: MATCH_META
+  hidden: false
+  check_partial_match: false
+  oncraftcommand: null
+  result: GOLDEN_HOE
+  recipe:
+  - DIRT
+  - DIRT
+  - null
+  - null
+  - DIRT
+  - null
+  - null
+  - DIRT
+  - null
+  allowed_worlds: []
+  shapeless: false

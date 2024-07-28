@@ -1,0 +1,50 @@
+IRON_INGOT:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: IRON_INGOT
+COBBLESTONE:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: COBBLESTONE
+IRON_NUGGET:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: IRON_NUGGET
+BOW:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: BOW
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      minecraft:mending: 1
+      minecraft:vanishing_curse: 1
+    Damage: 318
+BAMBOO:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: BAMBOO
+IRON_INGOT1:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: IRON_INGOT
+  amount: 5
+DANDELION:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: DANDELION
+GOLDEN_HOE:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: GOLDEN_HOE
+  meta:
+    ==: ItemMeta
+    meta-type: UNSPECIFIC
+    enchants:
+      minecraft:fortune: 2
+    Damage: 16
+DIRT:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: DIRT
