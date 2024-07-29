@@ -853,3 +853,508 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 11
 [07:51:19] [Server thread/INFO]: an8bithahaha issued server command: /datapack list
 [07:51:59] [Server thread/INFO]: an8bithahaha issued server command: /gamemode 1
 [07:55:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2908ms or 58 ticks behind
+[08:05:42] [Server thread/INFO]: an8bithahaha lost connection: Timed out
+[08:05:43] [Server thread/INFO]: an8bithahaha left the game
+[08:06:13] [Server thread/INFO]: Stopping the server
+[08:06:13] [Server thread/INFO]: Stopping server
+[08:06:13] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+106-8b08a8f
+[08:06:13] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.1.5
+[08:06:13] [Server thread/INFO]: [ChestSort] Disabling ChestSort v14.1.0
+[08:06:13] [Server thread/INFO]: [CraftEnhance] Disabling CraftEnhance v2.5.6.1
+[08:06:14] [Server thread/ERROR]: Invalid directory entry: .DS_Store in ./world/datapacks/enchanting-plus.
+java.nio.file.NotDirectoryException: .DS_Store
+	at net.minecraft.server.packs.PathPackResources.getNamespaces(PathPackResources.java:108) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.packs.resources.MultiPackResourceManager.lambda$new$0(MultiPackResourceManager.java:27) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.stream.ReferencePipeline$7$1.accept(ReferencePipeline.java:273) ~[?:?]
+	at java.base/java.util.Spliterators$ArraySpliterator.forEachRemaining(Spliterators.java:1024) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:509) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:499) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:575) ~[?:?]
+	at java.base/java.util.stream.AbstractPipeline.evaluateToArrayNode(AbstractPipeline.java:260) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:616) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline.toArray(ReferencePipeline.java:622) ~[?:?]
+	at java.base/java.util.stream.ReferencePipeline.toList(ReferencePipeline.java:627) ~[?:?]
+	at net.minecraft.server.packs.resources.MultiPackResourceManager.<init>(MultiPackResourceManager.java:27) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.MinecraftServer.lambda$reloadResources$33(MinecraftServer.java:2239) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture.uniComposeStage(CompletableFuture.java:1187) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.thenCompose(CompletableFuture.java:2341) ~[?:?]
+	at net.minecraft.server.MinecraftServer.reloadResources(MinecraftServer.java:2238) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.commands.ReloadCommand.reload(ReloadCommand.java:53) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at org.bukkit.craftbukkit.CraftServer.reloadData(CraftServer.java:1160) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at org.bukkit.craftbukkit.CraftServer.resetRecipes(CraftServer.java:1770) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at CraftEnhance-2.5.6.1.jar/com.dutchjelly.craftenhance.CraftEnhance.onDisable(CraftEnhance.java:146) ~[CraftEnhance-2.5.6.1.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:161) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugins(PaperPluginManagerImpl.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:541) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.disablePlugins(CraftServer.java:598) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:988) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:845) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1295) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:329) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[08:06:14] [Server thread/ERROR]: Invalid directory entry: .DS_Store in ./world/datapacks/enchanting-plus.
+java.nio.file.NotDirectoryException: .DS_Store
+	at net.minecraft.server.packs.PathPackResources.getNamespaces(PathPackResources.java:108) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.packs.resources.MultiPackResourceManager.<init>(MultiPackResourceManager.java:31) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.MinecraftServer.lambda$reloadResources$33(MinecraftServer.java:2239) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture.uniComposeStage(CompletableFuture.java:1187) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.thenCompose(CompletableFuture.java:2341) ~[?:?]
+	at net.minecraft.server.MinecraftServer.reloadResources(MinecraftServer.java:2238) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.commands.ReloadCommand.reload(ReloadCommand.java:53) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at org.bukkit.craftbukkit.CraftServer.reloadData(CraftServer.java:1160) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at org.bukkit.craftbukkit.CraftServer.resetRecipes(CraftServer.java:1770) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at CraftEnhance-2.5.6.1.jar/com.dutchjelly.craftenhance.CraftEnhance.onDisable(CraftEnhance.java:146) ~[CraftEnhance-2.5.6.1.jar:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:291) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugin(PaperPluginInstanceManager.java:237) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.disablePlugins(PaperPluginInstanceManager.java:161) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.disablePlugins(PaperPluginManagerImpl.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:541) ~[paper-api-1.21-R0.1-SNAPSHOT.jar:?]
+	at org.bukkit.craftbukkit.CraftServer.disablePlugins(CraftServer.java:598) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.MinecraftServer.stopServer(MinecraftServer.java:988) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.dedicated.DedicatedServer.stopServer(DedicatedServer.java:845) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.MinecraftServer.runServer(MinecraftServer.java:1295) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:329) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[08:06:14] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/enchantingplus:plundering/dolphin/fire_looting_3 - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:ccooked_codod
+[08:06:14] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/minecraft:blocks/pink_terracotta - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:pinnk_terracotta
+[08:06:14] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/minecraft:blocks/sandstone_slab - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:smooths_sandstone_slab
+[08:06:14] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/enchantingplus:plundering/piglin/beheading_1 - No key rolls in MapLike[{"bonus_rolls":0.0,"entries":[{"type":"minecraft:item","name":"minecraft:piglin_head","conditions":[{"condition":"minecraft:random_chance","chance":0.05}]}]}]
+[08:06:14] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/enchantingplus:plundering/piglin/beheading_3 - No key rolls in MapLike[{"bonus_rolls":0.0,"entries":[{"type":"minecraft:item","name":"minecraft:piglin_head","conditions":[{"condition":"minecraft:random_chance","chance":0.1}]}]}]
+[08:06:14] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/enchantingplus:plundering/piglin/beheading_2 - No key rolls in MapLike[{"bonus_rolls":0.0,"entries":[{"type":"minecraft:item","name":"minecraft:piglin_head","conditions":[{"condition":"minecraft:random_chance","chance":0.075}]}]}]
+[08:06:14] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/minecraft:entities/wither_skeleton - Failed to parse either. First: No key enchanted_chance in MapLike[{"chance":{"type":"minecraft:linear","base":0.035,"per_level_above_first":0.01},"condition":"minecraft:random_chance_with_enchanted_bonus","enchantment":"minecraft:looting"}]; No key unenchanted_chance in MapLike[{"chance":{"type":"minecraft:linear","base":0.035,"per_level_above_first":0.01},"condition":"minecraft:random_chance_with_enchanted_bonus","enchantment":"minecraft:looting"}]; Second: Not a json array: {"chance":{"type":"minecraft:linear","base":0.035,"per_level_above_first":0.01},"condition":"minecraft:random_chance_with_enchanted_bonus","enchantment":"minecraft:looting"}
+[08:06:14] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/minecraft:blocks/red_sandstone_slab - Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: minecraft:smooth_red_andstone_slab
+[08:06:14] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/enchantingplus:plundering/piglin_brute/beheading_3 - No key rolls in MapLike[{"bonus_rolls":0.0,"entries":[{"type":"minecraft:item","name":"minecraft:piglin_head","conditions":[{"condition":"minecraft:random_chance","chance":0.1}]}]}]
+[08:06:14] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/enchantingplus:plundering/piglin_brute/beheading_1 - No key rolls in MapLike[{"bonus_rolls":0.0,"entries":[{"type":"minecraft:item","name":"minecraft:piglin_head","conditions":[{"condition":"minecraft:random_chance","chance":0.05}]}]}]
+[08:06:14] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/enchantingplus:plundering/piglin_brute/beheading_2 - No key rolls in MapLike[{"bonus_rolls":0.0,"entries":[{"type":"minecraft:item","name":"minecraft:piglin_head","conditions":[{"condition":"minecraft:random_chance","chance":0.075}]}]}]
+[08:06:14] [Worker-Main-1/ERROR]: Couldn't parse element minecraft:loot_table/enchantingplus:plundering/ender_dragon/beheading - No key rolls in MapLike[{"bonus_rolls":0.0,"entries":[{"type":"minecraft:item","name":"minecraft:dragon_head"}]}]
+[08:06:14] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/enchantingplus:plundering/elder_guardian/looting_1}.pools[3].entries[0]: Unknown loot table called minecraft:gameplay/fishihg/fish
+[08:06:14] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/minecraft:blocks/potatoes}.pools[2].entries[0]: Unreachable entry!
+[08:06:14] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/enchantingplus:plundering/elder_guardian/looting_2}.pools[3].entries[0]: Unknown loot table called minecraft:gameplay/fishihg/fish
+[08:06:14] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/enchantingplus:plundering/elder_guardian/looting_3}.pools[3].entries[0]: Unknown loot table called minecraft:gameplay/fishihg/fish
+[08:06:14] [Worker-Main-1/ERROR]: Couldn't read tag list enchantingplus:exclusive_set/barbed from enchantingplus:tags/enchantment/exclusive_set/barbed.json in data pack file/enchanting-plus
+java.lang.IllegalStateException: No key values in MapLike[{"value":["minecraft:loyalty","minecraft:riptide"]}]
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at com.mojang.serialization.DataResult.getOrThrow(DataResult.java:81) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.tags.TagLoader.load(TagLoader.java:53) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.tags.TagLoader.loadAndBuild(TagLoader.java:114) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.tags.TagManager.lambda$createLoader$3(TagManager.java:55) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[08:06:14] [Worker-Main-1/ERROR]: Couldn't read tag list enchantingplus:exclusive_set/damage2 from enchantingplus:tags/enchantment/exclusive_set/damage2.json in data pack file/enchanting-plus
+java.lang.IllegalStateException: No key values in MapLike[{"value":["enchantingplus:netherbane","enchantingplus:end_bringer"]}]
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at com.mojang.serialization.DataResult.getOrThrow(DataResult.java:81) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.tags.TagLoader.load(TagLoader.java:53) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.tags.TagLoader.loadAndBuild(TagLoader.java:114) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.tags.TagManager.lambda$createLoader$3(TagManager.java:55) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[08:06:14] [Worker-Main-1/ERROR]: Couldn't read tag list enchantingplus:exclusive_set/damage3 from enchantingplus:tags/enchantment/exclusive_set/damage3.json in data pack file/enchanting-plus
+java.lang.IllegalStateException: No key values in MapLike[{"value":["enchantingplus:spartan,","enchantingplus:riders_wrath"]}]
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at com.mojang.serialization.DataResult.getOrThrow(DataResult.java:81) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.tags.TagLoader.load(TagLoader.java:53) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.tags.TagLoader.loadAndBuild(TagLoader.java:114) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.tags.TagManager.lambda$createLoader$3(TagManager.java:55) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[08:06:14] [Worker-Main-1/ERROR]: Couldn't read tag list enchantingplus:exclusive_set/sages_favour from enchantingplus:tags/enchantment/exclusive_set/sages_favour.json in data pack file/enchanting-plus
+java.lang.IllegalStateException: No key values in MapLike[{"value":["minecraft:looting","enchantingplus:beheading","enchantingplus:plundering","enchantingplus:barren_knowledge_curse"]}]
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at com.mojang.serialization.DataResult.getOrThrow(DataResult.java:81) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.tags.TagLoader.load(TagLoader.java:53) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.tags.TagLoader.loadAndBuild(TagLoader.java:114) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.tags.TagManager.lambda$createLoader$3(TagManager.java:55) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[08:06:14] [Worker-Main-1/ERROR]: Couldn't read tag list enchantingplus:exclusive_set/sonically_charged from enchantingplus:tags/enchantment/exclusive_set/sonically_charged.json in data pack file/enchanting-plus
+java.lang.IllegalStateException: No key values in MapLike[{"value":["minecraft:piercing","minecraft:multishot","enchantingplus:rocket_jumper"]}]
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at com.mojang.serialization.DataResult.getOrThrow(DataResult.java:81) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.tags.TagLoader.load(TagLoader.java:53) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.tags.TagLoader.loadAndBuild(TagLoader.java:114) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.tags.TagManager.lambda$createLoader$3(TagManager.java:55) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[08:06:14] [Worker-Main-1/ERROR]: Couldn't load tag minecraft:tooltip_order as it is missing following references: enchantingplus:vitality (from file/enchanting-plus), enchantingplus:sages_favor (from file/enchanting-plus)
+[08:06:14] [Worker-Main-1/ERROR]: Couldn't read tag list enchantingplus:projectiles from enchantingplus:tags/entity_type/projectiles.json in data pack file/enchanting-plus
+java.lang.IllegalStateException: Not a JSON object: null
+	at com.mojang.serialization.DataResult$Error.getOrThrow(DataResult.java:287) ~[datafixerupper-8.0.16.jar:?]
+	at com.mojang.serialization.DataResult.getOrThrow(DataResult.java:81) ~[datafixerupper-8.0.16.jar:?]
+	at net.minecraft.tags.TagLoader.load(TagLoader.java:53) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.tags.TagLoader.loadAndBuild(TagLoader.java:114) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.tags.TagManager.lambda$createLoader$3(TagManager.java:55) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[08:06:16] [Worker-Main-1/INFO]: Loaded 1357 recipes
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/turtle
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/turtle/plain] at position 120: ...rtle/plain<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/turtle/plain] at position 120: ...rtle/plain<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/glow_squid
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/glow_squid/plain] at position 124: ...quid/plain<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/glow_squid/plain] at position 124: ...quid/plain<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/piglin
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 7: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/piglin/beheading] at position 126: .../beheading<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 7: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/piglin/beheading] at position 126: .../beheading<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/squid
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/squid/plain] at position 119: ...quid/plain<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/squid/plain] at position 119: ...quid/plain<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/spider
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/spider/plain] at position 120: ...ider/plain<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/spider/plain] at position 120: ...ider/plain<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/trading_llama
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/trader_llama/plain] at position 126: ...lama/plain<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/trader_llama/plain] at position 126: ...lama/plain<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/ender_dragon
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 7: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/ender_dragon/beheading] at position 132: .../beheading<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 7: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/ender_dragon/beheading] at position 132: .../beheading<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/skeleton_horse
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/skeleton_horse/plain] at position 128: ...orse/plain<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/skeleton_horse/plain] at position 128: ...orse/plain<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/donkey
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/donkey/plain] at position 120: ...nkey/plain<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/donkey/plain] at position 120: ...nkey/plain<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/ghast
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/ghast/plain] at position 119: ...hast/plain<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/ghast/plain] at position 119: ...hast/plain<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/mule
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/mule/plain] at position 118: ...mule/plain<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/mule/plain] at position 118: ...mule/plain<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function wicked:uninstall
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 117: Malformed 'minecraft:written_book_content' component: 'No key author in MapLike[{title:{raw:""}}]' at position 79: ...:{raw:""}}<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 117: Malformed 'minecraft:written_book_content' component: 'No key author in MapLike[{title:{raw:""}}]' at position 79: ...:{raw:""}}<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/wither_skeleton
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 27: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / minecraft:entities/wither_skeleton] at position 110: ...r_skeleton<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 27: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / minecraft:entities/wither_skeleton] at position 110: ...r_skeleton<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/zoglin
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/zoglin/plain] at position 120: ...glin/plain<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/zoglin/plain] at position 120: ...glin/plain<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/zombie_horse
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/zombie_horse/plain] at position 126: ...orse/plain<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/zombie_horse/plain] at position 126: ...orse/plain<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/piglin_brute
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 7: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/piglin_brute/beheading] at position 132: .../beheading<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 7: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/piglin_brute/beheading] at position 132: .../beheading<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/breeze
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/breeze/plain] at position 120: ...eeze/plain<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/breeze/plain] at position 120: ...eeze/plain<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/enderman
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/enderman/plain] at position 122: ...rman/plain<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/enderman/plain] at position 122: ...rman/plain<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/shulker
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/shulker/plain] at position 121: ...lker/plain<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/shulker/plain] at position 121: ...lker/plain<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/horse
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/horse/plain] at position 119: ...orse/plain<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/horse/plain] at position 119: ...orse/plain<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:autofeed/food/cooked_rabbit
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown item 'minecraft:cooked_potato' at position 32: ...ked_potato<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 2: Unknown item 'minecraft:cooked_potato' at position 32: ...ked_potato<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/witch
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/witch/plain] at position 119: ...itch/plain<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/witch/plain] at position 119: ...itch/plain<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/llama
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/llama/plain] at position 119: ...lama/plain<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/llama/plain] at position 119: ...lama/plain<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/dolphin
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 38: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/dolphin/fire_looting_3] at position 137: ..._looting_3<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 38: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/dolphin/fire_looting_3] at position 137: ..._looting_3<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/ERROR]: Failed to load function enchantingplus:plundering/parrot
+java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/parrot/plain] at position 120: ...rrot/plain<--[HERE]
+	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 11: Failed to parse structure: Failed to get element ResourceKey[minecraft:loot_table / enchantingplus:plundering/parrot/plain] at position 120: ...rrot/plain<--[HERE]
+	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
+	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
+	... 3 more
+[08:06:16] [Worker-Main-1/INFO]: Loaded 1557 advancements
+[08:06:16] [Worker-Main-1/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:worldgen/biome] are present in data pack: minecraft:is_swamp
+[08:06:16] [Worker-Main-1/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: minecraft:fire_aspect_lightable
+[08:06:17] [Server thread/INFO]: [BetterStructures] Disabling BetterStructures v1.6.11
+[08:06:17] [Server thread/INFO]: [BetterStructures] Shutdown!
+[08:06:17] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[08:06:17] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[08:06:17] [Server thread/INFO]: [LuckPerms] Closing storage...
+[08:06:17] [Server thread/INFO]: [LuckPerms] Goodbye!
+[08:06:17] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.3.5+6880-8ba3d89
+[08:06:17] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[08:06:17] [Server thread/INFO]: Saving players
+[08:06:17] [Server thread/INFO]: Saving worlds
+[08:06:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08:06:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[08:06:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[08:06:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[08:06:18] [Server thread/INFO]: [ChunkHolderManager] Saved 17 block chunks, 194 entity chunks, 0 poi chunks in world 'world' in 0.22s
+[08:06:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[08:06:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[08:06:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[08:06:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[08:06:18] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 23 entity chunks, 0 poi chunks in world 'world_nether' in 0.08s
+[08:06:18] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[08:06:18] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[08:06:18] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[08:06:18] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[08:06:18] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.06s
+[08:06:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08:06:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08:06:18] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08:06:18] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
