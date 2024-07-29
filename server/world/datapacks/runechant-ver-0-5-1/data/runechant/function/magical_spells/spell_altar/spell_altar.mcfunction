@@ -1,0 +1,12 @@
+execute if entity @s[tag=affinity_ancient] run function runechant:magical_spells/spell_altar/ancient
+execute if entity @s[tag=affinity_celestial] run function runechant:magical_spells/spell_altar/celestial
+execute if entity @s[tag=affinity_deep_dark] run function runechant:magical_spells/spell_altar/deep_dark
+execute if entity @s[tag=affinity_enchanted] run function runechant:magical_spells/spell_altar/enchanted
+execute if entity @s[tag=affinity_ender] run function runechant:magical_spells/spell_altar/ender
+execute if entity @s[tag=affinity_glacial] run function runechant:magical_spells/spell_altar/glacial
+execute if entity @s[tag=affinity_golden] run function runechant:magical_spells/spell_altar/golden
+execute if entity @s[tag=affinity_nether] run function runechant:magical_spells/spell_altar/nether
+execute if entity @s[tag=affinity_ocean] run function runechant:magical_spells/spell_altar/ocean
+execute if entity @s[tag=affinity_overworld] run function runechant:magical_spells/spell_altar/overworld
+execute if entity @s[tag=affinity_sky] run function runechant:magical_spells/spell_altar/sky
+execute if entity @s[tag=affinity_soul] run function runechant:magical_spells/spell_altar/soul

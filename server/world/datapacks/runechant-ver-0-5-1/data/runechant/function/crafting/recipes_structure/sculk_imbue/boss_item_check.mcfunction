@@ -1,0 +1,12 @@
+execute if data storage minecraft:runechant_crafting_sculk_imbue1 {runechant:{Item:{components:{"minecraft:custom_model_data":199714}}}} run function runechant:crafting/recipes_structure/sculk_imbue/boss_powers/wall_slide
+execute if data storage minecraft:runechant_crafting_sculk_imbue1 {runechant:{Item:{components:{"minecraft:custom_model_data":199715}}}} run function runechant:crafting/recipes_structure/sculk_imbue/boss_powers/accelerator
+execute if data storage minecraft:runechant_crafting_sculk_imbue1 {runechant:{Item:{components:{"minecraft:custom_model_data":199716}}}} run function runechant:crafting/recipes_structure/sculk_imbue/boss_powers/cursed_strength
+execute if data storage minecraft:runechant_crafting_sculk_imbue1 {runechant:{Item:{components:{"minecraft:custom_model_data":199717}}}} run function runechant:crafting/recipes_structure/sculk_imbue/boss_powers/experience_collector
+execute if data storage minecraft:runechant_crafting_sculk_imbue1 {runechant:{Item:{components:{"minecraft:custom_model_data":199718}}}} run function runechant:crafting/recipes_structure/sculk_imbue/boss_powers/skywalk
+execute if data storage minecraft:runechant_crafting_sculk_imbue1 {runechant:{Item:{components:{"minecraft:custom_model_data":199719}}}} run function runechant:crafting/recipes_structure/sculk_imbue/boss_powers/experience_siphon
+execute if data storage minecraft:runechant_crafting_sculk_imbue1 {runechant:{Item:{components:{"minecraft:custom_model_data":199720}}}} run function runechant:crafting/recipes_structure/sculk_imbue/boss_powers/aspect_of_rot
+execute if data storage minecraft:runechant_crafting_sculk_imbue1 {runechant:{Item:{components:{"minecraft:custom_model_data":199721}}}} run function runechant:crafting/recipes_structure/sculk_imbue/boss_powers/royal_gatherer
+execute if data storage minecraft:runechant_crafting_sculk_imbue1 {runechant:{Item:{components:{"minecraft:custom_model_data":199722}}}} run function runechant:crafting/recipes_structure/sculk_imbue/boss_powers/tidal_dash
+execute if data storage minecraft:runechant_crafting_sculk_imbue1 {runechant:{Item:{components:{"minecraft:custom_model_data":199723}}}} run function runechant:crafting/recipes_structure/sculk_imbue/boss_powers/vampiric_pressence
+execute if data storage minecraft:runechant_crafting_sculk_imbue1 {runechant:{Item:{components:{"minecraft:custom_model_data":199724}}}} run function runechant:crafting/recipes_structure/sculk_imbue/boss_powers/double_jump
+

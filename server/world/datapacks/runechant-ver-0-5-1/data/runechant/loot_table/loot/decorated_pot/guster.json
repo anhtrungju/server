@@ -1,0 +1,66 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.03,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 16.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "weight": 27,
+          "quality": 1,
+          "name": "minecraft:glowstone_dust"
+        },
+
+
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 16.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "weight": 9,
+          "quality": 1,
+          "name": "minecraft:redstone"
+        },
+
+
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 16.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "weight": 1,
+          "quality": 1,
+          "name": "minecraft:gunpowder"
+        }
+
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "value": "glossary:nether_star/souls/father",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.33
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    },
+
+ {
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "functions": [            
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "value": "glossary:jigsaw/3_special/wards/ward_14",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.33
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    },
+
+ {
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "value": "glossary:enchanted_book/tome_of_dark_knowledge",
+          "conditions": [
+            {
+              "condition": "minecraft:random_chance",
+              "chance": 0.33
+            }
+          ]
+        }
+      ],
+      "rolls": 1.0
+    },
+
+ {
+      "bonus_rolls": 0.03,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "runechant:loot/treasure/generic_boss_loot"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

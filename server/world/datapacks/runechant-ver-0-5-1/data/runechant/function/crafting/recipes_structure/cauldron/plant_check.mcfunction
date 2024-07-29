@@ -1,0 +1,27 @@
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:white_tulip"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:lilac"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:orange_tulip"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:peony"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:red_tulip"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:pink_tulip"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:warped_fungus"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:pink_petals"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:lily_of_the_valley"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:crimson_fungus"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:sea_pickle"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:blue_orchid"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:allium"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:glow_berries"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:brown_mushroom"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:poppy"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:dandelion"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:wither_rose"}}} run summon minecraft:marker ~ ~ ~ {Tags:["CPotion","wither_rose"]}
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:sunflower"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:red_mushroom"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:torchflower"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:azure_bluet"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:cornflower"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:oxeye_daisy"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:pitcher_plant"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:kelp"}}} run function runechant:crafting/recipes_structure/cauldron/plants
+execute if data storage minecraft:runechant_crafting_cauldron {runechant:{Item:{id:"minecraft:sweet_berries"}}} run function runechant:crafting/recipes_structure/cauldron/plants

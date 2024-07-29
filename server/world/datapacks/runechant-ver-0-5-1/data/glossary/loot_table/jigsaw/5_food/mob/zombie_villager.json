@@ -1,0 +1,35 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:jigsaw",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                              "minecraft:custom_model_data":1997515,
+
+                              "minecraft:item_name":"{\"text\":\"Rotten Flesh (Villager)\",\"color\":\"white\",\"italic\":false,\"bold\":false}",
+                              
+                              "minecraft:max_stack_size":8,
+
+"minecraft:food":{"nutrition":2,"saturation":4,"can_always_eat":true,"eat_seconds":0.5,"effects":[{"effect":{"id":"minecraft:hunger","amplifier":0,"duration":200}},{"effect":{"id":"minecraft:luck","amplifier":9,"duration":600}}]}
+                            }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+execute if score *Timer3s Runechant_Timers matches 1 if score @s LuckCheck >= RNG RNG_Variable run effect give @e[type=#runechant:all,distance=1..8,limit=1,sort=random] minecraft:slowness 3 0 false
+execute if score *Timer3s Runechant_Timers matches 1 if score @s LuckCheck >= RNG RNG_Variable run effect give @e[type=#runechant:all,distance=1..8,limit=1,sort=random] minecraft:mining_fatigue 3 0 false
+execute if score *Timer3s Runechant_Timers matches 1 if score @s LuckCheck >= RNG RNG_Variable run effect give @e[type=#runechant:all,distance=1..8,limit=1,sort=random] minecraft:weakness 3 0 false

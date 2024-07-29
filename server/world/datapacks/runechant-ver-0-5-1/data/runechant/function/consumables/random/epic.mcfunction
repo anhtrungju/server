@@ -1,0 +1,2 @@
+clear @s minecraft:jigsaw[minecraft:custom_model_data=1997121,minecraft:lore=['{"bold":false,"color":"white","italic":false,"text":"Random (Epic)"}']]
+loot give @s loot glossary:jigsaw/1_resources/crystal_epic

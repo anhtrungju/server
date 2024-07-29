@@ -1,0 +1,1 @@
+particle minecraft:dust_color_transition{from_color:[1f,0f,0f],scale:2f,to_color:[0f,0f,0f]} ~ ~1 ~ 0 0 0 0 1

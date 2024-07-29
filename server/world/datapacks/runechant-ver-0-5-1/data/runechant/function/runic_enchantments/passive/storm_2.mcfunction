@@ -1,0 +1,3 @@
+execute if score *Timer15s Runechant_Timers matches 17 if score @s LuckCheck >= RNG RNG_Variable run experience add @s -2 points
+execute if score *Timer15s Runechant_Timers matches 17 if score @s LuckCheck >= RNG RNG_Variable run particle minecraft:electric_spark ~ ~1 ~ 0.3 0.3 0.3 0.1 5
+execute if score *Timer15s Runechant_Timers matches 17 if score @s LuckCheck >= RNG RNG_Variable at @e[type=#runechant:all,distance=2..8,limit=2] run summon minecraft:lighting_bolt ~ ~ ~

@@ -1,0 +1,74 @@
+execute unless entity @s[tag=leather_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:leather_chestplate",count:1}} run scoreboard players add @s EquipmentAgility 50
+execute unless entity @s[tag=leather_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:leather_chestplate",count:1}} run scoreboard players add @s EquipmentConceal 25
+execute unless entity @s[tag=leather_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:leather_chestplate",count:1}} run scoreboard players remove @s EquipmentResolve 50
+execute unless entity @s[tag=leather_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:leather_chestplate",count:1}} run scoreboard players remove @s EquipmentStrength 25
+execute unless entity @s[tag=leather_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:leather_chestplate",count:1}} run tag @s add leather_chestplate
+execute if entity @s[tag=leather_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:leather_chestplate",count:1}} run scoreboard players remove @s EquipmentAgility 50
+execute if entity @s[tag=leather_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:leather_chestplate",count:1}} run scoreboard players remove @s EquipmentConceal 25
+execute if entity @s[tag=leather_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:leather_chestplate",count:1}} run scoreboard players add @s EquipmentResolve 50
+execute if entity @s[tag=leather_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:leather_chestplate",count:1}} run scoreboard players add @s EquipmentStrength 25
+execute if entity @s[tag=leather_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:leather_chestplate",count:1}} run tag @s remove leather_chestplate
+
+execute unless entity @s[tag=chainmail_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:chainmail_chestplate",count:1}} run scoreboard players add @s EquipmentStrength 50
+execute unless entity @s[tag=chainmail_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:chainmail_chestplate",count:1}} run scoreboard players add @s EquipmentAgility 25
+execute unless entity @s[tag=chainmail_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:chainmail_chestplate",count:1}} run scoreboard players remove @s EquipmentVigor 50
+execute unless entity @s[tag=chainmail_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:chainmail_chestplate",count:1}} run scoreboard players remove @s EquipmentConceal 25
+execute unless entity @s[tag=chainmail_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:chainmail_chestplate",count:1}} run tag @s add chainmail_chestplate
+execute if entity @s[tag=chainmail_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:chainmail_chestplate",count:1}} run scoreboard players remove @s EquipmentStrength 50
+execute if entity @s[tag=chainmail_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:chainmail_chestplate",count:1}} run scoreboard players remove @s EquipmentAgility 25
+execute if entity @s[tag=chainmail_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:chainmail_chestplate",count:1}} run scoreboard players add @s EquipmentVigor 50
+execute if entity @s[tag=chainmail_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:chainmail_chestplate",count:1}} run scoreboard players add @s EquipmentConceal 25
+execute if entity @s[tag=chainmail_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:chainmail_chestplate",count:1}} run tag @s remove chainmail_chestplate
+
+execute unless entity @s[tag=iron_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:iron_chestplate",count:1}} run scoreboard players add @s EquipmentResolve 50
+execute unless entity @s[tag=iron_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:iron_chestplate",count:1}} run scoreboard players add @s EquipmentStrength 25
+execute unless entity @s[tag=iron_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:iron_chestplate",count:1}} run scoreboard players remove @s EquipmentConceal 50
+execute unless entity @s[tag=iron_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:iron_chestplate",count:1}} run scoreboard players remove @s EquipmentAgility 25
+execute unless entity @s[tag=iron_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:iron_chestplate",count:1}} run tag @s add iron_chestplate
+execute if entity @s[tag=iron_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:iron_chestplate",count:1}} run scoreboard players remove @s EquipmentResolve 50
+execute if entity @s[tag=iron_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:iron_chestplate",count:1}} run scoreboard players remove @s EquipmentStrength 25
+execute if entity @s[tag=iron_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:iron_chestplate",count:1}} run scoreboard players add @s EquipmentConceal 50
+execute if entity @s[tag=iron_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:iron_chestplate",count:1}} run scoreboard players add @s EquipmentAgility 25
+execute if entity @s[tag=iron_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:iron_chestplate",count:1}} run tag @s remove iron_chestplate
+
+execute unless entity @s[tag=golden_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:golden_chestplate",count:1}} run scoreboard players add @s EquipmentVigor 50
+execute unless entity @s[tag=golden_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:golden_chestplate",count:1}} run scoreboard players add @s EquipmentIntellect 25
+execute unless entity @s[tag=golden_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:golden_chestplate",count:1}} run scoreboard players remove @s EquipmentResolve 50
+execute unless entity @s[tag=golden_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:golden_chestplate",count:1}} run scoreboard players remove @s EquipmentAgility 25
+execute unless entity @s[tag=golden_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:golden_chestplate",count:1}} run tag @s add golden_chestplate
+execute if entity @s[tag=golden_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:golden_chestplate",count:1}} run scoreboard players remove @s EquipmentVigor 50
+execute if entity @s[tag=golden_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:golden_chestplate",count:1}} run scoreboard players remove @s EquipmentIntellect 25
+execute if entity @s[tag=golden_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:golden_chestplate",count:1}} run scoreboard players add @s EquipmentResolve 50
+execute if entity @s[tag=golden_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:golden_chestplate",count:1}} run scoreboard players add @s EquipmentAgility 25
+execute if entity @s[tag=golden_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:golden_chestplate",count:1}} run tag @s remove golden_chestplate
+
+execute unless entity @s[tag=diamond_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:diamond_chestplate",count:1}} run scoreboard players add @s EquipmentIntellect 50
+execute unless entity @s[tag=diamond_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:diamond_chestplate",count:1}} run scoreboard players add @s EquipmentResolve 25
+execute unless entity @s[tag=diamond_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:diamond_chestplate",count:1}} run scoreboard players remove @s EquipmentAgility 50
+execute unless entity @s[tag=diamond_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:diamond_chestplate",count:1}} run scoreboard players remove @s EquipmentStrength 25
+execute unless entity @s[tag=diamond_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:diamond_chestplate",count:1}} run tag @s add diamond_chestplate
+execute if entity @s[tag=diamond_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:diamond_chestplate",count:1}} run scoreboard players remove @s EquipmentIntellect 50
+execute if entity @s[tag=diamond_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:diamond_chestplate",count:1}} run scoreboard players remove @s EquipmentResolve 25
+execute if entity @s[tag=diamond_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:diamond_chestplate",count:1}} run scoreboard players add @s EquipmentAgility 50
+execute if entity @s[tag=diamond_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:diamond_chestplate",count:1}} run scoreboard players add @s EquipmentStrength 25
+execute if entity @s[tag=diamond_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:diamond_chestplate",count:1}} run tag @s remove diamond_chestplate
+
+execute unless entity @s[tag=netherite_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:netherite_chestplate",count:1}} run scoreboard players add @s EquipmentResolve 50
+execute unless entity @s[tag=netherite_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:netherite_chestplate",count:1}} run scoreboard players add @s EquipmentVigor 25
+execute unless entity @s[tag=netherite_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:netherite_chestplate",count:1}} run scoreboard players remove @s EquipmentAgility 50
+execute unless entity @s[tag=netherite_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:netherite_chestplate",count:1}} run scoreboard players remove @s EquipmentConceal 25
+execute unless entity @s[tag=netherite_chestplate] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:netherite_chestplate",count:1}} run tag @s add netherite_chestplate
+execute if entity @s[tag=netherite_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:netherite_chestplate",count:1}} run scoreboard players remove @s EquipmentResolve 50
+execute if entity @s[tag=netherite_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:netherite_chestplate",count:1}} run scoreboard players remove @s EquipmentVigor 25
+execute if entity @s[tag=netherite_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:netherite_chestplate",count:1}} run scoreboard players add @s EquipmentAgility 50
+execute if entity @s[tag=netherite_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:netherite_chestplate",count:1}} run scoreboard players add @s EquipmentConceal 25
+execute if entity @s[tag=netherite_chestplate] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:netherite_chestplate",count:1}} run tag @s remove netherite_chestplate
+
+execute unless entity @s[tag=elytra] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:elytra",count:1}} run scoreboard players add @s EquipmentAgility 75
+execute unless entity @s[tag=elytra] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:elytra",count:1}} run scoreboard players add @s EquipmentIntellect 50
+execute unless entity @s[tag=elytra] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:elytra",count:1}} run scoreboard players add @s EquipmentConceal 25
+execute unless entity @s[tag=elytra] if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:elytra",count:1}} run tag @s add elytra
+execute if entity @s[tag=elytra] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:elytra",count:1}} run scoreboard players remove @s EquipmentAgility 75
+execute if entity @s[tag=elytra] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:elytra",count:1}} run scoreboard players remove @s EquipmentIntellect 50
+execute if entity @s[tag=elytra] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:elytra",count:1}} run scoreboard players remove @s EquipmentConceal 25
+execute if entity @s[tag=elytra] unless data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:elytra",count:1}} run tag @s remove elytra

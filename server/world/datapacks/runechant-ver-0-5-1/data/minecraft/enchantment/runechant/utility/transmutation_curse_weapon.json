@@ -1,0 +1,73 @@
+{
+  "anvil_cost": 8,
+  "description": {
+    "translate": "enchantment.minecraft.transmutation_curse_weapon"
+  },
+  "effects": {
+"minecraft:post_attack": [
+      {
+        "enchanted": "attacker",
+        "affected": "attacker",
+
+        "effect": {
+          "type": "minecraft:all_of",
+          "effects": [
+
+      {
+          "type": "minecraft:run_function",
+          "function": "runechant:transmute_weapon"
+      },
+
+      {
+        "type": "minecraft:play_sound",
+        "sound": "minecraft:entity.illusioner.cast_spell",
+        "volume": 5.0,
+        "pitch": 1.0
+      },
+
+      {
+        "type": "minecraft:spawn_particles",
+        "particle": { "type": "minecraft:squid_ink" },
+        "speed": 1.0,
+
+        "horizontal_position": {
+                               "type": "entity_position",
+                               "offset": 0.0
+                               },
+
+        "vertical_position": {
+                               "type": "entity_position",
+                               "offset": 1.0
+                               },
+
+        "horizontal_velocity": {
+                               "base": 0.0,
+                               "movement_scale": 0.0
+                               },
+
+        "vertical_velocity": {
+                               "base": 0.0,
+                               "movement_scale": 0.0
+                               }
+      }
+
+          ]
+        }
+      }
+    ]
+  },
+  "max_cost": {
+    "base": 50,
+    "per_level_above_first": 0
+  },
+  "max_level": 1,
+  "min_cost": {
+    "base": 25,
+    "per_level_above_first": 0
+  },
+  "slots": [
+    "any"
+  ],
+  "supported_items": "#minecraft:enchantable/vanishing",
+  "weight": 1
+}

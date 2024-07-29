@@ -1,0 +1,1 @@
+execute if score @s LuckCheck >= RNG RNG_Variable run effect give @s minecraft:resistance 1 9 true

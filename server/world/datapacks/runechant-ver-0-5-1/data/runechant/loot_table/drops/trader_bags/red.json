@@ -1,0 +1,179 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.03,
+        "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "runechant:resources/fragment_life",
+          "weight": 3
+          },
+        {
+          "type": "minecraft:loot_table",
+          "value": "runechant:resources/random_clusters",
+          "weight": 2
+          },
+
+
+
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:bone/bogged",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+        }]},
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:bone/goat",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+        }]},
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:bone/phantom",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+        }]},
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:bone/skeleton",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+        }]},
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:bone/skeleton_horse",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+        }]},
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:bone/stray",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+        }]},
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:bone/wither_skeleton",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+        }]},
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:bone/wolf",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+        }]},
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:feather/parrot",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+        }]},
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:fermented_spider_eye/cave_spider",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+        }]},
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:flint_and_steel/creeper",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+        }]},
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:rabbit_foot/rabbit",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+        }]},
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:string/sheep",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              }
+        }]}
+      ],
+      "rolls": 8.0
+    }
+  ]
+}

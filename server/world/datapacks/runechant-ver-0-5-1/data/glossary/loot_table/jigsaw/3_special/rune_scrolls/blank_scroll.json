@@ -1,0 +1,32 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:jigsaw",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                              "minecraft:custom_model_data":1997345,
+
+                              "minecraft:item_name":"{\"text\":\"Blank Rune Scroll\",\"color\":\"white\",\"italic\":false,\"bold\":false}",
+                              "minecraft:lore":["{\"text\":\"Capable of absorbing the power of runes\",\"color\":\"white\",\"italic\":false,\"bold\":false}"]
+                            }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

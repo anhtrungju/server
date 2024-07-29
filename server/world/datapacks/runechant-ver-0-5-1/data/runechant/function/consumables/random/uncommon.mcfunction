@@ -1,0 +1,2 @@
+clear @s minecraft:jigsaw[minecraft:custom_model_data=1997120,minecraft:lore=['{"bold":false,"color":"white","italic":false,"text":"Random (Uncommon)"}']]
+loot give @s loot glossary:jigsaw/1_resources/crystal_uncommon

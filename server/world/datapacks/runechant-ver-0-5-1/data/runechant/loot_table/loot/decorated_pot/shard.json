@@ -1,0 +1,55 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.03,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "quality": 1,
+          "value": "runechant:resources/random_clusters"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 1,
+          "value": "runechant:resources/rock_crusher_dusts"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 1,
+          "value": "runechant:resources/rock_crusher_gems"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 1,
+          "value": "runechant:resources/rock_crusher_ore"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 1,
+          "value": "glossary:jigsaw/1_resources/fragment_depth"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 1,
+          "value": "glossary:jigsaw/1_resources/fragment_enchantment"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 1,
+          "value": "glossary:jigsaw/1_resources/fragment_growth"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 1,
+          "value": "glossary:jigsaw/1_resources/fragment_life"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 1,
+          "value": "glossary:jigsaw/1_resources/fragment_mineral"
+        }
+      ],
+      "rolls": 5.0
+    }
+  ]
+}

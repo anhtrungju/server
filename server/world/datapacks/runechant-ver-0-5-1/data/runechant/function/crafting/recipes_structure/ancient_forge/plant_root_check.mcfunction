@@ -1,0 +1,6 @@
+execute if data storage minecraft:runechant_crafting_ancient_forge {runechant:{Item:{id:"minecraft:poisonous_potato",count:1,components:{"minecraft:custom_model_data":199710}}}} run function runechant:crafting/recipes_structure/ancient_forge/plant_roots
+execute if data storage minecraft:runechant_crafting_ancient_forge {runechant:{Item:{id:"minecraft:poisonous_potato",count:1,components:{"minecraft:custom_model_data":199711}}}} run function runechant:crafting/recipes_structure/ancient_forge/plant_roots
+execute if data storage minecraft:runechant_crafting_ancient_forge {runechant:{Item:{id:"minecraft:poisonous_potato",count:1,components:{"minecraft:custom_model_data":199712}}}} run function runechant:crafting/recipes_structure/ancient_forge/plant_roots
+execute if data storage minecraft:runechant_crafting_ancient_forge {runechant:{Item:{id:"minecraft:poisonous_potato",count:1,components:{"minecraft:custom_model_data":199713}}}} run function runechant:crafting/recipes_structure/ancient_forge/plant_roots
+execute if data storage minecraft:runechant_crafting_ancient_forge {runechant:{Item:{id:"minecraft:poisonous_potato",count:1,components:{"minecraft:custom_model_data":199714}}}} run function runechant:crafting/recipes_structure/ancient_forge/plant_roots
+

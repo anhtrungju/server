@@ -1,0 +1,36 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:jigsaw",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                              "minecraft:custom_model_data":1997346,
+
+                              "minecraft:item_name":"{\"text\":\"Charged Rune Scroll\",\"color\":\"light_purple\",\"italic\":false,\"bold\":false}",
+                              "minecraft:lore":["{\"text\":\"Attuned to target yourself.\",\"color\":\"white\",\"italic\":false,\"bold\":false}"],
+
+                              "minecraft:enchantment_glint_override":true,
+
+                              "minecraft:max_stack_size":1
+                            }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

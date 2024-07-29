@@ -1,0 +1,1 @@
+execute if data storage minecraft:runechant_crafting_polished_basalt {runechant:{Item:{id:"minecraft:netherite_scrap",count:1,components:{"minecraft:custom_model_data":19978}}}} if data storage minecraft:runechant_crafting_polished_basalt1 {runechant:{Item:{id:"minecraft:shield"}}} run function runechant:equipment_tinkering/polishedbasalt_shield_offensive

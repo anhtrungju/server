@@ -1,0 +1,32 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:jigsaw",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                              "minecraft:custom_model_data":1997605,
+
+                              "minecraft:item_name":"{\"text\":\"Unfinished Amethyst Potion\",\"color\":\"green\",\"italic\":false,\"bold\":false}",
+                              "minecraft:lore":["{\"text\":\"Ready to be completed with the correct Plant Paste.\",\"color\":\"white\",\"italic\":false,\"bold\":false}"]
+                            }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

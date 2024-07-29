@@ -1,0 +1,36 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                              "minecraft:custom_model_data":19971,
+
+                              "minecraft:item_name":"{\"text\":\"Waxing Copper Flask\",\"color\":\"white\",\"italic\":false,\"bold\":false}",
+                              "minecraft:lore":["{\"text\":\"Wax Coating (Soul)\",\"color\":\"dark_red\",\"italic\":false,\"bold\":false}","{\"text\":\"Place in the corresponding\",\"color\":\"white\",\"italic\":false,\"bold\":false}","{\"text\":\"inventory slot to activate.\",\"color\":\"white\",\"italic\":false,\"bold\":false}","{\"text\":\"Once active chance on\",\"color\":\"white\",\"italic\":false,\"bold\":false}","{\"text\":\"hit to apply effect.\",\"color\":\"white\",\"italic\":false,\"bold\":false}"],
+                              
+                              "minecraft:max_stack_size":3,
+                              
+                              "minecraft:potion_contents":{"custom_color":13218551,"custom_effects":[{"id":"minecraft:instant_damage","amplifier":2,"duration":1}]}
+                            }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

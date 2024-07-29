@@ -1,0 +1,154 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.03,
+      "entries": [
+       
+ {
+          "type": "minecraft:loot_table",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "weight": 1,
+          "quality": 1,
+          "value": "glossary:poisonous_potato/root_red"
+        },
+
+ {
+          "type": "minecraft:loot_table",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "weight": 1,
+          "quality": 1,
+          "value": "glossary:poisonous_potato/root_purple"
+        },
+
+ {
+          "type": "minecraft:loot_table",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "weight": 1,
+          "quality": 1,
+          "value": "glossary:poisonous_potato/root_green"
+        },
+
+ {
+          "type": "minecraft:loot_table",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "weight": 1,
+          "quality": 1,
+          "value": "glossary:poisonous_potato/root_aqua"
+        },
+
+ {
+          "type": "minecraft:loot_table",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "weight": 1,
+          "quality": 1,
+          "value": "glossary:poisonous_potato/root_yellow"
+        },
+
+ {
+          "type": "minecraft:loot_table",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "weight": 1,
+          "quality": 1,
+          "value": "glossary:poisonous_potato/root_black"
+        },
+
+ {
+          "type": "minecraft:loot_table",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "weight": 1,
+          "quality": 1,
+          "value": "glossary:poisonous_potato/root_gray"
+        },
+
+ {
+          "type": "minecraft:loot_table",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "weight": 1,
+          "quality": 1,
+          "value": "glossary:poisonous_potato/root_blue"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

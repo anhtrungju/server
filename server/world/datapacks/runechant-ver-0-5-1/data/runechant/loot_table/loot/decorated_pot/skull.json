@@ -1,0 +1,66 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.03,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 3.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "weight": 27,
+          "quality": 1,
+          "name": "minecraft:bone"
+        },
+
+
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 3.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "weight": 9,
+          "quality": 1,
+          "name": "minecraft:skeleton_skull"
+        },
+
+
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 3.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "weight": 1,
+          "quality": 1,
+          "name": "minecraft:wither_skeleton_skull"
+        }
+
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.03,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "weight": 27,
+          "quality": 1,
+          "name": "minecraft:name_tag"
+        },
+
+
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "weight": 9,
+          "quality": 1,
+          "name": "minecraft:bundle"
+        },
+
+
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "weight": 1,
+          "quality": 1,
+          "name": "minecraft:netherite_upgrade_smithing_template"
+        }
+
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

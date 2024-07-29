@@ -1,0 +1,37 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:potion",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                              "minecraft:custom_model_data":19972,
+
+                              "minecraft:item_name":"{\"text\":\"Enchanted Waxing Copper Flask\",\"color\":\"green\",\"italic\":false,\"bold\":false}",
+                              "minecraft:lore":["{\"text\":\"Wax Coating (Bleed)\",\"color\":\"dark_red\",\"italic\":false,\"bold\":false}","{\"text\":\"Place in the corresponding\",\"color\":\"white\",\"italic\":false,\"bold\":false}","{\"text\":\"inventory slot to activate.\",\"color\":\"white\",\"italic\":false,\"bold\":false}","{\"text\":\"Once active chance on\",\"color\":\"white\",\"italic\":false,\"bold\":false}","{\"text\":\"hit to apply effect.\",\"color\":\"white\",\"italic\":false,\"bold\":false}"],
+                              
+                              "minecraft:enchantment_glint_override":true,
+                              "minecraft:max_stack_size":8,
+                              
+                              "minecraft:potion_contents":{"custom_color":10036003,"custom_effects":[{"id":"minecraft:instant_damage","amplifier":2,"duration":1}]}
+                            }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

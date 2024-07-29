@@ -1,0 +1,1 @@
+particle minecraft:electric_spark ~ ~ ~ 0.1 0.1 0.1 0.001 20

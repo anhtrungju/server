@@ -1,0 +1,1 @@
+effect give @s minecraft:strength 3 0 true

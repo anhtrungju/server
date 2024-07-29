@@ -1,0 +1,6 @@
+execute if data storage minecraft:runechant_crafting_reinforced_deepslate2 {runechant:{Item:{id:"minecraft:leather",count:64,components:{"minecraft:custom_model_data":19971}}}} if data storage minecraft:runechant_crafting_reinforced_deepslate3 {runechant:{Item:{id:"minecraft:snowball",count:1,components:{"minecraft:custom_model_data":19971}}}} run function runechant:crafting/recipes_structure/reinforced_deepslate/pattern/archer
+
+execute if data storage minecraft:runechant_crafting_reinforced_deepslate2 {runechant:{Item:{id:"minecraft:netherite_scrap",count:64,components:{"minecraft:custom_model_data":199711}}}} if data storage minecraft:runechant_crafting_reinforced_deepslate3 {runechant:{Item:{id:"minecraft:raw_iron",count:1,components:{"minecraft:custom_model_data":19971}}}} run function runechant:crafting/recipes_structure/reinforced_deepslate/pattern/gladiator
+
+execute if data storage minecraft:runechant_crafting_reinforced_deepslate2 {runechant:{Item:{id:"minecraft:stick",count:64,components:{"minecraft:custom_model_data":19973}}}} if data storage minecraft:runechant_crafting_reinforced_deepslate3 {runechant:{Item:{id:"minecraft:blaze_rod",count:1,components:{"minecraft:custom_model_data":19971}}}} run function runechant:crafting/recipes_structure/reinforced_deepslate/pattern/mage
+

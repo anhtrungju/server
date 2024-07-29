@@ -1,0 +1,1 @@
+particle minecraft:item{item:{id:"minecraft:nether_star"}} ~ ~1 ~ 0.3 0.3 0.3 0.00001 1

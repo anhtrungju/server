@@ -1,0 +1,2 @@
+execute if score *Timer5s Runechant_Timers matches 1 if data storage minecraft:runechant_inventory {runechant:[{id:"minecraft:raw_gold"}]} run effect give @s minecraft:resistance 5 1 true
+execute if score *Timer5s Runechant_Timers matches 1 if data storage minecraft:runechant_inventory {runechant:[{id:"minecraft:raw_gold"}]} run clear @s minecraft:raw_gold 1

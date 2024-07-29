@@ -1,0 +1,2 @@
+title @a[distance=..16] title [{"text":"Hehe fun fun...","color":"red"}]
+summon minecraft:allay ~ ~ ~ {Tags:["tBoss","Bossbar","allay"],CustomName:'[{"text":"Ug, the Trickster","color":"red"}]',DeathLootTable:"runechant:need_to_make/boss_drops/allay",Health:1000,attributes:[{id:"generic.armor",base:4d},{id:"generic.armor_toughness",base:2d},{id:"generic.attack_damage",base:6d},{id:"generic.attack_knockback",base:0.2d},{id:"generic.knockback_resistance",base:0.2d},{id:"generic.follow_range",base:32d},{id:"generic.max_health",base:1000d}]}
