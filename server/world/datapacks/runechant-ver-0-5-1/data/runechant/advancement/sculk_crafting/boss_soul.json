@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:nether_star",
+"components":{"minecraft:custom_model_data":19971}
+},
+
+
+"title":"Fragmented Power                              ",
+"description":"Using any Boss Soul you can empower an item with an [Empty Slot] with a fragment of the bosses power, simply throw the two items into a Sculk Forge [Required: 1x Any Boss Soul 1x Item with [Empty Slot] | Drop Craft With: Sculk Forge]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:sculk_crafting/enchant_crystal_legendary",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

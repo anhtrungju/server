@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:lead"
+},
+
+
+"title":"A New Lead                              ",
+"description":"Perhaps there's a way to get villagers to be more productive. Maybe a mascot? Like a Llama in the middle of the villager",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:world/root",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:bell",
+"components":{"minecraft:custom_model_data":199734}
+},
+
+
+"title":"Blooming Life                              ",
+"description":"This Season Effect can cause beneficial Life Blooms to form, as well as periodically causing bouts of Luck or Saturation and at times grant Life to it's travellers. Affects Fair Weathered & Warm Biomes",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:seasons/seasons_life",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

@@ -1,0 +1,33 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                              "minecraft:custom_model_data":19971,
+
+                              "minecraft:written_book_content":{ "title":"Secrets of True Enchantment","author":"???","generation":3,"pages":[
+                              "{\"text\":\"Secrets\"}"
+                              ] }
+                            }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

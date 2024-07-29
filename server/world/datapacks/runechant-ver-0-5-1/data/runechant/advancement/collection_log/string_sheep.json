@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:string",
+"components":{"minecraft:custom_model_data":19972}
+},
+
+
+"title":"Fleece                              ",
+"description":"Dropped or shed by Sheep, can be used in crafting",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:collection_log/mob_drops_animal_parts",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

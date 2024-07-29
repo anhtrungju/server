@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997528}
+},
+
+
+"title":"Preparing the Base                              ",
+"description":"To start off, all Amethyst Potions share the same base, take the tops of Enchanted Mushrooms and throw them into a Boiling Cauldron with a Amethyst Bottle to fill it",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":false,
+"hidden":false
+},
+
+"parent":"runechant:nexus/activities_scrolls_craytian_bottles",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

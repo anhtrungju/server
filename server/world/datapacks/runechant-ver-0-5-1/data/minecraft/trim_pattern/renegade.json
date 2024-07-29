@@ -1,0 +1,7 @@
+{
+  "asset_id": "renegade",
+  "description": {
+    "translate": "trim_pattern.minecraft.renegade"
+  },
+  "template_item": "minecraft:barrier"
+}

@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997413}
+},
+
+
+"title":"Experience Holder Jewel                              ",
+"description":"Combine a Runecarver's Jewel in an Experience Infuser with a stack of Quartz, Books, Glass Bottles [Required: 1x Any Runecarver's Jewel 64x Quartz 64x Book 64x Glass Bottle | Drop Craft With: Experience Infuser]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:research/runecarvers_jewel_use",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

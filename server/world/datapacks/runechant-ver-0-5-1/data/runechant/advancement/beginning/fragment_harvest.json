@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997103}
+},
+
+
+"title":"Fragment of Harvest                              ",
+"description":"Found by harvesting crops & used for crafting",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:beginning/fragment_mineral",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

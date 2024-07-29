@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:bell",
+"components":{"minecraft:custom_model_data":199737}
+},
+
+
+"title":"Noxious Thorns                              ",
+"description":"This Season Effect can cause dangerous Creeping Vines to form, as well as periodically causing bouts of Poison or Nausea and at times inflict Bane on it's travellers. Affects Deep Below & Reprieved Nether Biomes",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:seasons/seasons_otherworldly_growth",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

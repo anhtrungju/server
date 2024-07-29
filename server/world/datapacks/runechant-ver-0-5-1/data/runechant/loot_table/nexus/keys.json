@@ -1,0 +1,64 @@
+{
+  "pools": [
+    {
+      "entries": [
+
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:raw_copper/key_bottom",
+          "weight": 27
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:raw_copper/key_middle",
+          "weight": 27
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:raw_copper/key_top",
+          "weight": 27
+        },
+
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:raw_iron/key_bottom",
+          "weight": 9
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:raw_iron/key_middle",
+          "weight": 9
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:raw_iron/key_top",
+          "weight": 9
+        },
+
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:raw_gold/key_bottom",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:raw_gold/key_middle",
+          "weight": 3
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:raw_gold/key_top",
+          "weight": 3
+        },
+
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:jigsaw/2_nexus/ancient_key",
+          "weight": 1
+        }
+
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

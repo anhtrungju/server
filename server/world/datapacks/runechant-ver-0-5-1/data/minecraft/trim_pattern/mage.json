@@ -1,0 +1,7 @@
+{
+  "asset_id": "mage",
+  "description": {
+    "translate": "trim_pattern.minecraft.mage"
+  },
+  "template_item": "minecraft:barrier"
+}

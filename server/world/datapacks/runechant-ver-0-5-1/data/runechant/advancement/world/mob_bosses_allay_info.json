@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:flower_banner_pattern"
+},
+
+
+"title": "The Funist Guy Around                              ",
+"description": "Locked away in a Woodland Mansion I found quite the prankster, he liked to keep interesting company too. I'm sure he'll show up if he sees his buddies having a laugh. Just go and give one of those gray ones some Bundled TNT and he's sure to join in",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:world/mob_bosses_allay",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

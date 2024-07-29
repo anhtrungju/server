@@ -1,0 +1,152 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.03,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "quality": 9,
+          "value": "runechant:resources/bonus_ore"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 9,
+          "value": "runechant:resources/random_crystal"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 9,
+          "value": "runechant:resources/random_affinity"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 3,
+          "value": "runechant:resources/random_clusters"
+        },
+
+
+
+        {
+          "type": "minecraft:loot_table",
+          "quality": 9,
+          "value": "runechant:nexus/chest_plant"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 9,
+          "value": "runechant:nexus/chest_resources"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 9,
+          "value": "runechant:nexus/chest_potion"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 3,
+          "value": "runechant:nexus/chest_special"
+        },
+
+
+
+        {
+          "type": "minecraft:loot_table",
+          "quality": 9,
+          "value": "runechant:glossary/paper/infused_paper"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 3,
+          "value": "runechant:glossary/phantom_membrane/allay"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 3,
+          "value": "runechant:glossary/phantom_membrane/vex"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 3,
+          "value": "runechant:glossary/jigsaw/2_labrinth/5_food/ancient_eye"
+        },
+
+
+
+        {
+          "type": "minecraft:loot_table",
+          "quality": 9,
+          "value": "runechant:glossary/jigsaw/2_labrinth/5_food/rotting_ration"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 9,
+          "value": "runechant:glossary/jigsaw/2_labrinth/5_food/ration"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 3,
+          "value": "runechant:glossary/jigsaw/2_labrinth/5_food/xp_catalyst"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 3,
+          "value": "runechant:glossary/jigsaw/2_labrinth/5_food/shrinking_tonic"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 3,
+          "value": "runechant:glossary/jigsaw/2_labrinth/5_food/golden_dew"
+        },
+
+
+
+        {
+          "type": "minecraft:loot_table",
+          "quality": 9,
+          "value": "runechant:glossary/jigsaw/2_labrinth/soulfire_fragment"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 9,
+          "value": "runechant:glossary/jigsaw/2_labrinth/blackstone_ingot"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 9,
+          "value": "runechant:glossary/jigsaw/2_labrinth/amethyst_splinter"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 9,
+          "value": "runechant:glossary/jigsaw/2_labrinth/amethyst_string"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 3,
+          "value": "runechant:glossary/jigsaw/2_labrinth/blank_scroll"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 1,
+          "value": "runechant:glossary/jigsaw/2_labrinth/essence_of_magic_allay"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 1,
+          "value": "runechant:glossary/jigsaw/2_labrinth/essence_of_magic_ancient"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 1,
+          "value": "runechant:glossary/jigsaw/2_labrinth/essence_of_magic_runic"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 1,
+          "value": "runechant:glossary/jigsaw/2_labrinth/essence_of_magic_vex"
+        }
+      ],
+      "rolls": 18.0
+    }
+  ]
+}

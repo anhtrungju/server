@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:netherite_scrap",
+"components":{"minecraft:custom_model_data":19971}
+},
+
+
+"title":"Tinkerers Template - Defensive                              ",
+"description":"Combine a Etched Diamond (Armor), Netherite Upgrade Template & a stack of World Fragment (Mineral) in the centre of a Deepslate Furnace [Required: 1x Etched Diamond (Armor) 64x World Fragment (Mineral) | Drop Craft With: Deepslate Furnace]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:physical_crafting/attributeupgrades_base",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

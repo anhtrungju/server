@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997524}
+},
+
+
+"title":"Reconstructing a Powerful Relic                              ",
+"description":"Of all the possibilities perhaps wraping an Ancient Eye in a stack of Ancient Leather along with a Shard of Power in a Sculk Forge could yield something [Required: 1x Ancient Eye 64x Faded Scrap 1x Shard of Power | Drop Craft With: Sculk Forge]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:world/ancient_leather",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

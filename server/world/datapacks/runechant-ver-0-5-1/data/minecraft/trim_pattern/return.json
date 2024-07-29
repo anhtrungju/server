@@ -1,0 +1,7 @@
+{
+  "asset_id": "return",
+  "description": {
+    "translate": "trim_pattern.minecraft.return"
+  },
+  "template_item": "minecraft:barrier"
+}

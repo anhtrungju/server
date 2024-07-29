@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:quartz"
+},
+
+
+"title":"Material - Quartz                              ",
+"description":"Trimmed equipment increases Attack Damage by 9%. Wearing a full set of armor trimmed in this Material provides a bonus to Strength",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:physical_crafting/smithing_material_netherite_ingot",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

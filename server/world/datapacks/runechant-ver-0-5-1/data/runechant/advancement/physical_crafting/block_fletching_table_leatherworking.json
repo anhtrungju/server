@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:string",
+"components":{"minecraft:custom_model_data":19972}
+},
+
+
+"title":"Working With Leather                              ",
+"description":"Drop a Fleece, Iron Nail & Leather (Mob Specific) onto a Fletching Table, along with an already Trimmed piece of Armor to convert it to a new Leather Trim [Required: 1x Fleece 1x Iron Nail 1x Unique Leather 1x Any Trimmed Armor Piece | Drop Craft With: Fletching Table]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:physical_crafting/drop_fletching_table",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

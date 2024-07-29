@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:soul_lantern"
+},
+
+
+"title":"Dragon Altar Adornments                              ",
+"description":"By placing Soul Lanterns on any of the End Stone Brick Walls you can increase the efficiency of the Dragon Altar [Required: 1-4x Soul Lantern]",
+"frame":"challenge",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:world/dragon_altar",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

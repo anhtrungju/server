@@ -1,0 +1,7 @@
+{
+  "asset_id": "donkey",
+  "description": {
+    "translate": "trim_pattern.minecraft.donkey"
+  },
+  "template_item": "minecraft:barrier"
+}

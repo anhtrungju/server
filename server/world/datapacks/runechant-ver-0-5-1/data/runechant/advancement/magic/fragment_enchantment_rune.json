@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997102}
+},
+
+
+"title":"Greater Runecrafting                              ",
+"description":"Add a World Fragment (Enchantment) to a Inscribed Rune in an Enchanter's Crucible to increase it's potency [Required: 1x World Fragment (Enchantment) 1x Any Rune | Drop Craft With: Enchanter's Crucible]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:magic/rune_inscribed_rune",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

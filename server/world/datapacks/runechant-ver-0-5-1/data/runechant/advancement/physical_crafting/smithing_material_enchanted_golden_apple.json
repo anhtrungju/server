@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:enchanted_golden_apple"
+},
+
+
+"title":"Material - E. Golden Apple                              ",
+"description":"Trimmed equipment increases Armor, Armor Toughness, Attack Damage & Attack Speed by 5% but decreases Health, Luck & Movement Speed by 3%. Wearing a full set of armor trimmed in this Material gives the ability to inflict Wither on contact and a chance to clear Weakness & Slowness",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:physical_crafting/smithing_material_slime_ball",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

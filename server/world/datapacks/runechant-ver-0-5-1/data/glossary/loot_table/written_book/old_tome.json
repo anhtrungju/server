@@ -1,0 +1,37 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                              "minecraft:custom_model_data":19972,
+
+                              "minecraft:written_book_content":{ "title":"Old Book","author":"Nayhr","generation":3,"pages":[
+                              "{\"text\":\"Barely any pages can be read but you take note of what you can.\"}",
+                              "{\"text\":\"Entry 3 - What a marvelous world\\n\\nSeasons not only change with time but biome, dimension & locations above and below ground.\"}",
+                              "{\"text\":\"Entry 7 - Dangerously exciting behavior\\n\\nEvery being living, dead & construct has awoken mysterious abilities. Although it seems the more aggressive the creature was the greater its new arsenal.\"}",
+                              "{\"text\":\"Entry 9 - Work Ethic\\n\\nI always knew villagers were fond of emeralds, but who knew a steady supply would keep them working rather than simply trading. Stashing them in the pack animal in the center of town turned out to be a wise decision.\"}",
+                              "{\"text\":\"Entry 13 - The still hearts\\n\\nI can hear something beating beneath my feet, calling to me, alluring me. Yet all I find when I go searching are old pots. Should I disturb these relics...?\"}"
+                              ] }
+                            }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

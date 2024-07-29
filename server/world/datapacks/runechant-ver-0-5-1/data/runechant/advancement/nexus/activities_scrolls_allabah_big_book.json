@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:enchanted_book",
+"components":{"minecraft:custom_model_data":199754}
+},
+
+
+"title":"Big Book of Enchants                              ",
+"description":"Not all Big Books are the same, while the ones in the house are already full of knowledge, Allabah has some special ones that are more receptive to enchants. When combined with 3 World Fragment (Enchantment) in an Enchanter's Crucible they will always be granted a max level enchant",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":false,
+"hidden":false
+},
+
+"parent":"runechant:nexus/activities_scrolls_allabah_book_burning",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "place_holder",
+  "description": {
+    "translate": "trim_pattern.minecraft.place_holder"
+  },
+  "template_item": "minecraft:barrier"
+}

@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:string",
+"components":{"minecraft:custom_model_data":19973}
+},
+
+
+"title":"Better Brush Bristles                              ",
+"description":"Drop a Brush, Spider Silk and 3 fur Tufts onto a Fletching Table to upgrade the Brush [Required: 1x Brush 1x Spider Silk 3x Any Fur Tuft | Drop Craft With: Fletching Table]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:physical_crafting/drop_fletching_table",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

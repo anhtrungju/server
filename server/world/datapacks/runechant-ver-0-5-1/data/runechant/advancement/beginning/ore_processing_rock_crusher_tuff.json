@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:tuff"
+},
+
+
+"title":"Crushing Tuff                              ",
+"description":"Crushing this may yield Emeralds, Redstone and/or Lapis Lazuli",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:beginning/ore_processing_rock_crusher_gravel",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

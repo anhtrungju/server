@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997339}
+},
+
+
+"title":"Creating a Spell Altar                              ",
+"description":"An End Spawner Structure Kit can be made by dropping a Stone Saw & Hammer, 4 Enchanting Tables, 3 pieces of Crying Obsidian & End Crystal onto a Fletching Table [Required: 1x Stone Saw & Hammer 4x Enchanting Table 3x Crying Obsidian 1x End Crystal | Drop Craft With: Fletching Table]",
+"frame":"challenge",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:magic/root",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

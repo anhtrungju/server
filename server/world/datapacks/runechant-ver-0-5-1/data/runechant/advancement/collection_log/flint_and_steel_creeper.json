@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:flint_and_steel",
+"components":{"minecraft:custom_model_data":19971}
+},
+
+
+"title":"Creeper Fuse                              ",
+"description":"Dropped by Creepers, can be used in crafting",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:collection_log/snowball_snow_golem",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

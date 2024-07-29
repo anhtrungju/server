@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:netherite_upgrade_smithing_template"
+},
+
+
+"title":"Leather Trim Bonuses                              ",
+"description":"Codex of bonuses from different Leather Trims after they have been found and applied, effects are based on the total number of equipped pieces of any trim, allowing for different combinations",
+"frame":"goal",
+"show_toast":false,
+"announce_to_chat":false,
+"hidden":false
+},
+
+"parent":"runechant:physical_crafting/block_fletching_table_leatherworking",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

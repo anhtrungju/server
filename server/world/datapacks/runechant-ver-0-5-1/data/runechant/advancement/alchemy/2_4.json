@@ -1,0 +1,33 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:potion",
+"components":{"minecraft:custom_model_data":19971,"minecraft:potion_contents":{"custom_color":12097079}}
+},
+
+
+"title":"Wax Ball - Green / Red                              ",
+"description":"Splinter - Causes the afflicted to take damage if moving",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":false,
+"hidden":true
+},
+
+"parent":"runechant:alchemy/2_3",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}
+
+
+

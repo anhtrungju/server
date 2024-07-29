@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:raw_gold",
+"components":{"minecraft:custom_model_data":19970}
+},
+
+
+"title":"Gold Cluster                              ",
+"description":"Found by mining Gold Ore & can be placed in an Enchanted or Ancient Satchel",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:beginning/fragment_mineral_cluster2",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:enchanted_book"
+},
+
+
+"title":"Enchantment - Swift Sneak III                              ",
+"description":"Using Swift Sneak as the base Enchantment will result in the Attuned Weapon/Tool triggering it's Affinity effect when Sneaking",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:sculk_crafting/affinity_attuning_utility",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

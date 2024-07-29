@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:potion"
+},
+
+
+"title":"Cauldron Brewing                              ",
+"description":"Cauldron Brewing creates minor Beacon-like effects in a 32 Block radius causing all entities to gain an effect in bursts every 5 Seconds for 3 Minutes",
+"frame":"goal",
+"show_toast":false,
+"announce_to_chat":false,
+"hidden":true
+},
+
+"parent":"runechant:alchemy/cauldron_home_brew",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

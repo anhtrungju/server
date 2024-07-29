@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#minecraft:crops",
+    "#minecraft:flowers",
+    "#minecraft:saplings",
+    "#minecraft:cave_vines",
+    "#minecraft:crimson_stems",
+    "#minecraft:warped_stems"
+  ]
+}

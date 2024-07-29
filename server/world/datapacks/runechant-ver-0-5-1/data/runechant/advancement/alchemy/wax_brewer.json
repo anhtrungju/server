@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997339}
+},
+
+
+"title":"Setting Up A Wax Refinery                              ",
+"description":"A Wax Refinery Structure Kit can be made by dropping a Stone Saw & Hammer, Brewing Stand, Lightning Rod, Lodestone & Campfire onto a Fletching Table [Required: 1x Stone Saw & Hammer 1x Brewing Stand 1x Lightning Rod 1x Lodestone 1x Campfire | Drop Craft With: Fletching Table]",
+"frame":"challenge",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:alchemy/wax_ball",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

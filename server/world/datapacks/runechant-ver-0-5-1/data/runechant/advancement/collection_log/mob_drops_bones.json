@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:flower_banner_pattern"
+},
+
+
+"title": "Collection Log - Extra Bones                              ",
+"description": "Uniquely shaped bones, found by hunting the undead",
+"frame":"goal",
+"show_toast":false,
+"announce_to_chat":false,
+"hidden":false
+},
+
+"parent":"runechant:collection_log/root",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

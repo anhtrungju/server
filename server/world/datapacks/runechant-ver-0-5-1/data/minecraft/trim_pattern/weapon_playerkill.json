@@ -1,0 +1,7 @@
+{
+  "asset_id": "weapon_playerkill",
+  "description": {
+    "translate": "trim_pattern.minecraft.weapon_playerkill"
+  },
+  "template_item": "minecraft:barrier"
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "runecarver",
+  "description": {
+    "translate": "trim_pattern.minecraft.runecarver"
+  },
+  "template_item": "minecraft:barrier"
+}

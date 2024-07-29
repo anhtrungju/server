@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:dragon_breath",
+"components":{"minecraft:custom_model_data":19971}
+},
+
+
+"title": "Distilling Dread                              ",
+"description": "Use a Wax Refinery to melt a stack of Membrane Paste into a bottle of Dragon Breath [Required: 1x Dragon Breath 64x Membrane Paste | Drop Craft With: Wax Refinery]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:world/mob_bosses",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

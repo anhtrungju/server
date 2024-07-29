@@ -1,0 +1,7 @@
+{
+  "asset_id": "mooshroom",
+  "description": {
+    "translate": "trim_pattern.minecraft.mooshroom"
+  },
+  "template_item": "minecraft:barrier"
+}

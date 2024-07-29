@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997205}
+},
+
+
+"title":"Crafting Warding Stones                              ",
+"description":"The final step to making Warding Stones is to use a Lightning Forge to combine the Cooled Bud with Empowered Amethyst",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":false,
+"hidden":false
+},
+
+"parent":"runechant:nexus/activities_scrolls_xelric_cooled_bud",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

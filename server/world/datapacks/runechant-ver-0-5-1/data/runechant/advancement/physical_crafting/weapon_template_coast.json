@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:coast_armor_trim_smithing_template"
+},
+
+
+"title":"Coastal Plating - Weapon/Tool                              ",
+"description":"Having a weapon or tool trimmed with this Pattern in your Mainhand or Offhand grants the Chance to blind your opponent when Attacking",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:physical_crafting/weapon_template_wild",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:phantom_membrane",
+"components":{"minecraft:custom_model_data":19972}
+},
+
+
+"title":"Crafting a Rejuvenating Spell Tome                              ",
+"description":"Depending on which material you use for the cover the outcome will be different, an Allay Membrane will create a Rejuvenating Spell Tome [Required: 1x Allay Membrane | Drop Craft With: Spell Altar]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:magic/spell_tome_paper",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

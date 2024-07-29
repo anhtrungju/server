@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:shield",
+"components":{"minecraft:trim":{"material":"minecraft:affinity_deep_dark","pattern":"minecraft:weapon_dealt"}}
+},
+
+
+"title":"Melee Affinity Abilities                              ",
+"description":"Abilities granted to a Weapon/Tool have different activation requirements, melee abilities require combat interaction and are affected by Luck. Each Enchanted Book and Heart of Affinity will create different combinations",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:sculk_crafting/affinity_attuning_enchanted_books",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

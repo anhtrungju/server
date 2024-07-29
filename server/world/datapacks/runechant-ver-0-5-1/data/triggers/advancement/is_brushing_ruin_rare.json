@@ -1,0 +1,28 @@
+{
+"display":
+{
+"icon":
+{
+"item":"minecraft:barrier"
+},
+
+"title":"isBrushing",
+"description":"",
+"frame":"task",
+"show_toast":false,
+"announce_to_chat":false,
+"hidden":true
+},
+
+"parent":"triggers:root",
+
+"criteria": {
+    "trail_ruins_rare": {
+      "conditions": {
+        "loot_table": "minecraft:archaeology/trail_ruins_rare"
+      },
+      "trigger": "minecraft:player_generates_container_loot"
+    }
+  },
+  "rewards": {"function": "runechant:static/triggers/is_brushing"}
+}

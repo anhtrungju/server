@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:spyglass",
+"components":{"minecraft:custom_model_data":19971}
+},
+
+
+"title":"I Spy a Lil' Insight                              ",
+"description":"Combine any Etched Diamond with a Spyglass in an Enchanter's Crucible [Required: 1x Etched Diamonds (Any) 1x Spyglass | Drop Craft With: Enchanter's Crucible]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:beginning/fragment_enchantment_diamond",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

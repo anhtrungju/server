@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:name_tag",
+"components":{"minecraft:custom_model_data":19971}
+},
+
+
+"title":"Basic Keyword - Ignite                              ",
+"description":"Rename a Spell Charm with the Keyword. Cause the Spell to ignite whatever it hits or at the end of the spells projectile [Cast Speed: Minor Increase | Cast Cost: +1]",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:magic/heart_nether_info",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

@@ -1,0 +1,34 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:blaze_powder",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                              "minecraft:custom_model_data":19970,
+
+                              "minecraft:item_name":"{\"text\":\"Fiery Cluster\",\"color\":\"light_purple\",\"italic\":false,\"bold\":false}",
+                              "minecraft:lore":["{\"text\":\"Attuned to Burning\",\"color\":\"white\",\"italic\":false,\"bold\":false}"],
+
+                              "minecraft:enchantment_glint_override":true
+                            }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

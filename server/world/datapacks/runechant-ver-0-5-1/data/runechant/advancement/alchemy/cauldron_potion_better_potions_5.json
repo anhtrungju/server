@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:poisonous_potato",
+"components":{"minecraft:custom_model_data":19976}
+},
+
+
+"title":"Potion Enhancement - Coward                              ",
+"description":"This root adds aditional effects to a potion, increasing the users Health, Speed & Luck but also decreasing their Offence",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:alchemy/cauldron_potion_better_potions_craft",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:shulker_shell"
+},
+
+
+"title":"Material - Shulker Shell                              ",
+"description":"Trimmed equipment increases Armor Toughness by 6% & Knockback Resistance by 3%. Wearing a full set of armor trimmed in this Material provides the ability to inflict Levitation on contact",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:physical_crafting/smithing_material_scute",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

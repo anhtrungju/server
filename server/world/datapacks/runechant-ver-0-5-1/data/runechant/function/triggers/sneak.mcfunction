@@ -1,0 +1,44 @@
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_ancient",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/ancient
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_celestial",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/celestial
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_deep_dark",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/deep_dark
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_enchanted",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/enchanted
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_ender",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/ender
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_glacial",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/glacial
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_golden",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/golden
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_nether",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/nether
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_ocean",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/ocean
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_overworld",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/overworld
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_sky",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/sky
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_soul",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/soul
+
+execute if score *trim_enhancements Module matches 1 if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{pattern:"minecraft:archer"}}}} run function runechant:trim_enhancements/weapon_effects/archer
+execute if score *trim_enhancements Module matches 1 if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{pattern:"minecraft:eye"}}}} run function runechant:trim_enhancements/weapon_effects/eye
+execute if score *trim_enhancements Module matches 1 if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{pattern:"minecraft:raiser"}}}} run function runechant:trim_enhancements/weapon_effects/raiser
+execute if score *trim_enhancements Module matches 1 if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{pattern:"minecraft:sentry"}}}} run function runechant:trim_enhancements/weapon_effects/sentry
+
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_ancient",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/ancient
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_celestial",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/celestial
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_deep_dark",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/deep_dark
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_enchanted",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/enchanted
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_ender",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/ender
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_glacial",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/glacial
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_golden",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/golden
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_nether",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/nether
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_ocean",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/ocean
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_overworld",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/overworld
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_sky",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/sky
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_soul",pattern:"minecraft:weapon_sneak"}}}} run function runechant:affinity_system/combat/sneak/soul
+
+execute if score *trim_enhancements Module matches 1 if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{pattern:"minecraft:archer"}}}} run function runechant:trim_enhancements/weapon_effects/archer
+execute if score *trim_enhancements Module matches 1 if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{pattern:"minecraft:eye"}}}} run function runechant:trim_enhancements/weapon_effects/eye
+execute if score *trim_enhancements Module matches 1 if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{pattern:"minecraft:raiser"}}}} run function runechant:trim_enhancements/weapon_effects/raiser
+execute if score *trim_enhancements Module matches 1 if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{pattern:"minecraft:sentry"}}}} run function runechant:trim_enhancements/weapon_effects/sentry
+
+execute if data storage minecraft:runechant_slot106 {runechant:{id:"minecraft:jigsaw",components:{"minecraft:custom_model_data":1997701}}} run function runechant:unique_weapons/barbed_sabre_sneak
+
+execute if data storage minecraft:runechant_slot101 {runechant:{components:{"minecraft:trim":{pattern:"minecraft:piglin_belt"}}}} if data storage minecraft:runechant_slot102 {runechant:{id:"minecraft:elytra"}} run function runechant:affinity_system/combat/sneak/golden
+
+execute if data storage minecraft:runechant_slot101 {runechant:{components:{"minecraft:trim":{pattern:"minecraft:piglin_belt"}}}} unless data storage minecraft:runechant_inventory {runechant:[{Slot:102b}]} run function runechant:affinity_system/combat/sneak/golden
+
+
+execute if score *trim_enhancements Module matches 1 if data storage minecraft:runechant_slot100 {runechant:{components:{"minecraft:trim":{material:"minecraft:breeze_rod"}}}} if data storage minecraft:runechant_slot101 {runechant:{components:{"minecraft:trim":{material:"minecraft:breeze_rod"}}}} if data storage minecraft:runechant_slot102 {runechant:{components:{"minecraft:trim":{material:"minecraft:breeze_rod"}}}} if data storage minecraft:runechant_slot103 {runechant:{components:{"minecraft:trim":{material:"minecraft:breeze_rod"}}}} run function runechant:trim_enhancements/armor_sets/materials/breeze_rod

@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:flower_banner_pattern"
+},
+
+
+"title":"Discoverable Resources                              ",
+"description":"Codex of special resources found during your day to day activities",
+"frame":"goal",
+"show_toast":false,
+"announce_to_chat":false,
+"hidden":true
+},
+
+"parent":"runechant:beginning/root",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:netherite_scrap",
+"components":{"minecraft:custom_model_data":199711}
+},
+
+
+"title":"Ancient Metal                              ",
+"description":"Corrupted old metal plates from something powerful, perhaps theres a way to reconstruct it",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:world/ancient_pots",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

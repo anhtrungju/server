@@ -1,0 +1,7 @@
+{
+  "asset_id": "weapon_sprint",
+  "description": {
+    "translate": "trim_pattern.minecraft.weapon_sprint"
+  },
+  "template_item": "minecraft:barrier"
+}

@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:heavy_core"
+},
+
+
+"title":"Material - Heavy Core                              ",
+"description":"Trimmed equipment increases Attack Knockback, Block Break Speed, Mining Efficiency by 6% but decreases Movement Efficiency, Movement Speed, Sneak Speed & Water Movement Efficiency by 4%. Wearing Wearing a full set of armor trimmed in this Material provides the ability to break blocks by Sprinting into them",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:physical_crafting/smithing_material_enchanted_golden_apple",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "affinity_glacial",
+  "description": {
+    "color": "#00ccff",
+    "translate": "trim_material.minecraft.affinity_glacial"
+  },
+  "ingredient": "minecraft:barrier",
+  "item_model_index": 0.87
+}

@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:lapis_lazuli"
+},
+
+
+"title":"Lessons in Magic #3                              ",
+"description":"Holding Right-Click with a Spell Tome will perform a Normal Cast. Normal Casts do not require charges but take time to cast. The Spell Tome GUI will fill as you hold the Right-Click",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:magic/casting_spells2",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

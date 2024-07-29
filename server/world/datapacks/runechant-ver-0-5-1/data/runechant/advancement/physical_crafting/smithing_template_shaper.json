@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:shaper_armor_trim_smithing_template"
+},
+
+
+"title":"Shaper Plating - Armor                              ",
+"description":"When wearing a full set of armor trimmed with this Pattern gain the ability to absorb explosions converting it to Haste. Dropped TNT is also enhanced to clear a 9x9x9 area",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:physical_crafting/smithing_template_raiser",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

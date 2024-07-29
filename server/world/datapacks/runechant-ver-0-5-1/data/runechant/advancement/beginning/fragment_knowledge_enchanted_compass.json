@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:raw_iron",
+"components":{"minecraft:custom_model_data":19973}
+},
+
+
+"title":"Enchanted Compass                              ",
+"description":"Combine a Knowledge Fragment and Recovery Compass in an Enchanter's Crucible. This Enchanted Compass is capable of teleporting the player to an Affinity Pot if there is one nearby [Required: 1x Knowledge Fragment 1x Recovery Compass | Drop Craft With: Enchanter's Crucible]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:beginning/crucible_layer_3",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

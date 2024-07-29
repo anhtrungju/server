@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:fermented_spider_eye",
+"components":{"minecraft:custom_model_data":19975}
+},
+
+
+"title":"Ocean Fletcher                              ",
+"description":"Drop three different Barbs onto a Fletching Table... What could it lead to? [Required: 1x Pufferfish Barb 1x Guardian Barb 1x Elder Guardian Barb | Drop Craft With: Fletching Table]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:physical_crafting/drop_fletching_table",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

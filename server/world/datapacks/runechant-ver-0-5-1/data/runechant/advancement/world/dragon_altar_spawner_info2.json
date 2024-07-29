@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:crying_obsidian"
+},
+
+
+"title":"Fueling the End Spawner                              ",
+"description":"An active End Spawner will display souls trapped in the center Beacon. Whenever the End Spawner summon a Mob there is a chance that a Mob Egg is consumed from it's Glow Item Frame.  There is also a chance that the Crying Obsidian will lose it’s magic transforming into regular Obsidian",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:world/dragon_altar_spawner_info",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

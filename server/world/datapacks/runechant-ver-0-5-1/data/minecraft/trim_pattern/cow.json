@@ -1,0 +1,7 @@
+{
+  "asset_id": "cow",
+  "description": {
+    "translate": "trim_pattern.minecraft.cow"
+  },
+  "template_item": "minecraft:barrier"
+}

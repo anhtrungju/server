@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:flower_banner_pattern"
+},
+
+
+"title":"Warm Biomes                              ",
+"description":"Badlands, Bamboo Jungle, Beach, Dark Forest, Desert, Eroded Badlands, Jungle, Mangrove Swamp, Old Growth Pine Taiga, Old Growth Spruce Taiga, Savanna, Savanna Plateau, Sparse Jungle, Stony Peaks, Sawmp, Taiga, Windswept Savanna & Wooded Badlands",
+"frame":"goal",
+"show_toast":false,
+"announce_to_chat":false,
+"hidden":true
+},
+
+"parent":"runechant:seasons/biome_types_fair",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

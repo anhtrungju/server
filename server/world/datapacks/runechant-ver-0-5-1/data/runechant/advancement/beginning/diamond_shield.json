@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:diamond",
+"components":{"minecraft:custom_model_data":19973}
+},
+
+
+"title":"Etched Diamond - Shield                              ",
+"description":"Rename a Diamond with Shield and throw it into a Enchanter's Crucible with a World Fragment (Enchantment) [Required: 1x Anvil 1x Diamond 1x World Fragment (Enchantment) | Drop Craft With: Enchanter's Crucible]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:beginning/diamond_armor",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997106}
+},
+
+
+"title":"Enchanted Ash                              ",
+"description":"A valuable resource desired by many, perhaps you could find someone to trade it with, also used in some crafting",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:beginning/fragment",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

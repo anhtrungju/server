@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:spore_blossom"
+},
+
+
+"title":"Growing a New Variant                              ",
+"description":"Throw a Blossoming Vine into a Composter with an empty block underneath. A Spore Blossom will grow on the underside and siphon nutrients from the Composter using its roots [Required: 1x Blossoming Vine 1x Composter | Drop Craft With: Composter]",
+"frame":"challenge",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:alchemy/magical_flower_1",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

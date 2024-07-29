@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997227}
+},
+
+
+"title":"Pale Lily                              ",
+"description":"One of the various plants of the Nexus, usually found growing near water",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":false,
+"hidden":true
+},
+
+"parent":"runechant:nexus/nexus_items_magic_seeds",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

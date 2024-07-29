@@ -1,0 +1,7 @@
+{
+  "asset_id": "cursed_three",
+  "description": {
+    "translate": "trim_pattern.minecraft.cursed_three"
+  },
+  "template_item": "minecraft:barrier"
+}

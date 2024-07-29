@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:soul_campfire"
+},
+
+
+"title":"Magic Fire of the Library                              ",
+"description":"Depending on the color the flames are emitting & the color of the Big Book tossed in different things will happen. For primary colors if they match experience will be given, if no color is shared lapis. When it comes to secondary colors the principle is similar but greater. If no aspect of the colors match you might also find it will cause the flames to change color",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":false,
+"hidden":false
+},
+
+"parent":"runechant:nexus/activities_scrolls_allabah_enchanted_droplet",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

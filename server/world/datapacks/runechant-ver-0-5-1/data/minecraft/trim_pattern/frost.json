@@ -1,0 +1,7 @@
+{
+  "asset_id": "frost",
+  "description": {
+    "translate": "trim_pattern.minecraft.frost"
+  },
+  "template_item": "minecraft:barrier"
+}

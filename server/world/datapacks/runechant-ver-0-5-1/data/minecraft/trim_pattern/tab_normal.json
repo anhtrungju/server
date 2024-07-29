@@ -1,0 +1,7 @@
+{
+  "asset_id": "tab_normal",
+  "description": {
+    "translate": "trim_pattern.minecraft.tab_normal"
+  },
+  "template_item": "minecraft:barrier"
+}

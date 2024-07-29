@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:bell",
+"components":{"minecraft:custom_model_data":199757}
+},
+
+
+"title":"Gleaming Delirium                              ",
+"description":"This Season Effect can cause strange Eruptions of Gold to form, as well as periodically causing bouts of Strength or Nausea and at times inflict Sunder on it's travellers. Affects Harsh Nether Biomes",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:seasons/seasons_soul_frenzy",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

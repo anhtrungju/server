@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:snout_armor_trim_smithing_template"
+},
+
+
+"title":"Snout Plating - Weapon/Tool                              ",
+"description":"Having a weapon or tool trimmed with this Pattern in your Mainhand or Offhand grants the Chance for Defeated Mobs to drop a pool of helpful riches",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:physical_crafting/weapon_template_tide",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "spell_fixed",
+  "description": {
+    "translate": "trim_pattern.minecraft.spell_fixed"
+  },
+  "template_item": "minecraft:barrier"
+}

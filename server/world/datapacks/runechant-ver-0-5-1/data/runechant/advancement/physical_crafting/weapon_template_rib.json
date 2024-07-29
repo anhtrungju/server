@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:rib_armor_trim_smithing_template"
+},
+
+
+"title":"Ribcage Plating - Weapon/Tool                              ",
+"description":"Having a weapon or tool trimmed with this Pattern in your Mainhand or Offhand grants the Chance to sprout bone walls around you when Taking Damage",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:physical_crafting/weapon_template_snout",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

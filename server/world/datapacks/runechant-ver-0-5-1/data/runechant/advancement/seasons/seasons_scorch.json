@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:bell",
+"components":{"minecraft:custom_model_data":199738}
+},
+
+
+"title":"Seasons of Scorch                              ",
+"description":"A Season of harsh heat and danger, dangers may sprout up but just maybe the right temparature for a lush retreat. Scorching Heat & Frigid Blaze affect the surface while Burning Cavern & Lushly Flourish affect the underground",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:seasons/biome_types_otherworld",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

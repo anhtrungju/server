@@ -1,0 +1,32 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:nether_star",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                              "minecraft:custom_model_data":19976,
+
+                              "minecraft:item_name":"{\"text\":\"Wolf's Paw\",\"color\":\"gold\",\"italic\":false,\"bold\":false}",
+                              "minecraft:lore":["{\"text\":\"Symbol of agility and tenacity.\",\"color\":\"white\",\"italic\":false,\"bold\":false}","{\"text\":\"(Boss Relic)\",\"color\":\"white\",\"italic\":false,\"bold\":false}"]
+                            }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

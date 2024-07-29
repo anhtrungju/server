@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:ward_armor_trim_smithing_template"
+},
+
+
+"title":"Ward Plating - Weapon/Tool                              ",
+"description":"Having a weapon or tool trimmed with this Pattern in your Mainhand or Offhand grants the Chance to grant a barrier when Attacking",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:physical_crafting/weapon_template_host",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

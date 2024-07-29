@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:rabbit_hide",
+"components":{"minecraft:custom_model_data":19972}
+},
+
+
+"title":"Panda Tuft                              ",
+"description":"Dropped or shed by Pandas, can be used in crafting",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:collection_log/rabbit_hide_polar_bear",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

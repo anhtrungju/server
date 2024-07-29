@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:snowball",
+"components":{"minecraft:custom_model_data":19975}
+},
+
+
+"title":"Elder Guardian Barb                              ",
+"description":"Dropped by Elder Guardians, can be thrown",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:collection_log/fermented_spider_eye_guardian",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

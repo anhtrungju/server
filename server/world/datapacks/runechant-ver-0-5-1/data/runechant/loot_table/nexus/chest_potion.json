@@ -1,0 +1,129 @@
+{
+  "pools": [
+    {
+      "entries": [
+
+        {
+          "type": "minecraft:loot_table",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 0.0
+              },
+              "function": "minecraft:set_count"
+            }
+            ],
+          "value": "glossary:potion/amethyst_completed_1",
+          "weight": 3
+        },
+
+        {
+          "type": "minecraft:loot_table",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 0.0
+              },
+              "function": "minecraft:set_count"
+            }
+            ],
+          "value": "glossary:potion/amethyst_completed_2",
+          "weight": 3
+        },
+
+        {
+          "type": "minecraft:loot_table",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 0.0
+              },
+              "function": "minecraft:set_count"
+            }
+            ],
+          "value": "glossary:potion/amethyst_completed_3",
+          "weight": 3
+        },
+
+        {
+          "type": "minecraft:loot_table",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 0.0
+              },
+              "function": "minecraft:set_count"
+            }
+            ],
+          "value": "glossary:potion/amethyst_completed_4",
+          "weight": 3
+        },
+
+        {
+          "type": "minecraft:loot_table",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 0.0
+              },
+              "function": "minecraft:set_count"
+            }
+            ],
+          "value": "glossary:potion/amethyst_completed_5",
+          "weight": 3
+        },
+
+        {
+          "type": "minecraft:loot_table",
+          "functions": [
+           {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 0.0
+              },
+              "function": "minecraft:set_count"
+            }
+            ],
+          "value": "glossary:potion/amethyst_completed_6",
+          "weight": 3
+        },
+
+        {
+          "type": "minecraft:loot_table",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 0.0
+              },
+              "function": "minecraft:set_count"
+            }
+            ],
+          "value": "glossary:potion/amethyst_completed_special",
+          "weight": 1
+        }
+
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

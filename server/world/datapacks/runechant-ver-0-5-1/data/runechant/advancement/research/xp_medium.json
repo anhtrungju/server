@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997533}
+},
+
+
+"title":"Crystalised Experience (Medium)                              ",
+"description":"Using an Amethyst Shard and Solidified Experience, any item can be transmuted into an Experience Crystal in an Experience Infuser. Depending on the item used a different sized Experience Crystal will be produced [Required: 1x Any Item 1x Amethyst Shard 1x Solidified Experience | Drop Craft With: Experience Infuser]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:research/xp_small",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

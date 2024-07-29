@@ -1,0 +1,18 @@
+{
+  "display": {
+    "icon": {
+"id":"minecraft:experience_bottle",
+"components":{"minecraft:custom_model_data":19976}
+    },
+    
+"title": "The Physical Arts",
+    "description": "Codex of all knowledge dedicated to the phyical crafts, including the improvement of equipment modifications",
+    "background": "minecraft:textures/block/smithing_table_top.png"
+  },
+  "criteria": {
+    "requirement": {
+"trigger":"minecraft:impossible"
+}
+}
+}
+

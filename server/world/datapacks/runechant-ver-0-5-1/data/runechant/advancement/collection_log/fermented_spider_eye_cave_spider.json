@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:fermented_spider_eye",
+"components":{"minecraft:custom_model_data":19971}
+},
+
+
+"title":"Cave Spider Eggs                              ",
+"description":"Dropped by Cave Spiders, can be used in crafting",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:collection_log/phantom_membrane_bat",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997122}
+},
+
+
+"title":"Enchanter\'s Crystal (Legendary)                              ",
+"description":"Crystalised power of the world, the most powerful crystals the can be found, but it will take a Runechanter\'s expertise to unlock it's full power",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:sculk_crafting/enchant_crystal_epic",
+
+"criteria":
+{
+"requirement":
+{
+
+"trigger":"minecraft:impossible"
+}
+}
+}

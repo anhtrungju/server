@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:written_book",
+"components":{"minecraft:custom_model_data":19972}
+},
+
+
+"title": "Seeking Greater Power                              ",
+"description": "It looks like you're ready to begin collecting power, think of it as seeds I've sown ready to harvest. Many creatures did I meet along my travels now it's time to for you to pay them a visit",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:world/mob_info",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

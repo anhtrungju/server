@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997408}
+},
+
+
+"title":"Life Drinker Jewel                              ",
+"description":"Combine a Runecarver's Jewel in an Experience Infuser with a stack of Golden Apples, Golden Carrots & Glistening Melon Slices [Required: 1x Any Runecarver's Jewel 64x Golden Apple 64x Golden Carrot 64x Glistening Melon Slice | Drop Craft With: Experience Infuser]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:research/runecarvers_jewel_5",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

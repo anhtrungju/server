@@ -1,0 +1,52 @@
+{
+  "type": "minecraft:gift",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:torchflower_seeds"
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:pitcher_pod"
+        },
+
+
+        {
+          "type": "minecraft:loot_table",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "value": "glossary:stick/budding_vine"
+        },
+
+        {
+          "type": "minecraft:loot_table",
+          "value": "runechant:loot/archaeology/roots"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "runechant:resources/random_crystal"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "runechant:nexus/chest_plant"
+        }
+
+
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "minecraft:gameplay/sniffer_digging"
+}

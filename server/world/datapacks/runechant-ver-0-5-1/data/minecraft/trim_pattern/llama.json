@@ -1,0 +1,7 @@
+{
+  "asset_id": "llama",
+  "description": {
+    "translate": "trim_pattern.minecraft.llama"
+  },
+  "template_item": "minecraft:barrier"
+}

@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:experience_bottle",
+"components":{"minecraft:custom_model_data":19974}
+},
+
+
+"title":"Following the First                              ",
+"description":"Enter the Enchanter\'s Labrinth by opening a Labrinth Gate with and Ender Eye or acquire the corrasponding Scroll of Knowledge, to unlocks a new Advancement Tab [Required: 1x Ender Eye]",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:beginning/labrinth_info",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

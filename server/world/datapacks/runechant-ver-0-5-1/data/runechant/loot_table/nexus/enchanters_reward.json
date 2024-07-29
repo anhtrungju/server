@@ -1,0 +1,38 @@
+{
+  "pools": [
+    {
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 8.0,
+                "min": 1.0
+              },
+              "function": "minecraft:set_count"
+            }
+            ],
+          "value": "glossary:jigsaw/2_nexus/enchanted_droplet",
+          "weight": 97
+        },
+
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:enchanted_book/big_book",
+          "weight": 2
+        },
+
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:jigsaw/3_special/rune_scrolls/blank_scroll",
+          "weight": 1
+        }
+
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:netherite_scrap",
+"components":{"minecraft:custom_model_data":19970}
+},
+
+
+"title":"Netherite Cluster                              ",
+"description":"Found by mining Ancient Debris & can be placed in an Enchanted or Ancient Satchel",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:beginning/fragment_mineral_cluster17",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

@@ -1,0 +1,90 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.01,
+        "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:obsidian/cluster",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:gold_nugget/cluster",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:blackstone/cluster",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:lapis_lazuli/cluster",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:netherite_scrap/cluster",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:amethyst_shard/cluster",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:coal/cluster",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:flint/cluster",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:raw_copper/cluster",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:diamond/cluster",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:emerald/cluster",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:raw_gold/cluster",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:raw_iron/cluster",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:redstone/cluster",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:glowstone_dust/cluster",
+          "weight": 1
+        },
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:quartz/cluster",
+          "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

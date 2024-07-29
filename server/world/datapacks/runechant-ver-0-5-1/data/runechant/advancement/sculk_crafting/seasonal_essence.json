@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:bell",
+"components":{"minecraft:custom_model_data":199758}
+},
+
+
+"title":"Imbuing with Potential                              ",
+"description":"Using any Seasonal Essence you can enchance an item with an [Empty Slot] allowing it to gain a special runic enchantment, simply throw the two items into a Sculk Forge [Required: 1x Essence of Life/Scorch/Ash/Frost/Ender 1x Any Item | Drop Craft With: Sculk Forge]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:sculk_crafting/ancient_eye",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

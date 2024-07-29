@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:snowball",
+"components":{"minecraft:custom_model_data":19976}
+},
+
+
+"title":"Fixed an Item Frame in Place                              ",
+"description":"Iron Nuggets can be turned into make-shift Nails by tossing them onto a block of Ancient Debris. They can then be dropped on an Item Frame to fix it in place [Required: 1x Iron Nugget | Drop Craft With: Ancient Debris]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:physical_crafting/drop_ancient_debris",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

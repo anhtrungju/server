@@ -1,0 +1,7 @@
+{
+  "asset_id": "red_cloth",
+  "description": {
+    "translate": "trim_pattern.minecraft.red_cloth"
+  },
+  "template_item": "minecraft:barrier"
+}

@@ -1,0 +1,3 @@
+damage @s 2 runechant:plague
+particle minecraft:item{item:{id:"minecraft:crimson_fungus"}} ~ ~1 ~ 0.2 0.2 0.2 0.1 50
+summon minecraft:area_effect_cloud ~ ~ ~ {Particle:{type:"minecraft:item",item:"minecraft:crimson_fungus"},Duration:120,DurationOnUse:40,Radius:1f,RadiusOnUse:0.5f,potion_contents:{custom_effects:[{id:"minecraft:poison",amplifier:0b,duration:60,show_particles:0b},{id:"minecraft:wither",amplifier:0b,duration:60,show_particles:0b}]},ReapplicationDelay:60}

@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:shield",
+"components":{"minecraft:trim":{"material":"minecraft:turtle_shell","pattern":"minecraft:turtle_shell"}}
+},
+
+
+"title":"Protective Shell                              ",
+"description":"Drop four Turtle Shells and a Shield onto a Fletching Table to reinforce it [Required: 4x Turtle Shell 1x Shield | Drop Craft With: Fletching Table]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:physical_crafting/block_fletching_table_turtle_armor",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

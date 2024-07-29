@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:netherite_upgrade_smithing_template"
+},
+
+
+"title":"Pattern Bonuses - Weapon/Tool                              ",
+"description":"Having perfected the art of trimming, weapons and tools are now trimmable. Codex of effects weapons & tools gain from different Patterns. All chance effects are improved by the Luck Attribute",
+"frame":"goal",
+"show_toast":false,
+"announce_to_chat":false,
+"hidden":false
+},
+
+"parent":"runechant:physical_crafting/block_smithing_table",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:bell",
+"components":{"minecraft:custom_model_data":199761}
+},
+
+
+"title":"The Amethyst Tunnels                              ",
+"description":"Throughout the caverns underneath the Nexus you'll be able to collect magical amethyst. However due to the immense magical energy of the Nexus touching Amethyst Blocks occasionally saps your own energy to feed the Nexus",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":false,
+"hidden":false
+},
+
+"parent":"runechant:nexus/activities_scrolls_bruxan",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

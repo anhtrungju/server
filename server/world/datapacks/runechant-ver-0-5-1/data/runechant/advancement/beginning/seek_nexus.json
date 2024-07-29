@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:experience_bottle",
+"components":{"minecraft:custom_model_data":19972}
+},
+
+
+"title":"Visiting the Nexus                              ",
+"description":"Visit the Enchanter's Nexus to unlocks a new Advancement Tab. After helping the denizens you will be able to purchase Scrolls of Knowledge to bypass regular Advancement unlocks [Required: 1x Enchanted Diamond]",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:beginning/enchanted_diamond",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

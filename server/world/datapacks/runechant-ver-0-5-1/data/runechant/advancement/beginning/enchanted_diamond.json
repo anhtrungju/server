@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:diamond",
+"components":{"minecraft:custom_model_data":19976}
+},
+
+
+"title":"Pink Shiny Rock                              ",
+"description":"By throwing a Diamond, Enchanted Ash and a Knowledge Fragment into an Enchanter's Crucible you can bind the Blue Shiny Rock to the Enchanter's Nexus [Required: 1x Diamond 1x Enchanted Ash 1x Knowledge Fragment | Drop Craft With: Enchanter's Crucible]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:beginning/crucible_layer_3",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

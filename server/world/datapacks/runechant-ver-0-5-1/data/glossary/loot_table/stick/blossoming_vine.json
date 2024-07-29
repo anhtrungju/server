@@ -1,0 +1,32 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:stick",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                              "minecraft:custom_model_data":19972,
+
+                              "minecraft:item_name":"{\"text\":\"Blossoming Vine\",\"color\":\"green\",\"italic\":false,\"bold\":false}",
+                              "minecraft:lore":["{\"text\":\"Throw into a composter to grow\",\"color\":\"white\",\"italic\":false,\"bold\":false}","{\"text\":\"a magical spore blossom.\",\"color\":\"white\",\"italic\":false,\"bold\":false}"]
+                            }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

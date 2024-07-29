@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:netherite_upgrade_smithing_template"
+},
+
+
+"title":"Material Bonuses                              ",
+"description":"Codex of attribute bonuses & set effects from different Materials after they have been found and trimmed (Note: there are 27 Materials that can be used)",
+"frame":"goal",
+"show_toast":false,
+"announce_to_chat":false,
+"hidden":false
+},
+
+"parent":"runechant:physical_crafting/block_smithing_table",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

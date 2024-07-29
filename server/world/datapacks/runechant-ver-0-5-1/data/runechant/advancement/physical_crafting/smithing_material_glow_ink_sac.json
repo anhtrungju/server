@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:glow_ink_sac"
+},
+
+
+"title":"Material - Glow Ink Sac                              ",
+"description":"Trimmed equipment increases Attack Damage by 3%, Attack Speed by 3% & Movement Speed by 3%. Wearing a full set of armor trimmed in this Material provides the ability to inflict Glowing on contact and passively clears Nausea & Poison",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:physical_crafting/smithing_material_ender_pearl",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

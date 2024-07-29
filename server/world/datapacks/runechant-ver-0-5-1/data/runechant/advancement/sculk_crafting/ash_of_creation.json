@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997130}
+},
+
+
+"title":"Imbuing with Potential                              ",
+"description":"Using a Ash of Creation you can enchance an item with an [Empty Slot] allowing it to gain a special runic enchantment, simply throw the two items into a Sculk Forge [Required: 1x Any Boss Soul 1x Any Item | Drop Craft With: Sculk Forge]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:sculk_crafting/ancient_ward",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:crafting_table"
+},
+
+
+"title": "Remaking the Scroll                              ",
+"description": "Seems you've found two halves of an old scroll, time to give Drop Crafting a go, simply drop the two different Mysterious Paper along with a Stick onto a Crafting Table",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":false,
+"hidden":false
+},
+
+"parent":"runechant:beginning/tutorial_2",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

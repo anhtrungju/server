@@ -1,0 +1,33 @@
+
+
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:potion",
+"components":{"minecraft:custom_model_data":19971,"minecraft:potion_contents":{"custom_color":10332917}}
+},
+
+
+"title":"Wax Ball - Violet / Blue                              ",
+"description":"Gale - Cause the afflicted to be buffeted by harsh winds",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":false,
+"hidden":true
+},
+
+"parent":"runechant:alchemy/6_8",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}
+

@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:paper",
+"components":{"minecraft:custom_model_data":19974}
+},
+
+
+"title": "Runecrafting                              ",
+"description": "Codex of craftable Runes. Rename Infused Paper with the Keyword and throw it into an Enchanter's Cruicble with the corresponding Catalyst Item",
+"frame":"goal",
+"show_toast":false,
+"announce_to_chat":false,
+"hidden":true
+},
+
+"parent":"runechant:magic/rune_inscribed_rune",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

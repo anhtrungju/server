@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:flower_banner_pattern"
+},
+
+
+"title":"Otherworldly Biomes                              ",
+"description":"Harsh Nether Biomes (Basalt Deltas, Crimson Forest & Nether Waste), Reprieved Nether Biomes (Soul Sand Vally & Warped Forest) & Ender Biomes (End Barrens, End Highlands, End Midlands, Small End Islands & The End)",
+"frame":"goal",
+"show_toast":false,
+"announce_to_chat":false,
+"hidden":true
+},
+
+"parent":"runechant:seasons/biome_types_special",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

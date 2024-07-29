@@ -1,0 +1,9 @@
+{
+  "asset_name": "affinity_overworld",
+  "description": {
+    "color": "#339900",
+    "translate": "trim_material.minecraft.affinity_overworld"
+  },
+  "ingredient": "minecraft:barrier",
+  "item_model_index": 0.97
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "gladiator",
+  "description": {
+    "translate": "trim_pattern.minecraft.gladiator"
+  },
+  "template_item": "minecraft:barrier"
+}

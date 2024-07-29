@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:vex_armor_trim_smithing_template"
+},
+
+
+"title":"Vex Plating - Armor                              ",
+"description":"When wearing a full set of armor trimmed with this Pattern gain the ability to enhance the effects of Totems of Undying and steal Totems from nearby Players",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:physical_crafting/smithing_template_sentry",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

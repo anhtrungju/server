@@ -1,0 +1,6 @@
+{
+  "message_id": "exhaust",
+  "exhaustion": 16.0,
+  "scaling": "never",
+  "effects": "hurt"
+}

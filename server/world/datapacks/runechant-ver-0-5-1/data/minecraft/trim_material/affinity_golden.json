@@ -1,0 +1,9 @@
+{
+  "asset_name": "affinity_golden",
+  "description": {
+    "color": "#ffcc33",
+    "translate": "trim_material.minecraft.affinity_golden"
+  },
+  "ingredient": "minecraft:barrier",
+  "item_model_index": 0.94
+}

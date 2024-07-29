@@ -1,0 +1,17 @@
+{
+  "display": {
+    "icon": {
+"id":"minecraft:experience_bottle",
+"components":{"minecraft:custom_model_data":19972}
+    },
+    
+"title": "Enchanter\'s Nexus",
+    "description": "Codex of infomation relavent to the Enchater\'s Nexus. Most activities are self contained in the Nexus and off unique rewards",
+    "background": "minecraft:textures/block/blackstone.png"
+  },
+  "criteria": {
+    "requirement": {
+"trigger":"minecraft:impossible"
+}
+}
+}

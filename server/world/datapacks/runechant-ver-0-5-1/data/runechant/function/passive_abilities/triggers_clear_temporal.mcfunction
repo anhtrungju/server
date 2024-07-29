@@ -1,0 +1,1 @@
+clear @s #runechant:temporal[minecraft:lore=['{"bold":false,"color":"white","italic":false,"text":"Temporal"}']] 1

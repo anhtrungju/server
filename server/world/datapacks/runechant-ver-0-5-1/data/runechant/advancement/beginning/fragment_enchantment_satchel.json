@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:bundle",
+"components":{"minecraft:custom_model_data":19971}
+},
+
+
+"title":"Bag of Enchantment                              ",
+"description":"Reinforce a Bundle with a stack of World Fragment (Enchantment) in an Enchanter's Crucible. An artefact able to absorb power from Enchanted Clusters [Required: 1x Bundle 64x World Fragment (Enchantment) | Drop Craft With: Enchanter's Crucible]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:beginning/crucible_layer_3",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "turtle_shell",
+  "description": {
+    "translate": "trim_pattern.minecraft.turtle_shell"
+  },
+  "template_item": "minecraft:barrier"
+}

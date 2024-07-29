@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997206}
+},
+
+
+"title":"Collecting Amethyst                              ",
+"description":"While touching amethyst in the Nexus you'll lose experience, if you run out, your life force will be taken instead. In order to escape the tunnels you'll have to find a Amethyst Ward, simply shift on it and you'll teleport away. If you fail to find an exit in time the tunnels will instead kick you out and take back any amethyst you have",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":false,
+"hidden":false
+},
+
+"parent":"runechant:nexus/activities_scrolls_bruxan_amethyst_tunnels",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

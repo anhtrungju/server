@@ -1,0 +1,7 @@
+{
+  "asset_id": "camel",
+  "description": {
+    "translate": "trim_pattern.minecraft.camel"
+  },
+  "template_item": "minecraft:barrier"
+}

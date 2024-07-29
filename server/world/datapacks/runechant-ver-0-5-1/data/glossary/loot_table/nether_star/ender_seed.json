@@ -1,0 +1,32 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:nether_star",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                              "minecraft:custom_model_data":199713,
+
+                              "minecraft:item_name":"{\"text\":\"Ender Seed\",\"color\":\"gold\",\"italic\":false,\"bold\":false}",
+                              "minecraft:lore":["{\"text\":\"Powerful enough to transcend dimensions.\",\"color\":\"white\",\"italic\":false,\"bold\":false}","{\"text\":\"(Boss Relic)\",\"color\":\"white\",\"italic\":false,\"bold\":false}"]
+                            }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

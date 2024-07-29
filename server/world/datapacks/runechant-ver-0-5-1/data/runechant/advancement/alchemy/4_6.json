@@ -1,0 +1,33 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:potion",
+"components":{"minecraft:custom_model_data":19971,"minecraft:potion_contents":{"custom_color":10528346}}
+},
+
+
+"title":"Wax Ball - Yellow / Green                              ",
+"description":"Rot - Causes the afflicted to leave a festing cloud perodically that grows the more it infects",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":false,
+"hidden":true
+},
+
+"parent":"runechant:alchemy/4_5",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}
+
+
+

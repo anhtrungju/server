@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997405}
+},
+
+
+"title":"Dark Maw Jewel                              ",
+"description":"Combine a Runecarver's Jewel in an Experience Infuser with a stack of Ender Eyes, Ghast Tears & Phantom Membranes [Required: 1x Any Runecarver's Jewel 64x Ender Eye 64x Ghast Tear 64x Phantom Membrane | Drop Craft With: Experience Infuser]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:research/runecarvers_jewel_use",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

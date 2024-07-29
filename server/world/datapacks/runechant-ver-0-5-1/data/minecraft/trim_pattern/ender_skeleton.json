@@ -1,0 +1,7 @@
+{
+  "asset_id": "ender_skeleton",
+  "description": {
+    "translate": "trim_pattern.minecraft.ender_skeleton"
+  },
+  "template_item": "minecraft:barrier"
+}

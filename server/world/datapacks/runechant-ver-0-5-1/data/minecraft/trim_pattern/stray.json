@@ -1,0 +1,7 @@
+{
+  "asset_id": "stray",
+  "description": {
+    "translate": "trim_pattern.minecraft.stray"
+  },
+  "template_item": "minecraft:barrier"
+}

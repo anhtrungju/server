@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:netherite_helmet",
+"components":{"minecraft:trim":{"material":"minecraft:ancient","pattern":"minecraft:gladiator"}}
+},
+
+
+"title":"Ancient Armor (Gladiator)                              ",
+"description":"Drop a stack of Corrupted Metal Scrap, Pig Hide & Iron Golem Core onto a Reinforced Deepslate Block, along with an already Timmed piece of Armor to convert it to a new Ancient Trim [Required: 64x Corrupted Metal Scrap 1x Pig Hide 1x Iron Golem Core 1x Any Trimmed Armor Piece | Drop Craft With: Reinforced Deepslate]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:world/corrupt_metal",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

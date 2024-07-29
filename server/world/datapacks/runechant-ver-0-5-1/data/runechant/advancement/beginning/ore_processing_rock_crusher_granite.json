@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:granite"
+},
+
+
+"title":"Crushing Granite                              ",
+"description":"Crushing this may yield Gold Nuggets, Redstone and/or Quartz",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:beginning/ore_processing_rock_crusher_stone",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

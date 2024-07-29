@@ -1,0 +1,9 @@
+{
+  "asset_name": "night_keeper",
+  "description": {
+    "color": "#990000",
+    "translate": "trim_material.minecraft.night_keeper"
+  },
+  "ingredient": "minecraft:barrier",
+  "item_model_index": 0.22
+}

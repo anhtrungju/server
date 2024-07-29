@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:leather",
+"components":{"minecraft:custom_model_data":19973}
+},
+
+
+"title":"Leather (Cow)                              ",
+"description":"Dropped by Cows, can be used in crafting",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:collection_log/mob_drops_leather",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

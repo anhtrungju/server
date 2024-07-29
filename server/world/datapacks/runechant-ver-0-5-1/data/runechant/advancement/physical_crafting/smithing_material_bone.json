@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:bone"
+},
+
+
+"title":"Material - Bone                              ",
+"description":"Trimmed equipment increases Armor by 3% & Attack Speed by 6%. Wearing a full set of armor trimmed in this Material provides a bonus to Resistance",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:physical_crafting/smithing_material_blaze_rod",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

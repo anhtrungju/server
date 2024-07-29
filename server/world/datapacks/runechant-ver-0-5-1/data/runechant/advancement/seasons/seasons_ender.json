@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:bell",
+"components":{"minecraft:custom_model_data":199753}
+},
+
+
+"title":"Seasons of Ender                              ",
+"description":"A Season of oddities and confusion, as the ender seep in erratic boons affect everyone. Ender Corruption & Twisted Spark affect the surface while Soul Frenzy & Gleaming Delirium affect the underground",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:seasons/biome_types_otherworld",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

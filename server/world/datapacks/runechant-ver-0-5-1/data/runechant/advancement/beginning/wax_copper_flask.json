@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997601}
+},
+
+
+"title":"Copper Waxing Flask                              ",
+"description":"Throw 3 Sand and a Copper Ingot into the centre of a Deepslate Furnace [Required: 3x Any Sand 1x Copper Ingot | Drop Craft With: Deepslate Furnace]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:beginning/deepslate_furnace_layer_3",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

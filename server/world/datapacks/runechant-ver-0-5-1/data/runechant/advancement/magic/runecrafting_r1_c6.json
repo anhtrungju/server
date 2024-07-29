@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:nautilus_shell"
+},
+
+
+"title":"Keyword - Depth                              ",
+"description":"Catalyst Item - Nautilus Shell",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:magic/runecrafting_r1_c5",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

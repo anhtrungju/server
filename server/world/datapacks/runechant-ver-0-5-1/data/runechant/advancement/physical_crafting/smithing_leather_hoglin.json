@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:leather",
+"components":{"minecraft:custom_model_data":19975}
+},
+
+
+"title":"Hoglin Leather                              ",
+"description":"Having this equipped will allow the player to charge when sprinting, having multiple pieces equipped with strengthen the effect",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:physical_crafting/smithing_leather_donkey",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

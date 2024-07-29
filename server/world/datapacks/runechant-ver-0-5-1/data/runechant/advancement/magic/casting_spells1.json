@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:lapis_lazuli"
+},
+
+
+"title":"Lessons in Magic #1                              ",
+"description":"In order to cast, Spell Tomes must be in the player\'s Mainhand and you must have Lapis Lazuli somewhere in your Inventory. When this is performed correctly you will notice a new GUI next to the Offhand Slot",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:magic/unlocking_potential",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

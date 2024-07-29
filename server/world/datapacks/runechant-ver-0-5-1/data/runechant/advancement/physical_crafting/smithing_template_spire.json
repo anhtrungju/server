@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:spire_armor_trim_smithing_template"
+},
+
+
+"title":"Spire Plating - Armor                              ",
+"description":"When wearing a full set of armor trimmed with this Pattern gain the ability to Jump higher, remove gravity from nearby Mobs and increased Resistance while airborne",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:physical_crafting/smithing_template_eye",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

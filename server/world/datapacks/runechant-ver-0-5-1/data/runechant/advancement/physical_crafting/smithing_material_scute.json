@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:turtle_scute"
+},
+
+
+"title":"Material - Turtle Scute                              ",
+"description":"Trimmed equipment increases Armor Toughness by 6% & Health by 6%, but decreases Movement Speed by 3%. Wearing a full set of armor trimmed in this Material provides a brief period of invincibility",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:physical_crafting/smithing_material_redstone",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

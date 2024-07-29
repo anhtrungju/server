@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:paper",
+"components":{"minecraft:custom_model_data":19974}
+},
+
+
+"title":"The Art of Rune Crafting                              ",
+"description":"Use an Anvil to imprint a word onto Infused Paper, then toss it into an Enchanter's Crucible with a corresponding Catalyst Item [Required: 1x Infused Paper 1x Anvil 1x Specified Item | Drop Craft With: Enchanter's Crucible]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:magic/rune_inscribed_rune_discovery",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

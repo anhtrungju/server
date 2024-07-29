@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:egg",
+"components":{"minecraft:custom_model_data":19971}
+},
+
+
+"title":"Golden Egg                              ",
+"description":"Dropped or layed by Chickens, can be thrown",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:collection_log/flint_and_steel_creeper",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

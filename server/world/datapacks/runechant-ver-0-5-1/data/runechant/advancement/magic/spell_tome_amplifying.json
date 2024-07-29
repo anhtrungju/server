@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:phantom_membrane",
+"components":{"minecraft:custom_model_data":19974}
+},
+
+
+"title":"Crafting a Amplifying Spell Tome                              ",
+"description":"Depending on which material you use for the cover the outcome will be different, an Vex Membrane will create a Amplifying Spell Tome [Required: 1x Vex Membrane | Drop Craft With: Spell Altar]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:magic/spell_tome_paper",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

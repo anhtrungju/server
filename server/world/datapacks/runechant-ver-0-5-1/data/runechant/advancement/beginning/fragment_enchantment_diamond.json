@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:diamond"
+},
+
+
+"title":"Etching Diamonds                              ",
+"description":"Use an Anvil to imprint a word onto a Diamond, then toss it into an Enchanter's Crucible with a World Fragment (Enchantment) (Available words Armor/Range/Shield/Weapon]",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:beginning/crucible_layer_3",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

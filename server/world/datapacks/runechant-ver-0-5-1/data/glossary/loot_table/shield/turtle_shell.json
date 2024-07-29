@@ -1,0 +1,36 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:shield",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                              "minecraft:trim": {"material":"minecraft:turtle_shell","pattern":"minecraft:turtle_shell"},
+
+                              "minecraft:item_name":"{\"text\":\"Turtle Shell Shield\",\"color\":\"gold\",\"italic\":false,\"bold\":false}",
+                              "minecraft:lore":["{\"text\":\"(Charged 100%)\",\"color\":\"light_purple\",\"italic\":false,\"bold\":false}"],
+
+                              "minecraft:enchantment_glint_override":true,
+
+                              "minecraft:attribute_modifiers": { "modifiers":[{"type":"minecraft:generic.max_health","amount":0.2,"slot":"offhand","id":"generic.max_health","operation": "add_multiplied_total"},{"type":"minecraft:generic.max_absorption","amount":0.2,"slot":"offhand","id":"generic.max_absorption","operation": "add_multiplied_total"},{"type":"minecraft:generic.knockback_resistance","amount":0.33,"slot":"offhand","id":"generic.knockback_resistance","operation": "add_multiplied_total"},{"type":"minecraft:generic.armor","amount":0.2,"slot":"offhand","id":"generic.armor","operation": "add_multiplied_total"},{"type":"minecraft:generic.armor_toughness","amount":0.2,"slot":"offhand","id":"generic.armor_toughness","operation": "add_multiplied_total"},{"type":"minecraft:generic.movement_speed","amount":-0.5,"slot":"offhand","id":"generic.movement_speed","operation": "add_multiplied_total"}] }
+                            }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

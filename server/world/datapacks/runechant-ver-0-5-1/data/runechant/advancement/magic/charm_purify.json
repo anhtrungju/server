@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:name_tag",
+"components":{"minecraft:custom_model_data":19971}
+},
+
+
+"title":"Keyword - Purify                              ",
+"description":"Rename a Spell Charm with the Keyword. Cause the Spell to inflict Minor Purify, removing aliments [Cast Speed: Minor Decrease | Cast Cost: +2]",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:magic/heart_no_affinity",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

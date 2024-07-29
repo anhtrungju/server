@@ -1,0 +1,7 @@
+{
+  "asset_id": "piglin_king",
+  "description": {
+    "translate": "trim_pattern.minecraft.piglin_king"
+  },
+  "template_item": "minecraft:barrier"
+}

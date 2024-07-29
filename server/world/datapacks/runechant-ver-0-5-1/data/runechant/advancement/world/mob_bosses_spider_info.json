@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:flower_banner_pattern"
+},
+
+
+"title": "That Which Eats the Shadows                              ",
+"description": "Deep below in ancient ruin I found a pet, it's favorite meal meat. It was cunning and grew past the morsels I would bring it. But maybe you could go give it a treat dump a Clump of Meat on one of those ancient beasts and it'll be a 2 for 1 special",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:world/mob_bosses_spider",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

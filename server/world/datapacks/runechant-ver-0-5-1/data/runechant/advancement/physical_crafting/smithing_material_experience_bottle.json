@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:experience_bottle"
+},
+
+
+"title":"Material - Bottle o' Enchanting                              ",
+"description":"Trimmed equipment increases Attack Speed, Health, Luck & Movement Speed by 5% but decreases Armor, Armor Toughness & Attack Damage by 3%. Wearing a full set of armor trimmed in this Material provides a chance to passively generate Experience",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:physical_crafting/smithing_material_emerald",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

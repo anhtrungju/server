@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:name_tag",
+"components":{"minecraft:custom_model_data":19971}
+},
+
+
+"title":"Keyword - Absorb                              ",
+"description":"Rename a Spell Charm with the Keyword. Cause the Spell to grant whatever it hits a protective Barrier [Cast Speed: Slight Increase | Cast Cost: +3]",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:magic/charm_frost",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

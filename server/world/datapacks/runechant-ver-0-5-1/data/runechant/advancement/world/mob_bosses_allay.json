@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:flint_and_steel",
+"components":{"minecraft:custom_model_data":19972}
+},
+
+
+"title": "Explosives and Yarn, How Fun                              ",
+"description": "Drop some TNT and a Ball of Yarn onto a Fletching Table [Required: 1x TNT 1x Ball of Yarn | Drop Craft With: Fletching Table]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:world/mob_bosses",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

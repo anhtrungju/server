@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:enchanted_book"
+},
+
+
+"title":"Curse of Binding                              ",
+"description":"Using Curse of Binding as the base Enchantment will result in the Spell Tome casting fixed to the nearest entity but with a delay",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:magic/spell_tome",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

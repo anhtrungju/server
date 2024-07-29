@@ -1,0 +1,18 @@
+{Invulnerable:1b,NoAI:1b,CustomName:'{"text:"","color":"dark_purple"}',Rotation:[0.0f,0.0f],Pos:[0.0d,0.0d,0.0d],VillagerData:{profession:"minecraft:",type:"minecraft:",level:99},Offers:{Recipes:[]}}
+
+
+
+{Invulnerable:1b,NoAI:1b,CustomName:'{"text:"Allabah, Knowledge Seeker","color":"dark_purple"}',Rotation:[45.0f,0.0f],Pos:[30.5d,16.0d,9.5d],VillagerData:{profession:"minecraft:cleric",type:"minecraft:taiga",level:99},Offers:{Recipes:[]}}
+
+{Invulnerable:1b,NoAI:1b,CustomName:'{"text:"Kavoc, Rarirt Collector & Crafter","color":"dark_purple"}',Rotation:[-135.0f,0.0f],Pos:[16.5d,19.0d,12.5d],VillagerData:{profession:"minecraft:fletcher",type:"minecraft:jungle",level:99},Offers:{Recipes:[]}}
+
+{Invulnerable:1b,NoAI:1b,CustomName:'{"text:"Ultah, Nexus Steward","color":"dark_purple"}',Rotation:[45.0f,0.0f],Pos:[27.5d,18.0d,20.5d],VillagerData:{profession:"minecraft:librarian",type:"minecraft:swamp",level:99},Offers:{Recipes:[]}}
+
+{Invulnerable:1b,NoAI:1b,CustomName:'{"text:"Bruxan, Nexus Foreman","color":"dark_purple"}',Rotation:[-45.0f,0.0f],Pos:[36.5d,15.5d,16.5d],VillagerData:{profession:"minecraft:mason",type:"minecraft:plains",level:99},Offers:{Recipes:[]}}
+
+{Invulnerable:1b,NoAI:1b,CustomName:'{"text:"Greykor, Nexus Forgemaster","color":"dark_purple"}',Rotation:[-180.0f,0.0f],Pos:[38.5d,16.0d,44.5d],VillagerData:{profession:"minecraft:armorer",type:"minecraft:taiga",level:99},Offers:{Recipes:[]}}
+
+{Invulnerable:1b,NoAI:1b,CustomName:'{"text:"Xelric, Nexus Runesmith","color":"dark_purple"}',Rotation:[-135.0f,0.0f],Pos:[16.5d,16.5d,40.5d],VillagerData:{profession:"minecraft:weaponsmith",type:"minecraft:jungle",level:99},Offers:{Recipes:[]}}
+
+{Invulnerable:1b,NoAI:1b,CustomName:'{"text:"Craytian, Master Herbalist","color":"dark_purple"}',Rotation:[-45.0f,0.0f],Pos:[6.5d,21.5d,29.5d],VillagerData:{profession:"minecraft:leatherworker",type:"minecraft:swamp",level:99},Offers:{Recipes:[]}}
+

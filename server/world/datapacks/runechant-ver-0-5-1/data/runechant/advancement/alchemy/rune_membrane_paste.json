@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:phantom_membrane",
+"components":{"minecraft:custom_model_data":19971}
+},
+
+
+"title":"What the Eyes Can't See                              ",
+"description":"Use the Grinding Station to turn Phantom Membrane into paste. Then drop it onto an Item Frame to turn it invisible [Required: 1x Membrane Paste 1x Placed Item Frame | Drop Craft With: Grinding Station]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:alchemy/rune_blank",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

@@ -1,0 +1,116 @@
+execute if score @s Resolve matches -99..-50 run attribute @s minecraft:generic.max_absorption modifier add resolve_max_absorption -0.055 add_multiplied_total
+execute if score @s Resolve matches -149..-100 run attribute @s minecraft:generic.max_absorption modifier add resolve_max_absorption -0.11 add_multiplied_total
+execute if score @s Resolve matches -199..-150 run attribute @s minecraft:generic.max_absorption modifier add resolve_max_absorption -0.165 add_multiplied_total
+execute if score @s Resolve matches -249..-200 run attribute @s minecraft:generic.max_absorption modifier add resolve_max_absorption -0.22 add_multiplied_total
+execute if score @s Resolve matches -299..-250 run attribute @s minecraft:generic.max_absorption modifier add resolve_max_absorption -0.275 add_multiplied_total
+execute if score @s Resolve matches ..-300 run attribute @s minecraft:generic.max_absorption modifier add resolve_max_absorption -0.33 add_multiplied_total
+
+execute if score @s Intellect matches 50..61 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 0.05 add_value
+execute if score @s Intellect matches 62..73 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 0.1 add_value
+execute if score @s Intellect matches 74..85 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 0.15 add_value
+execute if score @s Intellect matches 86..97 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 0.2 add_value
+execute if score @s Intellect matches 98..109 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 0.25 add_value
+execute if score @s Intellect matches 110..121 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 0.3 add_value
+execute if score @s Intellect matches 122..133 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 0.35 add_value
+execute if score @s Intellect matches 134..145 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 0.4 add_value
+execute if score @s Intellect matches 146..157 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 0.45 add_value
+execute if score @s Intellect matches 158..169 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 0.5 add_value
+execute if score @s Intellect matches 170..181 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 0.55 add_value
+execute if score @s Intellect matches 182..193 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 0.6 add_value
+execute if score @s Intellect matches 194..205 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 0.65 add_value
+execute if score @s Intellect matches 206..217 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 0.7 add_value
+execute if score @s Intellect matches 218..229 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 0.75 add_value
+execute if score @s Intellect matches 230..241 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 0.8 add_value
+execute if score @s Intellect matches 242..253 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 0.85 add_value
+execute if score @s Intellect matches 254..265 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 0.9 add_value
+execute if score @s Intellect matches 266..277 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 0.95 add_value
+execute if score @s Intellect matches 278..289 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 1 add_value
+execute if score @s Intellect matches 290..301 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 1.05 add_value
+execute if score @s Intellect matches 302..313 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 1.1 add_value
+execute if score @s Intellect matches 314..325 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 1.15 add_value
+execute if score @s Intellect matches 326..337 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 1.2 add_value
+execute if score @s Intellect matches 338..349 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 1.25 add_value
+execute if score @s Intellect matches 350..361 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 1.3 add_value
+execute if score @s Intellect matches 362..373 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 1.35 add_value
+execute if score @s Intellect matches 374..385 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 1.4 add_value
+execute if score @s Intellect matches 386..397 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 1.45 add_value
+execute if score @s Intellect matches 398..409 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 1.5 add_value
+execute if score @s Intellect matches 410..421 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 1.55 add_value
+execute if score @s Intellect matches 422..433 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 1.6 add_value
+execute if score @s Intellect matches 434..445 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 1.65 add_value
+execute if score @s Intellect matches 446..457 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 1.7 add_value
+execute if score @s Intellect matches 458..469 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 1.75 add_value
+execute if score @s Intellect matches 470..481 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 1.8 add_value
+execute if score @s Intellect matches 482..493 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 1.85 add_value
+execute if score @s Intellect matches 494..505 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 1.9 add_value
+execute if score @s Intellect matches 506..517 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 1.95 add_value
+execute if score @s Intellect matches 518..529 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 2 add_value
+execute if score @s Intellect matches 530..541 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 2.05 add_value
+execute if score @s Intellect matches 542..553 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 2.1 add_value
+execute if score @s Intellect matches 554..565 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 2.15 add_value
+execute if score @s Intellect matches 566..577 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 2.2 add_value
+execute if score @s Intellect matches 578..589 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 2.25 add_value
+execute if score @s Intellect matches 590..601 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 2.3 add_value
+execute if score @s Intellect matches 602..613 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 2.35 add_value
+execute if score @s Intellect matches 614..625 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 2.4 add_value
+execute if score @s Intellect matches 626..637 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 2.45 add_value
+execute if score @s Intellect matches 638..649 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 2.5 add_value
+execute if score @s Intellect matches 650..661 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 2.55 add_value
+execute if score @s Intellect matches 662..673 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 2.6 add_value
+execute if score @s Intellect matches 674..685 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 2.65 add_value
+execute if score @s Intellect matches 686..697 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 2.7 add_value
+execute if score @s Intellect matches 698..709 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 2.75 add_value
+execute if score @s Intellect matches 710..721 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 2.8 add_value
+execute if score @s Intellect matches 722..733 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 2.85 add_value
+execute if score @s Intellect matches 734..745 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 2.9 add_value
+execute if score @s Intellect matches 746..757 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 2.95 add_value
+execute if score @s Intellect matches 758..769 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 3 add_value
+execute if score @s Intellect matches 770..781 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 3.05 add_value
+execute if score @s Intellect matches 782..793 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 3.1 add_value
+execute if score @s Intellect matches 794..805 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 3.15 add_value
+execute if score @s Intellect matches 806..817 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 3.2 add_value
+execute if score @s Intellect matches 818..829 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 3.25 add_value
+execute if score @s Intellect matches 830..841 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 3.3 add_value
+execute if score @s Intellect matches 842..853 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 3.35 add_value
+execute if score @s Intellect matches 854..865 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 3.4 add_value
+execute if score @s Intellect matches 866..877 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 3.45 add_value
+execute if score @s Intellect matches 878..889 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 3.5 add_value
+execute if score @s Intellect matches 890..901 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 3.55 add_value
+execute if score @s Intellect matches 902..913 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 3.6 add_value
+execute if score @s Intellect matches 914..925 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 3.65 add_value
+execute if score @s Intellect matches 926..937 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 3.7 add_value
+execute if score @s Intellect matches 938..949 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 3.75 add_value
+execute if score @s Intellect matches 950..961 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 3.8 add_value
+execute if score @s Intellect matches 962..973 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 3.85 add_value
+execute if score @s Intellect matches 974..985 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 3.9 add_value
+execute if score @s Intellect matches 986..997 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 3.95 add_value
+execute if score @s Intellect matches 998..1009 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 4 add_value
+execute if score @s Intellect matches 1010..1021 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 4.05 add_value
+execute if score @s Intellect matches 1022..1033 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 4.1 add_value
+execute if score @s Intellect matches 1034..1045 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 4.15 add_value
+execute if score @s Intellect matches 1046..1057 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 4.2 add_value
+execute if score @s Intellect matches 1058..1069 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 4.25 add_value
+execute if score @s Intellect matches 1070..1081 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 4.3 add_value
+execute if score @s Intellect matches 1082..1093 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 4.35 add_value
+execute if score @s Intellect matches 1094..1105 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 4.4 add_value
+execute if score @s Intellect matches 1106..1117 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 4.45 add_value
+execute if score @s Intellect matches 1118..1129 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 4.5 add_value
+execute if score @s Intellect matches 1130..1141 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 4.55 add_value
+execute if score @s Intellect matches 1142..1153 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 4.6 add_value
+execute if score @s Intellect matches 1154..1165 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 4.65 add_value
+execute if score @s Intellect matches 1166..1177 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 4.7 add_value
+execute if score @s Intellect matches 1178..1189 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 4.75 add_value
+execute if score @s Intellect matches 1190..1201 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 4.8 add_value
+execute if score @s Intellect matches 1202..1213 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 4.85 add_value
+execute if score @s Intellect matches 1214..1225 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 4.9 add_value
+execute if score @s Intellect matches 1226..1237 run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 4.95 add_value
+execute if score @s Intellect matches 1238.. run attribute @s minecraft:generic.max_absorption modifier add intellect_max_absorption 5 add_value
+
+execute if score @s Intellect matches ..-50 run scoreboard players set @s QuickCastChargeMax 0
+execute if score @s Intellect matches -49..199 run scoreboard players set @s QuickCastChargeMax 1
+execute if score @s Intellect matches 200..399 run scoreboard players set @s QuickCastChargeMax 2
+execute if score @s Intellect matches 400..699 run scoreboard players set @s QuickCastChargeMax 3
+execute if score @s Intellect matches 600..799 run scoreboard players set @s QuickCastChargeMax 4
+execute if score @s Intellect matches 800..999 run scoreboard players set @s QuickCastChargeMax 5
+execute if score @s Intellect matches 1000..1199 run scoreboard players set @s QuickCastChargeMax 6
+execute if score @s Intellect matches 1200.. run scoreboard players set @s QuickCastChargeMax 7

@@ -1,0 +1,31 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:flower_banner_pattern",
+"components":{"minecraft:custom_model_data":19971}
+},
+
+
+"title":"Restoring the Nexus #4                              ",
+"description":"Recover magic from the Amethyst Tunnels and bring it to Kovac",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:nexus/restoring_the_nexus_3",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+  },
+  "rewards": {"function": "runechant:enchanters_nexus/restore"}
+}

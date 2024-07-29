@@ -1,0 +1,7 @@
+{
+  "asset_id": "hoglin",
+  "description": {
+    "translate": "trim_pattern.minecraft.hoglin"
+  },
+  "template_item": "minecraft:barrier"
+}

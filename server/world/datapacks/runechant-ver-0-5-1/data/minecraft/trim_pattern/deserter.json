@@ -1,0 +1,7 @@
+{
+  "asset_id": "deserter",
+  "description": {
+    "translate": "trim_pattern.minecraft.deserter"
+  },
+  "template_item": "minecraft:barrier"
+}

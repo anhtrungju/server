@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997524}
+},
+
+
+"title":"Crafting a Malevolent Spell Tome                              ",
+"description":"Depending on which material you use for the cover the outcome will be different, an Ancient Eye will create a Malevolent Spell Tome [Required: 1x Ancient Eye | Drop Craft With: Spell Altar]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:magic/spell_tome_paper",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

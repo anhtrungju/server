@@ -1,0 +1,30 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.03,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "quality": 16,
+          "value": "runechant:labrinth/common"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 8,
+          "value": "runechant:labrinth/uncommon"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 4,
+          "value": "runechant:labrinth/epic"
+        },
+        {
+          "type": "minecraft:loot_table",
+          "quality": 2,
+          "value": "runechant:labrinth/legendary"
+        }        
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

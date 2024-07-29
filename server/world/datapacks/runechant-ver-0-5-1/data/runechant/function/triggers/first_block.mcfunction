@@ -1,0 +1,25 @@
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_ancient"}}}} run function runechant:affinity_system/combat/first_block_mainhand/ancient
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_celestial"}}}} run function runechant:affinity_system/combat/first_block_mainhand/celestial
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_deep_dark"}}}} run function runechant:affinity_system/combat/first_block_mainhand/deep_dark
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_enchanted"}}}} run function runechant:affinity_system/combat/first_block_mainhand/enchanted
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_ender"}}}} run function runechant:affinity_system/combat/first_block_mainhand/ender
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_glacial"}}}} run function runechant:affinity_system/combat/first_block_mainhand/glacial
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_golden"}}}} run function runechant:affinity_system/combat/first_block_mainhand/golden
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_nether"}}}} run function runechant:affinity_system/combat/first_block_mainhand/nether
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_ocean"}}}} run function runechant:affinity_system/combat/first_block_mainhand/ocean
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_overworld"}}}} run function runechant:affinity_system/combat/first_block_mainhand/overworld
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_sky"}}}} run function runechant:affinity_system/combat/first_block_mainhand/sky
+execute if data storage minecraft:runechant_selected_item {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_soul"}}}} run function runechant:affinity_system/combat/first_block_mainhand/soul
+
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_ancient"}}}} run function runechant:affinity_system/combat/first_block_offhand/ancient
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_celestial"}}}} run function runechant:affinity_system/combat/first_block_offhand/celestial
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_deep_dark"}}}} run function runechant:affinity_system/combat/first_block_offhand/deep_dark
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_enchanted"}}}} run function runechant:affinity_system/combat/first_block_offhand/enchanted
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_ender"}}}} run function runechant:affinity_system/combat/first_block_offhand/ender
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_glacial"}}}} run function runechant:affinity_system/combat/first_block_offhand/glacial
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_golden"}}}} run function runechant:affinity_system/combat/first_block_offhand/golden
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_nether"}}}} run function runechant:affinity_system/combat/first_block_offhand/nether
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_ocean"}}}} run function runechant:affinity_system/combat/first_block_offhand/ocean
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_overworld"}}}} run function runechant:affinity_system/combat/first_block_offhand/overworld
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_sky"}}}} run function runechant:affinity_system/combat/first_block_offhand/sky
+execute if data storage minecraft:runechant_slot106 {runechant:{components:{"minecraft:trim":{material:"minecraft:affinity_soul"}}}} run function runechant:affinity_system/combat/first_block_offhand/soul

@@ -1,0 +1,94 @@
+{
+  "pools": [
+    {
+      "entries": [
+
+        {
+          "type": "minecraft:item",
+          "functions": [
+
+{
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 16.0,
+                "min": 0.0
+              },
+              "function": "minecraft:set_count"
+            }
+            ],
+          "name": "minecraft:copper_ingot",
+          "weight": 12
+        },
+
+        {
+          "type": "minecraft:item",
+          "functions": [
+
+{
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 8.0,
+                "min": 0.0
+              },
+              "function": "minecraft:set_count"
+            }
+            ],
+          "name": "minecraft:iron_ingot",
+          "weight": 12
+        },
+
+        {
+          "type": "minecraft:item",
+          "functions": [
+
+{
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 3.0,
+                "min": 0.0
+              },
+              "function": "minecraft:set_count"
+            }
+            ],
+          "name": "minecraft:gold_ingot",
+          "weight": 12
+        },
+
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:jigsaw/2_nexus/empowered_metal",
+          "weight": 6
+        },
+
+        {
+          "type": "minecraft:item",
+          "functions": [
+
+{
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1.0,
+                "min": 0.0
+              },
+              "function": "minecraft:set_count"
+            }
+            ],
+          "name": "minecraft:netherite_ingot",
+          "weight": 3
+        },
+
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:jigsaw/2_nexus/enchanted_metal",
+          "weight": 1
+        }
+
+      ],
+      "rolls": 3.0
+    }
+  ]
+}

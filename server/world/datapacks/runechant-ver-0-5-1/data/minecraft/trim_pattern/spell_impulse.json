@@ -1,0 +1,7 @@
+{
+  "asset_id": "spell_impulse",
+  "description": {
+    "translate": "trim_pattern.minecraft.spell_impulse"
+  },
+  "template_item": "minecraft:barrier"
+}

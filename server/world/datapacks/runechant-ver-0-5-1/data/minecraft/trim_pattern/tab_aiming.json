@@ -1,0 +1,7 @@
+{
+  "asset_id": "tab_aiming",
+  "description": {
+    "translate": "trim_pattern.minecraft.tab_aiming"
+  },
+  "template_item": "minecraft:barrier"
+}

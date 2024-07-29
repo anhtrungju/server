@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:honeycomb"
+},
+
+
+"title":"Material - Honeycomb                              ",
+"description":"Trimmed equipment increases Health by 3%, & Luck by 6%. Wearing a full set of armor trimmed in this Material provides passive Regeneration",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:physical_crafting/smithing_material_heart_of_the_sea",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

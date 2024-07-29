@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:name_tag",
+"components":{"minecraft:custom_model_data":19971}
+},
+
+
+"title":"Basic Keyword - Push                              ",
+"description":"Rename a Spell Charm with the Keyword. Cause the Spell to move whatever it hits in the opposite direction from which they are facing [Cast Speed: Slight Increase | Cast Cost: +1]",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:magic/heart_sky_info",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

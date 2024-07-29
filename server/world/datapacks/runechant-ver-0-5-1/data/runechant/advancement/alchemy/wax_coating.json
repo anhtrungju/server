@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997601}
+},
+
+
+"title":"Bottled Wax, Perfect for Coating Weapons                              ",
+"description":"Melt a Wax Ball into a Copper Flask by throwing them onto the Lightning Rod of a Wax Refinery [Required: 1x Wax Ball 1x Copper Flask | Drop Craft With: Wax Refinery]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:alchemy/wax_brewer",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

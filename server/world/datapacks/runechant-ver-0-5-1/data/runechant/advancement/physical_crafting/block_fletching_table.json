@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:fletching_table"
+},
+
+
+"title":"Tinkering on a Fletching Table                              ",
+"description":"Drop a Tinkerers Template & Item onto a Fletching Table. Stat tinkering can be done to Leather Equipment, Wooden & Stone Tools, Bows & Crossbows, Fishing Rods, Turtle Helmets or Elytra on a Fletching Table",
+"frame":"goal",
+"show_toast":false,
+"announce_to_chat":false,
+"hidden":true
+},
+
+"parent":"runechant:physical_crafting/attributeupgrades_base",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

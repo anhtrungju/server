@@ -1,0 +1,15 @@
+{
+  "pools": [
+    {
+      "bonus_rolls": 0.03,
+        "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "glossary:",
+          "weight": 1
+        }
+      ],
+      "rolls": 1.0
+    }
+  ]
+}

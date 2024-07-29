@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:enchanted_book"
+},
+
+
+"title":"Enchantment - Soul Speed III                              ",
+"description":"Using Soul Speed as the base Enchantment will result in the Attuned Weapon/Tool triggering it's Affinity effect when Sprinting",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:sculk_crafting/attune_utility_swift",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

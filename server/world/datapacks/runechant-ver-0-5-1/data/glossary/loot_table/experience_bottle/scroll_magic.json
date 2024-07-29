@@ -1,0 +1,32 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:experience_bottle",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                              "minecraft:custom_model_data":19978,
+
+                              "minecraft:item_name":"{\"text\":\"Scroll of Knowledge\",\"color\":\"light_purple\",\"italic\":false,\"bold\":false}",
+                              "minecraft:lore":["{\"text\":\"Magical Spells & Runes Tab\",\"color\":\"white\",\"italic\":false,\"bold\":false}","{\"text\":\"Unlocks: \",\"color\":\"white\",\"italic\":false,\"bold\":false}"]
+                            }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

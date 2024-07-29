@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:bell",
+"components":{"minecraft:custom_model_data":199733}
+},
+
+
+"title":"Season of Life                              ",
+"description":"A Season of replenishment and growth, offering support to all unless you go rooting through the dark. Blooming Life & Petal Breeze affect the surface while Otherworldly Growth & Noxious Thorns affect the underground",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:seasons/biome_types_otherworld",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

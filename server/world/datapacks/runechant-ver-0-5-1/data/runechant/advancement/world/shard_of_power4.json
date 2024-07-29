@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:echo_shard",
+"components":{"minecraft:custom_model_data":19973}
+},
+
+
+"title":"Imbuing It With Energy                              ",
+"description":"The molten shard has a thirst for experience",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:world/shard_of_power3",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

@@ -1,0 +1,9 @@
+{
+  "asset_name": "celestial",
+  "description": {
+    "color": "#ccffff",
+    "translate": "trim_material.minecraft.celestial"
+  },
+  "ingredient": "minecraft:end_crystal",
+  "item_model_index": 0.14
+}

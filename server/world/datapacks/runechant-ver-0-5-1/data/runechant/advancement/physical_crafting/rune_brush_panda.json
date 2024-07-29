@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:rabbit_hide",
+"components":{"minecraft:custom_model_data":19972}
+},
+
+
+"title":"Panda Fur Brush                              ",
+"description":"Using this Brush will enable you to find additional loot when clearing Suspicious Blocks",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:physical_crafting/rune_brush_upgrade",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:netherite_chestplate",
+"components":{"minecraft:trim":{"material":"minecraft:runic","pattern":"minecraft:return"}}
+},
+
+
+"title":"Armor Keyword - Return                              ",
+"description":"Rename a Spell Charm with the Keyword and combine it with any Armor Piece, a stack of World Fragment (Enchantment) & Shard of Power in a Enchanter's Crucible [Required: 1x Renamed Spell Charm 1x Any Armor Piece 64x World Fragment (Enchantment) 1x Shard of Power | Drop Craft With: Enchanter's Crucible]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:magic/charms_armor1",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

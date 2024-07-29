@@ -1,0 +1,7 @@
+{
+  "asset_id": "weapon_mobkill",
+  "description": {
+    "translate": "trim_pattern.minecraft.weapon_mobkill"
+  },
+  "template_item": "minecraft:barrier"
+}

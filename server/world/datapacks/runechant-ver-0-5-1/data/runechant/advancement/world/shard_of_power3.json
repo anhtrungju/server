@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:echo_shard",
+"components":{"minecraft:custom_model_data":19972}
+},
+
+
+"title":"Reforged In Flowing Fires                              ",
+"description":"Seems the shard seeks greater heat",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:world/shard_of_power2",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

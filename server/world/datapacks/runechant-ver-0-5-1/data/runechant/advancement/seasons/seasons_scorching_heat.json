@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:bell",
+"components":{"minecraft:custom_model_data":199739}
+},
+
+
+"title":"Scorching Heat                              ",
+"description":"This Season Effect can cause dangerous Eruptions to form, as well as periodically causing bouts of Weakness or Hunger and at times inflict Scorch on it's travellers. Affects Fair Weathered & Warm Biomes",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:seasons/seasons_scorch",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

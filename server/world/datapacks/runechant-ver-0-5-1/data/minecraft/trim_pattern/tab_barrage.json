@@ -1,0 +1,7 @@
+{
+  "asset_id": "tab_barrage",
+  "description": {
+    "translate": "trim_pattern.minecraft.tab_barrage"
+  },
+  "template_item": "minecraft:barrier"
+}

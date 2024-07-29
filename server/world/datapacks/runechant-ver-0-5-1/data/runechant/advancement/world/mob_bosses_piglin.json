@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:gold_ingot",
+"components":{"minecraft:custom_model_data":19974}
+},
+
+
+"title": "Two Halves Make a Whole                              ",
+"description": "Drop a piece of True Piglin Gold, a Ghast Tendril and Strider String onto a Fletching Table [Required: 1x True Piglin Gold 1x Ghast Tendril 1x Strider String | Drop Craft With: Fletching Table]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:world/mob_bosses",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

@@ -1,0 +1,7 @@
+{
+  "asset_id": "spell_self",
+  "description": {
+    "translate": "trim_pattern.minecraft.spell_self"
+  },
+  "template_item": "minecraft:barrier"
+}

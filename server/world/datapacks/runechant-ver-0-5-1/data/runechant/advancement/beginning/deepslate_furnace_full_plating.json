@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:netherite_chestplate",
+"components":{"minecraft:trim":{"material":"minecraft:redstone","pattern":"minecraft:decorative"}}
+},
+
+
+"title":"Full Plating Trimmed Armor                              ",
+"description":"Throw a piece of Half Plated Trimmed Armor and a Netherite Upgrade Smithing Template into the centre of a Deepslate Furnace to further enhance it's Material Attributes [Required: 1x Half Plating Trimmed Armor Piece 1x Netherite Upgrade Smithing Template | Drop Craft With: Deepslate Furnace]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:beginning/deepslate_furnace_half_plating",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

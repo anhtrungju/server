@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997930}
+},
+
+
+"title":"Heavy Cluster                              ",
+"description":"Found within Trial Chambers & can be placed in an Enchanted or Ancient Satchel",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:beginning/fragment_mineral_cluster21",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

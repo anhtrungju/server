@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:blue_orchid"
+},
+
+
+"title":"Home Brewing Recipe                              ",
+"description":"Brewing with a Blue Orchid causes everyone in a 32 Block radius to gain Invisibility in 3 Seconds bursts every 5 Seconds for 3 Minutes",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":false,
+"hidden":true
+},
+
+"parent":"runechant:alchemy/hb_azure_bluet",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

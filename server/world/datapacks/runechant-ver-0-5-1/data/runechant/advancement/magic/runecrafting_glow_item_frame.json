@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:glow_item_frame"
+},
+
+
+"title": "Using Runes (Glow)                              ",
+"description": "To utilize Runes simply place then into an Item Frame, then when touched they will activate. When placed in a Glow Item Frame, Runes will become Player specific, only activating when a Player touches them.",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:magic/rune_inscribed_rune_discovery",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

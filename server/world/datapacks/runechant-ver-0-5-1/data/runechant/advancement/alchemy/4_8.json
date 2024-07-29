@@ -1,0 +1,32 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:potion",
+"components":{"minecraft:custom_model_data":19971,"minecraft:potion_contents":{"custom_color":3730328}}
+},
+
+
+"title":"Wax Ball - Violet / Green                              ",
+"description":"Bane - Poisons the afflicted. Reapplication increases the effect",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":false,
+"hidden":true
+},
+
+"parent":"runechant:alchemy/poison_codex",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}
+
+

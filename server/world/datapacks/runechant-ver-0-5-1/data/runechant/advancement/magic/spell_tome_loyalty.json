@@ -1,0 +1,29 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:enchanted_book"
+},
+
+
+"title":"Loyalty III                              ",
+"description":"Using Loyalty as the base Enchantment will result in the Spell Tome casting on yourself",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:magic/spell_tome_curse_of_binding",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

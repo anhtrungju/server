@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997202}
+},
+
+
+"title":"Heating the Rocks                              ",
+"description":"The buds of the Stone Blossom should be first taken to the Ancient Forge to be throughly heated",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":false,
+"hidden":false
+},
+
+"parent":"runechant:nexus/activities_scrolls_xelric_stone_bud",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

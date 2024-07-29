@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:jigsaw",
+"components":{"minecraft:custom_model_data":1997411}
+},
+
+
+"title":"Tainted Jewel                              ",
+"description":"Combine a Runecarver's Jewel in an Experience Infuser with a stack of Sculk, Sculk Vein & Echo Shards [Required: 1x Any Runecarver's Jewel 64x Sculk 64x Sculk Vein 64x Echo Shard | Drop Craft With: Experience Infuser]",
+"frame":"task",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:research/runecarvers_jewel_use",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

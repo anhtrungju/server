@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:experience_bottle",
+"components":{"minecraft:custom_model_data":19973}
+},
+
+
+"title":"Seeking out the Rare                              ",
+"description":"Have and Iron Golem stand ontop of a Decorated Pot (Must be crafted from Sherd) or acquire the corrasponding Scroll of Knowledge, to unlocks a new Advancement Tab [Required: 4x Any Sherds]",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":false
+},
+
+"parent":"runechant:beginning/seek_world",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

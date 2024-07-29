@@ -1,0 +1,9 @@
+{
+  "asset_name": "runic",
+  "description": {
+    "color": "#ff66ff",
+    "translate": "trim_material.minecraft.runic"
+  },
+  "ingredient": "minecraft:barrier",
+  "item_model_index": 0.16
+}

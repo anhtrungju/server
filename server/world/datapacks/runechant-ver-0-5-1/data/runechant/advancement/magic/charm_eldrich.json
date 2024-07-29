@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:name_tag",
+"components":{"minecraft:custom_model_data":19971}
+},
+
+
+"title":"Keyword - Eldrich                              ",
+"description":"Rename a Spell Charm with the Keyword. Cause the Spell to summon creatures of the deep whenever it hits something or at the end of the spells projectile [Cast Speed: Moderate Increase | Cast Cost: +1]",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:magic/charm_water",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

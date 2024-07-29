@@ -1,0 +1,30 @@
+{
+"display":
+{
+"icon":
+{
+"id":"minecraft:coal",
+"components":{"minecraft:custom_model_data":19970}
+},
+
+
+"title":"Coal Cluster                              ",
+"description":"Found by mining Coal Ore & can be placed in an Enchanted or Ancient Satchel",
+"frame":"goal",
+"show_toast":true,
+"announce_to_chat":true,
+"hidden":true
+},
+
+"parent":"runechant:beginning/fragment_mineral_cluster7",
+
+"criteria":
+{
+"requirement":
+{
+
+
+"trigger":"minecraft:impossible"
+}
+}
+}

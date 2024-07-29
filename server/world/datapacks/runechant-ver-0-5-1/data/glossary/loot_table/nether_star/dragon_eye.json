@@ -1,0 +1,32 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:nether_star",
+          "functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": {
+                "min": 1,
+                "max": 1
+              },
+              "add": false
+            },
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                              "minecraft:custom_model_data":19979,
+
+                              "minecraft:item_name":"{\"text\":\"Dragon Eye\",\"color\":\"gold\",\"italic\":false,\"bold\":false}",
+                              "minecraft:lore":["{\"text\":\"Plucked from the body of a great creature.\",\"color\":\"white\",\"italic\":false,\"bold\":false}","{\"text\":\"(Boss Relic)\",\"color\":\"white\",\"italic\":false,\"bold\":false}"]
+                            }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
