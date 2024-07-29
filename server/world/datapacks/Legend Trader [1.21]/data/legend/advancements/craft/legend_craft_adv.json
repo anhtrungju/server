@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "unlockedstormbreaker": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "legend:legend_rec"
+            }
+        }
+    },
+    "rewards": {
+        "function": "legend:givecraft/legend_spawn"
+    }
+}

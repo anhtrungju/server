@@ -2856,216 +2856,6 @@
     },
     "done": true
   },
-  "runechant:seasons/seasons_ash": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_twisted_spark": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_fierce_gale": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_chilling_mist": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_gleaming_delirium": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_blooming_life": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/biome_types_fair": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_blistering_haze": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_ender_hail": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_misty_oasis": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_otherworldly_growth": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_frost": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_soothing_breeze": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_ashen_gust": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_life": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_burning_cavern": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/biome_types_otherworld": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/root": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_scorching_heat": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/biome_types": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/biome_types_warm": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_noxious_thorns": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:beginning/root": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_petal_breeze": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_lushly_flourish": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_ender_corruption": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_scorch": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/biome_types_cold": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_ender": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_frost_storm": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/biome_types_special": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:beginning/tutorial_2": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:beginning/tutorial_1": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_soul_frenzy": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
-  "runechant:seasons/seasons_frigid_blaze": {
-    "criteria": {
-      "requirement": "2024-07-29 15:32:10 +0000"
-    },
-    "done": true
-  },
   "nmr:technical/setup_player_bossbar": {
     "criteria": {
       "requirement": "2024-07-29 15:43:28 +0000"
@@ -3078,9 +2868,39 @@
     },
     "done": true
   },
-  "runechant:beginning/xp_catalyst": {
+  "global:dnv.more_compostable_items": {
     "criteria": {
-      "requirement": "2024-07-29 15:46:27 +0000"
+      "trigger": "2024-07-29 16:53:57 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2024-07-29 16:53:57 +0000"
+    },
+    "done": true
+  },
+  "global:dnv.recyclecraft": {
+    "criteria": {
+      "trigger": "2024-07-29 16:53:57 +0000"
+    },
+    "done": true
+  },
+  "ulg:backpack/legacy_change": {
+    "criteria": {
+      "requirement": "2024-07-29 17:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2024-07-29 17:14:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_spruce_wood": {
+    "criteria": {
+      "has_log": "2024-07-29 17:14:31 +0000"
     },
     "done": true
   },

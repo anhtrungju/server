@@ -1,0 +1,26 @@
+{
+    "pack": {
+        "pack_format":48,
+        "supported_formats": {"min_inclusive": 47, "max_inclusive": 49},
+        "description": [
+            {
+                "text": "Daenvil",
+                "color": "green"
+            },
+            {
+                "text": "'s ",
+                "color": "white"
+            },
+            {
+                "text": "More Compostable Items",
+                "color": "white",
+                "bold": false,
+                "underlined": true
+            },
+            {
+                "text": "\nv1.3.1, for MC1.21+",
+                "color":"gray"
+            }
+        ]
+    }
+}
