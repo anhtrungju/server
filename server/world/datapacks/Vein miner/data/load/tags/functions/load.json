@@ -1,0 +1,6 @@
+{
+  "values": [
+    { "id": "mechanization:load", "required": false },
+    "ores:autominer/load"
+  ]
+}

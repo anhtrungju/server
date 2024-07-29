@@ -1,0 +1,16 @@
+{
+  "values": [
+    {
+      "id": "#ores:autominer/level/cnc/0",
+      "required": false
+    },
+    {
+      "id": "#ores:autominer/level/mech/0",
+      "required": false
+    },
+    {
+      "id": "#ores:autominer/level/vanilla/0",
+      "required": false
+    }
+  ]
+}

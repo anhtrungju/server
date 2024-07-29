@@ -1,1 +1,0 @@
-summon piglin ~ ~ ~ {IsImmuneToZombification:1b,Tags:["nether_hord"],HandItems:[{id:"minecraft:netherite_sword",count:1,components:{"minecraft:enchantments":{levels:{"minecraft:knockback":1,"minecraft:looting":2,"minecraft:sharpness":3}}}},{}],HandDropChances:[0.200F,0.085F],ArmorItems:[{},{},{id:"minecraft:golden_chestplate",count:1},{}]}

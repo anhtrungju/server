@@ -1,0 +1,7 @@
+{
+  "replace": true,
+  "values": [
+    "minecraft:mending",
+    "nova_structures:photosynthesis"
+  ]
+}
