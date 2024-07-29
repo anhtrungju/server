@@ -1,0 +1,19 @@
+{
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:carrot_on_a_stick",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{display:{Name:'{\"translate\":\"ulg.item.backpack.legacy\",\"italic\":false}'},ulg:{isLegacyBackpack:1b,customitem:\"true\",BackPack:{Inventory:[],CustomModelData:822336,Opened:false}},ctc:{id:'backpack',from:'ulg:backpack',traits:{\"backpack\":1b,\"item\":1b}},CustomModelData:822336}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }

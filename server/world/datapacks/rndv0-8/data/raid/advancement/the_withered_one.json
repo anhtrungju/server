@@ -1,0 +1,28 @@
+{
+    "display": {
+      "icon": {
+        "id": "minecraft:wither_skeleton_skull"
+      },
+      "title": "The Withered One",
+      "description": "Kill the withered skeleton!",
+      "show_toast": true,
+      "announce_to_chat": true
+    },
+    "parent": "minecraft:nether/get_wither_skull",
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:player_killed_entity",
+        "conditions": {
+          "entity": {
+            "type": "minecraft:wither_skeleton",
+            "nbt": "{Health:100f,Tags:[\"withered\"]}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "experience": 700
+    },
+    "sends_telemetry_event": true
+  }
+  

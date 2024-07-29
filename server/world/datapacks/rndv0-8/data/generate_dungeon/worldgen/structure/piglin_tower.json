@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": [
+    "minecraft:nether_wastes",
+    "minecraft:soul_sand_valley"
+  ],
+  "step": "surface_structures",
+  "spawn_overrides": {},
+  "terrain_adaptation": "beard_thin",
+  "start_pool": "generate_dungeon:dungeons/piglin_tower",
+  "size": 6,
+  "start_height": {
+    "type": "minecraft:uniform",
+    "min_inclusive": {
+      "absolute": 32
+    },
+    "max_inclusive": {
+      "absolute": 65
+    }
+  },
+  "max_distance_from_center": 80,
+  "use_expansion_hack": false,
+  "dimension_padding": 0,
+  "liquid_settings": "ignore_waterlogging"
+}

@@ -1,0 +1,15 @@
+{
+    "structures": [
+      {
+        "structure": "generate_dungeon:witch_hut",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 2062380305,
+      "spacing": 18,
+      "separation": 7
+    }
+  }
+  

@@ -1,0 +1,1 @@
+execute if predicate generate_dungeon:chance run function generate_dungeon:_zombie

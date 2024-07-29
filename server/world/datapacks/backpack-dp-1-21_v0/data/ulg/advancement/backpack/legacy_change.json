@@ -1,0 +1,39 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:tick",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type": "minecraft:player",
+                "flags": {
+                  "is_sneaking": true
+                },
+                "equipment": {
+                  "offhand": {
+                    "nbt": "{ulg:{BackPack:{Opened:false},isLegacyBackpack:true}}"
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:inverted",
+              "term": {
+                "condition": "minecraft:entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "nbt": "{Tags:[\"ulg_legacybackpack_changed\"]}"
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "ulg:backpack/sub/legacy_change"
+    }
+  }

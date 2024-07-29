@@ -1,0 +1,14 @@
+{
+    "structures": [
+      {
+        "structure": "nmr:astral_plane_campsides",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 1646201450,
+      "spacing": 12,
+      "separation": 8
+    }
+  }

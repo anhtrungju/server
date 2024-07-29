@@ -1,0 +1,15 @@
+{
+    "structures": [
+      {
+        "structure": "generate_dungeon:piglin_tower",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 2112979020,
+      "spacing": 21,
+      "separation": 14
+    }
+  }
+  

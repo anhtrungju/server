@@ -1,0 +1,15 @@
+{
+    "structures": [
+      {
+        "structure": "generate_dungeon:withered_dungeon",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 2112979020,
+      "spacing": 28,
+      "separation": 14
+    }
+  }
+  

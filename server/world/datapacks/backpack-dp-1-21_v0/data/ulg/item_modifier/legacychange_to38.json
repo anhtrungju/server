@@ -1,0 +1,6 @@
+[
+    {
+      "function": "minecraft:set_nbt",
+      "tag": "{CustomModelData:822338,ulg:{BackPack:{CustomModelData:822338}}}"
+    }
+  ]

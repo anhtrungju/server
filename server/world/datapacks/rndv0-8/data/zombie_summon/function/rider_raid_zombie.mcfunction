@@ -1,0 +1,1 @@
+summon zombie_horse ~ ~ ~1 {Tags:["ride"],Passengers:[{id:zombie,Tags:["hord","rider"],HandItems:[{id:diamond_sword,count:1}],HandDropChances:[0.9f],ArmorItems:[{},{},{id:iron_chestplate,count:1},{id:iron_helmet,count:1}],ArmorDropChances:[0f,0f,0f,0f]}]}

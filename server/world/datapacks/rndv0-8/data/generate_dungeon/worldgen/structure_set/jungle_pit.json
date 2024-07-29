@@ -1,0 +1,15 @@
+{
+    "structures": [
+      {
+        "structure": "generate_dungeon:jungle_pit",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:random_spread",
+      "salt": 452822179,
+      "spacing": 50,
+      "separation": 10
+    }
+  }
+  

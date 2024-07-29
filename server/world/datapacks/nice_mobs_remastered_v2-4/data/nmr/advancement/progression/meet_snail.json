@@ -1,0 +1,19 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:slime_block"
+    },
+    "title": "Slow and steady",
+    "description": "Meet a slimey friend",
+    "background": "minecraft:textures/block/mud_bricks.png",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "nmr:progression/root",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:impossible",
+      "conditions": {}
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "structures": [
+      {
+        "structure": "nmr:celestial_watcher_temple",
+        "weight": 1
+      }
+    ],
+    "placement": {
+      "type": "minecraft:concentric_rings",
+      "salt": 0,
+      "distance": 32,
+      "spread": 3,
+      "count": 256,
+      "preferred_biomes": "#nmr:has_structure/celestial_watcher_temple"
+    }
+  }

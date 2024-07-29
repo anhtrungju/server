@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:jigsaw",
+    "biomes": [
+      "minecraft:plains",
+      "minecraft:taiga",
+      "minecraft:snowy_taiga",
+      "minecraft:old_growth_spruce_taiga",
+      "minecraft:old_growth_pine_taiga",
+      "minecraft:desert",
+      "minecraft:birch_forest",
+      "minecraft:dark_forest",
+      "minecraft:forest"
+    ],
+    "step": "underground_structures",
+    "spawn_overrides": {},
+    "start_pool": "generate_dungeon:dungeons/undead_dungeon",
+    "size": 6,
+    "start_height": {
+      "absolute": -14
+    },
+    "max_distance_from_center": 80,
+    "use_expansion_hack": false
+  }
+  

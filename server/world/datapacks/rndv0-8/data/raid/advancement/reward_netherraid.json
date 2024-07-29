@@ -1,0 +1,19 @@
+{
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": [
+            "minecraft:piglin",
+            "minecraft:piglin_brute"
+          ],
+          "nbt": "{Tags:[\"nether_hord\"]}"
+        }
+      }
+    }
+  },
+  "rewards": {
+    "function": "raid:raid_end_nether"
+  }
+}

@@ -80,3 +80,27 @@ recipe4:
   - null
   allowed_worlds: []
   shapeless: false
+recipe5:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  permission: null
+  matchtype: MATCH_META
+  hidden: false
+  check_partial_match: false
+  oncraftcommand: null
+  result: TOTEM_OF_UNDYING
+  recipe:
+  - ROTTEN_FLESH
+  - ROTTEN_FLESH
+  - ROTTEN_FLESH
+  - null
+  - ROTTEN_FLESH
+  - null
+  - null
+  - ROTTEN_FLESH
+  - null
+  allowed_worlds: []
+  shapeless: false

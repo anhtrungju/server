@@ -1,0 +1,17 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:player_killed_entity",
+        "conditions": {
+          "entity": {
+            "type": "#minecraft:undead",
+            "nbt": "{Tags:[\"hord\"]}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "raid:raid_end"
+    }
+  }
+  

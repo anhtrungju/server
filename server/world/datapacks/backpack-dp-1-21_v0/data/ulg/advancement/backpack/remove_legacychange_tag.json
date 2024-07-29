@@ -1,0 +1,25 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:tick",
+        "conditions": {
+          "player": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type": "minecraft:player",
+                "nbt": "{Tags:[\"ulg_legacybackpack_changed\"]}",
+                "flags": {
+                  "is_sneaking": false
+                }
+              }
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "ulg:backpack/sub/remove_legacychange_tag"
+    }
+  }

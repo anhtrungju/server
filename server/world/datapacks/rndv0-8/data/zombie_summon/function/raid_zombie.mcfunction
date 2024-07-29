@@ -1,0 +1,1 @@
+summon zombie ~ ~ ~1 {Tags:["hord"]}

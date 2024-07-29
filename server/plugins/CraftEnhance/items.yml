@@ -48,3 +48,11 @@ DIRT:
   ==: org.bukkit.inventory.ItemStack
   v: 3953
   type: DIRT
+TOTEM_OF_UNDYING:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: TOTEM_OF_UNDYING
+ROTTEN_FLESH:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: ROTTEN_FLESH

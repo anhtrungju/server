@@ -1,0 +1,19 @@
+{
+	"structures": [
+	  {
+		"structure": "hopo:mineshaft/biomes/lush_mineshaft",
+		"weight": 10
+	  },
+	  {
+		"structure": "hopo:mineshaft/biomes/dripstone_mineshaft",
+		"weight": 10
+	  }
+	],
+	"placement": {
+	  "type": "minecraft:random_spread",
+	  "salt": 1360292917,
+	  "spacing": 16,
+	  "separation": 4
+	}
+  }
+  
