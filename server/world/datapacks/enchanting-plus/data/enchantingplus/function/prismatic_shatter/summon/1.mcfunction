@@ -1,0 +1,3 @@
+execute at @s unless entity @e[tag=enchantingplus.prismatic_shatter.marker.hit_point,distance=..1] run summon marker ~ ~1 ~ {Tags:["enchantingplus.prismatic_shatter.marker.hit_point"]}
+execute at @s unless entity @e[tag=enchantingplus.prismatic_shatter.marker.1,distance=..1] run summon marker ~ ~1 ~ {Tags:["enchantingplus.prismatic_shatter.marker.1","enchantingplus.prismatic_shatter.marker.shard","enchantingplus.prismatic_shatter.marker.level.1"]}
+execute at @s unless entity @e[tag=enchantingplus.prismatic_shatter.marker.2,distance=..1] run summon marker ~ ~1 ~ {Tags:["enchantingplus.prismatic_shatter.marker.2","enchantingplus.prismatic_shatter.marker.shard","enchantingplus.prismatic_shatter.marker.level.1"]}

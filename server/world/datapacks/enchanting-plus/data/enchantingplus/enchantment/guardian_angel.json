@@ -1,0 +1,21 @@
+{
+  "anvil_cost": 10,
+  "description": {
+    "translate": "Guardian Angel"
+  },
+  "max_cost": {
+    "base": 64,
+    "per_level_above_first": 20
+  },
+  "max_level": 1,
+  "min_cost": {
+    "base": 48,
+    "per_level_above_first": 20
+  },
+  "slots": [
+    "mainhand",
+    "offhand"
+  ],
+  "supported_items": "minecraft:shield",
+  "weight": 2
+}

@@ -1,0 +1,1 @@
+execute as @e[tag=enchantingplus.alchemical_drain.attacker] run tag @s remove enchantingplus.alchemical_drain.attacker

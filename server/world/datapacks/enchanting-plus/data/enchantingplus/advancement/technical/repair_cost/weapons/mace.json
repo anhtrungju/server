@@ -1,0 +1,14 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:recipe_crafted",
+        "conditions": {
+          "recipe_id": "enchantingplus:repair_cost_reset/weapons/mace"
+        }
+      }
+    },
+    "rewards": {
+      "function": "enchantingplus:repair_cost"
+    }
+  }
+  

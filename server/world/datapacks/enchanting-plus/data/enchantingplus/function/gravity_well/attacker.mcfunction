@@ -1,0 +1,3 @@
+execute if entity @s[nbt={SelectedItem:{components:{"minecraft:enchantments":{levels:{"enchantingplus:gravity_well":1}}}}}] if predicate enchantingplus:chance/15 run tag @s add enchantingplus.gravity_well.attacker
+execute if entity @s[nbt={SelectedItem:{components:{"minecraft:enchantments":{levels:{"enchantingplus:gravity_well":2}}}}}] if predicate enchantingplus:chance/20 run tag @s add enchantingplus.gravity_well.attacker
+execute if entity @s[nbt={SelectedItem:{components:{"minecraft:enchantments":{levels:{"enchantingplus:gravity_well":3}}}}}] if predicate enchantingplus:chance/30 run tag @s add enchantingplus.gravity_well.attacker

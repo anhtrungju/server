@@ -1,0 +1,304 @@
+{
+  "anvil_cost": 4,
+  "description": {
+    "translate": "Curse of Life-Mending"
+  },
+  "effects": {
+    "minecraft:post_attack": [
+      {
+        "affected": "attacker",
+        "enchanted": "attacker",
+        "effect": {
+          "type": "minecraft:all_of",
+          "effects": [
+            {
+              "type": "minecraft:damage_entity",
+              "damage_type": "minecraft:player_attack",
+              "max_damage": 1.0,
+              "min_damage": 19.0
+            },
+            {
+              "type": "minecraft:damage_item",
+              "amount": {
+                "type": "linear",
+                "base": -11,
+                "per_level_above_first": -10
+              }
+            }
+          ]
+        },
+        "requirements": {
+          "condition": "minecraft:all_of",
+          "terms": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "equipment": {
+                  "mainhand": {
+                    "predicates": {
+                      "minecraft:enchantments": [
+                        {
+                          "enchantments": "enchantingplus:life_mending_curse"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:random_chance",
+              "chance": {
+                "type": "minecraft:enchantment_level",
+                "amount": {
+                  "type": "minecraft:linear",
+                  "base": 0.05,
+                  "per_level_above_first": 0.05
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "affected": "victim",
+        "enchanted": "victim",
+        "effect": {
+          "type": "minecraft:all_of",
+          "effects": [
+            {
+              "type": "minecraft:damage_entity",
+              "damage_type": "minecraft:player_attack",
+              "max_damage": 1.0,
+              "min_damage": 19.0
+            },
+            {
+              "type": "minecraft:damage_item",
+              "amount": {
+                "type": "linear",
+                "base": -11,
+                "per_level_above_first": -10
+              }
+            }
+          ]
+        },
+        "requirements": {
+          "condition": "minecraft:all_of",
+          "terms": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "equipment": {
+                  "head": {
+                    "predicates": {
+                      "minecraft:enchantments": [
+                        {
+                          "enchantments": "enchantingplus:life_mending_curse"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:random_chance",
+              "chance": {
+                "type": "minecraft:enchantment_level",
+                "amount": {
+                  "type": "minecraft:linear",
+                  "base": 0.05,
+                  "per_level_above_first": 0.05
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "affected": "victim",
+        "enchanted": "victim",
+        "effect": {
+          "type": "minecraft:all_of",
+          "effects": [
+            {
+              "type": "minecraft:damage_entity",
+              "damage_type": "minecraft:player_attack",
+              "max_damage": 1.0,
+              "min_damage": 19.0
+            },
+            {
+              "type": "minecraft:damage_item",
+              "amount": {
+                "type": "linear",
+                "base": -11,
+                "per_level_above_first": -10
+              }
+            }
+          ]
+        },
+        "requirements": {
+          "condition": "minecraft:all_of",
+          "terms": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "equipment": {
+                  "chest": {
+                    "predicates": {
+                      "minecraft:enchantments": [
+                        {
+                          "enchantments": "enchantingplus:life_mending_curse"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:random_chance",
+              "chance": {
+                "type": "minecraft:enchantment_level",
+                "amount": {
+                  "type": "minecraft:linear",
+                  "base": 0.05,
+                  "per_level_above_first": 0.05
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "affected": "victim",
+        "enchanted": "victim",
+        "effect": {
+          "type": "minecraft:all_of",
+          "effects": [
+            {
+              "type": "minecraft:damage_entity",
+              "damage_type": "minecraft:player_attack",
+              "max_damage": 1.0,
+              "min_damage": 19.0
+            },
+            {
+              "type": "minecraft:damage_item",
+              "amount": {
+                "type": "linear",
+                "base": -11,
+                "per_level_above_first": -10
+              }
+            }
+          ]
+        },
+        "requirements": {
+          "condition": "minecraft:all_of",
+          "terms": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "equipment": {
+                  "legs": {
+                    "predicates": {
+                      "minecraft:enchantments": [
+                        {
+                          "enchantments": "enchantingplus:life_mending_curse"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:random_chance",
+              "chance": {
+                "type": "minecraft:enchantment_level",
+                "amount": {
+                  "type": "minecraft:linear",
+                  "base": 0.05,
+                  "per_level_above_first": 0.05
+                }
+              }
+            }
+          ]
+        }
+      },
+      {
+        "affected": "victim",
+        "enchanted": "victim",
+        "effect": {
+          "type": "minecraft:all_of",
+          "effects": [
+            {
+              "type": "minecraft:damage_entity",
+              "damage_type": "minecraft:player_attack",
+              "max_damage": 1.0,
+              "min_damage": 19.0
+            },
+            {
+              "type": "minecraft:damage_item",
+              "amount": {
+                "type": "linear",
+                "base": -11,
+                "per_level_above_first": -10
+              }
+            }
+          ]
+        },
+        "requirements": {
+          "condition": "minecraft:all_of",
+          "terms": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "equipment": {
+                  "feet": {
+                    "predicates": {
+                      "minecraft:enchantments": [
+                        {
+                          "enchantments": "enchantingplus:life_mending_curse"
+                        }
+                      ]
+                    }
+                  }
+                }
+              }
+            },
+            {
+              "condition": "minecraft:random_chance",
+              "chance": {
+                "type": "minecraft:enchantment_level",
+                "amount": {
+                  "type": "minecraft:linear",
+                  "base": 0.05,
+                  "per_level_above_first": 0.05
+                }
+              }
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "max_cost": {
+    "base": 60,
+    "per_level_above_first": 20
+  },
+  "max_level": 5,
+  "min_cost": {
+    "base": 10,
+    "per_level_above_first": 20
+  },
+  "slots": [
+    "any"
+  ],
+  "supported_items": "#enchantingplus:enchantable/life_mending",
+  "weight": 2
+}

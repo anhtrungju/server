@@ -1,0 +1,7 @@
+execute if entity @s[nbt={SelectedItem:{components:{"minecraft:enchantments":{levels:{"enchantingplus:alchemical_drain":1}}}}}] if predicate enchantingplus:chance/20 run tag @s add enchantingplus.alchemical_drain.attacker
+execute if entity @s[nbt={SelectedItem:{components:{"minecraft:enchantments":{levels:{"enchantingplus:alchemical_drain":2}}}}}] if predicate enchantingplus:chance/40 run tag @s add enchantingplus.alchemical_drain.attacker
+execute if entity @s[nbt={SelectedItem:{components:{"minecraft:enchantments":{levels:{"enchantingplus:alchemical_drain":3}}}}}] if predicate enchantingplus:chance/60 run tag @s add enchantingplus.alchemical_drain.attacker
+execute if entity @s[nbt={SelectedItem:{components:{"minecraft:enchantments":{levels:{"enchantingplus:alchemical_drain":4}}}}}] if predicate enchantingplus:chance/80 run tag @s add enchantingplus.alchemical_drain.attacker
+execute if entity @s[nbt={SelectedItem:{components:{"minecraft:enchantments":{levels:{"enchantingplus:alchemical_drain":5}}}}}] run tag @s add enchantingplus.alchemical_drain.attacker
+
+execute if entity @s[tag=enchantingplus.alchemical_drain.attacker] run schedule function enchantingplus:alchemical_drain/tag_remove 1t

@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:smithing_transform",
+    "category": "equipment",
+    "template": {
+      "item": "minecraft:nether_star"
+    },
+    "base": {
+      "item": "minecraft:chainmail_boots"
+    },
+    "addition": {
+      "item": "minecraft:chain"
+    },
+    "result": {
+      "id": "minecraft:chainmail_boots",
+      "components": {
+        "minecraft:custom_data": {"enchantingplus.repair_cost.reset":true}
+      }
+    }
+  }
+  

@@ -1,0 +1,45 @@
+{
+    "anvil_cost": 12,
+    "description": {
+      "translate": "Necrotic Touch"
+    },
+    "effects": {
+      "minecraft:post_attack": [
+        {
+          "affected": "victim",
+          "enchanted": "attacker",
+          "effect": {
+            "type": "minecraft:apply_mob_effect",
+            "max_amplifier": 2.0,
+            "max_duration": 5.0,
+            "min_amplifier": 2.0,
+            "min_duration": 5.0,
+            "to_apply": "minecraft:wither"
+          }
+        },
+        {
+          "affected": "victim",
+          "enchanted": "attacker",
+          "effect": {
+            "type": "minecraft:run_function",
+            "function": "enchantingplus:necrotic_touch"
+          }
+        }
+      ]
+    },
+    "max_cost": {
+    "base": 60,
+    "per_level_above_first": 20
+    },
+    "max_level": 1,
+    "min_cost": {
+      "base": 10,
+      "per_level_above_first": 20
+    },
+    "slots": [
+      "mainhand"
+    ],
+    "exclusive_set": "#enchantingplus:exclusive_set/aspects",
+    "supported_items": "#minecraft:enchantable/fire_aspect",
+    "weight": 2
+  }

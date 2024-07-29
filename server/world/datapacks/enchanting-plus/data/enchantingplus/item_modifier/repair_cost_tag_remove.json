@@ -1,0 +1,5 @@
+{
+    "function": "minecraft:set_custom_data",
+    "tag": {"enchantingplus.repair_cost.reset":false}
+  }
+  

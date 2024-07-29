@@ -1,0 +1,22 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:shot_crossbow",
+        "conditions": {
+          "item": {
+            "predicates": {
+              "minecraft:enchantments": [
+                {
+                  "enchantments": "enchantingplus:sonically_charged"
+                }
+              ]
+            }
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "enchantingplus:sonically_charged"
+    }
+  }
+  

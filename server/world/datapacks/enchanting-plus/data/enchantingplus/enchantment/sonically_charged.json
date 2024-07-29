@@ -1,0 +1,33 @@
+{
+  "anvil_cost": 12,
+  "description": {
+    "translate": "Sonically Charged"
+  },
+  "effects": {
+    "minecraft:projectile_spawned": [
+      {
+        "entity": "this",
+        "effect": {
+          "type": "minecraft:run_function",
+		      "function": "enchantingplus:kill"
+        }
+      }
+    ]
+  },
+  "max_cost": {
+    "base": 64,
+    "per_level_above_first": 0
+  },
+  "max_level": 1,
+  "min_cost": {
+    "base": 64,
+    "per_level_above_first": 0
+  },
+  "slots": [
+    "mainhand",
+    "offhand"
+  ],
+  "exclusive_set": "#enchantingplus:exclusive_set/sonically_charged",
+  "supported_items": "#minecraft:enchantable/crossbow",
+  "weight": 2
+}

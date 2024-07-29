@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:smithing_transform",
+    "category": "equipment",
+    "template": {
+      "item": "minecraft:nether_star"
+    },
+    "base": {
+      "item": "minecraft:diamond_axe"
+    },
+    "addition": {
+      "item": "minecraft:diamond"
+    },
+    "result": {
+      "id": "minecraft:diamond_axe",
+      "components": {
+        "minecraft:custom_data": {"enchantingplus.repair_cost.reset":true}
+      }
+    }
+  }
+  

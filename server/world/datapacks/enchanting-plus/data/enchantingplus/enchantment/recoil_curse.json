@@ -1,0 +1,42 @@
+{
+    "anvil_cost": 4,
+    "description": {
+      "translate": "Curse of Recoil"
+    },
+    "effects": {
+      "minecraft:post_attack": [
+        {
+          "affected": "attacker",
+          "enchanted": "attacker",
+          "effect": {
+              "type": "minecraft:damage_entity",
+              "damage_type": "minecraft:player_attack",
+              "max_damage": 1.0,
+              "min_damage": 1.0
+          }
+        }
+      ],
+      "minecraft:damage": [
+        {
+          "effect": {
+            "type": "minecraft:add",
+            "value": 2.0
+          }
+        }
+      ]
+    },
+    "max_cost": {
+      "base": 60,
+      "per_level_above_first": 20
+    },
+    "max_level": 1,
+    "min_cost": {
+      "base": 10,
+      "per_level_above_first": 20
+    },
+    "slots": [
+      "mainhand"
+    ],
+    "supported_items": "#enchantingplus:enchantable/held",
+    "weight": 2
+  }

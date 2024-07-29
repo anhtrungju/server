@@ -1,0 +1,77 @@
+{
+    "anvil_cost": 4,
+    "description": {
+      "translate": "Aquatic Aegis"
+    },
+    "effects": {
+      "minecraft:attributes": [
+        {
+          "amount": {
+            "type": "minecraft:linear",
+            "base": 2.0,
+            "per_level_above_first": 2.0
+          },
+          "attribute": "minecraft:player.submerged_mining_speed",
+          "id": "enchantingplus:aquatic_aegis_mining",
+          "operation": "add_multiplied_total",
+          "requirements": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "fluid": {
+                "fluids": "minecraft:water"
+              }
+            }
+          }
+        },
+        {
+            "amount": {
+              "type": "minecraft:linear",
+              "base": 0.25,
+              "per_level_above_first": 0.2
+            },
+            "attribute": "minecraft:generic.water_movement_efficiency",
+            "id": "enchantingplus:aquatic_aegis_speed",
+            "operation": "add_value",
+            "requirements": {
+              "condition": "minecraft:location_check",
+              "predicate": {
+                "fluid": {
+                  "fluids": "minecraft:water"
+                }
+              }
+            }
+        }
+      ],
+      "minecraft:tick": [
+        {
+          "effect": {
+            "type": "run_function",
+            "function": "enchantingplus:aquatic_aegis"
+          },
+          "requirements": {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "fluid": {
+                "fluids": "minecraft:water"
+              }
+            }
+          }
+        }
+      ]
+    },
+    "max_cost": {
+      "base": 60,
+      "per_level_above_first": 20
+    },
+    "max_level": 3,
+    "min_cost": {
+      "base": 10,
+      "per_level_above_first": 20
+    },
+    "slots": [
+      "mainhand",
+      "offhand"
+    ],
+    "supported_items": "#minecraft:enchantable/trident",
+    "weight": 2
+  }

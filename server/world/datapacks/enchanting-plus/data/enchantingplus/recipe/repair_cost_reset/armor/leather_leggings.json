@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:smithing_transform",
+    "category": "equipment",
+    "template": {
+      "item": "minecraft:nether_star"
+    },
+    "base": {
+      "item": "minecraft:leather_leggings"
+    },
+    "addition": {
+      "item": "minecraft:leather"
+    },
+    "result": {
+      "id": "minecraft:leather_leggings",
+      "components": {
+        "minecraft:custom_data": {"enchantingplus.repair_cost.reset":true}
+      }
+    }
+  }
+  
