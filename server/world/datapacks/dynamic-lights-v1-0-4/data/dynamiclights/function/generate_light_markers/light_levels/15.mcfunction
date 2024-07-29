@@ -1,6 +1,0 @@
-execute if data storage dynamiclights:config settings{firelight: true} as @e[distance = ..80] unless score @s dynamiclights.creeper_fuse matches ..0 unless data entity @s {Fire: -1s} unless data entity @s {Fire: -20s} unless data entity @s {fuse: 1s} unless data entity @s {fuse: 0s} run function dynamiclights:generate_light_markers/air_only {light_level: 15}
-
-execute if data storage dynamiclights:config settings{explosives: true} as @e[type = creeper, nbt = {ignited: true}, distance = ..80] unless score @s dynamiclights.creeper_fuse matches ..0 run function dynamiclights:generate_light_markers/all {light_level: 15}
-
-execute if data storage dynamiclights:config settings{explosives: true} as @e[type = tnt, distance = ..80] unless data entity @s {fuse: 1s} unless data entity @s {fuse: 0s} run function dynamiclights:generate_light_markers/all {light_level: 15}
-execute if data storage dynamiclights:config settings{explosives: true} as @e[type = tnt_minecart, distance = ..80] unless data entity @s {fuse: 1s} unless data entity @s {fuse: 0s} run function dynamiclights:generate_light_markers/all {light_level: 15}
