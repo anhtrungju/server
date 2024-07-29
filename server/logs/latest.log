@@ -4679,3 +4679,5 @@ java.lang.ArrayIndexOutOfBoundsException: Index 1 out of bounds for length 1
 [17:26:46] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
 [17:26:47] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
 [17:27:31] [Server thread/INFO]: an8bithahaha issued server command: /home
+[17:28:08] [Server thread/INFO]: an8bithahaha lost connection: Timed out
+[17:28:08] [Server thread/INFO]: an8bithahaha left the game
