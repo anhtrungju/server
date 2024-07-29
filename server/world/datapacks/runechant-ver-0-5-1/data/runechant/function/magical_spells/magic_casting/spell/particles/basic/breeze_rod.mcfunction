@@ -1,0 +1,1 @@
+particle minecraft:item{item:{id:"minecraft:breeze_rod"}} ~ ~ ~ 0.2 0.2 0.2 0.001 50

@@ -1,0 +1,1 @@
+particle minecraft:item{item:{id:"minecraft:gold_ingot"}} ~ ~ ~ 0.2 0.2 0.2 0.001 50

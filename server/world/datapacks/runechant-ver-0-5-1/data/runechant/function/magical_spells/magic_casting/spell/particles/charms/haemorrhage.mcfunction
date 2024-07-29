@@ -1,0 +1,1 @@
+particle minecraft:item{item:{id:"minecraft:redstone"}} ~ ~ ~ 0.1 0.1 0.1 0.001 5

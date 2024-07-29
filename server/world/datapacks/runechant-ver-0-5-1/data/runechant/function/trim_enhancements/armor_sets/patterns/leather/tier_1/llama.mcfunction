@@ -1,0 +1,1 @@
+execute if score *Timer15s Runechant_Timers matches 36 if score @s LuckCheck >= RNG RNG_Variable run effect give @s minecraft:absorption 30 0 true

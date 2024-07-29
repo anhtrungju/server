@@ -1,0 +1,1 @@
+particle minecraft:sonic_boom ~ ~ ~ 0.1 0.1 0.1 0.001 5

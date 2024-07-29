@@ -1,0 +1,1 @@
+particle minecraft:totem_of_undying ~ ~ ~ 0.1 0.1 0.1 0.001 5
