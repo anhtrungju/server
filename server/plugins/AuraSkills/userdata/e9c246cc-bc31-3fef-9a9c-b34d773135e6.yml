@@ -32,7 +32,7 @@ skills:
     xp: 20.0
   auraskills/defense:
     level: 4
-    xp: 959.8366378784197
+    xp: 966.4366378784196
 mana: 160.0
 action_bar:
   idle: true
@@ -59,6 +59,6 @@ trait_modifiers:
     value: 70.0
 ability_data:
   auraskills/xp_convert:
-    xp: 29.044037878425797
+    xp: 5.644037878425795
   auraskills/first_strike:
     counter: 9

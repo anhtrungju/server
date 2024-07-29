@@ -1,0 +1,1 @@
+execute if data storage dynamiclights:core {tick: true} at @a run function dynamiclights:main

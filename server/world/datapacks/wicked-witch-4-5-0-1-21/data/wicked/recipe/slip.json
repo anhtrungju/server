@@ -1,0 +1,22 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "EeE",
+        "eie",
+        "EeE"
+    ],
+    "key": {
+        "i": {
+            "item": "minecraft:iron_boots"
+        },
+        "e": {
+            "item": "minecraft:enchanted_book"
+        },
+        "E": {
+            "item": "minecraft:emerald"
+        }
+    },
+    "result": {
+        "id": "minecraft:knowledge_book"
+    }
+}

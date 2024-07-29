@@ -1,0 +1,1 @@
+function dynamiclights:config/pages/0_home

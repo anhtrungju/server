@@ -1,0 +1,28 @@
+{
+    "display": {
+        "title": {
+            "text": "Wicked Witch Pendant",
+            "color": "dark_green"
+        },
+        "description": {
+            "text": "Finding the pendant of the Wicked Witch of the West",
+            "color": "dark_green"
+        },
+        "icon": {
+            "id": "minecraft:emerald"
+        },
+        "frame": "challenge",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+    },
+    "criteria": {
+        "Wicked witch of the west": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipe": "wicked:witch_pendant"
+            }
+        }
+    }
+}
