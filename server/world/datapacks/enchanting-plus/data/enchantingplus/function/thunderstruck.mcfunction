@@ -1,3 +1,0 @@
-execute if entity @p[nbt={SelectedItem:{components:{"minecraft:enchantments":{levels:{"enchantingplus:thunderstruck":1}}}}}] if predicate enchantingplus:chance/25 run summon lightning_bolt ~ ~ ~
-execute if entity @p[nbt={SelectedItem:{components:{"minecraft:enchantments":{levels:{"enchantingplus:thunderstruck":2}}}}}] if predicate enchantingplus:chance/50 run summon lightning_bolt ~ ~ ~
-execute if entity @p[nbt={SelectedItem:{components:{"minecraft:enchantments":{levels:{"enchantingplus:thunderstruck":3}}}}}] run summon lightning_bolt ~ ~ ~

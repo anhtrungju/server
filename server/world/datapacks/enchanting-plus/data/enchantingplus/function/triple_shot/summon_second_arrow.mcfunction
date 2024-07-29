@@ -1,2 +1,0 @@
-execute at @a[tag=enchantingplus.triple_shot.attacker] run summon minecraft:arrow ~ ~1.5 ~ {pickup:0b,Tags:["enchantingplus.triple_shot.second","enchantingplus.triple_shot.check"]}
-execute at @a[tag=enchantingplus.triple_shot.attacker] run data modify entity @n[type=minecraft:arrow,nbt={inGround:0b},tag=enchantingplus.triple_shot.second] Motion set from storage enchantingplus:triple_shot ArrowMotion

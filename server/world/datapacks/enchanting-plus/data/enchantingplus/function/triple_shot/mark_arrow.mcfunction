@@ -1,3 +1,0 @@
-execute if entity @s[nbt={SelectedItem:{id:"minecraft:bow",components:{"minecraft:enchantments":{levels:{"enchantingplus:triple_shot":1}}}}}] as @n[type=arrow,tag=!enchantingplus.triple_shot.check,nbt={inGround:0b}] run tag @s add enchantingplus.triple_shot.check
-execute if entity @s[nbt={SelectedItem:{id:"minecraft:bow",components:{"minecraft:enchantments":{levels:{"enchantingplus:triple_shot":1}}}}}] run tag @s add enchantingplus.triple_shot.attacker
-execute as @e[type=arrow,tag=enchantingplus.triple_shot.check,nbt={inGround:0b}] run function enchantingplus:triple_shot/shoot_arrow

@@ -1,1 +1,0 @@
-execute at @s as @e[distance=..2,tag=!enchantingplus.cloud_slicer.equip.1] run damage @s 2 player_attack by @n[tag=enchantingplus.cloud_slicer.equip.1]

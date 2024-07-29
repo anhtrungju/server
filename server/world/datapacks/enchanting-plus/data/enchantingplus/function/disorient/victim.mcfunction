@@ -1,3 +1,0 @@
-execute at @s if block ^ ^ ^-2 #enchantingplus:disorient if block ^ ^1 ^-2 #enchantingplus:disorient unless block ^ ^-1 ^-2 minecraft:lava run tp @p[tag=enchantingplus.disorient.attacker] ^ ^ ^-2 facing entity @s feet
-execute at @s if block ^ ^ ^-2 #enchantingplus:disorient if block ^ ^1 ^-2 #enchantingplus:disorient unless block ^ ^-1 ^-2 minecraft:lava as @e[distance=..24,type=player] run playsound minecraft:entity.enderman.teleport player @s ~ ~ ~ 0.1 1
-tag @n[tag=enchantingplus.disorient.attacker,distance=..6] remove enchantingplus.disorient.attacker

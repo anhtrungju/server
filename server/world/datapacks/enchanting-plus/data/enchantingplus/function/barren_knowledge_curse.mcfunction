@@ -1,1 +1,0 @@
-execute at @s run kill @e[type=minecraft:experience_orb,distance=..5]

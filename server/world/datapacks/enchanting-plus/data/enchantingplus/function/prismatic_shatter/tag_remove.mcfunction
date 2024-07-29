@@ -1,2 +1,0 @@
-tag @e[tag=enchantingplus.prismatic_shatter.attacker,scores={enchantingplus.prismatic_shatter.lifespan=200..}] remove enchantingplus.prismatic_shatter.attacker
-scoreboard players reset @a[scores={enchantingplus.prismatic_shatter.lifespan=200..}] enchantingplus.prismatic_shatter.lifespan

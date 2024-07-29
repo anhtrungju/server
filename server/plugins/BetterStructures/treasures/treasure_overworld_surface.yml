@@ -602,21 +602,13 @@ items:
       weight: 6.0
 procedurallyGeneratedItemSettings:
   golden_sword:
-    alchemists_grace:
+    bane_of_arthropods:
       minLevel: 1
       maxLevel: 5
       chance: 0.2
-    spartan:
+    looting:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    dragons_fire:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    plundering:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     smite:
       minLevel: 1
@@ -626,6 +618,10 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
     mending:
       minLevel: 1
       maxLevel: 1
@@ -634,71 +630,11 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 2
       chance: 0.2
-    fire_aspect:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    giant_killer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    frost_aspect:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    raiders_retribution:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    gravity_well:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    soul_leech:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
     sharpness:
       minLevel: 1
       maxLevel: 5
       chance: 0.2
-    alchemical_drain:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    necrotic_touch:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    breach:
-      minLevel: 1
-      maxLevel: 4
-      chance: 0.2
-    bane_of_arthropods:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    end_bringer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    netherbane:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    glacial_fury:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    looting:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    updraft:
+    fire_aspect:
       minLevel: 1
       maxLevel: 2
       chance: 0.2
@@ -706,59 +642,7 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    beheading:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    void_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    dimensional_conqueror:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    disorient:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    inspire:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    blight_bearer:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    riders_wrath:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    poison_aspect:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
   leather_boots:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     soul_speed:
       minLevel: 1
       maxLevel: 3
@@ -767,21 +651,9 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
     fire_protection:
       minLevel: 1
       maxLevel: 4
-      chance: 0.2
-    skybound:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -803,10 +675,6 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    flame_tread:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
     binding_curse:
       minLevel: 1
       maxLevel: 1
@@ -823,42 +691,26 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 2
       chance: 0.2
-    gluttony_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
     blast_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
   chainmail_helmet:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     thorns:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    autofeed:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     fire_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -876,62 +728,34 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    flashbang:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
     binding_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    aqua_affinity:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    celestial_ward:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    gluttony_curse:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
     blast_protection:
       minLevel: 1
       maxLevel: 4
+      chance: 0.2
+    aqua_affinity:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
   netherite_helmet:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     thorns:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    autofeed:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     fire_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -949,27 +773,7 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    flashbang:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
     binding_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    aqua_affinity:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    celestial_ward:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    gluttony_curse:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
@@ -977,30 +781,22 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-  crossbow:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    sonically_charged:
+    aqua_affinity:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
+  crossbow:
     piercing:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    rocket_jumper:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    true_infinity:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -1014,54 +810,22 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    punch:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    frost:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    infinity:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    flame:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
   iron_chestplate:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     thorns:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     fire_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    last_stand:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -1076,22 +840,6 @@ procedurallyGeneratedItemSettings:
       maxLevel: 4
       chance: 0.2
     binding_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    magnetised:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    berserker:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    gluttony_curse:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
@@ -1100,10 +848,6 @@ procedurallyGeneratedItemSettings:
       maxLevel: 4
       chance: 0.2
   diamond_shovel:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     efficiency:
       minLevel: 1
       maxLevel: 5
@@ -1111,14 +855,6 @@ procedurallyGeneratedItemSettings:
     fortune:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    prospecting:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -1133,71 +869,11 @@ procedurallyGeneratedItemSettings:
       maxLevel: 1
       chance: 0.2
     mending:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    autosmelt:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
   wooden_axe:
-    smite:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    unbreaking:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    mending:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    giant_killer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    raiders_retribution:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    soul_leech:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    sharpness:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    autosmelt:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    breach:
-      minLevel: 1
-      maxLevel: 4
-      chance: 0.2
     bane_of_arthropods:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    end_bringer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    netherbane:
       minLevel: 1
       maxLevel: 5
       chance: 0.2
@@ -1209,31 +885,15 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    looting:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    updraft:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    silk_touch:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    beheading:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    void_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    dimensional_conqueror:
+    smite:
       minLevel: 1
       maxLevel: 5
       chance: 0.2
-    barren_knowledge_curse:
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    silk_touch:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
@@ -1241,72 +901,16 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    divine_justice:
+    mending:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    sages_favour:
+    sharpness:
       minLevel: 1
       maxLevel: 5
-      chance: 0.2
-    blight_bearer:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
   iron_axe:
-    smite:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    unbreaking:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    mending:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    giant_killer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    raiders_retribution:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    soul_leech:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    sharpness:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    autosmelt:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    breach:
-      minLevel: 1
-      maxLevel: 4
-      chance: 0.2
     bane_of_arthropods:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    end_bringer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    netherbane:
       minLevel: 1
       maxLevel: 5
       chance: 0.2
@@ -1318,70 +922,38 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    looting:
+    smite:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    unbreaking:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    updraft:
-      minLevel: 1
-      maxLevel: 2
       chance: 0.2
     silk_touch:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    beheading:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    void_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    dimensional_conqueror:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
     vanishing_curse:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    divine_justice:
+    mending:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    sages_favour:
+    sharpness:
       minLevel: 1
       maxLevel: 5
-      chance: 0.2
-    blight_bearer:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
   iron_sword:
-    alchemists_grace:
+    bane_of_arthropods:
       minLevel: 1
       maxLevel: 5
       chance: 0.2
-    spartan:
+    looting:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    dragons_fire:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    plundering:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     smite:
       minLevel: 1
@@ -1391,6 +963,10 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
     mending:
       minLevel: 1
       maxLevel: 1
@@ -1399,142 +975,26 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 2
       chance: 0.2
-    fire_aspect:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    giant_killer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    frost_aspect:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    raiders_retribution:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    gravity_well:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    soul_leech:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
     sharpness:
       minLevel: 1
       maxLevel: 5
       chance: 0.2
-    alchemical_drain:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    necrotic_touch:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    breach:
-      minLevel: 1
-      maxLevel: 4
-      chance: 0.2
-    bane_of_arthropods:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    end_bringer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    netherbane:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    glacial_fury:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    looting:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    updraft:
+    fire_aspect:
       minLevel: 1
       maxLevel: 2
       chance: 0.2
     sweeping_edge:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    beheading:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    void_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    dimensional_conqueror:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    disorient:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    inspire:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    blight_bearer:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    riders_wrath:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    poison_aspect:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
   netherite_sword:
-    alchemists_grace:
+    bane_of_arthropods:
       minLevel: 1
       maxLevel: 5
       chance: 0.2
-    spartan:
+    looting:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    dragons_fire:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    plundering:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     smite:
       minLevel: 1
@@ -1544,6 +1004,10 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
     mending:
       minLevel: 1
       maxLevel: 1
@@ -1552,71 +1016,11 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 2
       chance: 0.2
-    fire_aspect:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    giant_killer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    frost_aspect:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    raiders_retribution:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    gravity_well:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    soul_leech:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
     sharpness:
       minLevel: 1
       maxLevel: 5
       chance: 0.2
-    alchemical_drain:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    necrotic_touch:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    breach:
-      minLevel: 1
-      maxLevel: 4
-      chance: 0.2
-    bane_of_arthropods:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    end_bringer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    netherbane:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    glacial_fury:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    looting:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    updraft:
+    fire_aspect:
       minLevel: 1
       maxLevel: 2
       chance: 0.2
@@ -1624,59 +1028,7 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    beheading:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    void_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    dimensional_conqueror:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    disorient:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    inspire:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    blight_bearer:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    riders_wrath:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    poison_aspect:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
   chainmail_boots:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     soul_speed:
       minLevel: 1
       maxLevel: 3
@@ -1685,21 +1037,9 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
     fire_protection:
       minLevel: 1
       maxLevel: 4
-      chance: 0.2
-    skybound:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -1721,10 +1061,6 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    flame_tread:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
     binding_curse:
       minLevel: 1
       maxLevel: 1
@@ -1740,20 +1076,12 @@ procedurallyGeneratedItemSettings:
     frost_walker:
       minLevel: 1
       maxLevel: 2
-      chance: 0.2
-    gluttony_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     blast_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
   diamond_boots:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     soul_speed:
       minLevel: 1
       maxLevel: 3
@@ -1762,21 +1090,9 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
     fire_protection:
       minLevel: 1
       maxLevel: 4
-      chance: 0.2
-    skybound:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -1798,10 +1114,6 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    flame_tread:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
     binding_curse:
       minLevel: 1
       maxLevel: 1
@@ -1818,30 +1130,14 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 2
       chance: 0.2
-    gluttony_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
     blast_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
   golden_leggings:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     thorns:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    stalwark:
-      minLevel: 1
-      maxLevel: 5
       chance: 0.2
     fire_protection:
       minLevel: 1
@@ -1851,13 +1147,13 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -1872,14 +1168,6 @@ procedurallyGeneratedItemSettings:
       maxLevel: 4
       chance: 0.2
     binding_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    gluttony_curse:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
@@ -1888,10 +1176,6 @@ procedurallyGeneratedItemSettings:
       maxLevel: 4
       chance: 0.2
   stone_shovel:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     efficiency:
       minLevel: 1
       maxLevel: 5
@@ -1899,14 +1183,6 @@ procedurallyGeneratedItemSettings:
     fortune:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    prospecting:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -1921,37 +1197,17 @@ procedurallyGeneratedItemSettings:
       maxLevel: 1
       chance: 0.2
     mending:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    autosmelt:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
   wooden_sword:
-    alchemists_grace:
+    bane_of_arthropods:
       minLevel: 1
       maxLevel: 5
       chance: 0.2
-    spartan:
+    looting:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    dragons_fire:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    plundering:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     smite:
       minLevel: 1
@@ -1961,6 +1217,10 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
     mending:
       minLevel: 1
       maxLevel: 1
@@ -1969,71 +1229,11 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 2
       chance: 0.2
-    fire_aspect:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    giant_killer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    frost_aspect:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    raiders_retribution:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    gravity_well:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    soul_leech:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
     sharpness:
       minLevel: 1
       maxLevel: 5
       chance: 0.2
-    alchemical_drain:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    necrotic_touch:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    breach:
-      minLevel: 1
-      maxLevel: 4
-      chance: 0.2
-    bane_of_arthropods:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    end_bringer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    netherbane:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    glacial_fury:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    looting:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    updraft:
+    fire_aspect:
       minLevel: 1
       maxLevel: 2
       chance: 0.2
@@ -2041,59 +1241,7 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    beheading:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    void_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    dimensional_conqueror:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    disorient:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    inspire:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    blight_bearer:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    riders_wrath:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    poison_aspect:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
   diamond_hoe:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     efficiency:
       minLevel: 1
       maxLevel: 5
@@ -2101,10 +1249,6 @@ procedurallyGeneratedItemSettings:
     fortune:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -2119,71 +1263,11 @@ procedurallyGeneratedItemSettings:
       maxLevel: 1
       chance: 0.2
     mending:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    autosmelt:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
   netherite_axe:
-    smite:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    unbreaking:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    mending:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    giant_killer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    raiders_retribution:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    soul_leech:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    sharpness:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    autosmelt:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    breach:
-      minLevel: 1
-      maxLevel: 4
-      chance: 0.2
     bane_of_arthropods:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    end_bringer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    netherbane:
       minLevel: 1
       maxLevel: 5
       chance: 0.2
@@ -2195,31 +1279,15 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    looting:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    updraft:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    silk_touch:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    beheading:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    void_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    dimensional_conqueror:
+    smite:
       minLevel: 1
       maxLevel: 5
       chance: 0.2
-    barren_knowledge_curse:
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    silk_touch:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
@@ -2227,38 +1295,22 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    divine_justice:
+    mending:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    sages_favour:
+    sharpness:
       minLevel: 1
       maxLevel: 5
-      chance: 0.2
-    blight_bearer:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
   diamond_sword:
-    alchemists_grace:
+    bane_of_arthropods:
       minLevel: 1
       maxLevel: 5
       chance: 0.2
-    spartan:
+    looting:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    dragons_fire:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    plundering:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     smite:
       minLevel: 1
@@ -2267,6 +1319,10 @@ procedurallyGeneratedItemSettings:
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -2276,71 +1332,11 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 2
       chance: 0.2
-    fire_aspect:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    giant_killer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    frost_aspect:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    raiders_retribution:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    gravity_well:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    soul_leech:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
     sharpness:
       minLevel: 1
       maxLevel: 5
       chance: 0.2
-    alchemical_drain:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    necrotic_touch:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    breach:
-      minLevel: 1
-      maxLevel: 4
-      chance: 0.2
-    bane_of_arthropods:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    end_bringer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    netherbane:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    glacial_fury:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    looting:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    updraft:
+    fire_aspect:
       minLevel: 1
       maxLevel: 2
       chance: 0.2
@@ -2348,59 +1344,7 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    beheading:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    void_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    dimensional_conqueror:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    disorient:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    inspire:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    blight_bearer:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    riders_wrath:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    poison_aspect:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
   golden_hoe:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     efficiency:
       minLevel: 1
       maxLevel: 5
@@ -2408,10 +1352,6 @@ procedurallyGeneratedItemSettings:
     fortune:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -2429,46 +1369,22 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    autosmelt:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
   golden_helmet:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     thorns:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    autofeed:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     fire_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -2486,27 +1402,7 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    flashbang:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
     binding_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    aqua_affinity:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    celestial_ward:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    gluttony_curse:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
@@ -2514,22 +1410,14 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-  leather_leggings:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    thorns:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    haunting_curse:
+    aqua_affinity:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    stalwark:
+  leather_leggings:
+    thorns:
       minLevel: 1
-      maxLevel: 5
+      maxLevel: 3
       chance: 0.2
     fire_protection:
       minLevel: 1
@@ -2539,13 +1427,13 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -2563,23 +1451,11 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    gluttony_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
     blast_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
   netherite_shovel:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     efficiency:
       minLevel: 1
       maxLevel: 5
@@ -2587,14 +1463,6 @@ procedurallyGeneratedItemSettings:
     fortune:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    prospecting:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -2612,46 +1480,22 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    autosmelt:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
   leather_helmet:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     thorns:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    autofeed:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     fire_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -2669,27 +1513,7 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    flashbang:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
     binding_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    aqua_affinity:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    celestial_ward:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    gluttony_curse:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
@@ -2697,7 +1521,23 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
+    aqua_affinity:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
   stone_axe:
+    bane_of_arthropods:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    efficiency:
+      minLevel: 1
+      maxLevel: 5
+      chance: 0.2
+    fortune:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
     smite:
       minLevel: 1
       maxLevel: 5
@@ -2706,111 +1546,23 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    mending:
+    silk_touch:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    giant_killer:
+    vanishing_curse:
       minLevel: 1
-      maxLevel: 5
+      maxLevel: 1
       chance: 0.2
-    raiders_retribution:
+    mending:
       minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    soul_leech:
-      minLevel: 1
-      maxLevel: 3
+      maxLevel: 1
       chance: 0.2
     sharpness:
       minLevel: 1
       maxLevel: 5
       chance: 0.2
-    autosmelt:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    breach:
-      minLevel: 1
-      maxLevel: 4
-      chance: 0.2
-    bane_of_arthropods:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    end_bringer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    netherbane:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    efficiency:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    fortune:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    looting:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    updraft:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    silk_touch:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    beheading:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    void_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    dimensional_conqueror:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    divine_justice:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    blight_bearer:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
   shield:
-    reflect:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
@@ -2820,22 +1572,10 @@ procedurallyGeneratedItemSettings:
       maxLevel: 1
       chance: 0.2
     mending:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    purify:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    guardian_angel:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
   iron_hoe:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     efficiency:
       minLevel: 1
       maxLevel: 5
@@ -2843,10 +1583,6 @@ procedurallyGeneratedItemSettings:
     fortune:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -2861,26 +1597,10 @@ procedurallyGeneratedItemSettings:
       maxLevel: 1
       chance: 0.2
     mending:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    autosmelt:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
   golden_pickaxe:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     efficiency:
       minLevel: 1
       maxLevel: 5
@@ -2888,14 +1608,6 @@ procedurallyGeneratedItemSettings:
     fortune:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    prospecting:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -2913,46 +1625,22 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    autosmelt:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
   leather_chestplate:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     thorns:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     fire_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    last_stand:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -2970,31 +1658,11 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    magnetised:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    berserker:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    gluttony_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
     blast_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
   wooden_shovel:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     efficiency:
       minLevel: 1
       maxLevel: 5
@@ -3002,14 +1670,6 @@ procedurallyGeneratedItemSettings:
     fortune:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    prospecting:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -3027,56 +1687,16 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    autosmelt:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
   bow:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    explosive:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    piercing:
-      minLevel: 1
-      maxLevel: 4
-      chance: 0.2
-    true_infinity:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    mending:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    triple_shot:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    punch:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    frost:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
     vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
+      chance: 0.2
+    mending:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
@@ -3092,22 +1712,18 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
+    punch:
+      minLevel: 1
+      maxLevel: 2
+      chance: 0.2
   stone_sword:
-    alchemists_grace:
+    bane_of_arthropods:
       minLevel: 1
       maxLevel: 5
       chance: 0.2
-    spartan:
+    looting:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    dragons_fire:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    plundering:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     smite:
       minLevel: 1
@@ -3116,6 +1732,10 @@ procedurallyGeneratedItemSettings:
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -3125,71 +1745,11 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 2
       chance: 0.2
-    fire_aspect:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    giant_killer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    frost_aspect:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    raiders_retribution:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    gravity_well:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    soul_leech:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
     sharpness:
       minLevel: 1
       maxLevel: 5
       chance: 0.2
-    alchemical_drain:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    necrotic_touch:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    breach:
-      minLevel: 1
-      maxLevel: 4
-      chance: 0.2
-    bane_of_arthropods:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    end_bringer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    netherbane:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    glacial_fury:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    looting:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    updraft:
+    fire_aspect:
       minLevel: 1
       maxLevel: 2
       chance: 0.2
@@ -3197,59 +1757,7 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    beheading:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    void_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    dimensional_conqueror:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    disorient:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    inspire:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    blight_bearer:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    riders_wrath:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    poison_aspect:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
   iron_boots:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     soul_speed:
       minLevel: 1
       maxLevel: 3
@@ -3258,21 +1766,9 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
     fire_protection:
       minLevel: 1
       maxLevel: 4
-      chance: 0.2
-    skybound:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -3294,10 +1790,6 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    flame_tread:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
     binding_curse:
       minLevel: 1
       maxLevel: 1
@@ -3314,30 +1806,14 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 2
       chance: 0.2
-    gluttony_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
     blast_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
   diamond_leggings:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     thorns:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    stalwark:
-      minLevel: 1
-      maxLevel: 5
       chance: 0.2
     fire_protection:
       minLevel: 1
@@ -3347,13 +1823,13 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -3368,14 +1844,6 @@ procedurallyGeneratedItemSettings:
       maxLevel: 4
       chance: 0.2
     binding_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    gluttony_curse:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
@@ -3384,33 +1852,21 @@ procedurallyGeneratedItemSettings:
       maxLevel: 4
       chance: 0.2
   diamond_helmet:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     thorns:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    autofeed:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     fire_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -3428,27 +1884,7 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    flashbang:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
     binding_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    aqua_affinity:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    celestial_ward:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    gluttony_curse:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
@@ -3456,11 +1892,11 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-  golden_boots:
-    life_mending_curse:
+    aqua_affinity:
       minLevel: 1
-      maxLevel: 5
+      maxLevel: 1
       chance: 0.2
+  golden_boots:
     soul_speed:
       minLevel: 1
       maxLevel: 3
@@ -3469,21 +1905,9 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
     fire_protection:
       minLevel: 1
       maxLevel: 4
-      chance: 0.2
-    skybound:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -3505,10 +1929,6 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    flame_tread:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
     binding_curse:
       minLevel: 1
       maxLevel: 1
@@ -3525,19 +1945,11 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 2
       chance: 0.2
-    gluttony_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
     blast_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
   iron_pickaxe:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     efficiency:
       minLevel: 1
       maxLevel: 5
@@ -3545,14 +1957,6 @@ procedurallyGeneratedItemSettings:
     fortune:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    prospecting:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -3570,19 +1974,19 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    sages_favour:
+  diamond_axe:
+    bane_of_arthropods:
       minLevel: 1
       maxLevel: 5
       chance: 0.2
-    recoil_curse:
+    efficiency:
       minLevel: 1
-      maxLevel: 1
+      maxLevel: 5
       chance: 0.2
-    autosmelt:
+    fortune:
       minLevel: 1
-      maxLevel: 1
+      maxLevel: 3
       chance: 0.2
-  diamond_axe:
     smite:
       minLevel: 1
       maxLevel: 5
@@ -3591,83 +1995,7 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    mending:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    giant_killer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    raiders_retribution:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    soul_leech:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    sharpness:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    autosmelt:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    breach:
-      minLevel: 1
-      maxLevel: 4
-      chance: 0.2
-    bane_of_arthropods:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    end_bringer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    netherbane:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    efficiency:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    fortune:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    looting:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    updraft:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
     silk_touch:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    beheading:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    void_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    dimensional_conqueror:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    barren_knowledge_curse:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
@@ -3675,50 +2003,30 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    divine_justice:
+    mending:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    sages_favour:
+    sharpness:
       minLevel: 1
       maxLevel: 5
-      chance: 0.2
-    blight_bearer:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
   diamond_chestplate:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     thorns:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     fire_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    last_stand:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -3733,22 +2041,6 @@ procedurallyGeneratedItemSettings:
       maxLevel: 4
       chance: 0.2
     binding_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    magnetised:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    berserker:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    gluttony_curse:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
@@ -3757,33 +2049,21 @@ procedurallyGeneratedItemSettings:
       maxLevel: 4
       chance: 0.2
   turtle_helmet:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     thorns:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    autofeed:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     fire_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -3801,27 +2081,7 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    flashbang:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
     binding_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    aqua_affinity:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    celestial_ward:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    gluttony_curse:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
@@ -3829,11 +2089,11 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-  stone_pickaxe:
-    life_mending_curse:
+    aqua_affinity:
       minLevel: 1
-      maxLevel: 5
+      maxLevel: 1
       chance: 0.2
+  stone_pickaxe:
     efficiency:
       minLevel: 1
       maxLevel: 5
@@ -3841,14 +2101,6 @@ procedurallyGeneratedItemSettings:
     fortune:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    prospecting:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -3866,46 +2118,22 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    autosmelt:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
   golden_chestplate:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     thorns:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     fire_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    last_stand:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -3920,22 +2148,6 @@ procedurallyGeneratedItemSettings:
       maxLevel: 4
       chance: 0.2
     binding_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    magnetised:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    berserker:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    gluttony_curse:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
@@ -3944,33 +2156,21 @@ procedurallyGeneratedItemSettings:
       maxLevel: 4
       chance: 0.2
   iron_helmet:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     thorns:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    autofeed:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     fire_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -3988,27 +2188,7 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    flashbang:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
     binding_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    aqua_affinity:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    celestial_ward:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    gluttony_curse:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
@@ -4016,11 +2196,11 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-  netherite_pickaxe:
-    life_mending_curse:
+    aqua_affinity:
       minLevel: 1
-      maxLevel: 5
+      maxLevel: 1
       chance: 0.2
+  netherite_pickaxe:
     efficiency:
       minLevel: 1
       maxLevel: 5
@@ -4028,14 +2208,6 @@ procedurallyGeneratedItemSettings:
     fortune:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    prospecting:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -4053,34 +2225,10 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    autosmelt:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
   netherite_leggings:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     thorns:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    stalwark:
-      minLevel: 1
-      maxLevel: 5
       chance: 0.2
     fire_protection:
       minLevel: 1
@@ -4090,13 +2238,13 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -4114,23 +2262,11 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    gluttony_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
     blast_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
   golden_shovel:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     efficiency:
       minLevel: 1
       maxLevel: 5
@@ -4138,14 +2274,6 @@ procedurallyGeneratedItemSettings:
     fortune:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    prospecting:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -4160,18 +2288,6 @@ procedurallyGeneratedItemSettings:
       maxLevel: 1
       chance: 0.2
     mending:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    autosmelt:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
@@ -4197,10 +2313,6 @@ procedurallyGeneratedItemSettings:
       maxLevel: 3
       chance: 0.2
   wooden_hoe:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     efficiency:
       minLevel: 1
       maxLevel: 5
@@ -4208,10 +2320,6 @@ procedurallyGeneratedItemSettings:
     fortune:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -4229,46 +2337,22 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    autosmelt:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
   netherite_chestplate:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     thorns:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     fire_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    last_stand:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -4286,31 +2370,11 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    magnetised:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    berserker:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    gluttony_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
     blast_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
   netherite_boots:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     soul_speed:
       minLevel: 1
       maxLevel: 3
@@ -4319,21 +2383,9 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
     fire_protection:
       minLevel: 1
       maxLevel: 4
-      chance: 0.2
-    skybound:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -4355,10 +2407,6 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    flame_tread:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
     binding_curse:
       minLevel: 1
       maxLevel: 1
@@ -4375,64 +2423,12 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 2
       chance: 0.2
-    gluttony_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
     blast_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
   golden_axe:
-    smite:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    unbreaking:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    mending:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    giant_killer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    raiders_retribution:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    soul_leech:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    sharpness:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    autosmelt:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    breach:
-      minLevel: 1
-      maxLevel: 4
-      chance: 0.2
     bane_of_arthropods:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    end_bringer:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    netherbane:
       minLevel: 1
       maxLevel: 5
       chance: 0.2
@@ -4444,83 +2440,6 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    looting:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    updraft:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    silk_touch:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    beheading:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    void_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    dimensional_conqueror:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    divine_justice:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    blight_bearer:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-  trident:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    breach:
-      minLevel: 1
-      maxLevel: 4
-      chance: 0.2
-    impaling:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    aquatic_pulse:
-      minLevel: 1
-      maxLevel: 2
-      chance: 0.2
-    bane_of_arthropods:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    loyalty:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    looting:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
     smite:
       minLevel: 1
       maxLevel: 5
@@ -4529,59 +2448,52 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    barbed:
+    silk_touch:
       minLevel: 1
-      maxLevel: 3
+      maxLevel: 1
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    magmatic:
+    sharpness:
       minLevel: 1
-      maxLevel: 3
+      maxLevel: 5
       chance: 0.2
-    void_curse:
+  trident:
+    impaling:
       minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    aquatic_aegis:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
+      maxLevel: 5
       chance: 0.2
     channeling:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
+    loyalty:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
+    unbreaking:
+      minLevel: 1
+      maxLevel: 3
+      chance: 0.2
     vanishing_curse:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    sharpness:
+    mending:
       minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
+      maxLevel: 1
       chance: 0.2
     riptide:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
   wooden_pickaxe:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     efficiency:
       minLevel: 1
       maxLevel: 5
@@ -4589,14 +2501,6 @@ procedurallyGeneratedItemSettings:
     fortune:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    prospecting:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -4611,26 +2515,10 @@ procedurallyGeneratedItemSettings:
       maxLevel: 1
       chance: 0.2
     mending:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    autosmelt:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
   diamond_pickaxe:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     efficiency:
       minLevel: 1
       maxLevel: 5
@@ -4638,14 +2526,6 @@ procedurallyGeneratedItemSettings:
     fortune:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    prospecting:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -4663,34 +2543,10 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    autosmelt:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
   chainmail_leggings:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     thorns:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    stalwark:
-      minLevel: 1
-      maxLevel: 5
       chance: 0.2
     fire_protection:
       minLevel: 1
@@ -4700,13 +2556,13 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -4721,14 +2577,6 @@ procedurallyGeneratedItemSettings:
       maxLevel: 4
       chance: 0.2
     binding_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    gluttony_curse:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
@@ -4737,33 +2585,21 @@ procedurallyGeneratedItemSettings:
       maxLevel: 4
       chance: 0.2
   chainmail_chestplate:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     thorns:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     fire_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
-    last_stand:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -4781,42 +2617,14 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    magnetised:
-      minLevel: 1
-      maxLevel: 3
-      chance: 0.2
-    berserker:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    gluttony_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
     blast_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
   iron_leggings:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     thorns:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    haunting_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    stalwark:
-      minLevel: 1
-      maxLevel: 5
       chance: 0.2
     fire_protection:
       minLevel: 1
@@ -4826,13 +2634,13 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 3
       chance: 0.2
-    volatility_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     unbreaking:
       minLevel: 1
       maxLevel: 3
+      chance: 0.2
+    vanishing_curse:
+      minLevel: 1
+      maxLevel: 1
       chance: 0.2
     mending:
       minLevel: 1
@@ -4850,23 +2658,11 @@ procedurallyGeneratedItemSettings:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
-    vanishing_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    gluttony_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
     blast_protection:
       minLevel: 1
       maxLevel: 4
       chance: 0.2
   stone_hoe:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     efficiency:
       minLevel: 1
       maxLevel: 5
@@ -4874,10 +2670,6 @@ procedurallyGeneratedItemSettings:
     fortune:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -4892,26 +2684,10 @@ procedurallyGeneratedItemSettings:
       maxLevel: 1
       chance: 0.2
     mending:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    autosmelt:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
   iron_shovel:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     efficiency:
       minLevel: 1
       maxLevel: 5
@@ -4919,14 +2695,6 @@ procedurallyGeneratedItemSettings:
     fortune:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    prospecting:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -4941,26 +2709,10 @@ procedurallyGeneratedItemSettings:
       maxLevel: 1
       chance: 0.2
     mending:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    autosmelt:
       minLevel: 1
       maxLevel: 1
       chance: 0.2
   netherite_hoe:
-    life_mending_curse:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
     efficiency:
       minLevel: 1
       maxLevel: 5
@@ -4968,10 +2720,6 @@ procedurallyGeneratedItemSettings:
     fortune:
       minLevel: 1
       maxLevel: 3
-      chance: 0.2
-    barren_knowledge_curse:
-      minLevel: 1
-      maxLevel: 1
       chance: 0.2
     unbreaking:
       minLevel: 1
@@ -4986,18 +2734,6 @@ procedurallyGeneratedItemSettings:
       maxLevel: 1
       chance: 0.2
     mending:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    sages_favour:
-      minLevel: 1
-      maxLevel: 5
-      chance: 0.2
-    recoil_curse:
-      minLevel: 1
-      maxLevel: 1
-      chance: 0.2
-    autosmelt:
       minLevel: 1
       maxLevel: 1
       chance: 0.2

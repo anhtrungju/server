@@ -1,1 +1,0 @@
-execute at @s unless entity @e[tag=enchantingplus.void_tear.marker,distance=..1] run summon marker ~ ~1 ~ {Tags:["enchantingplus.void_tear.marker"]}

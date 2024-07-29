@@ -1,2 +1,0 @@
-tag @e[tag=enchantingplus.void_tear.attacker,scores={enchantingplus.void_tear.lifespan=100..}] remove enchantingplus.void_tear.attacker
-scoreboard players reset @a[scores={enchantingplus.void_tear.lifespan=100..}] enchantingplus.void_tear.lifespan

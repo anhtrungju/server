@@ -1,1 +1,0 @@
-execute if entity @s[tag=!enchantingplus.giant_killer.hold] run tag @s add enchantingplus.giant_killer.hold

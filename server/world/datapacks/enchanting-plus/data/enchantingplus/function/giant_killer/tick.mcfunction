@@ -1,2 +1,0 @@
-execute as @e[distance=..10] store result score @s enchantingplus.giant_killer.health run data get entity @s Health
-execute as @e[distance=..10,scores={enchantingplus.giant_killer.health=1..}] at @s store result score @s enchantingplus.giant_killer run scoreboard players operation @s enchantingplus.giant_killer.health -= @n[tag=enchantingplus.giant_killer.hold,distance=0.1..] enchantingplus.giant_killer.health

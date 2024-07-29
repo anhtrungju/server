@@ -1,3 +1,0 @@
-execute if entity @s[nbt={SelectedItem:{components:{"minecraft:enchantments":{levels:{"enchantingplus:disorient":1}}}}}] if predicate enchantingplus:chance/10 run tag @s add enchantingplus.disorient.attacker
-execute if entity @s[nbt={SelectedItem:{components:{"minecraft:enchantments":{levels:{"enchantingplus:disorient":2}}}}}] if predicate enchantingplus:chance/20 run tag @s add enchantingplus.disorient.attacker
-execute if entity @s[nbt={SelectedItem:{components:{"minecraft:enchantments":{levels:{"enchantingplus:disorient":3}}}}}] if predicate enchantingplus:chance/30 run tag @s add enchantingplus.disorient.attacker
