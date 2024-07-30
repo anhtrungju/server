@@ -43,8 +43,8 @@ data-version: 3|2|3953
       item2:
         ==: org.bukkit.inventory.ItemStack
         v: 3953
-        type: SWEET_BERRIES
-        amount: 64
+        type: IRON_BLOCK
+        amount: 10
     '2':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
@@ -63,22 +63,6 @@ data-version: 3|2|3953
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3953
-        type: EMERALD
-        amount: 5
-      item1:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3953
-        type: SWEET_BERRIES
-        amount: 64
-      item2:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3953
-        type: COPPER_INGOT
-        amount: 64
-    '4':
-      resultItem:
-        ==: org.bukkit.inventory.ItemStack
-        v: 3953
         type: IRON_NUGGET
         amount: 9
       item1:
@@ -90,7 +74,7 @@ data-version: 3|2|3953
         v: 3953
         type: SUGAR_CANE
         amount: 64
-    '5':
+    '4':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3953
@@ -103,7 +87,7 @@ data-version: 3|2|3953
         ==: org.bukkit.inventory.ItemStack
         v: 3953
         type: GOLD_INGOT
-    '6':
+    '5':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3953
@@ -114,7 +98,7 @@ data-version: 3|2|3953
         v: 3953
         type: BAMBOO
         amount: 64
-    '7':
+    '6':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3953
@@ -129,7 +113,7 @@ data-version: 3|2|3953
         v: 3953
         type: SWEET_BERRIES
         amount: 64
-    '8':
+    '7':
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3953
@@ -145,6 +129,43 @@ data-version: 3|2|3953
         v: 3953
         type: BAMBOO
         amount: 32
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: DIAMOND
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BAMBOO
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: ROTTEN_FLESH
+        amount: 37
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: IRON_INGOT
+        amount: 7
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: COBBLESTONE
+        amount: 64
+    '10':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: WHEAT
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: WHEAT_SEEDS
+        amount: 64
   snapshots: []
 '5':
   uniqueId: 58a594a8-e7ff-4ac7-8c94-d96e7877afaf
@@ -201,6 +222,16 @@ data-version: 3|2|3953
         ==: org.bukkit.inventory.ItemStack
         v: 3953
         type: BAMBOO
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: REDSTONE
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: ROTTEN_FLESH
   snapshots: []
 '6':
   uniqueId: 800892fc-d36d-4343-bdb1-92acbd2c7acf
@@ -263,5 +294,315 @@ data-version: 3|2|3953
         ==: org.bukkit.inventory.ItemStack
         v: 3953
         type: CLAY
+        amount: 64
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: SLIME_BALL
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: CARROT
+        amount: 64
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: EMERALD
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: NAME_TAG
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: DIAMOND
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: EMERALD
+        amount: 2
+  snapshots: []
+'7':
+  uniqueId: e8732874-98f2-4a4e-9267-c78e9db78b87
+  world: world
+  x: -319
+  y: 31
+  z: 304
+  yaw: 0.0
+  type: admin
+  name: Mua Hoa
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:plains
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: IRON_INGOT
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: POPPY
+        amount: 64
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: IRON_INGOT
+        amount: 32
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: POPPY
+        amount: 32
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: IRON_INGOT
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: POPPY
+        amount: 16
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: IRON_INGOT
+        amount: 8
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: POPPY
+        amount: 8
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: IRON_INGOT
+        amount: 4
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: POPPY
+        amount: 4
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: IRON_INGOT
+        amount: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: POPPY
+        amount: 2
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: IRON_INGOT
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: POPPY
+  snapshots: []
+'8':
+  uniqueId: b745bd7b-93b0-4d63-870e-ef1105db16fb
+  world: world
+  x: -436
+  y: 63
+  z: 263
+  yaw: 90.0
+  type: admin
+  name: Luc Bao
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:taiga
+    villagerLevel: 1
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: EMERALD
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: SWEET_BERRIES
+        amount: 64
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: EMERALD
+        amount: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: COPPER_INGOT
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: SWEET_BERRIES
+        amount: 64
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: EMERALD
+        amount: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: IRON_INGOT
+        amount: 16
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: EMERALD
+        amount: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: DIAMOND_HELMET
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: EMERALD
+        amount: 4
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: SWEET_BERRIES
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: SWEET_BERRIES
+        amount: 64
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: EMERALD
+        amount: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: WHEAT
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: WHEAT
+        amount: 64
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: EMERALD
+        amount: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: POTATO
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: POTATO
+        amount: 64
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: EMERALD
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: POISONOUS_POTATO
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: POISONOUS_POTATO
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: EMERALD
+        amount: 2
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BEETROOT
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BEETROOT
+        amount: 64
+    '10':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: EMERALD
+        amount: 3
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: CARROT
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: CARROT
+        amount: 64
+    '11':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: EMERALD
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BEETROOT_SEEDS
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BEETROOT_SEEDS
+        amount: 64
+    '12':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: EMERALD
+        amount: 30
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: HAY_BLOCK
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: HAY_BLOCK
         amount: 64
   snapshots: []
