@@ -1,0 +1,2 @@
+summon witch ~ ~1 ~ {DeathLootTable:"nmr:empty",PersistenceRequired:1b,Tags:["nmr_amemasu_witch"],attributes:[{id:"minecraft:generic.movement_speed",base:0.2}]}
+kill @e[type=marker,tag=nmr_amemasu_spawner_,distance=..24]

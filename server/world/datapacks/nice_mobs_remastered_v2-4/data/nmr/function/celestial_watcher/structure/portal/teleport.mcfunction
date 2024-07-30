@@ -1,0 +1,1 @@
+$execute as @a at @s if entity @e[type=marker,tag=nmr_celestial_watcher_spawn,distance=..1] in nmr:astral_plane positioned $(PortalX) $(PortalY) $(PortalZ) run spreadplayers ~ ~ 100 100 false @s

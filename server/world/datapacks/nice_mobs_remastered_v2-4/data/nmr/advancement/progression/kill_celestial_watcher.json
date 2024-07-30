@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "id": "minecraft:ender_eye"
+    },
+    "title": "B-eye now!",
+    "description": "Kill a Celestial Watcher",
+    "background": "minecraft:textures/block/mud_bricks.png",
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "parent": "nmr:progression/summon_celestial_watcher",
+  "criteria": {
+    "requirement": {
+      "trigger": "minecraft:player_killed_entity",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {}
+          }
+        ],
+        "entity": {
+          "nbt": "{Tags:[\"nmr_celestial_watcher\"]}"
+        }
+      }
+    }
+  }
+}
