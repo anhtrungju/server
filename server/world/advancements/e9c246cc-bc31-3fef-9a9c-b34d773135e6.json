@@ -329,6 +329,7 @@
       "cooked_porkchop": "2024-07-24 08:42:25 +0000",
       "mutton": "2024-07-14 10:29:29 +0000",
       "bread": "2024-07-14 09:12:58 +0000",
+      "golden_apple": "2024-07-30 15:43:09 +0000",
       "honey_bottle": "2024-07-25 14:48:50 +0000",
       "rotten_flesh": "2024-07-14 10:04:57 +0000",
       "cooked_mutton": "2024-07-14 09:17:52 +0000",
@@ -722,6 +723,7 @@
       "minecraft:blaze": "2024-07-25 09:43:30 +0000",
       "minecraft:skeleton": "2024-07-14 09:19:17 +0000",
       "minecraft:phantom": "2024-07-25 04:55:24 +0000",
+      "minecraft:zombified_piglin": "2024-07-30 15:42:01 +0000",
       "minecraft:witch": "2024-07-24 11:04:22 +0000",
       "minecraft:wither_skeleton": "2024-07-25 09:44:22 +0000",
       "minecraft:cave_spider": "2024-07-14 09:57:01 +0000",
@@ -2835,6 +2837,30 @@
   "minecraft:recipes/misc/iron_ingot_from_nuggets": {
     "criteria": {
       "has_iron_nugget": "2024-07-28 12:12:50 +0000"
+    },
+    "done": true
+  },
+  "nmr:progression/root": {
+    "criteria": {
+      "requirement": "2024-07-30 14:53:33 +0000"
+    },
+    "done": true
+  },
+  "nmr:technical/setup_player_bossbar": {
+    "criteria": {
+      "requirement": "2024-07-30 14:53:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-07-30 15:18:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2024-07-30 17:07:13 +0000"
     },
     "done": true
   },

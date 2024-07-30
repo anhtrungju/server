@@ -48,3 +48,48 @@ DIRT:
   ==: org.bukkit.inventory.ItemStack
   v: 3953
   type: DIRT
+IRON_INGOT2:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: IRON_INGOT
+  amount: 2
+GOLDEN_APPLE:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: GOLDEN_APPLE
+  amount: 2
+POPPY:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: POPPY
+SUGAR_CANE:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: SUGAR_CANE
+COBBLED_DEEPSLATE:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: COBBLED_DEEPSLATE
+COAL:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: COAL
+  amount: 4
+ROTTEN_FLESH:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: ROTTEN_FLESH
+BONE_MEAL:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: BONE_MEAL
+  amount: 7
+TIPPED_ARROW:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: TIPPED_ARROW
+  meta:
+    ==: ItemMeta
+    meta-type: POTION
+    potion-type: minecraft:slowness
+    custom-effects: []

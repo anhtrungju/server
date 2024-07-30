@@ -1,0 +1,55 @@
+# Citizens NPC Storage
+
+last-created-npc-id: 2
+npc:
+  '1':
+    name: An
+    uuid: 065b264b-a541-4997-8011-bb9da811f6e1
+    traits:
+      owner:
+        uuid: e9c246cc-bc31-3fef-9a9c-b34d773135e6
+      spawned: true
+      location:
+        bodyYaw: -125.39868
+        world: world
+        x: -456.5547
+        y: 70.0
+        z: 258.5824
+        yaw: -125.3987
+        pitch: 26.4
+      type: PLAYER
+      skintrait: {}
+      trader:
+        guiName: shopname
+    traitnames: skintrait,scoreboardtrait,spawned,location,owner,trader,type,inventory
+    navigator:
+      speedmodifier: 1.0
+      avoidwater: false
+      usedefaultstuckaction: false
+  '2':
+    metadata:
+      cached-skin-uuid: f73e401d-3f39-468d-9a51-678ef52c0fdc
+      cached-skin-uuid-name: magaming
+    name: MaGaming
+    uuid: f9050a9d-9bf9-4e6c-9992-292a8c594421
+    traits:
+      skintrait:
+        signature: wN/lAvKP/bpCxsIaH27le/TcHCWPBwjW2uFahXGScX8AbCciIgpC3CsHajps3TgM6VYvmEBjq4UI3KuLbevlmerlyoPjDC0So+nut4rDbYgssY94ZVsx9booNBekD6HHV/BbYnkXrH0yshTOu7YwOrxCBLDcY1JeBUEahun1afamYDm6nWRP/yxMG53xoaSl7kcuTF+Se0A1gIcbZiRACTkoYciNrEjRNnVjbFV0tJLQJ3p+o64sXsQPOAj19lkq2K5tOu5NTprSSu3XymaxGMy5YWsSVVU2CvEa0whtfzsAvMVeKGI2RikyP6wuXk+AA/GsmImfec86afasLIUy66IyLBaNL6PG0EMZQKZdqAUDgYJ5jAcgL4aB5tMptK//q1fbZQeqzgfzdwCCXeQoy5G8p+PqkLjEMy/P+GtXZ5I29XcCxhtOVuUgjh1/Qd2IAxQxbvsZl1kC2gi1zQtIf3AIYzOzV6HGPzbdSVRw+NeTGcMwTSYvHcZkFBE/embk4inIURdK6Vtoh1rsXmvIygeU8VuYK8oJ6Cnk1dg/BKekKzp90ZyU74HRLRFQeFjxNju4YVP2xM6nv0Ce+kknUBmclhWlEbMHcad/im6RYBbeXKpyUHGf4iJKZAgWdtEgKRLr34gZ3VxpgDg6NmUEwNzOu68Nuonw1DgnVTvlHVg=
+        textureRaw: ewogICJ0aW1lc3RhbXAiIDogMTcyMjM1NjY5MjY3NiwKICAicHJvZmlsZUlkIiA6ICJmNzNlNDAxZDNmMzk0NjhkOWE1MTY3OGVmNTJjMGZkYyIsCiAgInByb2ZpbGVOYW1lIiA6ICJNQUdhbWluZyIsCiAgInNpZ25hdHVyZVJlcXVpcmVkIiA6IHRydWUsCiAgInRleHR1cmVzIiA6IHsKICAgICJTS0lOIiA6IHsKICAgICAgInVybCIgOiAiaHR0cDovL3RleHR1cmVzLm1pbmVjcmFmdC5uZXQvdGV4dHVyZS83Y2IzYmE1MmRkZDVjYzgyYzBiMDUwYzNmOTIwZjg3ZGEzNmFkZDgwMTY1ODQ2ZjQ3OTA3OTY2MzgwNTQzM2RiIiwKICAgICAgIm1ldGFkYXRhIiA6IHsKICAgICAgICAibW9kZWwiIDogInNsaW0iCiAgICAgIH0KICAgIH0KICB9Cn0=
+      spawned: true
+      location:
+        bodyYaw: 71.55219
+        world: world
+        x: -454.4527
+        y: 70.0
+        z: 257.7645
+        yaw: 71.5522
+        pitch: 3.3001
+      trader:
+        guiName: 'null'
+      type: PLAYER
+    traitnames: skintrait,scoreboardtrait,spawned,location,trader,type,inventory
+    navigator:
+      speedmodifier: 1.0
+      avoidwater: false
+      usedefaultstuckaction: false

@@ -1,0 +1,267 @@
+# This file is not intended to be manually modified! If you want to manually edit this file anyway, ensure that the server is not running currently and that you have prepared a backup of this file.
+
+data-version: 3|2|3953
+'2':
+  uniqueId: a7647a64-659c-4f8a-b999-3b9be5d79013
+  world: world
+  x: -454
+  y: 71
+  z: 257
+  yaw: 0.0
+  type: admin
+  name: ''
+  object:
+    type: allay
+  recipes: {}
+  snapshots: []
+'4':
+  uniqueId: 2233e1bb-e469-4fe7-a004-28a5d327de95
+  world: world
+  x: -436
+  y: 63
+  z: 266
+  yaw: 90.0
+  type: admin
+  name: Cong Tuan
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:savanna
+    villagerLevel: 2
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: DIAMOND
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: SWEET_BERRIES
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: SWEET_BERRIES
+        amount: 64
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: GOLDEN_APPLE
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: SWEET_BERRIES
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: PHANTOM_MEMBRANE
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: EMERALD
+        amount: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: SWEET_BERRIES
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: COPPER_INGOT
+        amount: 64
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: IRON_NUGGET
+        amount: 9
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: DANDELION
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: SUGAR_CANE
+        amount: 64
+    '5':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: GOLDEN_CARROT
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: CARROT
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: GOLD_INGOT
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: ARROW
+        amount: 64
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BAMBOO
+        amount: 64
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: IRON_INGOT
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: SUGAR_CANE
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: SWEET_BERRIES
+        amount: 64
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: LAPIS_LAZULI
+        amount: 28
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BAMBOO
+        amount: 32
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BAMBOO
+        amount: 32
+  snapshots: []
+'5':
+  uniqueId: 58a594a8-e7ff-4ac7-8c94-d96e7877afaf
+  world: world
+  x: -436
+  y: 63
+  z: 268
+  yaw: 90.0
+  type: admin
+  name: Tuan Dat
+  object:
+    type: villager
+    baby: false
+    profession: minecraft:none
+    villagerType: minecraft:swamp
+    villagerLevel: 3
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: COAL
+        amount: 16
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: DIRT
+        amount: 64
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: LAVA_BUCKET
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: DIRT
+        amount: 64
+    '3':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: OBSERVER
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BAMBOO
+    '4':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: PISTON
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BAMBOO
+  snapshots: []
+'6':
+  uniqueId: 800892fc-d36d-4343-bdb1-92acbd2c7acf
+  world: world
+  x: -436
+  y: 63
+  z: 270
+  yaw: 90.0
+  type: admin
+  name: Trum Buon Lau
+  object:
+    type: villager
+    baby: true
+    profession: minecraft:none
+    villagerType: minecraft:savanna
+    villagerLevel: 2
+  recipes:
+    '1':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: POTION
+        meta:
+          ==: ItemMeta
+          meta-type: POTION
+          lore:
+          - '{"text":"","extra":[{"text":"(+0:14)","obfuscated":false,"italic":false,"underlined":false,"strikethrough":false,"color":"green","bold":false}]}'
+          PublicBukkitValues: |-
+            {
+                "auraskills:duration_bonus": 288
+            }
+          potion-type: minecraft:long_strength
+          custom-effects: []
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BAMBOO
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: NETHER_WART
+        amount: 5
+    '2':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: ENCHANTED_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: ENCHANTED
+          stored-enchants:
+            minecraft:efficiency: 5
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: SUGAR_CANE
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: CLAY
+        amount: 64
+  snapshots: []

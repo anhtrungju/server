@@ -1,27 +1,3 @@
-recipe1:
-  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
-  page: -1
-  slot: -1
-  result_slot: 9
-  category: default
-  permission: null
-  matchtype: MATCH_META
-  hidden: false
-  check_partial_match: false
-  oncraftcommand: null
-  result: IRON_INGOT
-  recipe:
-  - COBBLESTONE
-  - null
-  - COBBLESTONE
-  - null
-  - COBBLESTONE
-  - null
-  - COBBLESTONE
-  - null
-  - COBBLESTONE
-  allowed_worlds: []
-  shapeless: false
 recipe2:
   ==: com.dutchjelly.craftenhance.crafthandling.recipes.furnace.BlastRecipe
   page: -1
@@ -78,5 +54,111 @@ recipe4:
   - null
   - DIRT
   - null
+  allowed_worlds: []
+  shapeless: false
+recipe6:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  permission: null
+  matchtype: MATCH_META
+  hidden: false
+  check_partial_match: false
+  oncraftcommand: null
+  result: GOLDEN_APPLE
+  recipe:
+  - POPPY
+  - POPPY
+  - POPPY
+  - POPPY
+  - SUGAR_CANE
+  - POPPY
+  - POPPY
+  - POPPY
+  - POPPY
+  allowed_worlds: []
+  shapeless: false
+recipe7:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.furnace.BlastRecipe
+  page: -1
+  slot: -1
+  result_slot: 1
+  category: furnace
+  permission: null
+  matchtype: MATCH_META
+  hidden: false
+  check_partial_match: false
+  oncraftcommand: null
+  result: IRON_INGOT
+  recipe:
+  - COBBLED_DEEPSLATE
+  allowed_worlds: []
+  exp: 0.0
+  duration: 160
+recipe8:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  permission: null
+  matchtype: MATCH_META
+  hidden: false
+  check_partial_match: false
+  oncraftcommand: null
+  result: COAL
+  recipe:
+  - null
+  - null
+  - ROTTEN_FLESH
+  - null
+  - ROTTEN_FLESH
+  - null
+  - ROTTEN_FLESH
+  - null
+  - null
+  allowed_worlds: []
+  shapeless: false
+recipe9:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.FurnaceRecipe
+  page: -1
+  slot: -1
+  result_slot: 1
+  category: furnace
+  permission: null
+  matchtype: MATCH_META
+  hidden: false
+  check_partial_match: false
+  oncraftcommand: null
+  result: BONE_MEAL
+  recipe:
+  - ROTTEN_FLESH
+  allowed_worlds: []
+  exp: 0.0
+  duration: 160
+recipe1:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  permission: null
+  matchtype: MATCH_META
+  hidden: false
+  check_partial_match: false
+  oncraftcommand: null
+  result: TIPPED_ARROW
+  recipe:
+  - SUGAR_CANE
+  - null
+  - SUGAR_CANE
+  - null
+  - SUGAR_CANE
+  - null
+  - SUGAR_CANE
+  - null
+  - SUGAR_CANE
   allowed_worlds: []
   shapeless: false
