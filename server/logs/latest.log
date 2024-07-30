@@ -1,239 +1,147 @@
-[12:09:04] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/CraftEnhance-2.5.6.1.jar'...
-[12:09:06] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/CraftEnhance-2.5.6.1.jar' in 1882ms.
-[12:09:11] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:09:13] [ServerMain/INFO]: Loaded 1290 recipes
-[12:09:13] [ServerMain/INFO]: Loaded 1399 advancements
-[12:09:13] [Server thread/INFO]: Starting minecraft server version 1.21
-[12:09:13] [Server thread/INFO]: Loading properties
-[12:09:14] [Server thread/INFO]: This server is running Paper version 1.21-27-master@76c2f16 (2024-06-22T18:19:36Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[12:09:14] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[12:09:14] [Server thread/INFO]: Using 4 threads for Netty based IO
-[12:09:15] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[09:37:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[09:37:03] [ServerMain/INFO]: Loaded 1290 recipes
+[09:37:04] [ServerMain/INFO]: Loaded 1399 advancements
+[09:37:04] [Server thread/INFO]: Starting minecraft server version 1.21
+[09:37:04] [Server thread/INFO]: Loading properties
+[09:37:04] [Server thread/INFO]: This server is running Paper version 1.21-27-master@76c2f16 (2024-06-22T18:19:36Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[09:37:05] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[09:37:05] [Server thread/INFO]: Using 4 threads for Netty based IO
+[09:37:06] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[12:09:15] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[12:09:15] [Server thread/INFO]: Default game type: SURVIVAL
-[12:09:15] [Server thread/INFO]: Generating keypair
-[12:09:15] [Server thread/INFO]: Starting Minecraft server on *:25565
-[12:09:15] [Server thread/INFO]: Using epoll channel type
-[12:09:15] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[12:09:15] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[12:09:16] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[12:09:16] [Server thread/INFO]: [CraftEnhance] Loading server plugin CraftEnhance v2.5.6.1
-[12:09:16] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.1.5
-[12:09:16] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+106-8b08a8f
-[12:09:16] [Server thread/INFO]: [ChestSort] Loading server plugin ChestSort v14.1.0
-[12:09:16] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[12:09:16] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[12:09:17] [Server thread/INFO]:         __    
-[12:09:17] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[12:09:17] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[12:09:17] [Server thread/INFO]: 
-[12:09:17] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[12:09:17] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[12:09:18] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[12:09:18] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[12:09:18] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1717ms)
-[12:09:18] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[12:09:18] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[12:09:18] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[12:09:18] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[12:09:18] [Server thread/INFO]: Preparing level "world"
-[12:09:19] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[12:09:20] [Server thread/INFO]: Time elapsed: 1414 ms
-[12:09:20] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[12:09:21] [Server thread/INFO]: Time elapsed: 341 ms
-[12:09:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[12:09:21] [Server thread/INFO]: Time elapsed: 159 ms
-[12:09:21] [Server thread/INFO]: [CraftEnhance] Enabling CraftEnhance v2.5.6.1
-[12:09:21] [Server thread/INFO]: [com.dutchjelly.craftenhance.libs.menu.library.RegisterMenuAPI] Now starting MenuApi.. Any errors will be shown below.
-[12:09:22] [Server thread/INFO]: [CraftEnhance] items.yml doesn't exist... creating it.
-[12:09:22] [Server thread/INFO]: [CraftEnhance] recipes.yml doesn't exist... creating it.
-[12:09:22] [Server thread/INFO]: [CraftEnhance] server-recipes.yml doesn't exist... creating it.
-[12:09:22] [Server thread/INFO]: [CraftEnhance] container-owners.yml doesn't exist... creating it.
-[12:09:22] [Server thread/INFO]: [CraftEnhance] CraftEnhance is managed and developed by DutchJelly.
-[12:09:23] [Server thread/INFO]: [CraftEnhance] If you find a bug in the plugin, please report it to https://github.com/DutchJelly/CraftEnhance/issues .
-[12:09:23] [Server thread/INFO]: [CraftEnhance] Running a version check to check that the server is compatible with game version 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20.
-[12:09:23] [Server thread/INFO]: [CraftEnhance] 
-[12:09:23] [Server thread/INFO]: [CraftEnhance] !! Incompatibility found !!
-[12:09:23] [Server thread/INFO]: [CraftEnhance] The installed version of CraftEnhance only supports spigot/bukkit versions "1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20"
-[12:09:23] [Server thread/INFO]: [CraftEnhance] while your server is running 1.21-R0.1-SNAPSHOT.
-[12:09:23] [Server thread/INFO]: [CraftEnhance] The correct version can be installed here: https://www.spigotmc.org/resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/ or https://dev.bukkit.org/projects/craftenhance/files .
-[12:09:23] [Server thread/INFO]: [CraftEnhance] Alternatively do you find latest here: https://github.com/broken1arrow/CraftEnhance/releases .
-[12:09:23] [Server thread/INFO]: [CraftEnhance] When installing the plugin make sure that the game version matches your bukkit or spigot version.
-[12:09:23] [Server thread/INFO]: [CraftEnhance] Please note that this incompatibility could cause duping glitches.
-[12:09:23] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
-[12:09:23] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
-[12:09:23] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
-[12:09:23] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
-[12:09:23] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.1.5
-[12:09:23] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
-[12:09:24] [Server thread/INFO]: [AuraSkills] Successfully registered hook LuckPerms
-[12:09:24] [Server thread/INFO]: [AuraSkills] Loaded 126 config options in 65 ms
-[12:09:24] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21! Trying to find NMS support
-[12:09:24] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
-[12:09:24] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
-[12:09:24] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
-[12:09:25] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
-[12:09:25] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+106-8b08a8f
-[12:09:26] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[12:09:26] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[12:09:27] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
-[12:09:27] [Server thread/INFO]: [Essentials] Using locale en
-[12:09:27] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[12:09:27] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[12:09:27] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[12:09:27] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[12:09:27] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[12:09:27] [Server thread/INFO]: [ChestSort] Enabling ChestSort v14.1.0
-[12:09:27] [Server thread/INFO]: [ChestSort] Use permissions: true
-[12:09:27] [Server thread/INFO]: [ChestSort] Current sorting method: {category},{itemsFirst},{name},{color},{customName}
-[12:09:27] [Server thread/INFO]: [ChestSort] Allow automatic chest sorting:true
-[12:09:27] [Server thread/INFO]: [ChestSort]   |- Chest sorting enabled by default: false
-[12:09:27] [Server thread/INFO]: [ChestSort]   |- Sort time: close
-[12:09:27] [Server thread/INFO]: [ChestSort] Allow automatic inventory sorting:true
-[12:09:27] [Server thread/INFO]: [ChestSort]   |- Inventory sorting enabled by default: false
-[12:09:27] [Server thread/INFO]: [ChestSort] Auto generate category files: true
-[12:09:27] [Server thread/INFO]: [ChestSort] Allow hotkeys: true
-[12:09:27] [Server thread/INFO]: [ChestSort] Hotkeys enabled by default:
-[12:09:27] [Server thread/INFO]: [ChestSort]   |- Middle-Click: true
-[12:09:27] [Server thread/INFO]: [ChestSort]   |- Shift-Click: true
-[12:09:27] [Server thread/INFO]: [ChestSort]   |- Double-Click: true
-[12:09:27] [Server thread/INFO]: [ChestSort]   |- Shift-Right-Click: true
-[12:09:27] [Server thread/INFO]: [ChestSort] Allow additional hotkeys: true
-[12:09:27] [Server thread/INFO]: [ChestSort] Additional hotkeys enabled by default:
-[12:09:27] [Server thread/INFO]: [ChestSort]   |- Left-Click: false
-[12:09:27] [Server thread/INFO]: [ChestSort]   |- Right-Click: false
-[12:09:27] [Server thread/INFO]: [ChestSort] Check for updates: true
-[12:09:27] [Server thread/INFO]: [ChestSort] Check interval: 4 hours (4.0 seconds)
-[12:09:27] [Server thread/INFO]: [ChestSort] Categories: 900-weapons (6), 905-common-tools (4), 907-other-tools (6), 909-food (33), 910-valuables (47), 920-armor-and-arrows (9), 930-brewing (18), 950-redstone (23), 960-wood (60), 970-stone (38), 980-plants (50), 981-corals (1)
-[12:09:28] [Server thread/INFO]: Running delayed init tasks
-[12:09:28] [Craft Scheduler Thread - 2 - Essentials/INFO]: [Essentials] Fetching version information...
-[12:09:28] [Craft Scheduler Thread - 3 - CraftEnhance/INFO]: [CraftEnhance] CraftEnhance is up to date.
-[12:09:28] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 312 total sources
-[12:09:28] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
-[12:09:28] [Server thread/INFO]: [AuraSkills] Loaded 36 pattern rewards and 0 level rewards
-[12:09:28] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
-[12:09:29] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[12:09:29] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
-[12:09:29] [Server thread/INFO]: Done (15.137s)! For help, type "help"
-[12:09:29] [Server thread/INFO]: Timings Reset
-[12:10:36] [User Authenticator #0/INFO]: UUID of player an8bithahaha is e9c246cc-bc31-3fef-9a9c-b34d773135e6
-[12:10:38] [Server thread/INFO]: an8bithahaha joined the game
-[12:10:38] [Server thread/INFO]: an8bithahaha[/[0:0:0:0:0:0:0:1%0]:41608] logged in with entity id 44 at ([world]-454.5, 67.0, 253.5)
-[12:11:20] [Server thread/INFO]: an8bithahaha issued server command: /ceh cleanitemfile
-[12:11:36] [Server thread/INFO]: an8bithahaha issued server command: /ceh createrecipe
-[12:12:28] [Server thread/INFO]: an8bithahaha issued server command: /ceh
-[12:12:37] [Server thread/INFO]: an8bithahaha issued server command: /ceh createrecipe
-[12:12:59] [Server thread/INFO]: an8bithahaha issued server command: /ceh
-[12:13:05] [Server thread/INFO]: an8bithahaha issued server command: /ceh createrecipe
-[12:15:12] [Server thread/INFO]: an8bithahaha issued server command: /ceh
-[12:15:16] [Server thread/INFO]: an8bithahaha issued server command: /ceh createrecipe
-[12:18:41] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/give @a chainmail_chestplate[enchantments={levels:{fire_protection:1,looting:0,projectile_protection:4,thorns:4}}]<--[HERE]
-[12:18:51] [Server thread/INFO]: [Essentials] CONSOLE issued server command: /give @a chainmail_chestplate[enchantments={levels:{fire_protection:1,looting:0,projectile_protection:4,thorns:4}}]
-[12:18:51] [Server thread/INFO]: Error: Unknown item name: chainmail_chestplate[enchantments={levels:{fire_protection:1,looting:0,projectile_protection:4,thorns:4}}].
-[12:19:06] [Server thread/INFO]: an8bithahaha issued server command: /give @a chainmail_chestplate[enchantments={levels:{fire_protection:1,looting:0,projectile_protection:4,thorns:4}}]
-[12:19:39] [Server thread/INFO]: an8bithahaha issued server command: /give @a chainmail_chestplate[enchantments={levels:{fire_protection:1,looting:0,projectile_protection:4,thorns:4}}]
-[12:19:50] [Server thread/INFO]: an8bithahaha issued server command: /give @a chainmail_chestplate[enchantments={levels:{fire_protection:1,looting:0,projectile_protection:4,thorns:4}}]
-[12:20:33] [Server thread/INFO]: an8bithahaha issued server command: /give @a chainmail_chestplate
-[12:20:43] [Server thread/INFO]: an8bithahaha issued server command: /give an8bithahaha chainmail_chestplate
-[12:23:48] [Server thread/INFO]: an8bithahaha issued server command: /give an8bithahaha chainmail_chestplate[enchantments={levels:{blast_protection:3,sweeping_edge:0,thorns:3}}]
-[12:24:26] [Server thread/INFO]: an8bithahaha issued server command: /ceh
-[12:24:41] [Server thread/INFO]: an8bithahaha issued server command: /ceh viewer
-[12:25:11] [Server thread/INFO]: an8bithahaha issued server command: /ceh viewer
-[12:27:05] [Server thread/INFO]: an8bithahaha issued server command: /give @a acacia_log[enchantments={levels:{looting:15}}]
-[12:28:43] [Server thread/INFO]: an8bithahaha issued server command: /enchantment looting 3
-[12:29:13] [Server thread/INFO]: an8bithahaha issued server command: /enchant looting 3
-[12:30:30] [Server thread/INFO]: an8bithahaha issued server command: /ceh changekey
-[12:30:43] [Server thread/INFO]: an8bithahaha issued server command: /ceh rl
-[12:30:43] [Server thread/INFO]: [CraftEnhance] CraftEnhance is managed and developed by DutchJelly.
-[12:30:43] [Server thread/INFO]: [CraftEnhance] If you find a bug in the plugin, please report it to https://github.com/DutchJelly/CraftEnhance/issues .
-[12:30:43] [Server thread/INFO]: [CraftEnhance] Running a version check to check that the server is compatible with game version 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20.
-[12:30:43] [Server thread/INFO]: [CraftEnhance] 
-[12:30:43] [Server thread/INFO]: [CraftEnhance] !! Incompatibility found !!
-[12:30:43] [Server thread/INFO]: [CraftEnhance] The installed version of CraftEnhance only supports spigot/bukkit versions "1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20"
-[12:30:43] [Server thread/INFO]: [CraftEnhance] while your server is running 1.21-R0.1-SNAPSHOT.
-[12:30:43] [Server thread/INFO]: [CraftEnhance] The correct version can be installed here: https://www.spigotmc.org/resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/ or https://dev.bukkit.org/projects/craftenhance/files .
-[12:30:43] [Server thread/INFO]: [CraftEnhance] Alternatively do you find latest here: https://github.com/broken1arrow/CraftEnhance/releases .
-[12:30:43] [Server thread/INFO]: [CraftEnhance] When installing the plugin make sure that the game version matches your bukkit or spigot version.
-[12:30:43] [Server thread/INFO]: [CraftEnhance] Please note that this incompatibility could cause duping glitches.
-[12:30:43] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
-[12:30:43] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
-[12:30:43] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
-[12:30:43] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
-[12:30:44] [Craft Scheduler Thread - 22 - CraftEnhance/INFO]: [CraftEnhance] CraftEnhance is up to date.
-[12:30:53] [Server thread/INFO]: an8bithahaha issued server command: /ceh specs
-[12:33:00] [Server thread/INFO]: an8bithahaha issued server command: /ceh rl
-[12:33:00] [Server thread/INFO]: [CraftEnhance] CraftEnhance is managed and developed by DutchJelly.
-[12:33:00] [Server thread/INFO]: [CraftEnhance] If you find a bug in the plugin, please report it to https://github.com/DutchJelly/CraftEnhance/issues .
-[12:33:00] [Server thread/INFO]: [CraftEnhance] Running a version check to check that the server is compatible with game version 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20.
-[12:33:00] [Server thread/INFO]: [CraftEnhance] 
-[12:33:00] [Server thread/INFO]: [CraftEnhance] !! Incompatibility found !!
-[12:33:00] [Server thread/INFO]: [CraftEnhance] The installed version of CraftEnhance only supports spigot/bukkit versions "1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20"
-[12:33:00] [Server thread/INFO]: [CraftEnhance] while your server is running 1.21-R0.1-SNAPSHOT.
-[12:33:00] [Server thread/INFO]: [CraftEnhance] The correct version can be installed here: https://www.spigotmc.org/resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/ or https://dev.bukkit.org/projects/craftenhance/files .
-[12:33:00] [Server thread/INFO]: [CraftEnhance] Alternatively do you find latest here: https://github.com/broken1arrow/CraftEnhance/releases .
-[12:33:00] [Server thread/INFO]: [CraftEnhance] When installing the plugin make sure that the game version matches your bukkit or spigot version.
-[12:33:00] [Server thread/INFO]: [CraftEnhance] Please note that this incompatibility could cause duping glitches.
-[12:33:00] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
-[12:33:00] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
-[12:33:00] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
-[12:33:00] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
-[12:33:01] [Craft Scheduler Thread - 25 - CraftEnhance/INFO]: [CraftEnhance] CraftEnhance is up to date.
-[12:33:28] [Server thread/INFO]: an8bithahaha issued server command: /ceh createrecipe
-[12:35:01] [Server thread/INFO]: an8bithahaha issued server command: /ceh createrecipe
-[12:35:40] [Server thread/INFO]: an8bithahaha issued server command: /ceh
-[12:35:47] [Server thread/INFO]: an8bithahaha issued server command: /ceh reload
-[12:35:47] [Server thread/INFO]: [CraftEnhance] CraftEnhance is managed and developed by DutchJelly.
-[12:35:47] [Server thread/INFO]: [CraftEnhance] If you find a bug in the plugin, please report it to https://github.com/DutchJelly/CraftEnhance/issues .
-[12:35:47] [Server thread/INFO]: [CraftEnhance] Running a version check to check that the server is compatible with game version 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20.
-[12:35:47] [Server thread/INFO]: [CraftEnhance] 
-[12:35:47] [Server thread/INFO]: [CraftEnhance] !! Incompatibility found !!
-[12:35:47] [Server thread/INFO]: [CraftEnhance] The installed version of CraftEnhance only supports spigot/bukkit versions "1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20"
-[12:35:47] [Server thread/INFO]: [CraftEnhance] while your server is running 1.21-R0.1-SNAPSHOT.
-[12:35:47] [Server thread/INFO]: [CraftEnhance] The correct version can be installed here: https://www.spigotmc.org/resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/ or https://dev.bukkit.org/projects/craftenhance/files .
-[12:35:47] [Server thread/INFO]: [CraftEnhance] Alternatively do you find latest here: https://github.com/broken1arrow/CraftEnhance/releases .
-[12:35:47] [Server thread/INFO]: [CraftEnhance] When installing the plugin make sure that the game version matches your bukkit or spigot version.
-[12:35:47] [Server thread/INFO]: [CraftEnhance] Please note that this incompatibility could cause duping glitches.
-[12:35:47] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
-[12:35:47] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
-[12:35:47] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
-[12:35:47] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
-[12:35:48] [Craft Scheduler Thread - 30 - CraftEnhance/INFO]: [CraftEnhance] CraftEnhance is up to date.
-[12:39:36] [Server thread/INFO]: an8bithahaha was slain by Zombie
-[12:39:40] [Server thread/INFO]: an8bithahaha lost connection: Timed out
-[12:39:40] [Server thread/INFO]: an8bithahaha left the game
-[12:46:12] [Server thread/INFO]: Stopping the server
-[12:46:12] [Server thread/INFO]: Stopping server
-[12:46:12] [Server thread/INFO]: [ChestSort] Disabling ChestSort v14.1.0
-[12:46:12] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+106-8b08a8f
-[12:46:12] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.1.5
-[12:46:12] [Server thread/INFO]: [CraftEnhance] Disabling CraftEnhance v2.5.6.1
-[12:46:13] [Worker-Main-1/INFO]: Loaded 1290 recipes
-[12:46:13] [Worker-Main-1/INFO]: Loaded 1399 advancements
-[12:46:13] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
-[12:46:13] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[12:46:13] [Server thread/INFO]: [LuckPerms] Closing storage...
-[12:46:14] [Server thread/INFO]: [LuckPerms] Goodbye!
-[12:46:14] [Server thread/INFO]: Saving players
-[12:46:14] [Server thread/INFO]: Saving worlds
-[12:46:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 182 entity chunks, 0 poi chunks in world 'world' in 0.10s
-[12:46:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Saved 4 block chunks, 24 entity chunks, 0 poi chunks in world 'world_nether' in 0.06s
-[12:46:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[12:46:14] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.04s
-[12:46:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[12:46:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[12:46:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[12:46:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[09:37:06] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[09:37:07] [Server thread/INFO]: Default game type: SURVIVAL
+[09:37:07] [Server thread/INFO]: Generating keypair
+[09:37:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:37:07] [Server thread/INFO]: Using epoll channel type
+[09:37:07] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[09:37:07] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[09:37:08] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[09:37:09] [Server thread/INFO]: [CraftEnhance] Loading server plugin CraftEnhance v2.5.6.1
+[09:37:09] [Server thread/INFO]: [ChestSort] Loading server plugin ChestSort v14.1.0
+[09:37:09] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.1.5
+[09:37:09] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+106-8b08a8f
+[09:37:09] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[09:37:09] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[09:37:09] [Server thread/INFO]:         __    
+[09:37:09] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[09:37:09] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[09:37:09] [Server thread/INFO]: 
+[09:37:09] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[09:37:10] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[09:37:11] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[09:37:11] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[09:37:11] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2071ms)
+[09:37:11] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[09:37:11] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[09:37:11] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[09:37:11] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[09:37:11] [Server thread/INFO]: Preparing level "world"
+[09:37:12] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[09:37:15] [Server thread/INFO]: Time elapsed: 2478 ms
+[09:37:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[09:37:15] [Server thread/INFO]: Time elapsed: 507 ms
+[09:37:15] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[09:37:15] [Server thread/INFO]: Time elapsed: 208 ms
+[09:37:15] [Server thread/INFO]: [CraftEnhance] Enabling CraftEnhance v2.5.6.1
+[09:37:15] [Server thread/INFO]: [com.dutchjelly.craftenhance.libs.menu.library.RegisterMenuAPI] Now starting MenuApi.. Any errors will be shown below.
+[09:37:18] [Server thread/INFO]: [CraftEnhance] CraftEnhance is managed and developed by DutchJelly.
+[09:37:18] [Server thread/INFO]: [CraftEnhance] If you find a bug in the plugin, please report it to https://github.com/DutchJelly/CraftEnhance/issues .
+[09:37:18] [Server thread/INFO]: [CraftEnhance] Running a version check to check that the server is compatible with game version 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20.
+[09:37:18] [Server thread/INFO]: [CraftEnhance] 
+[09:37:18] [Server thread/INFO]: [CraftEnhance] !! Incompatibility found !!
+[09:37:18] [Server thread/INFO]: [CraftEnhance] The installed version of CraftEnhance only supports spigot/bukkit versions "1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20"
+[09:37:18] [Server thread/INFO]: [CraftEnhance] while your server is running 1.21-R0.1-SNAPSHOT.
+[09:37:18] [Server thread/INFO]: [CraftEnhance] The correct version can be installed here: https://www.spigotmc.org/resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/ or https://dev.bukkit.org/projects/craftenhance/files .
+[09:37:18] [Server thread/INFO]: [CraftEnhance] Alternatively do you find latest here: https://github.com/broken1arrow/CraftEnhance/releases .
+[09:37:18] [Server thread/INFO]: [CraftEnhance] When installing the plugin make sure that the game version matches your bukkit or spigot version.
+[09:37:18] [Server thread/INFO]: [CraftEnhance] Please note that this incompatibility could cause duping glitches.
+[09:37:18] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[09:37:18] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[09:37:18] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[09:37:18] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[09:37:18] [Server thread/INFO]: [ChestSort] Enabling ChestSort v14.1.0
+[09:37:19] [Server thread/INFO]: [ChestSort] Use permissions: true
+[09:37:19] [Server thread/INFO]: [ChestSort] Current sorting method: {category},{itemsFirst},{name},{color},{customName}
+[09:37:19] [Server thread/INFO]: [ChestSort] Allow automatic chest sorting:true
+[09:37:19] [Server thread/INFO]: [ChestSort]   |- Chest sorting enabled by default: false
+[09:37:19] [Server thread/INFO]: [ChestSort]   |- Sort time: close
+[09:37:19] [Server thread/INFO]: [ChestSort] Allow automatic inventory sorting:true
+[09:37:19] [Server thread/INFO]: [ChestSort]   |- Inventory sorting enabled by default: false
+[09:37:19] [Server thread/INFO]: [ChestSort] Auto generate category files: true
+[09:37:19] [Server thread/INFO]: [ChestSort] Allow hotkeys: true
+[09:37:19] [Server thread/INFO]: [ChestSort] Hotkeys enabled by default:
+[09:37:19] [Server thread/INFO]: [ChestSort]   |- Middle-Click: true
+[09:37:19] [Server thread/INFO]: [ChestSort]   |- Shift-Click: true
+[09:37:19] [Server thread/INFO]: [ChestSort]   |- Double-Click: true
+[09:37:19] [Server thread/INFO]: [ChestSort]   |- Shift-Right-Click: true
+[09:37:19] [Server thread/INFO]: [ChestSort] Allow additional hotkeys: true
+[09:37:19] [Server thread/INFO]: [ChestSort] Additional hotkeys enabled by default:
+[09:37:19] [Server thread/INFO]: [ChestSort]   |- Left-Click: false
+[09:37:19] [Server thread/INFO]: [ChestSort]   |- Right-Click: false
+[09:37:19] [Server thread/INFO]: [ChestSort] Check for updates: true
+[09:37:19] [Server thread/INFO]: [ChestSort] Check interval: 4 hours (4.0 seconds)
+[09:37:19] [Server thread/INFO]: [ChestSort] Categories: 900-weapons (6), 905-common-tools (4), 907-other-tools (6), 909-food (33), 910-valuables (47), 920-armor-and-arrows (9), 930-brewing (18), 950-redstone (23), 960-wood (60), 970-stone (38), 980-plants (50), 981-corals (1)
+[09:37:19] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.1.5
+[09:37:21] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[09:37:23] [Server thread/INFO]: [AuraSkills] Successfully registered hook LuckPerms
+[09:37:23] [Server thread/INFO]: [AuraSkills] Loaded 126 config options in 140 ms
+[09:37:23] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21! Trying to find NMS support
+[09:37:23] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
+[09:37:23] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[09:37:23] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[09:37:25] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[09:37:26] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+106-8b08a8f
+[09:37:28] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[09:37:28] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[09:37:29] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
+[09:37:29] [Server thread/INFO]: [Essentials] Using locale en
+[09:37:29] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[09:37:31] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[09:37:31] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[09:37:31] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[09:37:31] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[09:37:31] [Server thread/INFO]: Running delayed init tasks
+[09:37:31] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
+[09:37:31] [Craft Scheduler Thread - 3 - CraftEnhance/INFO]: [CraftEnhance] CraftEnhance is up to date.
+[09:37:32] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 312 total sources
+[09:37:32] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[09:37:32] [Server thread/INFO]: [AuraSkills] Loaded 36 pattern rewards and 0 level rewards
+[09:37:33] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[09:37:33] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[09:37:33] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
+[09:37:33] [Server thread/INFO]: Done (29.154s)! For help, type "help"
+[09:37:33] [Server thread/INFO]: Timings Reset
+[09:37:43] [Server thread/INFO]: Stopping the server
+[09:37:43] [Server thread/INFO]: Stopping server
+[09:37:43] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+106-8b08a8f
+[09:37:43] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.1.5
+[09:37:43] [Server thread/INFO]: [ChestSort] Disabling ChestSort v14.1.0
+[09:37:43] [Server thread/INFO]: [CraftEnhance] Disabling CraftEnhance v2.5.6.1
+[09:37:43] [Worker-Main-1/INFO]: Loaded 1290 recipes
+[09:37:44] [Worker-Main-1/INFO]: Loaded 1399 advancements
+[09:37:45] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[09:37:45] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[09:37:45] [Server thread/INFO]: [LuckPerms] Closing storage...
+[09:37:45] [Server thread/INFO]: [LuckPerms] Goodbye!
+[09:37:45] [Server thread/INFO]: Saving players
+[09:37:45] [Server thread/INFO]: Saving worlds
+[09:37:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:37:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[09:37:45] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[09:37:45] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[09:37:45] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 0.39s
+[09:37:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[09:37:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[09:37:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[09:37:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[09:37:46] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.27s
+[09:37:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[09:37:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[09:37:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[09:37:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[09:37:46] [Server thread/INFO]: [ChunkHolderManager] Saved 49 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.15s
+[09:37:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:37:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:37:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:37:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
