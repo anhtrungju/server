@@ -1,10 +1,10 @@
-[09:29:38] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[09:29:38] [ServerMain/WARN]: Missing data pack file/dynamic-lights-v1-0-4
-[09:29:38] [ServerMain/WARN]: Missing data pack file/hopobettermineshaft-1-21-1-2-7
-[09:29:38] [ServerMain/WARN]: Missing data pack file/Dungeons and Taverns v4
-[09:29:38] [ServerMain/WARN]: Missing data pack file/Legend Trader [1.21]
-[09:29:38] [ServerMain/WARN]: Missing data pack file/Vein-Miner-Data-Pack-1.20.6
-[09:29:40] [ServerMain/WARN]: Failed to load datapacks, can't proceed with server load. You can either fix your datapacks or reset to vanilla with --safeMode
+[09:30:34] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[09:30:34] [ServerMain/WARN]: Missing data pack file/dynamic-lights-v1-0-4
+[09:30:34] [ServerMain/WARN]: Missing data pack file/hopobettermineshaft-1-21-1-2-7
+[09:30:34] [ServerMain/WARN]: Missing data pack file/Dungeons and Taverns v4
+[09:30:34] [ServerMain/WARN]: Missing data pack file/Legend Trader [1.21]
+[09:30:34] [ServerMain/WARN]: Missing data pack file/Vein-Miner-Data-Pack-1.20.6
+[09:30:35] [ServerMain/WARN]: Failed to load datapacks, can't proceed with server load. You can either fix your datapacks or reset to vanilla with --safeMode
 java.util.concurrent.ExecutionException: java.lang.IllegalStateException: Failed to get element ResourceKey[minecraft:dimension_type / runechant:enchanters_nexus]; Failed to get element ResourceKey[minecraft:dimension_type / runechant:enchanters_nexus] missed input: {"runechant:enchanters_labrinth":{generator:{settings:{biome:"minecraft:the_void",features:0b,lakes:0b,layers:[{block:"minecraft:air",height:1}]},type:"minecraft:flat"},type:"runechant:enchanters_nexus"},"runechant:enchanters_nexus":{generator:{settings:{biome:"minecraft:the_void",features:0b,lakes:0b,layers:[{block:"minecraft:air",height:1}]},type:"minecraft:flat"},type:"runechant:enchanters_nexus"}}
 	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:396) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2073) ~[?:?]
