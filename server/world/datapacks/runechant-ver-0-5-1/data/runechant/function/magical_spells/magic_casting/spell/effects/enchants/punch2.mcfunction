@@ -1,1 +1,0 @@
-execute at @s rotated ~ 0 if block ^ ^ ^-4 #runechant:non_solid run tp @s ^ ^ ^-4

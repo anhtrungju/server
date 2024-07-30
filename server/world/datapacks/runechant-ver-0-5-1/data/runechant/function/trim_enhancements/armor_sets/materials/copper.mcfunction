@@ -1,1 +1,0 @@
- execute if score *Timer3s Runechant_Timers matches 1 if score @s LuckCheck >= RNG RNG_Variable at @e[type=#runechant:all,distance=1..8,sort=random,limit=1] run summon minecraft:lightning_bolt ~ ~ ~

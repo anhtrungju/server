@@ -1,7 +1,0 @@
-{
-  "asset_id": "weapon_dealt",
-  "description": {
-    "translate": "trim_pattern.minecraft.weapon_dealt"
-  },
-  "template_item": "minecraft:barrier"
-}

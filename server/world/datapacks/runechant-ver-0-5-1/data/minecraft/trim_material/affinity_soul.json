@@ -1,9 +1,0 @@
-{
-  "asset_name": "affinity_soul",
-  "description": {
-    "color": "#66ffff",
-    "translate": "trim_material.minecraft.affinity_soul"
-  },
-  "ingredient": "minecraft:barrier",
-  "item_model_index": 0.99
-}

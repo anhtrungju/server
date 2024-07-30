@@ -1,4 +1,0 @@
-execute if data storage minecraft:runechant_frame {runechant:{Item:{id:"minecraft:paper",components:{"minecraft:lore":['{"bold":false,"color":"white","italic":false,"text":"Siphon"}']}}}} unless entity @p[level=0] run summon minecraft:item ~ ~ ~ {Item:{id:"minecraft:experience_bottle",count:1}}
-execute if data storage minecraft:runechant_frame {runechant:{Item:{id:"minecraft:paper",components:{"minecraft:lore":['{"bold":false,"color":"white","italic":false,"text":"Siphon"}']}}}} run experience add @p[distance=..0.5,limit=1,sort=nearest] -8
-execute if entity @s[tag=Stall,type=minecraft:glow_item_frame] if data storage minecraft:runechant_frame {runechant:{Item:{id:"minecraft:paper",components:{"minecraft:lore":['{"bold":false,"color":"white","italic":false,"text":"Siphon"}']}}}} unless entity @p[distance=..0.5] run data remove entity @e[limit=1,type=minecraft:glow_item_frame,sort=nearest] Item.id 
-

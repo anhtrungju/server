@@ -1,9 +1,0 @@
-{
-  "asset_name": "affinity_celestial",
-  "description": {
-    "color": "#ccccff",
-    "translate": "trim_material.minecraft.affinity_celestial"
-  },
-  "ingredient": "minecraft:barrier",
-  "item_model_index": 0.89
-}

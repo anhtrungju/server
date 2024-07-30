@@ -1,7 +1,0 @@
-{
-  "asset_id": "lich",
-  "description": {
-    "translate": "trim_pattern.minecraft.lich"
-  },
-  "template_item": "minecraft:barrier"
-}

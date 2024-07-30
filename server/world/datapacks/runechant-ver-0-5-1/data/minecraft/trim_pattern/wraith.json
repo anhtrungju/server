@@ -1,7 +1,0 @@
-{
-  "asset_id": "wraith",
-  "description": {
-    "translate": "trim_pattern.minecraft.wraith"
-  },
-  "template_item": "minecraft:barrier"
-}

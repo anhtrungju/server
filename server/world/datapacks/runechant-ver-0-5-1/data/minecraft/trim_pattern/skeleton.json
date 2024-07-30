@@ -1,7 +1,0 @@
-{
-  "asset_id": "skeleton",
-  "description": {
-    "translate": "trim_pattern.minecraft.skeleton"
-  },
-  "template_item": "minecraft:barrier"
-}

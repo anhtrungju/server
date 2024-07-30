@@ -1,9 +1,0 @@
-[
-  {
-    "function": "minecraft:set_lore",
-    "lore": [ {"bold":false,"color":"light_purple","italic":false,"text":"(Charged 1%)"} ],
-    "mode": "replace_section"
-  }
-]
-
-

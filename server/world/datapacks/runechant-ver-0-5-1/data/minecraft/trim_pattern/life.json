@@ -1,7 +1,0 @@
-{
-  "asset_id": "life",
-  "description": {
-    "translate": "trim_pattern.minecraft.life"
-  },
-  "template_item": "minecraft:barrier"
-}

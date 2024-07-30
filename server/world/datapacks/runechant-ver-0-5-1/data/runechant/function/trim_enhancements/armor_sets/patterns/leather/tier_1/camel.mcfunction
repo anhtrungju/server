@@ -1,1 +1,0 @@
-execute if score *Timer15s Runechant_Timers matches 1 if score @s LuckCheck >= RNG RNG_Variable run effect clear @s minecraft:hunger

@@ -1,7 +1,0 @@
-{
-  "asset_id": "night_keeper",
-  "description": {
-    "translate": "trim_pattern.minecraft.night_keeper"
-  },
-  "template_item": "minecraft:barrier"
-}

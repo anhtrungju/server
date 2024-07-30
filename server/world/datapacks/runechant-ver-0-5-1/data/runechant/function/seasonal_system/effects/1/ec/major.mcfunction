@@ -1,1 +1,0 @@
-execute if score RNG RNG_Variable matches 0..333 at @e[tag=!WeatherResist,type=#runechant:all,sort=random,distance=..16,limit=1] if block ~ ~5 ~ #runechant:non_solid run summon minecraft:marker ~ ~ ~ {Tags:["EnderSpill","Season"]}

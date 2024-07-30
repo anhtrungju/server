@@ -1,9 +1,0 @@
-{
-  "asset_name": "affinity_nether",
-  "description": {
-    "color": "#ff3333",
-    "translate": "trim_material.minecraft.affinity_nether"
-  },
-  "ingredient": "minecraft:barrier",
-  "item_model_index": 0.95
-}

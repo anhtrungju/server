@@ -1,1 +1,0 @@
-effect give @s minecraft:speed 3 0 true

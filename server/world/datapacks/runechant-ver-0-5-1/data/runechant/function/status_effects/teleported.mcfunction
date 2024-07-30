@@ -1,1 +1,0 @@
-execute unless entity @e[type=#runechant:frames,distance=..1] run tag @s remove Teleported

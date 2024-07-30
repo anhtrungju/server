@@ -1,7 +1,0 @@
-{
-  "asset_id": "seasonal",
-  "description": {
-    "translate": "trim_pattern.minecraft.seasonal"
-  },
-  "template_item": "minecraft:barrier"
-}

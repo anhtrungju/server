@@ -1,9 +1,0 @@
-{
-  "asset_name": "turtle_shell",
-  "description": {
-    "color": "#ffffcc",
-    "translate": "trim_material.minecraft.turtle_shell"
-  },
-  "ingredient": "minecraft:barrier",
-  "item_model_index": 0.86
-}

@@ -1,1 +1,0 @@
-particle minecraft:item{item:{id:"minecraft:experience_bottle"}} ~ ~ ~ 0.2 0.2 0.2 0.001 50

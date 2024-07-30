@@ -1,1 +1,0 @@
-particle minecraft:item{item:{id:"minecraft:shulker_shell"}} ~ ~ ~ 0.2 0.2 0.2 0.001 50

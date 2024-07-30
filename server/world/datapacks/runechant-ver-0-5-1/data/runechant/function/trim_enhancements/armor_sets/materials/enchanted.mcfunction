@@ -1,1 +1,0 @@
-execute if score @s LuckCheck >= RNG RNG_Variable at @e[type=#runechant:all,distance=1..8,sort=random,limit=3] run summon minecraft:experience_orb ~ ~ ~ {Value:1}

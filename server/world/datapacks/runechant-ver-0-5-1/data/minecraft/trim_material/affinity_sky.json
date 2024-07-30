@@ -1,9 +1,0 @@
-{
-  "asset_name": "affinity_sky",
-  "description": {
-    "color": "#ccffff",
-    "translate": "trim_material.minecraft.affinity_sky"
-  },
-  "ingredient": "minecraft:barrier",
-  "item_model_index": 0.98
-}

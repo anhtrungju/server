@@ -1,7 +1,0 @@
-{
-  "asset_id": "decorative_two",
-  "description": {
-    "translate": "trim_pattern.minecraft.decorative_two"
-  },
-  "template_item": "minecraft:barrier"
-}

@@ -1,7 +1,0 @@
-{
-  "asset_id": "sniffer",
-  "description": {
-    "translate": "trim_pattern.minecraft.sniffer"
-  },
-  "template_item": "minecraft:barrier"
-}

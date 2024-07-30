@@ -1,7 +1,0 @@
-{
-  "asset_id": "scorch",
-  "description": {
-    "translate": "trim_pattern.minecraft.scorch"
-  },
-  "template_item": "minecraft:barrier"
-}

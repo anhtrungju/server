@@ -1,9 +1,0 @@
-{
-  "asset_name": "ancient",
-  "description": {
-    "color": "#990066",
-    "translate": "trim_material.minecraft.ancient"
-  },
-  "ingredient": "minecraft:enchanted_golden_apple",
-  "item_model_index": 0.13
-}

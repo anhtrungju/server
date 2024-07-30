@@ -1,7 +1,0 @@
-{
-  "asset_id": "tab_ender",
-  "description": {
-    "translate": "trim_pattern.minecraft.tab_ender"
-  },
-  "template_item": "minecraft:barrier"
-}

@@ -1,2 +1,0 @@
-$fill ~ ~ ~ ~ ~ ~ light[level = $(light_level)] replace air
-$execute if data storage dynamiclights:config settings{dynamic_lights_underwater: true} run fill ~ ~ ~ ~ ~ ~ light[level = $(light_level), waterlogged = true] replace water[level = 0]

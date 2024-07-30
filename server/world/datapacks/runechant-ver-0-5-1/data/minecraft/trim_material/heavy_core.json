@@ -1,9 +1,0 @@
-{
-  "asset_name": "heavy_core",
-  "description": {
-    "color": "#aaaaaa",
-    "translate": "trim_material.minecraft.heavy_core"
-  },
-  "ingredient": "minecraft:heavy_core",
-  "item_model_index": 0.19
-}

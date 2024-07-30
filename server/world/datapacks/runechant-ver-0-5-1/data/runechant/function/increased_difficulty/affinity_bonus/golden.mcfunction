@@ -1,1 +1,0 @@
-particle minecraft:item{item:{id:"minecraft:raw_gold"}} ~ ~1 ~ 0.3 0.3 0.3 0.00001 5

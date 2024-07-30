@@ -1,7 +1,0 @@
-{
-  "asset_id": "red_cloth_ender_skeleton",
-  "description": {
-    "translate": "trim_pattern.minecraft.red_cloth_ender_skeleton"
-  },
-  "template_item": "minecraft:barrier"
-}

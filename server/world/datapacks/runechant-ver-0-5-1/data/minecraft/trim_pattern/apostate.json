@@ -1,7 +1,0 @@
-{
-  "asset_id": "apostate",
-  "description": {
-    "translate": "trim_pattern.minecraft.apostate"
-  },
-  "template_item": "minecraft:barrier"
-}

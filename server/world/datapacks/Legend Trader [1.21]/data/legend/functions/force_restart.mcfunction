@@ -1,3 +1,0 @@
-tellraw @p [{"text":"Successfully loaded ","color":"green","bold":false},{"text":"\"","color":"green"},{"text":"Legend Trader Datapack","color":"red","bold":true,"hoverEvent":{"action":"show_text","contents":[{"text":"Click Here to view credits for Legend Trader Datapack"}]},"clickEvent":{"action":"run_command","value": "/function trader:credits"}},{"text":"\"","color":"yellow","bold":false}]
-function trader:1t
-gamerule sendCommandFeedback false

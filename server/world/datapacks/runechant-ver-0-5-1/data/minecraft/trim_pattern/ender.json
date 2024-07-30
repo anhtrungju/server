@@ -1,7 +1,0 @@
-{
-  "asset_id": "ender",
-  "description": {
-    "translate": "trim_pattern.minecraft.ender"
-  },
-  "template_item": "minecraft:barrier"
-}

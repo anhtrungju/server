@@ -1,7 +1,0 @@
-{
-  "asset_id": "deep_hunter",
-  "description": {
-    "translate": "trim_pattern.minecraft.deep_hunter"
-  },
-  "template_item": "minecraft:barrier"
-}

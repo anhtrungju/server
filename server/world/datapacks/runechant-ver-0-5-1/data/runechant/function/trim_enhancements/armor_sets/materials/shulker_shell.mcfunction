@@ -1,1 +1,0 @@
-effect give @e[type=#runechant:all,distance=0.1..0.75] minecraft:levitation 1 4 true

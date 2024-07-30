@@ -1,7 +1,0 @@
-{
-  "asset_id": "huntsman",
-  "description": {
-    "translate": "trim_pattern.minecraft.huntsman"
-  },
-  "template_item": "minecraft:barrier"
-}

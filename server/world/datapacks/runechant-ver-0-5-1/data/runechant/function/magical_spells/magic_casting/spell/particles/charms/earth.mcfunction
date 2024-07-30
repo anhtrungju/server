@@ -1,1 +1,0 @@
-particle minecraft:block{block_state:"minecraft:dirt"} ~ ~ ~ 0.1 0.1 0.1 0.001 5

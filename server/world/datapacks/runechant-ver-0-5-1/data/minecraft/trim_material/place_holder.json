@@ -1,9 +1,0 @@
-{
-  "asset_name": "place_holder",
-  "description": {
-    "color": "#660033",
-    "translate": "trim_material.minecraft.place_holder"
-  },
-  "ingredient": "minecraft:barrier",
-  "item_model_index": 0.00
-}

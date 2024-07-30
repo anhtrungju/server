@@ -1,1 +1,0 @@
-tp @e[type=#runechant:all,distance=0.01..0.75,limit=1] @e[type=#runechant:all,distance=1..16,limit=1,sort=random]

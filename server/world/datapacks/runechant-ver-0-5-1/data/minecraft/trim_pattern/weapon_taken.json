@@ -1,7 +1,0 @@
-{
-  "asset_id": "weapon_taken",
-  "description": {
-    "translate": "trim_pattern.minecraft.weapon_taken"
-  },
-  "template_item": "minecraft:barrier"
-}

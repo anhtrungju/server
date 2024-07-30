@@ -1,3 +1,0 @@
-execute at @e[limit=8,sort=random,distance=0.01..10,type=#runechant:all] run summon minecraft:armor_stand ~ ~4 ~ {Motion:[0d,0.5d,0d],Tags:["Spectral","AmplifyingSpell","AffinitySpell"],active_effects:[{id:"minecraft:unluck",duration:30,show_particles:0b}],NoBasePlate:1b,Small:1b,DisabledSlots:4144959,Invisible:1b,ArmorItems:[{},{},{},{id:"minecraft:end_crystal",count:1,components:{"minecraft:custom_model_data":19973}}]}
-
-clear @s minecraft:lapis_lazuli 8

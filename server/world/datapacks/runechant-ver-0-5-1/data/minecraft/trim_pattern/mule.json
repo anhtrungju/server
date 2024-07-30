@@ -1,7 +1,0 @@
-{
-  "asset_id": "mule",
-  "description": {
-    "translate": "trim_pattern.minecraft.mule"
-  },
-  "template_item": "minecraft:barrier"
-}

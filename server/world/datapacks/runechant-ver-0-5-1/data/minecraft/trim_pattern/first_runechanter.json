@@ -1,7 +1,0 @@
-{
-  "asset_id": "first_runechanter",
-  "description": {
-    "translate": "trim_pattern.minecraft.first_runechanter"
-  },
-  "template_item": "minecraft:barrier"
-}

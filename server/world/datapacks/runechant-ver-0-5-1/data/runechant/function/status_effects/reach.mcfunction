@@ -1,3 +1,0 @@
-execute if entity @s[nbt=!{attributes:[{modifiers:[{id:"minecraft:reach_block"}]}]}] run attribute @s minecraft:player.block_interaction_range modifier add reach_block 0.25 add_multiplied_base
-execute if entity @s[nbt=!{attributes:[{modifiers:[{id:"minecraft:reach_entity"}]}]}] run attribute @s minecraft:player.entity_interaction_range modifier add reach_entity 0.25 add_multiplied_base
-particle minecraft:enchant ~ ~1 ~ 0.2 0.2 0.2 0.1 50

@@ -1,1 +1,0 @@
-execute if data storage minecraft:runechant_projectiles {runechant:{Item:{tag:{CustomModelData:19971}}}} run damage @e[type=#runechant:undead,distance=..3,limit=1] 20 runechant:golden

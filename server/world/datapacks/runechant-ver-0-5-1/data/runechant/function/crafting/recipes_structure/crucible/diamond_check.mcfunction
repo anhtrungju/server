@@ -1,4 +1,0 @@
-execute if data storage minecraft:runechant_crafting_crucible {runechant:{Item:{id:"minecraft:diamond",components:{"minecraft:custom_name":'"Armor"'}}}} run function runechant:crafting/recipes_structure/crucible/etched_diamonds/armor
-execute if data storage minecraft:runechant_crafting_crucible {runechant:{Item:{id:"minecraft:diamond",components:{"minecraft:custom_name":'"Range"'}}}} run function runechant:crafting/recipes_structure/crucible/etched_diamonds/range
-execute if data storage minecraft:runechant_crafting_crucible {runechant:{Item:{id:"minecraft:diamond",components:{"minecraft:custom_name":'"Shield"'}}}} run function runechant:crafting/recipes_structure/crucible/etched_diamonds/shield
-execute if data storage minecraft:runechant_crafting_crucible {runechant:{Item:{id:"minecraft:diamond",components:{"minecraft:custom_name":'"Weapon"'}}}} run function runechant:crafting/recipes_structure/crucible/etched_diamonds/weapon

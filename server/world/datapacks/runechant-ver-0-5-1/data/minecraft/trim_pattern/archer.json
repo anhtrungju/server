@@ -1,7 +1,0 @@
-{
-  "asset_id": "archer",
-  "description": {
-    "translate": "trim_pattern.minecraft.archer"
-  },
-  "template_item": "minecraft:barrier"
-}

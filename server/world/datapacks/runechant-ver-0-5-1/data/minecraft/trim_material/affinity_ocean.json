@@ -1,9 +1,0 @@
-{
-  "asset_name": "affinity_ocean",
-  "description": {
-    "color": "#3399ff",
-    "translate": "trim_material.minecraft.affinity_ocean"
-  },
-  "ingredient": "minecraft:barrier",
-  "item_model_index": 0.96
-}

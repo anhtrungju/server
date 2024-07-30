@@ -1,7 +1,0 @@
-{
-  "asset_id": "armadillo",
-  "description": {
-    "translate": "trim_pattern.minecraft.armadillo"
-  },
-  "template_item": "minecraft:barrier"
-}

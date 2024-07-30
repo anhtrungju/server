@@ -1,7 +1,0 @@
-{
-  "asset_id": "totem_lower",
-  "description": {
-    "translate": "trim_pattern.minecraft.totem_lower"
-  },
-  "template_item": "minecraft:barrier"
-}

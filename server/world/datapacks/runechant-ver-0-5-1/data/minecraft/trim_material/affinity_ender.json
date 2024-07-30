@@ -1,9 +1,0 @@
-{
-  "asset_name": "affinity_ender",
-  "description": {
-    "color": "#6600cc",
-    "translate": "trim_material.minecraft.affinity_ender"
-  },
-  "ingredient": "minecraft:barrier",
-  "item_model_index": 0.93
-}

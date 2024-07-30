@@ -1,9 +1,0 @@
-{
-  "asset_name": "affinity_deep_dark",
-  "description": {
-    "color": "#003366",
-    "translate": "trim_material.minecraft.affinity_deep_dark"
-  },
-  "ingredient": "minecraft:barrier",
-  "item_model_index": 0.91
-}
