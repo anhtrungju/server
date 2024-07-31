@@ -174,3 +174,6 @@
 [14:29:22] [Server thread/INFO]: aben[/127.27.74.251:60987] logged in with entity id 26 at ([world]-453.9388998627902, 64.0, 254.52946467212539)
 [14:29:25] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2617ms or 52 ticks behind
 [14:29:58] [Server thread/INFO]: Villager Villager['Villager'/183, uuid='6cbe3779-1d62-4031-873a-506c8a7470b6', l='ServerLevel[world]', x=-312.50, y=58.56, z=297.50, cpos=[-20, 18], tl=1918606, v=true] died, message: 'Villager was slain by Zombie'
+[14:31:00] [Server thread/INFO]: aben was blown up by Creeper
+[14:31:43] [Server thread/INFO]: aben was slain by Skeleton
+[14:33:44] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2509ms or 50 ticks behind
