@@ -2956,6 +2956,7 @@
       "minecraft_trials_edition": "2024-08-01 08:34:42 +0000",
       "good_lookin_treasure": "2024-08-01 08:02:16 +0000",
       "youll_never_take_me_alive_copper": "2024-08-01 07:54:25 +0000",
+      "die_potato": "2024-08-01 08:42:08 +0000",
       "acquire_hardware": "2024-08-01 07:06:00 +0000",
       "level_up": "2024-08-01 07:06:01 +0000",
       "a_terrible_fortress": "2024-08-01 07:06:00 +0000",
@@ -2988,7 +2989,8 @@
       "bake_bread": "2024-08-01 08:37:02 +0000",
       "root": "2024-08-01 07:06:00 +0000",
       "disen_berry_berry_bad": "2024-08-01 07:21:08 +0000",
-      "a_seedy_place": "2024-08-01 07:06:00 +0000"
+      "a_seedy_place": "2024-08-01 07:06:00 +0000",
+      "die_potato": "2024-08-01 08:42:08 +0000"
     },
     "done": false
   },
@@ -3617,9 +3619,16 @@
   },
   "blazeandcave:farming/vegetarian": {
     "criteria": {
-      "sweet_berries": "2024-08-01 07:35:46 +0000"
+      "sweet_berries": "2024-08-01 07:35:46 +0000",
+      "baked_potato": "2024-08-01 08:42:07 +0000"
     },
     "done": false
+  },
+  "blazeandcave:farming/die_potato": {
+    "criteria": {
+      "baked_potato": "2024-08-01 08:42:07 +0000"
+    },
+    "done": true
   },
   "blazeandcave:bacap/time_to_chop": {
     "criteria": {

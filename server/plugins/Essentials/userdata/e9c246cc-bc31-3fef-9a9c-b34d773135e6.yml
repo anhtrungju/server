@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1722501654431
+  lastteleport: 1722503040570
   lastheal: 0
   mute: 0
   jail: 0
@@ -29,13 +29,13 @@ logoutlocation:
   pitch: 6.149991989135742
 last-account-name: an8bithahaha
 lastlocation:
-  world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
-  world-name: world
-  x: -452.4665317713878
-  y: 63.0
-  z: 262.6223515539373
-  yaw: -101.56475067138672
-  pitch: 3.9000227451324463
+  world: bb4ddb31-a8ff-4abc-a351-f6335fb3bb2b
+  world-name: world_nether
+  x: -156.54632248522893
+  y: 53.0
+  z: 49.50777301712839
+  yaw: 19.77471923828125
+  pitch: 16.650226593017578
 homes:
   home:
     world: e26a6c9a-0229-4acd-976c-c2213e33bf7e

@@ -16,18 +16,18 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1722496367616
+  logout: 1722502262558
   login: 1722496374652
 money: '0'
 last-account-name: Leviathan
 logoutlocation:
   world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
   world-name: world
-  x: -317.4819361199724
-  y: 31.0
-  z: 305.69828998041515
-  yaw: -65.9022216796875
-  pitch: 60.610652923583984
+  x: -454.3894106563252
+  y: 67.0
+  z: 253.13197216443376
+  yaw: -73.05938720703125
+  pitch: 28.919137954711914
 lastlocation:
   world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
   world-name: world
