@@ -350,3 +350,93 @@
 [09:04:00] [Server thread/INFO]: an8bithahaha issued server command: /home
 [09:05:45] [Server thread/INFO]: an8bithahaha was slain by Piglin
 [09:16:10] [Server thread/INFO]: an8bithahaha was slain by Zombie
+[09:16:16] [Server thread/INFO]: an8bithahaha lost connection: Timed out
+[09:16:16] [Server thread/INFO]: an8bithahaha left the game
+[09:16:38] [Server thread/INFO]: Stopping the server
+[09:16:38] [Server thread/INFO]: Stopping server
+[09:16:38] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+106-8b08a8f
+[09:16:38] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.1.5
+[09:16:38] [Server thread/INFO]: [ChestSort] Disabling ChestSort v14.1.0
+[09:16:38] [Server thread/INFO]: [CraftEnhance] Disabling CraftEnhance v2.5.6.1
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/stone_tier}.pools[0].entries[4]: Unknown loot table called automaticons:stone/axe
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[0]: Unknown loot table called automaticons:wood_tier
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/stone_tier}.pools[0].entries[2]: Unknown loot table called automaticons:stone/pickaxe
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/gold_tier}.pools[0].entries[3]: Unknown loot table called automaticons:gold/hoe
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/stone_tier}.pools[0].entries[0]: Unknown loot table called automaticons:stone/sword
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[4]: Unknown loot table called automaticons:diamond_tier
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[4]: Unknown loot table called automaticons:diamond_tier
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[2]: Unknown loot table called automaticons:gold_tier
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[2]: Unknown loot table called automaticons:gold_tier
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[2]: Unknown loot table called automaticons:gold_tier
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/netherite_tier}.pools[0].entries[4]: Unknown loot table called automaticons:netherite/axe
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[4]: Unknown loot table called automaticons:diamond_tier
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/netherite_tier}.pools[0].entries[0]: Unknown loot table called automaticons:netherite/sword
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/iron_tier}.pools[0].entries[1]: Unknown loot table called automaticons:iron/shovel
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/diamond_tier}.pools[0].entries[2]: Unknown loot table called automaticons:diamond/pickaxe
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/netherite_tier}.pools[0].entries[2]: Unknown loot table called automaticons:netherite/pickaxe
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/gold_tier}.pools[0].entries[1]: Unknown loot table called automaticons:gold/shovel
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/diamond_tier}.pools[0].entries[4]: Unknown loot table called automaticons:diamond/axe
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/iron_tier}.pools[0].entries[3]: Unknown loot table called automaticons:iron/hoe
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/diamond_tier}.pools[0].entries[0]: Unknown loot table called automaticons:diamond/sword
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/wood_tier}.pools[0].entries[1]: Unknown loot table called automaticons:wood/shovel
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[0]: Unknown loot table called automaticons:wood_tier
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/wood_tier}.pools[0].entries[3]: Unknown loot table called automaticons:wood/hoe
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/stone_tier}.pools[0].entries[3]: Unknown loot table called automaticons:stone/hoe
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/gold_tier}.pools[0].entries[4]: Unknown loot table called automaticons:gold/axe
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[5]: Unknown loot table called automaticons:netherite_tier
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[5]: Unknown loot table called automaticons:netherite_tier
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[3]: Unknown loot table called automaticons:iron_tier
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/stone_tier}.pools[0].entries[1]: Unknown loot table called automaticons:stone/shovel
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[3]: Unknown loot table called automaticons:iron_tier
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[1]: Unknown loot table called automaticons:stone_tier
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[1]: Unknown loot table called automaticons:stone_tier
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[1]: Unknown loot table called automaticons:stone_tier
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[0]: Unknown loot table called automaticons:wood_tier
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/netherite_tier}.pools[0].entries[3]: Unknown loot table called automaticons:netherite/hoe
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[3]: Unknown loot table called automaticons:iron_tier
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/iron_tier}.pools[0].entries[2]: Unknown loot table called automaticons:iron/pickaxe
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/gold_tier}.pools[0].entries[0]: Unknown loot table called automaticons:gold/sword
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/diamond_tier}.pools[0].entries[1]: Unknown loot table called automaticons:diamond/shovel
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[5]: Unknown loot table called automaticons:netherite_tier
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/iron_tier}.pools[0].entries[0]: Unknown loot table called automaticons:iron/sword
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/gold_tier}.pools[0].entries[2]: Unknown loot table called automaticons:gold/pickaxe
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/diamond_tier}.pools[0].entries[3]: Unknown loot table called automaticons:diamond/hoe
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/netherite_tier}.pools[0].entries[1]: Unknown loot table called automaticons:netherite/shovel
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/wood_tier}.pools[0].entries[4]: Unknown loot table called automaticons:wood/axe
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/iron_tier}.pools[0].entries[4]: Unknown loot table called automaticons:iron/axe
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/wood_tier}.pools[0].entries[0]: Unknown loot table called automaticons:wood/sword
+[09:16:38] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/wood_tier}.pools[0].entries[2]: Unknown loot table called automaticons:wood/pickaxe
+[09:16:42] [Worker-Main-1/INFO]: Loaded 1335 recipes
+[09:16:43] [Worker-Main-1/INFO]: Loaded 2552 advancements
+[09:16:44] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.22.3
+[09:16:44] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
+[09:16:44] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[09:16:44] [Server thread/INFO]: [LuckPerms] Closing storage...
+[09:16:44] [Server thread/INFO]: [LuckPerms] Goodbye!
+[09:16:44] [Server thread/INFO]: Saving players
+[09:16:45] [Server thread/INFO]: Saving worlds
+[09:16:45] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09:16:45] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[09:16:45] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[09:16:45] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[09:16:45] [Server thread/INFO]: [ChunkHolderManager] Saved 21 block chunks, 211 entity chunks, 0 poi chunks in world 'world' in 0.42s
+[09:16:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[09:16:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[09:16:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[09:16:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[09:16:46] [Server thread/INFO]: [ChunkHolderManager] Saved 9 block chunks, 90 entity chunks, 0 poi chunks in world 'world_nether' in 0.22s
+[09:16:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[09:16:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[09:16:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[09:16:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[09:16:46] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.04s
+[09:16:46] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nmr_astral_plane]'/nmr:astral_plane
+[09:16:46] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nmr_astral_plane'
+[09:16:46] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nmr_astral_plane'
+[09:16:46] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nmr_astral_plane'
+[09:16:46] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nmr_astral_plane' in 0.01s
+[09:16:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09:16:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09:16:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09:16:46] [Server thread/INFO]: ThreadedAnvilChunkStorage (astral_plane): All chunks are saved
+[09:16:46] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
