@@ -2,16 +2,16 @@ uuid: e9c246cc-bc31-3fef-9a9c-b34d773135e6
 skills:
   auraskills/farming:
     level: 41
-    xp: 115190.3400000002
+    xp: 116810.3400000002
   auraskills/fighting:
     level: 4
-    xp: 993.4000000000027
+    xp: 1022.0000000000028
   auraskills/excavation:
-    level: 11
-    xp: 568.3100000000086
+    level: 12
+    xp: 8581.810000000009
   auraskills/agility:
-    level: 19
-    xp: 12566.939599999983
+    level: 20
+    xp: 23334.65839999998
   auraskills/alchemy:
     level: 5
     xp: 2263.0
@@ -20,19 +20,19 @@ skills:
     xp: 2160.0
   auraskills/mining:
     level: 4
-    xp: 1569.1299999999685
+    xp: 1619.5099999999645
   auraskills/enchanting:
     level: 5
     xp: 220.0
   auraskills/foraging:
     level: 10
-    xp: 6066.400000000034
+    xp: 6790.48000000004
   auraskills/archery:
     level: 6
     xp: 1431.3999999999999
   auraskills/defense:
     level: 5
-    xp: 858.5870846033118
+    xp: 917.9870846033119
 mana: 206.0
 action_bar:
   idle: true
@@ -61,7 +61,7 @@ ability_data:
   auraskills/first_strike:
     counter: 11
   auraskills/xp_convert:
-    xp: 11.964084603329866
+    xp: 15.642884603331368
   auraskills/charged_shot:
     toggle_cooldown: 0
     enabled: false
