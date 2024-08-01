@@ -11,13 +11,13 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1722023162914
+  lastteleport: 1722501431803
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1722036005518
-  login: 1722035937428
+  logout: 1722496367616
+  login: 1722496374652
 money: '0'
 last-account-name: Leviathan
 logoutlocation:
@@ -26,13 +26,13 @@ logoutlocation:
   x: -317.4819361199724
   y: 31.0
   z: 305.69828998041515
-  yaw: 88.57611083984375
-  pitch: 26.247615814208984
+  yaw: -65.9022216796875
+  pitch: 60.610652923583984
 lastlocation:
   world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
   world-name: world
-  x: -319.92500001192093
-  y: 64.0
-  z: 298.63810955717446
-  yaw: 147.78053283691406
-  pitch: 50.49987030029297
+  x: -448.7476565398037
+  y: -29.0
+  z: 252.98256399079537
+  yaw: -178.81124877929688
+  pitch: 14.214089393615723

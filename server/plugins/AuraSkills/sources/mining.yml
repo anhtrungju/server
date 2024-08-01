@@ -7,79 +7,79 @@ default:
 sources:
   stone:
     block: stone
-    xp: 1.0
+    xp: 10.0
   cobblestone:
     block: cobblestone
-    xp: 1.0
+    xp: 10.0
   andesite:
     block: andesite
-    xp: 1.0
+    xp: 10.0
   diorite:
     block: diorite
-    xp: 1.0
+    xp: 10.0
   granite:
     block: granite
-    xp: 1.0
+    xp: 10.0
   sandstone:
     block: sandstone
-    xp: 1.0
+    xp: 10.0
   coal_ore:
     block: coal_ore
-    xp: 1.0
+    xp: 10.0
   nether_quartz_ore:
     block: nether_quartz_ore
-    xp: 1.8
+    xp: 10.8
   iron_ore:
     block: iron_ore
-    xp: 1.8
+    xp: 10.8
   lapis_ore:
     block: lapis_ore
-    xp: 30.6
+    xp: 300.6
   redstone_ore:
     block: redstone_ore
-    xp: 5.9
+    xp: 50.9
   gold_ore:
     block: gold_ore
-    xp: 17.8
+    xp: 170.8
   diamond_ore:
     block: diamond_ore
-    xp: 47.3
+    xp: 470.3
   emerald_ore:
     block: emerald_ore
     xp: 100.0
   terracotta:
     block: terracotta
-    xp: 0.5
+    xp: 5
   white_terracotta:
     block: white_terracotta
-    xp: 0.5
+    xp: 5
   orange_terracotta:
     block: orange_terracotta
-    xp: 0.5
+    xp: 5
   yellow_terracotta:
     block: yellow_terracotta
-    xp: 0.5
+    xp: 5
   light_gray_terracotta:
     block: light_gray_terracotta
-    xp: 0.5
+    xp: 5
   brown_terracotta:
     block: brown_terracotta
-    xp: 0.5
+    xp: 5
   red_terracotta:
     block: red_terracotta
-    xp: 0.5
+    xp: 5
   netherrack:
     block: netherrack
-    xp: 0.1
+    xp: 1
   blackstone:
     block: blackstone
-    xp: 0.3
+    xp: 3
   basalt:
     block: basalt
-    xp: 0.4
+    xp: 4
   magma_block:
     block: magma_block
-    xp: 0.7
+    xp: 7
   nether_gold_ore:
     block: nether_gold_ore
     xp: 10.0
@@ -91,7 +91,7 @@ sources:
     xp: 0.5
   obsidian:
     block: obsidian
-    xp: 10.0
+    xp: 100.0
   deepslate:
     block: deepslate
     xp: 0.4

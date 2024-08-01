@@ -10,8 +10,11 @@
       "forest": "2024-07-31 14:33:34 +0000",
       "soul_sand_valley": "2024-08-01 03:21:58 +0000",
       "snowy_plains": "2024-07-31 14:09:30 +0000",
+      "ocean": "2024-08-01 08:08:22 +0000",
       "plains": "2024-07-31 14:09:39 +0000",
+      "birch_forest": "2024-08-01 08:17:43 +0000",
       "crimson_forest": "2024-08-01 03:25:14 +0000",
+      "lush_caves": "2024-08-01 08:23:12 +0000",
       "river": "2024-07-31 14:18:21 +0000",
       "nether_wastes": "2024-08-01 03:21:22 +0000"
     },
@@ -39,7 +42,9 @@
     "criteria": {
       "forest": "2024-07-31 14:33:34 +0000",
       "snowy_plains": "2024-07-31 14:09:30 +0000",
+      "ocean": "2024-08-01 08:08:22 +0000",
       "plains": "2024-07-31 14:09:39 +0000",
+      "birch_forest": "2024-08-01 08:17:43 +0000",
       "river": "2024-07-31 14:18:21 +0000"
     },
     "done": false
@@ -54,10 +59,16 @@
     "criteria": {
       "eeuuwww": "2024-07-31 14:31:37 +0000",
       "benchmarking": "2024-07-31 14:10:39 +0000",
+      "living_like_kings": "2024-08-01 07:44:56 +0000",
       "bacap_root": "2024-07-31 14:09:31 +0000",
+      "winnie_the_pooh": "2024-08-01 08:14:11 +0000",
+      "deep_slate_nine": "2024-08-01 08:11:00 +0000",
+      "hot_tub": "2024-08-01 07:36:54 +0000",
+      "sharpening_station": "2024-08-01 07:44:50 +0000",
       "still_talking": "2024-07-31 14:31:32 +0000",
       "mining_root": "2024-07-31 14:15:10 +0000",
       "the_tribal_snouts": "2024-08-01 03:24:47 +0000",
+      "farming_root": "2024-08-01 07:38:43 +0000",
       "unbreakable": "2024-08-01 03:23:28 +0000",
       "take_aim": "2024-07-31 14:33:25 +0000",
       "aww_man": "2024-07-31 14:31:01 +0000",
@@ -71,14 +82,21 @@
       "monsters_root": "2024-07-31 14:15:19 +0000",
       "direct_fishing": "2024-08-01 03:30:52 +0000",
       "ew_ew_ew": "2024-07-31 14:30:27 +0000",
+      "this_snow_is_snowier": "2024-08-01 08:14:28 +0000",
       "adventure_root": "2024-07-31 14:14:22 +0000",
+      "stone_age": "2024-08-01 08:10:08 +0000",
       "bamboom": "2024-08-01 03:17:18 +0000",
       "aww_it_broke": "2024-08-01 03:22:10 +0000",
+      "minecraft_trials_edition": "2024-08-01 08:11:00 +0000",
+      "kilometre_walk": "2024-08-01 08:08:23 +0000",
       "isnt_it_iron_pick": "2024-07-31 14:15:10 +0000",
       "berry_nice": "2024-08-01 03:26:52 +0000",
       "just_keep_swimming": "2024-07-31 14:16:59 +0000",
+      "gold_rush": "2024-08-01 07:44:56 +0000",
       "sugar_sugar": "2024-07-31 14:16:44 +0000",
+      "i_dont_like_sand": "2024-08-01 07:51:21 +0000",
       "we_need_to_go_deeper": "2024-07-31 14:14:34 +0000",
+      "time_to_farm": "2024-08-01 07:38:43 +0000",
       "time_to_strike": "2024-07-31 14:15:19 +0000",
       "dead_dont_die": "2024-07-31 14:14:22 +0000",
       "acquire_hardware": "2024-07-31 14:10:02 +0000",
@@ -87,13 +105,19 @@
       "the_first_night": "2024-07-31 14:19:46 +0000",
       "sir_knight": "2024-07-31 14:12:44 +0000",
       "what_a_creep": "2024-07-31 14:18:06 +0000",
+      "into_fire": "2024-08-01 07:54:34 +0000",
+      "seeing_red": "2024-08-01 07:51:08 +0000",
+      "redstone_root": "2024-08-01 07:51:08 +0000",
       "building_root": "2024-07-31 14:10:39 +0000",
       "sweet_dreams": "2024-07-31 14:20:34 +0000",
       "heart_of_darkness": "2024-08-01 03:22:01 +0000",
+      "ladder_climbers_inc": "2024-08-01 08:11:12 +0000",
       "point_blank": "2024-07-31 14:33:25 +0000",
       "keep_your_distance": "2024-07-31 14:33:37 +0000",
+      "the_sea_calls_you": "2024-08-01 08:08:23 +0000",
       "expelliarmus": "2024-07-31 14:12:59 +0000",
       "nether_root": "2024-08-01 03:21:22 +0000",
+      "diam_oh_wait_no": "2024-08-01 08:06:22 +0000",
       "iron_man": "2024-07-31 14:11:23 +0000",
       "animal_root": "2024-07-31 14:14:55 +0000",
       "quicksand": "2024-08-01 03:22:03 +0000",
@@ -104,15 +128,19 @@
       "statistics_root": "2024-07-31 14:14:34 +0000",
       "time_to_mine": "2024-07-31 14:15:10 +0000",
       "i_am_root": "2024-08-01 03:25:05 +0000",
+      "bacon": "2024-08-01 08:21:51 +0000",
       "biomes_root": "2024-07-31 14:14:22 +0000",
-      "disen_berry_berry_bad": "2024-08-01 03:18:51 +0000"
+      "disen_berry_berry_bad": "2024-08-01 03:18:51 +0000",
+      "ooh_baby": "2024-08-01 07:41:30 +0000",
+      "when_pigs_used_to_fly": "2024-08-01 07:38:08 +0000"
     },
     "done": false
   },
   "blazeandcave:biomes/one_with_the_forest": {
     "criteria": {
       "forest": "2024-07-31 14:33:34 +0000",
-      "plains": "2024-07-31 14:09:39 +0000"
+      "plains": "2024-07-31 14:09:39 +0000",
+      "birch_forest": "2024-08-01 08:17:43 +0000"
     },
     "done": false
   },
@@ -131,20 +159,33 @@
   "blazeandcave:challenges/stack_all_the_items": {
     "criteria": {
       "golden_sword": "2024-08-01 03:26:22 +0000",
-      "fishing_rod": "2024-08-01 03:27:55 +0000",
       "shield": "2024-07-31 14:12:43 +0000",
+      "carrot_on_a_stick": "2024-08-01 07:38:08 +0000",
+      "arrow": "2024-08-01 08:05:56 +0000",
       "iron_chestplate": "2024-07-31 14:10:51 +0000",
       "sweet_berries": "2024-08-01 03:26:42 +0000",
-      "iron_leggings": "2024-07-31 14:10:55 +0000",
       "bow": "2024-07-31 14:30:43 +0000",
       "iron_ingot": "2024-07-31 14:10:01 +0000",
-      "beetroot_seeds": "2024-07-31 14:34:50 +0000",
-      "minecart": "2024-07-31 14:11:12 +0000",
       "iron_boots": "2024-07-31 14:10:58 +0000",
       "shears": "2024-07-31 14:11:03 +0000",
       "iron_sword": "2024-07-31 14:15:19 +0000",
+      "golden_boots": "2024-08-01 07:44:41 +0000",
+      "lapis_lazuli": "2024-08-01 08:06:26 +0000",
       "iron_pickaxe": "2024-07-31 14:15:10 +0000",
+      "wheat": "2024-08-01 07:43:20 +0000",
       "iron_helmet": "2024-07-31 14:11:00 +0000",
+      "golden_chestplate": "2024-08-01 07:53:14 +0000",
+      "enchanted_book": "2024-08-01 08:29:59 +0000",
+      "wheat_seeds": "2024-08-01 07:43:18 +0000",
+      "golden_leggings": "2024-08-01 07:53:20 +0000",
+      "fishing_rod": "2024-08-01 03:27:55 +0000",
+      "potion": "2024-08-01 07:44:19 +0000",
+      "iron_leggings": "2024-07-31 14:10:55 +0000",
+      "beetroot_seeds": "2024-07-31 14:34:50 +0000",
+      "minecart": "2024-07-31 14:11:12 +0000",
+      "golden_hoe": "2024-08-01 07:38:42 +0000",
+      "golden_helmet": "2024-08-01 07:59:38 +0000",
+      "redstone": "2024-08-01 07:51:08 +0000",
       "carrot": "2024-07-31 14:35:01 +0000"
     },
     "done": false
@@ -260,37 +301,55 @@
   "blazeandcave:challenges/all_the_items": {
     "criteria": {
       "golden_sword": "2024-08-01 03:26:22 +0000",
-      "shield": "2024-07-31 14:12:43 +0000",
-      "string": "2024-07-31 14:30:26 +0000",
+      "honey_bottle": "2024-08-01 08:13:01 +0000",
       "arrow": "2024-07-31 14:13:43 +0000",
       "iron_chestplate": "2024-07-31 14:10:51 +0000",
-      "sweet_berries": "2024-08-01 03:26:42 +0000",
       "cooked_beef": "2024-07-31 14:14:50 +0000",
+      "blaze_rod": "2024-08-01 07:54:33 +0000",
+      "shears": "2024-07-31 14:11:03 +0000",
+      "gold_ingot": "2024-08-01 07:44:56 +0000",
+      "iron_sword": "2024-07-31 14:15:19 +0000",
+      "iron_nugget": "2024-07-31 14:11:07 +0000",
+      "stick": "2024-07-31 14:12:30 +0000",
+      "enchanted_book": "2024-08-01 08:29:59 +0000",
+      "wheat_seeds": "2024-08-01 03:17:52 +0000",
+      "golden_leggings": "2024-08-01 07:53:20 +0000",
+      "gunpowder": "2024-07-31 14:18:06 +0000",
+      "minecart": "2024-07-31 14:11:12 +0000",
+      "golden_hoe": "2024-08-01 07:38:42 +0000",
+      "golden_helmet": "2024-08-01 07:59:38 +0000",
+      "nautilus_shell": "2024-08-01 03:22:31 +0000",
+      "redstone": "2024-08-01 07:51:08 +0000",
+      "emerald": "2024-08-01 08:12:55 +0000",
+      "shield": "2024-07-31 14:12:43 +0000",
+      "carrot_on_a_stick": "2024-08-01 07:38:08 +0000",
+      "glass_bottle": "2024-08-01 07:48:55 +0000",
+      "string": "2024-07-31 14:30:26 +0000",
+      "sweet_berries": "2024-08-01 03:26:42 +0000",
       "bow": "2024-07-31 14:30:43 +0000",
       "red_dye": "2024-07-31 14:35:20 +0000",
       "iron_ingot": "2024-07-31 14:10:01 +0000",
       "spider_eye": "2024-07-31 14:30:27 +0000",
       "iron_boots": "2024-07-31 14:10:58 +0000",
-      "shears": "2024-07-31 14:11:03 +0000",
-      "iron_sword": "2024-07-31 14:15:19 +0000",
       "bone_meal": "2024-08-01 03:25:26 +0000",
-      "iron_nugget": "2024-07-31 14:11:07 +0000",
+      "golden_boots": "2024-08-01 07:44:41 +0000",
+      "lapis_lazuli": "2024-08-01 08:06:22 +0000",
       "iron_pickaxe": "2024-07-31 14:15:10 +0000",
-      "stick": "2024-07-31 14:12:30 +0000",
+      "wheat": "2024-08-01 07:43:14 +0000",
       "iron_helmet": "2024-07-31 14:11:00 +0000",
-      "wheat_seeds": "2024-08-01 03:17:52 +0000",
+      "golden_chestplate": "2024-08-01 07:53:14 +0000",
       "fishing_rod": "2024-08-01 03:27:55 +0000",
+      "potion": "2024-08-01 07:44:19 +0000",
       "golden_apple": "2024-08-01 03:16:11 +0000",
       "gold_nugget": "2024-08-01 03:24:47 +0000",
       "rotten_flesh": "2024-07-31 14:14:22 +0000",
       "bone": "2024-07-31 14:18:40 +0000",
-      "gunpowder": "2024-07-31 14:18:06 +0000",
       "iron_leggings": "2024-07-31 14:10:55 +0000",
+      "trial_key": "2024-08-01 08:12:24 +0000",
+      "golden_carrot": "2024-08-01 07:54:29 +0000",
       "beetroot": "2024-07-31 14:34:47 +0000",
       "beetroot_seeds": "2024-07-31 14:34:46 +0000",
-      "minecart": "2024-07-31 14:11:12 +0000",
       "sugar_cane": "2024-07-31 14:16:43 +0000",
-      "nautilus_shell": "2024-08-01 03:22:31 +0000",
       "carrot": "2024-07-31 14:34:56 +0000"
     },
     "done": false
@@ -327,16 +386,22 @@
   },
   "blazeandcave:bacap/mining_milestone": {
     "criteria": {
+      "diam_oh_wait_no": "2024-08-01 08:06:22 +0000",
       "eeuuwww": "2024-07-31 14:31:37 +0000",
       "acquire_hardware": "2024-07-31 14:10:02 +0000",
-      "isnt_it_iron_pick": "2024-07-31 14:15:10 +0000",
+      "living_like_kings": "2024-08-01 07:44:56 +0000",
       "iron_man": "2024-07-31 14:11:23 +0000",
+      "not_chicken_mcnuggets": "2024-07-31 14:11:07 +0000",
+      "deep_slate_nine": "2024-08-01 08:11:00 +0000",
+      "stone_age": "2024-08-01 08:10:08 +0000",
+      "aww_it_broke": "2024-08-01 03:22:10 +0000",
+      "seeing_red": "2024-08-01 07:51:08 +0000",
+      "isnt_it_iron_pick": "2024-07-31 14:15:10 +0000",
+      "gold_rush": "2024-08-01 07:44:56 +0000",
       "root": "2024-07-31 14:15:10 +0000",
       "heart_of_darkness": "2024-08-01 03:22:01 +0000",
-      "not_chicken_mcnuggets": "2024-07-31 14:11:07 +0000",
       "suit_up": "2024-07-31 14:11:19 +0000",
-      "we_need_to_go_deeper": "2024-07-31 14:14:34 +0000",
-      "aww_it_broke": "2024-08-01 03:22:10 +0000"
+      "we_need_to_go_deeper": "2024-07-31 14:14:34 +0000"
     },
     "done": false
   },
@@ -348,16 +413,22 @@
   },
   "blazeandcave:challenges/all_the_blocks": {
     "criteria": {
-      "bamboo": "2024-08-01 03:17:17 +0000",
+      "chest": "2024-08-01 07:51:20 +0000",
       "cobweb": "2024-07-31 14:31:37 +0000",
       "crafting_table": "2024-07-31 14:10:39 +0000",
       "soul_sand": "2024-08-01 03:22:02 +0000",
       "oak_planks": "2024-07-31 14:11:36 +0000",
       "zombie_head": "2024-07-31 14:31:31 +0000",
-      "magma_block": "2024-07-31 14:17:06 +0000",
       "dirt": "2024-08-01 03:14:50 +0000",
+      "grass_block": "2024-08-01 07:51:20 +0000",
       "crimson_fungus": "2024-08-01 03:25:26 +0000",
-      "crimson_roots": "2024-08-01 03:25:05 +0000"
+      "grindstone": "2024-08-01 07:44:50 +0000",
+      "crimson_roots": "2024-08-01 03:25:05 +0000",
+      "bamboo": "2024-08-01 03:17:17 +0000",
+      "sand": "2024-08-01 07:51:20 +0000",
+      "cobblestone": "2024-08-01 08:10:08 +0000",
+      "candle": "2024-08-01 08:12:37 +0000",
+      "magma_block": "2024-07-31 14:17:06 +0000"
     },
     "done": false
   },
@@ -369,8 +440,12 @@
   },
   "blazeandcave:bacap/building_milestone": {
     "criteria": {
+      "sharpening_station": "2024-08-01 07:44:50 +0000",
       "sweet_dreams": "2024-07-31 14:20:34 +0000",
-      "root": "2024-07-31 14:10:39 +0000"
+      "root": "2024-07-31 14:10:39 +0000",
+      "ladder_climbers_inc": "2024-08-01 08:11:12 +0000",
+      "i_dont_like_sand": "2024-08-01 07:51:21 +0000",
+      "hot_tub": "2024-08-01 07:36:54 +0000"
     },
     "done": false
   },
@@ -412,14 +487,17 @@
   },
   "blazeandcave:redstone/engineer": {
     "criteria": {
+      "chest": "2024-08-01 07:51:20 +0000",
       "minecart": "2024-07-31 14:11:12 +0000",
-      "string": "2024-07-31 14:30:26 +0000"
+      "string": "2024-07-31 14:30:26 +0000",
+      "redstone": "2024-08-01 07:51:08 +0000"
     },
     "done": false
   },
   "blazeandcave:redstone/master_engineer": {
     "criteria": {
-      "minecart": "2024-07-31 14:11:12 +0000"
+      "minecart": "2024-07-31 14:11:12 +0000",
+      "redstone": "2024-08-01 07:51:08 +0000"
     },
     "done": false
   },
@@ -631,8 +709,11 @@
   },
   "blazeandcave:bacap/biomes_milestone": {
     "criteria": {
+      "kilometre_walk": "2024-08-01 08:08:23 +0000",
       "just_keep_swimming": "2024-07-31 14:16:59 +0000",
       "root": "2024-07-31 14:14:22 +0000",
+      "the_sea_calls_you": "2024-08-01 08:08:23 +0000",
+      "this_snow_is_snowier": "2024-08-01 08:14:28 +0000",
       "bamboom": "2024-08-01 03:17:18 +0000"
     },
     "done": false
@@ -661,16 +742,17 @@
   },
   "blazeandcave:bacap/monsters_milestone": {
     "criteria": {
-      "still_talking": "2024-07-31 14:31:32 +0000",
       "dead_dont_die": "2024-07-31 14:14:22 +0000",
       "a_watery_grave": "2024-07-31 14:34:24 +0000",
       "iron_belly": "2024-07-31 14:16:27 +0000",
-      "root": "2024-07-31 14:15:19 +0000",
-      "aww_man": "2024-07-31 14:31:01 +0000",
       "what_a_creep": "2024-07-31 14:18:06 +0000",
-      "keep_your_distance": "2024-07-31 14:33:37 +0000",
       "monster_hunter": "2024-07-31 14:14:22 +0000",
       "ew_ew_ew": "2024-07-31 14:30:27 +0000",
+      "still_talking": "2024-07-31 14:31:32 +0000",
+      "root": "2024-07-31 14:15:19 +0000",
+      "aww_man": "2024-07-31 14:31:01 +0000",
+      "keep_your_distance": "2024-07-31 14:33:37 +0000",
+      "ooh_baby": "2024-08-01 07:41:30 +0000",
       "not_today_thank_you": "2024-07-31 14:30:22 +0000",
       "spooky_skeleton": "2024-07-31 14:18:41 +0000"
     },
@@ -684,6 +766,7 @@
   },
   "blazeandcave:bacap/adventure_milestone": {
     "criteria": {
+      "minecraft_trials_edition": "2024-08-01 08:11:00 +0000",
       "root": "2024-07-31 14:14:22 +0000"
     },
     "done": false
@@ -789,6 +872,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "golden_apple": "2024-08-01 03:16:15 +0000",
+      "honey_bottle": "2024-08-01 08:14:11 +0000",
       "rotten_flesh": "2024-07-31 14:16:27 +0000",
       "sweet_berries": "2024-08-01 03:26:52 +0000",
       "cooked_beef": "2024-07-31 14:14:55 +0000"
@@ -797,9 +881,12 @@
   },
   "blazeandcave:bacap/animal_milestone": {
     "criteria": {
+      "bacon": "2024-08-01 08:21:51 +0000",
       "root": "2024-07-31 14:14:55 +0000",
       "high_steaks": "2024-07-31 14:14:55 +0000",
-      "direct_fishing": "2024-08-01 03:30:52 +0000"
+      "direct_fishing": "2024-08-01 03:30:52 +0000",
+      "winnie_the_pooh": "2024-08-01 08:14:11 +0000",
+      "when_pigs_used_to_fly": "2024-08-01 07:38:08 +0000"
     },
     "done": false
   },
@@ -844,7 +931,8 @@
       "sword": "2024-07-31 14:16:10 +0000",
       "pickaxe": "2024-07-31 14:20:45 +0000",
       "bow": "2024-07-31 14:33:25 +0000",
-      "tnt": "2024-07-31 14:33:25 +0000"
+      "tnt": "2024-07-31 14:33:25 +0000",
+      "hoe": "2024-08-01 08:08:29 +0000"
     },
     "done": false
   },
@@ -859,6 +947,7 @@
       "regeneration": "2024-08-01 03:16:15 +0000",
       "blindness": "2024-08-01 03:31:12 +0000",
       "absorption": "2024-08-01 03:16:15 +0000",
+      "slowness": "2024-08-01 07:57:37 +0000",
       "hunger": "2024-07-31 14:16:27 +0000"
     },
     "done": false
@@ -884,6 +973,7 @@
   "blazeandcave:bacap/farming_milestone": {
     "criteria": {
       "berry_nice": "2024-08-01 03:26:52 +0000",
+      "root": "2024-08-01 07:38:43 +0000",
       "sugar_sugar": "2024-07-31 14:16:44 +0000",
       "disen_berry_berry_bad": "2024-08-01 03:18:51 +0000",
       "ultra_hardcore": "2024-08-01 03:16:15 +0000"
@@ -976,6 +1066,7 @@
   },
   "blazeandcave:biomes/wet_feet": {
     "criteria": {
+      "ocean": "2024-08-01 08:08:22 +0000",
       "river": "2024-07-31 14:18:21 +0000"
     },
     "done": false
@@ -1205,201 +1296,19 @@
     },
     "done": true
   },
-  "blazeandcave:enchanting/master_enchanter": {
-    "criteria": {
-      "mending": "2024-08-01 03:23:28 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:bacap/enchanting_milestone": {
-    "criteria": {
-      "unbreakable": "2024-08-01 03:23:28 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:monsters/hell_hunter": {
-    "criteria": {
-      "skeleton": "2024-08-01 03:22:10 +0000",
-      "zombified_piglin": "2024-08-01 03:24:47 +0000",
-      "piglin": "2024-08-01 03:23:00 +0000"
-    },
-    "done": false
-  },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "soul_sand_valley": "2024-08-01 03:21:58 +0000",
-      "crimson_forest": "2024-08-01 03:25:14 +0000",
-      "nether_wastes": "2024-08-01 03:21:22 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/misc/gold_nugget_from_smelting": {
-    "criteria": {
-      "has_golden_sword": "2024-08-01 03:26:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2024-08-01 03:25:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
-    "criteria": {
-      "has_gold_nugget": "2024-08-01 03:24:47 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/gold_nugget_from_blasting": {
-    "criteria": {
-      "has_golden_sword": "2024-08-01 03:26:22 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:mining/heart_of_darkness": {
-    "criteria": {
-      "enter_cave": "2024-08-01 03:22:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/brewing/golden_carrot": {
-    "criteria": {
-      "has_gold_nugget": "2024-08-01 03:24:47 +0000"
-    },
-    "done": true
-  },
   "blazeandcave:farming/vegetarian": {
     "criteria": {
       "golden_apple": "2024-08-01 03:16:15 +0000",
+      "honey_bottle": "2024-08-01 08:14:11 +0000",
       "sweet_berries": "2024-08-01 03:26:52 +0000"
     },
     "done": false
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2024-08-01 03:22:02 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:farming/disen_berry_berry_bad": {
-    "criteria": {
-      "age3": "2024-08-01 03:18:50 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/conduit": {
-    "criteria": {
-      "has_nautilus_shell": "2024-08-01 03:22:31 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:nether/cultural_misunderstandings": {
-    "criteria": {
-      "piglin": "2024-08-01 03:23:00 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:weaponry/the_mighty_hunter": {
-    "criteria": {
-      "cat": "2024-08-01 03:31:47 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:enchanting/complete_enchanter": {
-    "criteria": {
-      "mending": "2024-08-01 03:23:28 +0000",
-      "power": "2024-08-01 03:23:28 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:nether/quicksand": {
-    "criteria": {
-      "soul_sand": "2024-08-01 03:22:02 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:challenges/ultimate_enchanter": {
-    "criteria": {
-      "mending": "2024-08-01 03:23:28 +0000",
-      "power4": "2024-08-01 03:23:28 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:farming/berry_nice": {
-    "criteria": {
-      "sweet_berries": "2024-08-01 03:26:52 +0000"
-    },
-    "done": true
   },
   "blazeandcave:biomes/bamboom": {
     "criteria": {
       "bamboo": "2024-08-01 03:17:17 +0000"
     },
     "done": true
-  },
-  "blazeandcave:nether/what_a_fungi": {
-    "criteria": {
-      "nether_fungus": "2024-08-01 03:25:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "nether": "2024-08-01 03:21:22 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:bacap/nether_milestone": {
-    "criteria": {
-      "i_am_root": "2024-08-01 03:25:05 +0000",
-      "the_tribal_snouts": "2024-08-01 03:24:47 +0000",
-      "quicksand": "2024-08-01 03:22:03 +0000",
-      "what_a_fungi": "2024-08-01 03:25:26 +0000",
-      "root": "2024-08-01 03:21:22 +0000",
-      "cultural_misunderstandings": "2024-08-01 03:23:00 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:enchanting/unbreakable": {
-    "criteria": {
-      "mending": "2024-08-01 03:23:28 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:mining/moar_broken_tools": {
-    "criteria": {
-      "gold_sword": "2024-08-01 03:31:13 +0000",
-      "iron_sword": "2024-08-01 03:26:13 +0000",
-      "bow": "2024-08-01 03:22:10 +0000"
-    },
-    "done": false
-  },
-  "minecraft:recipes/decorations/soul_campfire": {
-    "criteria": {
-      "has_soul_sand": "2024-08-01 03:22:02 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:animal/direct_fishing": {
-    "criteria": {
-      "salmon": "2024-08-01 03:30:52 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:nether/the_tribal_snouts": {
-    "criteria": {
-      "zombified_piglin": "2024-08-01 03:24:47 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:challenges/highway_to_hell": {
-    "criteria": {
-      "skeleton": "2024-08-01 03:22:10 +0000",
-      "zombified_piglin": "2024-08-01 03:24:47 +0000",
-      "piglin": "2024-08-01 03:23:00 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
@@ -1419,11 +1328,92 @@
     },
     "done": true
   },
-  "blazeandcave:nether/i_am_root": {
+  "blazeandcave:challenges/stack_all_the_blocks": {
     "criteria": {
-      "nether_roots": "2024-08-01 03:25:05 +0000"
+      "bamboo": "2024-08-01 03:17:27 +0000",
+      "grass_block": "2024-08-01 07:51:20 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:farming/disen_berry_berry_bad": {
+    "criteria": {
+      "age3": "2024-08-01 03:18:50 +0000"
     },
     "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "soul_sand_valley": "2024-08-01 03:21:58 +0000",
+      "crimson_forest": "2024-08-01 03:25:14 +0000",
+      "nether_wastes": "2024-08-01 03:21:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "nether": "2024-08-01 03:21:22 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/nether_milestone": {
+    "criteria": {
+      "i_am_root": "2024-08-01 03:25:05 +0000",
+      "the_tribal_snouts": "2024-08-01 03:24:47 +0000",
+      "quicksand": "2024-08-01 03:22:03 +0000",
+      "what_a_fungi": "2024-08-01 03:25:26 +0000",
+      "root": "2024-08-01 03:21:22 +0000",
+      "cultural_misunderstandings": "2024-08-01 03:23:00 +0000",
+      "into_fire": "2024-08-01 07:54:34 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:mining/heart_of_darkness": {
+    "criteria": {
+      "enter_cave": "2024-08-01 03:22:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-08-01 03:22:02 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/quicksand": {
+    "criteria": {
+      "soul_sand": "2024-08-01 03:22:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-08-01 03:22:02 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/hell_hunter": {
+    "criteria": {
+      "skeleton": "2024-08-01 03:22:10 +0000",
+      "zombified_piglin": "2024-08-01 03:24:47 +0000",
+      "piglin": "2024-08-01 03:23:00 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:mining/moar_broken_tools": {
+    "criteria": {
+      "gold_sword": "2024-08-01 03:31:13 +0000",
+      "iron_sword": "2024-08-01 03:26:13 +0000",
+      "bow": "2024-08-01 03:22:10 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/highway_to_hell": {
+    "criteria": {
+      "skeleton": "2024-08-01 03:22:10 +0000",
+      "zombified_piglin": "2024-08-01 03:24:47 +0000",
+      "piglin": "2024-08-01 03:23:00 +0000"
+    },
+    "done": false
   },
   "blazeandcave:mining/aww_it_broke": {
     "criteria": {
@@ -1431,15 +1421,712 @@
     },
     "done": true
   },
-  "blazeandcave:challenges/stack_all_the_blocks": {
+  "minecraft:recipes/misc/conduit": {
     "criteria": {
-      "bamboo": "2024-08-01 03:17:27 +0000"
+      "has_nautilus_shell": "2024-08-01 03:22:31 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/cultural_misunderstandings": {
+    "criteria": {
+      "piglin": "2024-08-01 03:23:00 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/master_enchanter": {
+    "criteria": {
+      "mending": "2024-08-01 03:23:28 +0000",
+      "binding_curse": "2024-08-01 07:44:41 +0000",
+      "aqua_affinity_book": "2024-08-01 08:29:59 +0000"
     },
     "done": false
+  },
+  "blazeandcave:bacap/enchanting_milestone": {
+    "criteria": {
+      "unbreakable": "2024-08-01 03:23:28 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:enchanting/complete_enchanter": {
+    "criteria": {
+      "fortune": "2024-08-01 07:38:42 +0000",
+      "mending": "2024-08-01 03:23:28 +0000",
+      "power": "2024-08-01 03:23:28 +0000",
+      "binding_curse": "2024-08-01 07:44:41 +0000",
+      "aqua_affinity_book": "2024-08-01 08:29:59 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/ultimate_enchanter": {
+    "criteria": {
+      "mending": "2024-08-01 03:23:28 +0000",
+      "fortune2": "2024-08-01 07:38:42 +0000",
+      "binding_curse": "2024-08-01 07:44:41 +0000",
+      "power4": "2024-08-01 03:23:28 +0000",
+      "aqua_affinity_book": "2024-08-01 08:29:59 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:enchanting/unbreakable": {
+    "criteria": {
+      "mending": "2024-08-01 03:23:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-08-01 03:24:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-08-01 03:24:47 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/the_tribal_snouts": {
+    "criteria": {
+      "zombified_piglin": "2024-08-01 03:24:47 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/i_am_root": {
+    "criteria": {
+      "nether_roots": "2024-08-01 03:25:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-08-01 03:25:26 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/what_a_fungi": {
+    "criteria": {
+      "nether_fungus": "2024-08-01 03:25:26 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_bone_meal": "2024-08-01 03:25:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2024-08-01 03:26:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2024-08-01 03:26:22 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/berry_nice": {
+    "criteria": {
+      "sweet_berries": "2024-08-01 03:26:52 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/direct_fishing": {
+    "criteria": {
+      "salmon": "2024-08-01 03:30:52 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/the_mighty_hunter": {
+    "criteria": {
+      "cat": "2024-08-01 03:31:47 +0000",
+      "cow": "2024-08-01 08:20:58 +0000",
+      "pig": "2024-08-01 08:21:51 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:building/hot_tub": {
+    "criteria": {
+      "enter_lava_cauldron": "2024-08-01 07:36:54 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/when_pigs_used_to_fly": {
+    "criteria": {
+      "carrot_on_a_stick": "2024-08-01 07:38:08 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/time_to_farm": {
+    "criteria": {
+      "golden_hoe": "2024-08-01 07:38:42 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/root": {
+    "criteria": {
+      "hoe": "2024-08-01 07:38:42 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/ooh_baby": {
+    "criteria": {
+      "drowned": "2024-08-01 07:41:30 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/baby_baby_baby_noo": {
+    "criteria": {
+      "drowned": "2024-08-01 07:41:30 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2024-08-01 07:43:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-08-01 07:43:14 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/curses": {
+    "criteria": {
+      "binding_curse": "2024-08-01 07:44:41 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:building/sharpening_station": {
+    "criteria": {
+      "grindstone": "2024-08-01 07:44:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-08-01 07:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-08-01 07:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-08-01 07:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-08-01 07:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-08-01 07:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-08-01 07:44:56 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/living_like_kings": {
+    "criteria": {
+      "golden_boots": "2024-08-01 07:44:56 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/gold_rush": {
+    "criteria": {
+      "gold_ingot": "2024-08-01 07:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-08-01 07:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-08-01 07:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-08-01 07:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-08-01 07:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-08-01 07:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-08-01 07:44:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-08-01 07:44:56 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/combine_harvester": {
+    "criteria": {
+      "wheat": "2024-08-01 07:45:07 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:farming/come_to_the_countryside": {
+    "criteria": {
+      "carrots": "2024-08-01 07:49:53 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:redstone/root": {
+    "criteria": {
+      "redstone": "2024-08-01 07:51:08 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/redstone_milestone": {
+    "criteria": {
+      "root": "2024-08-01 07:51:08 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2024-08-01 07:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2024-08-01 07:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2024-08-01 07:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_redstone": "2024-08-01 07:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2024-08-01 07:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2024-08-01 07:51:08 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/seeing_red": {
+    "criteria": {
+      "redstone": "2024-08-01 07:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2024-08-01 07:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2024-08-01 07:51:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-08-01 07:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-08-01 07:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-08-01 07:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-08-01 07:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-08-01 07:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2024-08-01 07:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-08-01 07:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-08-01 07:51:20 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/i_dont_like_sand": {
+    "criteria": {
+      "sand": "2024-08-01 07:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-08-01 07:51:20 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/grass_type": {
+    "criteria": {
+      "grass_block": "2024-08-01 07:51:20 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-08-01 07:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-08-01 07:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-08-01 07:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-08-01 07:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2024-08-01 07:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-08-01 07:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-08-01 07:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-08-01 07:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-08-01 07:51:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2024-08-01 08:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/minecraft_trials_edition": {
+    "criteria": {
+      "minecraft_trials_edition": "2024-08-01 08:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-01 08:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-08-01 08:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2024-08-01 08:10:08 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/the_sea_calls_you": {
+    "criteria": {
+      "ocean": "2024-08-01 08:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2024-08-01 08:06:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-08-01 08:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "cobblestone": "2024-08-01 08:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-08-01 08:10:08 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/raidin_master": {
+    "criteria": {
+      "trial_chambers": "2024-08-01 08:10:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-08-01 07:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2024-08-01 08:12:55 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/deep_slate_nine": {
+    "criteria": {
+      "deepslate_level": "2024-08-01 08:10:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-08-01 08:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2024-08-01 08:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2024-08-01 08:13:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2024-08-01 08:13:01 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/kilometre_walk": {
+    "criteria": {
+      "outer_neg_x": "2024-08-01 08:08:22 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/rock_collection": {
+    "criteria": {
+      "cobblestone": "2024-08-01 08:10:08 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/this_snow_is_snowier": {
+    "criteria": {
+      "enter_water": "2024-08-01 08:14:27 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/diam_oh_wait_no": {
+    "criteria": {
+      "coal": "2024-08-01 08:06:22 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/winnie_the_pooh": {
+    "criteria": {
+      "honey_bottle": "2024-08-01 08:14:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-08-01 08:10:08 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/i_am_loot": {
+    "criteria": {
+      "trial_chambers_reward": "2024-08-01 08:12:52 +0000",
+      "trial_chambers_intersection_barrel": "2024-08-01 08:13:49 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/free_diver": {
+    "criteria": {
+      "trigger": "2024-08-01 08:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2024-08-01 08:10:08 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/ladder_climbers_inc": {
+    "criteria": {
+      "enter_ladder": "2024-08-01 08:11:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-08-01 07:54:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-08-01 08:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2024-08-01 08:10:08 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/bacon": {
+    "criteria": {
+      "pig": "2024-08-01 08:21:51 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/where_are_all_your_clothes": {
+    "criteria": {
+      "iron_helmet": "2024-08-01 07:57:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2024-08-01 08:10:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-08-01 08:10:08 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:enchanting/scuba_gear": {
+    "criteria": {
+      "aqua_affinity_book": "2024-08-01 08:29:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-08-01 08:10:08 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/spelunker": {
+    "criteria": {
+      "lush_caves": "2024-08-01 08:23:12 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-08-01 07:54:33 +0000"
     },
     "done": true
   },

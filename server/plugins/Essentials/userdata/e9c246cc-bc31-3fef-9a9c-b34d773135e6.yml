@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 127.175.157.233
+ip-address: 0:0:0:0:0:0:0:1%0
 afk: false
 socialspy: false
 npc: false
@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1722490917836
+  lastteleport: 1722501654431
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1722491718087
-  login: 1722487071532
+  logout: 1722498802122
+  login: 1722498807520
 money: '0'
 logoutlocation:
   world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
   world-name: world
-  x: -454.5
-  y: 67.0
-  z: 252.5
-  yaw: 13.335163116455078
-  pitch: 19.65001106262207
+  x: -482.0019909759244
+  y: 63.0
+  z: 197.88013829475162
+  yaw: -160.82737731933594
+  pitch: 6.149991989135742
 last-account-name: an8bithahaha
 lastlocation:
   world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
   world-name: world
-  x: -467.11233273161787
+  x: -452.4665317713878
   y: 63.0
-  z: 198.42582124064776
-  yaw: 98.83544921875
-  pitch: 21.300243377685547
+  z: 262.6223515539373
+  yaw: -101.56475067138672
+  pitch: 3.9000227451324463
 homes:
   home:
     world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
