@@ -162,3 +162,27 @@ recipe1:
   - SUGAR_CANE
   allowed_worlds: []
   shapeless: false
+recipe5:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: default
+  permission: null
+  matchtype: MATCH_META
+  hidden: false
+  check_partial_match: false
+  oncraftcommand: null
+  result: STONE_BRICK_WALL1
+  recipe:
+  - null
+  - null
+  - null
+  - null
+  - COBBLESTONE_WALL
+  - null
+  - null
+  - null
+  - null
+  allowed_worlds: []
+  shapeless: false

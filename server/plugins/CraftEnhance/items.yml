@@ -93,3 +93,16 @@ TIPPED_ARROW:
     meta-type: POTION
     potion-type: minecraft:slowness
     custom-effects: []
+STONE_BRICK_WALL:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: STONE_BRICK_WALL
+COBBLESTONE_WALL:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: COBBLESTONE_WALL
+STONE_BRICK_WALL1:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: STONE_BRICK_WALL
+  amount: 2

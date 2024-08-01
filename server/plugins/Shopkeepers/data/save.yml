@@ -133,7 +133,7 @@ data-version: 3|2|3953
       resultItem:
         ==: org.bukkit.inventory.ItemStack
         v: 3953
-        type: DIAMOND
+        type: EMERALD
       item1:
         ==: org.bukkit.inventory.ItemStack
         v: 3953
@@ -165,6 +165,21 @@ data-version: 3|2|3953
         ==: org.bukkit.inventory.ItemStack
         v: 3953
         type: WHEAT_SEEDS
+        amount: 64
+    '11':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: GOLD_INGOT
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: SUGAR_CANE
+        amount: 64
+      item2:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: SUGAR_CANE
         amount: 64
   snapshots: []
 '5':
@@ -324,7 +339,7 @@ data-version: 3|2|3953
         ==: org.bukkit.inventory.ItemStack
         v: 3953
         type: EMERALD
-        amount: 2
+        amount: 10
   snapshots: []
 '7':
   uniqueId: e8732874-98f2-4a4e-9267-c78e9db78b87
