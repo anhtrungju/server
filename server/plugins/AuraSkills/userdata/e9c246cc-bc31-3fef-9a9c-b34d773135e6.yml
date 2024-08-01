@@ -58,7 +58,7 @@ trait_modifiers:
     trait: auraskills/farming_luck
     value: 80.0
 ability_data:
-  auraskills/xp_convert:
-    xp: 19.57467513409402
   auraskills/first_strike:
     counter: 11
+  auraskills/xp_convert:
+    xp: 19.57467513409402

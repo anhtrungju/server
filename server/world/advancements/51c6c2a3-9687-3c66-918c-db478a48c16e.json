@@ -74,6 +74,7 @@
       "spooky_skeleton": "2024-07-31 14:18:41 +0000",
       "iron_man": "2024-07-31 14:11:23 +0000",
       "animal_root": "2024-07-31 14:14:55 +0000",
+      "a_watery_grave": "2024-07-31 14:34:24 +0000",
       "high_steaks": "2024-07-31 14:14:55 +0000",
       "monsters_root": "2024-07-31 14:15:19 +0000",
       "shield_luck": "2024-07-31 14:13:58 +0000",
@@ -112,17 +113,19 @@
   },
   "blazeandcave:challenges/stack_all_the_items": {
     "criteria": {
-      "iron_ingot": "2024-07-31 14:10:01 +0000",
       "shield": "2024-07-31 14:12:43 +0000",
+      "iron_chestplate": "2024-07-31 14:10:51 +0000",
+      "iron_leggings": "2024-07-31 14:10:55 +0000",
+      "bow": "2024-07-31 14:30:43 +0000",
+      "iron_ingot": "2024-07-31 14:10:01 +0000",
+      "beetroot_seeds": "2024-07-31 14:34:50 +0000",
       "minecart": "2024-07-31 14:11:12 +0000",
       "iron_boots": "2024-07-31 14:10:58 +0000",
       "shears": "2024-07-31 14:11:03 +0000",
-      "iron_chestplate": "2024-07-31 14:10:51 +0000",
       "iron_sword": "2024-07-31 14:15:19 +0000",
       "iron_pickaxe": "2024-07-31 14:15:10 +0000",
-      "iron_leggings": "2024-07-31 14:10:55 +0000",
-      "bow": "2024-07-31 14:30:43 +0000",
-      "iron_helmet": "2024-07-31 14:11:00 +0000"
+      "iron_helmet": "2024-07-31 14:11:00 +0000",
+      "carrot": "2024-07-31 14:35:01 +0000"
     },
     "done": false
   },
@@ -238,25 +241,29 @@
     "criteria": {
       "shield": "2024-07-31 14:12:43 +0000",
       "string": "2024-07-31 14:30:26 +0000",
-      "rotten_flesh": "2024-07-31 14:14:22 +0000",
       "arrow": "2024-07-31 14:13:43 +0000",
       "iron_chestplate": "2024-07-31 14:10:51 +0000",
       "cooked_beef": "2024-07-31 14:14:50 +0000",
-      "bone": "2024-07-31 14:18:40 +0000",
-      "gunpowder": "2024-07-31 14:18:06 +0000",
-      "iron_leggings": "2024-07-31 14:10:55 +0000",
       "bow": "2024-07-31 14:30:43 +0000",
+      "red_dye": "2024-07-31 14:35:20 +0000",
       "iron_ingot": "2024-07-31 14:10:01 +0000",
       "spider_eye": "2024-07-31 14:30:27 +0000",
-      "minecart": "2024-07-31 14:11:12 +0000",
       "iron_boots": "2024-07-31 14:10:58 +0000",
       "shears": "2024-07-31 14:11:03 +0000",
-      "sugar_cane": "2024-07-31 14:16:43 +0000",
       "iron_sword": "2024-07-31 14:15:19 +0000",
       "iron_nugget": "2024-07-31 14:11:07 +0000",
       "iron_pickaxe": "2024-07-31 14:15:10 +0000",
       "stick": "2024-07-31 14:12:30 +0000",
-      "iron_helmet": "2024-07-31 14:11:00 +0000"
+      "iron_helmet": "2024-07-31 14:11:00 +0000",
+      "rotten_flesh": "2024-07-31 14:14:22 +0000",
+      "bone": "2024-07-31 14:18:40 +0000",
+      "gunpowder": "2024-07-31 14:18:06 +0000",
+      "iron_leggings": "2024-07-31 14:10:55 +0000",
+      "beetroot": "2024-07-31 14:34:47 +0000",
+      "beetroot_seeds": "2024-07-31 14:34:46 +0000",
+      "minecart": "2024-07-31 14:11:12 +0000",
+      "sugar_cane": "2024-07-31 14:16:43 +0000",
+      "carrot": "2024-07-31 14:34:56 +0000"
     },
     "done": false
   },
@@ -579,7 +586,8 @@
       "minecraft:skeleton": "2024-07-31 14:18:40 +0000",
       "minecraft:spider": "2024-07-31 14:30:26 +0000",
       "minecraft:zombie": "2024-07-31 14:14:22 +0000",
-      "minecraft:creeper": "2024-07-31 14:18:06 +0000"
+      "minecraft:creeper": "2024-07-31 14:18:06 +0000",
+      "minecraft:drowned": "2024-07-31 14:34:23 +0000"
     },
     "done": false
   },
@@ -606,6 +614,7 @@
     "criteria": {
       "skeleton": "2024-07-31 14:18:40 +0000",
       "zombie": "2024-07-31 14:14:22 +0000",
+      "drowned": "2024-07-31 14:34:23 +0000",
       "spider": "2024-07-31 14:30:26 +0000",
       "creeper": "2024-07-31 14:18:06 +0000"
     },
@@ -615,6 +624,7 @@
     "criteria": {
       "still_talking": "2024-07-31 14:31:32 +0000",
       "dead_dont_die": "2024-07-31 14:14:22 +0000",
+      "a_watery_grave": "2024-07-31 14:34:24 +0000",
       "iron_belly": "2024-07-31 14:16:27 +0000",
       "root": "2024-07-31 14:15:19 +0000",
       "aww_man": "2024-07-31 14:31:01 +0000",
@@ -972,9 +982,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2024-07-31 14:34:47 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:monsters/ew_ew_ew": {
     "criteria": {
       "spider": "2024-07-31 14:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_red_dye": "2024-07-31 14:35:20 +0000"
     },
     "done": true
   },
@@ -1002,9 +1024,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_carpet": {
+    "criteria": {
+      "has_needed_dye": "2024-07-31 14:35:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-07-31 14:30:26 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/a_gluttonous_diet": {
+    "criteria": {
+      "carrot": "2024-07-31 14:35:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/dye_red_bed": {
+    "criteria": {
+      "has_needed_dye": "2024-07-31 14:35:20 +0000"
     },
     "done": true
   },
@@ -1020,9 +1060,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dye_red_wool": {
+    "criteria": {
+      "has_needed_dye": "2024-07-31 14:35:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/fermented_spider_eye": {
     "criteria": {
       "has_spider_eye": "2024-07-31 14:30:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_red_dye": "2024-07-31 14:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2024-07-31 14:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2024-07-31 14:34:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_candle": {
+    "criteria": {
+      "has_red_dye": "2024-07-31 14:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-07-31 14:34:56 +0000"
     },
     "done": true
   },
@@ -1035,6 +1111,30 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2024-07-31 14:30:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_red_dye": "2024-07-31 14:35:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_red_dye": "2024-07-31 14:35:20 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/a_watery_grave": {
+    "criteria": {
+      "drowned": "2024-07-31 14:34:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_rose_red": "2024-07-31 14:35:20 +0000"
     },
     "done": true
   },

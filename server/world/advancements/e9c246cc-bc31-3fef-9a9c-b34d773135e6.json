@@ -3662,21 +3662,9 @@
     },
     "done": true
   },
-  "blazeandcave:weaponry/root": {
-    "criteria": {
-      "sword": "2024-07-31 14:15:14 +0000"
-    },
-    "done": true
-  },
   "blazeandcave:technical/bacap_branch_end": {
     "criteria": {
       "crafting_table": "2024-07-31 14:10:20 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:weaponry/point_blank": {
-    "criteria": {
-      "point_blank": "2024-07-31 14:13:58 +0000"
     },
     "done": true
   },
@@ -3692,11 +3680,29 @@
     },
     "done": true
   },
-  "blazeandcave:nether/spreading_corruption": {
+  "blazeandcave:weaponry/point_blank": {
     "criteria": {
-      "magma_block": "2024-07-31 14:17:20 +0000"
+      "point_blank": "2024-07-31 14:13:58 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "blazeandcave:weaponry/bow_spammer": {
+    "criteria": {
+      "bow_spammer": "2024-07-31 14:13:58 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/a_watery_grave": {
+    "criteria": {
+      "drowned": "2024-07-31 14:14:06 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/root": {
+    "criteria": {
+      "sword": "2024-07-31 14:15:14 +0000"
+    },
+    "done": true
   },
   "blazeandcave:bacap/time_to_strike": {
     "criteria": {
@@ -3710,23 +3716,17 @@
     },
     "done": true
   },
-  "blazeandcave:weaponry/bow_spammer": {
+  "blazeandcave:nether/spreading_corruption": {
     "criteria": {
-      "bow_spammer": "2024-07-31 14:13:58 +0000"
+      "magma_block": "2024-07-31 14:17:20 +0000"
     },
-    "done": true
+    "done": false
   },
   "blazeandcave:mining/where_are_all_your_clothes": {
     "criteria": {
       "iron_helmet": "2024-07-31 14:21:37 +0000"
     },
     "done": false
-  },
-  "blazeandcave:monsters/a_watery_grave": {
-    "criteria": {
-      "drowned": "2024-07-31 14:14:06 +0000"
-    },
-    "done": true
   },
   "blazeandcave:mining/aww_it_broke": {
     "criteria": {

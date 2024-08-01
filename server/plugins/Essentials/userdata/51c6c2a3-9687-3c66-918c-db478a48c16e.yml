@@ -16,7 +16,7 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1722435787202
+  logout: 1722436533703
   login: 1722436162170
 money: '0'
 last-account-name: aben
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
   world-name: world
-  x: -453.9388998627902
-  y: 64.0
-  z: 254.52946467212539
-  yaw: 161.41485595703125
-  pitch: 27.150070190429688
+  x: -465.7951843299166
+  y: 63.0
+  z: 293.76249998807907
+  yaw: 56.42710876464844
+  pitch: 43.04995346069336
