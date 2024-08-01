@@ -2847,3 +2847,8 @@ java.lang.NullPointerException: Cannot invoke "com.dutchjelly.craftenhance.craft
 [04:38:37] [Server thread/INFO]: an8bithahaha issued server command: /list
 [04:54:44] [Server thread/INFO]: an8bithahaha issued server command: /fly
 [04:55:36] [Server thread/INFO]: an8bithahaha issued server command: /fly
+[05:32:56] [Server thread/INFO]: Named entity Spider['⚔ Corvus Ironsmith'/51762, uuid='16278461-4a45-457d-b3ef-858320bc4049', l='ServerLevel[world]', x=-470.06, y=63.88, z=202.52, cpos=[-30, 12], tl=3729, v=true] died: ⚔ Corvus Ironsmith was slain by an8bithahaha
+[05:33:54] [Server thread/INFO]: an8bithahaha issued server command: /home
+[05:41:57] [Server thread/INFO]: an8bithahaha issued server command: /home
+[05:55:18] [Server thread/INFO]: an8bithahaha lost connection: Disconnected
+[05:55:18] [Server thread/INFO]: an8bithahaha left the game
