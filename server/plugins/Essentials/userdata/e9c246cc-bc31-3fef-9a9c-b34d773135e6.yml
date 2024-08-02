@@ -11,31 +11,31 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1722520946221
+  lastteleport: 1722574062212
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1722522348998
-  login: 1722520826139
+  logout: 1722574964684
+  login: 1722573480959
 money: '0'
 logoutlocation:
   world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
   world-name: world
-  x: -454.5
-  y: 67.0
-  z: 252.5
-  yaw: -63.435157775878906
-  pitch: 0.0
+  x: -455.8536546899525
+  y: 67.00749860632239
+  z: 252.4242236094349
+  yaw: -1.814697265625
+  pitch: 7.350020408630371
 last-account-name: an8bithahaha
 lastlocation:
   world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
   world-name: world
-  x: -318.30342494099204
+  x: -311.48750001192093
   y: 31.0
-  z: 305.69999998807907
-  yaw: -128.24681091308594
-  pitch: 25.799991607666016
+  z: 305.30000001192093
+  yaw: 107.3880844116211
+  pitch: 35.87318801879883
 homes:
   home:
     world: e26a6c9a-0229-4acd-976c-c2213e33bf7e

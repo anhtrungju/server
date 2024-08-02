@@ -1,0 +1,16 @@
+/workspaces/server/server/glibc-2.32/build/stdlib/strtoll_l.os: \
+ ../sysdeps/wordsize-64/strtoll_l.c ../include/stdc-predef.h \
+ /workspaces/server/server/glibc-2.32/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /workspaces/server/server/glibc-2.32/build/config.h \
+ ../sysdeps/generic/symbol-hacks.h
+
+../include/stdc-predef.h:
+
+/workspaces/server/server/glibc-2.32/build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/workspaces/server/server/glibc-2.32/build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:

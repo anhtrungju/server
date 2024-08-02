@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 0:0:0:0:0:0:0:1%0
+ip-address: 127.70.172.227
 afk: false
 socialspy: false
 npc: false
@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1722501431803
+  lastteleport: 1722575337211
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1722502262558
-  login: 1722519104148
+  logout: 1722579871419
+  login: 1722572467168
 money: '0'
 last-account-name: Leviathan
 logoutlocation:
   world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
   world-name: world
-  x: -454.3894106563252
-  y: 67.0
-  z: 253.13197216443376
-  yaw: -73.05938720703125
-  pitch: 28.919137954711914
+  x: -317.01594819866295
+  y: 31.0
+  z: 305.30000001192093
+  yaw: 62.9803466796875
+  pitch: 29.284557342529297
 lastlocation:
-  world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
-  world-name: world
-  x: -448.7476565398037
-  y: -29.0
-  z: 252.98256399079537
-  yaw: -178.81124877929688
-  pitch: 14.214089393615723
+  world: bb4ddb31-a8ff-4abc-a351-f6335fb3bb2b
+  world-name: world_nether
+  x: -107.47959150827796
+  y: 49.0
+  z: 117.52477724126406
+  yaw: -130.744384765625
+  pitch: 22.996658325195312

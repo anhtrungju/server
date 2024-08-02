@@ -768,6 +768,8 @@
       "minecraft:witch": "2024-07-25 08:56:51 +0000",
       "minecraft:wither_skeleton": "2024-07-26 07:31:34 +0000",
       "minecraft:ravager": "2024-07-25 09:21:16 +0000",
+      "minecraft:ghast": "2024-08-02 05:02:07 +0000",
+      "minecraft:piglin": "2024-08-02 04:54:31 +0000",
       "minecraft:vindicator": "2024-07-25 09:19:58 +0000",
       "minecraft:breeze": "2024-08-01 08:35:28 +0000",
       "minecraft:stray": "2024-07-24 11:04:02 +0000",
@@ -2844,6 +2846,7 @@
   "blazeandcave:challenges/stack_all_the_items": {
     "criteria": {
       "water_bucket": "2024-08-01 08:03:44 +0000",
+      "golden_sword": "2024-08-02 05:07:05 +0000",
       "shield": "2024-08-01 07:06:00 +0000",
       "iron_hoe": "2024-08-01 07:06:00 +0000",
       "saddle": "2024-08-01 07:46:41 +0000",
@@ -2874,6 +2877,8 @@
       "wheat_seeds": "2024-08-01 07:36:10 +0000",
       "fishing_rod": "2024-08-01 07:06:00 +0000",
       "potion": "2024-08-01 13:50:17 +0000",
+      "gold_nugget": "2024-08-02 05:05:08 +0000",
+      "wooden_pickaxe": "2024-08-02 05:02:49 +0000",
       "diamond_pickaxe": "2024-08-01 07:06:00 +0000",
       "iron_leggings": "2024-08-01 07:06:00 +0000",
       "diamond_sword": "2024-08-01 13:12:25 +0000",
@@ -2911,8 +2916,10 @@
       "time_to_dig": "2024-08-01 07:06:00 +0000",
       "ive_got_a_bad_feeling_about_this": "2024-08-01 13:11:48 +0000",
       "take_aim": "2024-08-01 07:06:00 +0000",
+      "cultural_misunderstandings": "2024-08-02 04:54:32 +0000",
       "suit_up": "2024-08-01 07:06:00 +0000",
       "the_phantom_menace": "2024-08-01 14:26:23 +0000",
+      "not_today_thank_you": "2024-08-02 04:59:32 +0000",
       "mozart": "2024-08-01 14:07:39 +0000",
       "spooky_skeleton": "2024-08-01 07:16:30 +0000",
       "atlantis": "2024-08-01 08:14:41 +0000",
@@ -2921,6 +2928,7 @@
       "click": "2024-08-01 08:36:55 +0000",
       "ew_ew_ew": "2024-08-01 07:15:29 +0000",
       "stone_age": "2024-08-01 07:17:06 +0000",
+      "bamboom": "2024-08-02 05:12:47 +0000",
       "mob_hunter": "2024-08-01 07:06:01 +0000",
       "kilometre_walk": "2024-08-01 08:01:42 +0000",
       "isnt_it_iron_pick": "2024-08-01 07:06:00 +0000",
@@ -2930,6 +2938,7 @@
       "spring_in_your_step": "2024-08-01 07:06:01 +0000",
       "getting_an_upgrade": "2024-08-01 07:06:00 +0000",
       "boatception": "2024-08-01 08:03:45 +0000",
+      "we_need_to_go_deeper": "2024-08-02 04:53:29 +0000",
       "time_to_farm": "2024-08-01 07:06:00 +0000",
       "time_to_strike": "2024-08-01 07:06:00 +0000",
       "dead_dont_die": "2024-08-01 07:16:03 +0000",
@@ -2940,17 +2949,21 @@
       "treasure_hunter": "2024-08-01 07:46:41 +0000",
       "the_first_night": "2024-08-01 07:20:44 +0000",
       "iconic_merchandising_prop": "2024-08-01 07:06:00 +0000",
+      "well_handle_this": "2024-08-02 04:58:04 +0000",
       "sweet_dreams": "2024-08-01 07:06:00 +0000",
       "point_blank": "2024-08-01 07:15:29 +0000",
       "diam_oh_wait_no": "2024-08-01 07:06:00 +0000",
       "animal_root": "2024-08-01 07:06:00 +0000",
       "for_you_my_sweet": "2024-08-01 07:14:59 +0000",
+      "quicksand": "2024-08-02 04:54:48 +0000",
       "high_steaks": "2024-08-01 08:40:43 +0000",
+      "shield_luck": "2024-08-02 04:59:32 +0000",
       "statistics_root": "2024-08-01 07:06:00 +0000",
       "time_to_mine": "2024-08-01 07:06:00 +0000",
       "poultry_boy": "2024-08-01 07:16:03 +0000",
       "pirate_captain": "2024-08-01 07:06:01 +0000",
       "its_a_trap": "2024-08-01 14:09:46 +0000",
+      "burnt_right_into_your_soul": "2024-08-02 04:57:24 +0000",
       "biomes_root": "2024-08-01 07:14:46 +0000",
       "what_a_piece_of_junk": "2024-08-01 07:55:11 +0000",
       "there_has_to_be_another_way": "2024-08-01 08:40:07 +0000",
@@ -2969,11 +2982,14 @@
       "meet_the_flintstones": "2024-08-01 08:32:26 +0000",
       "diamond_clad": "2024-08-01 13:27:31 +0000",
       "ice_bucket_challenge": "2024-08-01 07:06:00 +0000",
+      "the_tribal_snouts": "2024-08-02 04:53:52 +0000",
+      "giant_floating_jellyfish": "2024-08-02 05:02:08 +0000",
       "farming_root": "2024-08-01 07:06:00 +0000",
       "novice_enchanter": "2024-08-01 07:31:53 +0000",
       "sushi": "2024-08-01 08:31:46 +0000",
       "unbreakable": "2024-08-01 07:06:00 +0000",
       "weaponry_root": "2024-08-01 07:06:00 +0000",
+      "under_pressure": "2024-08-02 04:41:11 +0000",
       "time_to_chop": "2024-08-01 07:37:29 +0000",
       "kelp_me": "2024-08-01 08:30:30 +0000",
       "a_watery_grave": "2024-08-01 07:42:16 +0000",
@@ -3009,11 +3025,13 @@
       "keep_your_distance": "2024-08-01 07:15:18 +0000",
       "the_sea_calls_you": "2024-08-01 07:52:58 +0000",
       "glows_in_the_dark": "2024-08-01 13:13:10 +0000",
+      "nether_root": "2024-08-02 04:53:33 +0000",
       "iron_man": "2024-08-01 07:06:00 +0000",
       "pushed_around": "2024-08-01 08:16:22 +0000",
       "boaty_mcboatface": "2024-08-01 07:51:09 +0000",
       "hot_stuff": "2024-08-01 07:06:00 +0000",
       "monster_hunter": "2024-08-01 07:15:18 +0000",
+      "dark_ages": "2024-08-02 05:07:30 +0000",
       "like_a_cat": "2024-08-01 13:32:46 +0000",
       "feeling_sheepish": "2024-08-01 07:06:23 +0000",
       "tactical_fishing": "2024-08-01 13:59:33 +0000",
@@ -3096,15 +3114,18 @@
   },
   "blazeandcave:challenges/explorer_of_worlds": {
     "criteria": {
+      "forest": "2024-08-01 07:40:28 +0000",
+      "taiga": "2024-08-01 07:52:33 +0000",
+      "birch_forest": "2024-08-01 08:12:54 +0000",
+      "crimson_forest": "2024-08-02 05:00:13 +0000",
+      "cold_ocean": "2024-08-01 07:52:57 +0000",
+      "nether_wastes": "2024-08-02 04:53:33 +0000",
       "deep_cold_ocean": "2024-08-01 08:04:00 +0000",
       "old_growth_birch_forest": "2024-08-01 08:06:01 +0000",
-      "forest": "2024-08-01 07:40:28 +0000",
+      "soul_sand_valley": "2024-08-02 04:53:37 +0000",
       "ocean": "2024-08-01 08:06:02 +0000",
-      "taiga": "2024-08-01 07:52:33 +0000",
       "plains": "2024-08-01 07:06:00 +0000",
       "beach": "2024-08-01 07:52:55 +0000",
-      "birch_forest": "2024-08-01 08:12:54 +0000",
-      "cold_ocean": "2024-08-01 07:52:57 +0000",
       "river": "2024-08-01 07:33:57 +0000"
     },
     "done": false
@@ -3123,27 +3144,29 @@
   },
   "blazeandcave:enchanting/complete_enchanter": {
     "criteria": {
-      "efficiency": "2024-08-01 07:06:00 +0000",
       "luck_of_the_sea_book": "2024-08-01 13:35:46 +0000",
       "thorns": "2024-08-01 13:25:27 +0000",
-      "fortune": "2024-08-01 07:31:54 +0000",
       "fire_protection": "2024-08-01 13:25:27 +0000",
-      "looting": "2024-08-01 13:35:32 +0000",
       "unbreaking": "2024-08-01 07:06:00 +0000",
       "feather_falling": "2024-08-01 13:32:46 +0000",
-      "silk_touch": "2024-08-01 13:12:31 +0000",
       "mending": "2024-08-01 07:06:00 +0000",
       "respiration": "2024-08-01 13:25:46 +0000",
       "protection": "2024-08-01 07:06:00 +0000",
-      "sweeping_edge": "2024-08-01 07:06:00 +0000",
       "luck_of_the_sea": "2024-08-01 07:06:00 +0000",
       "protection_book": "2024-08-01 13:24:50 +0000",
       "lure": "2024-08-01 07:06:00 +0000",
       "sharpness_book": "2024-08-01 07:06:00 +0000",
-      "infinity": "2024-08-01 07:06:00 +0000",
+      "feather_falling_book": "2024-08-02 04:58:04 +0000",
       "sweeping_book": "2024-08-01 13:35:46 +0000",
       "sharpness": "2024-08-01 13:35:32 +0000",
       "power": "2024-08-01 07:06:00 +0000",
+      "efficiency": "2024-08-01 07:06:00 +0000",
+      "fortune": "2024-08-01 07:31:54 +0000",
+      "looting_book": "2024-08-02 05:02:49 +0000",
+      "looting": "2024-08-01 13:35:32 +0000",
+      "silk_touch": "2024-08-01 13:12:31 +0000",
+      "sweeping_edge": "2024-08-01 07:06:00 +0000",
+      "infinity": "2024-08-01 07:06:00 +0000",
       "flame": "2024-08-01 07:06:00 +0000",
       "fire_protection_book": "2024-08-01 13:35:46 +0000"
     },
@@ -3152,6 +3175,8 @@
   "blazeandcave:challenges/ultimate_enchanter": {
     "criteria": {
       "sharpness2_book": "2024-08-01 07:06:00 +0000",
+      "feather_falling3_book": "2024-08-02 04:58:04 +0000",
+      "looting1_book": "2024-08-02 05:02:49 +0000",
       "thorns1": "2024-08-01 13:25:27 +0000",
       "sweeping3": "2024-08-01 07:06:00 +0000",
       "mending": "2024-08-01 07:06:00 +0000",
@@ -3191,6 +3216,7 @@
       "root": "2024-08-01 07:06:00 +0000",
       "take_aim": "2024-08-01 07:06:00 +0000",
       "point_blank": "2024-08-01 07:15:29 +0000",
+      "shield_luck": "2024-08-02 04:59:32 +0000",
       "sir_knight": "2024-08-01 07:06:00 +0000"
     },
     "done": false
@@ -3252,7 +3278,8 @@
       "youll_never_take_me_alive_copper": "2024-08-01 07:54:25 +0000",
       "stabcraft": "2024-08-01 13:12:26 +0000",
       "suit_up": "2024-08-01 07:06:00 +0000",
-      "getting_an_upgrade": "2024-08-01 07:06:00 +0000"
+      "getting_an_upgrade": "2024-08-01 07:06:00 +0000",
+      "we_need_to_go_deeper": "2024-08-02 04:53:29 +0000"
     },
     "done": false
   },
@@ -3290,9 +3317,16 @@
   },
   "blazeandcave:bacap/nether_milestone": {
     "criteria": {
+      "burnt_right_into_your_soul": "2024-08-02 04:57:24 +0000",
+      "the_tribal_snouts": "2024-08-02 04:53:52 +0000",
+      "giant_floating_jellyfish": "2024-08-02 05:02:08 +0000",
       "nugget_in_a_biscuit": "2024-08-01 07:06:01 +0000",
+      "quicksand": "2024-08-02 04:54:48 +0000",
+      "root": "2024-08-02 04:53:33 +0000",
       "a_terrible_fortress": "2024-08-01 07:06:00 +0000",
-      "glows_in_the_dark": "2024-08-01 13:13:10 +0000"
+      "cultural_misunderstandings": "2024-08-02 04:54:32 +0000",
+      "glows_in_the_dark": "2024-08-01 13:13:10 +0000",
+      "dark_ages": "2024-08-02 05:07:30 +0000"
     },
     "done": false
   },
@@ -3317,6 +3351,7 @@
   "blazeandcave:challenges/all_the_items": {
     "criteria": {
       "water_bucket": "2024-08-01 08:03:44 +0000",
+      "golden_sword": "2024-08-02 05:07:05 +0000",
       "feather": "2024-08-01 07:16:02 +0000",
       "filled_map": "2024-08-01 08:16:05 +0000",
       "saddle": "2024-08-01 07:46:41 +0000",
@@ -3337,6 +3372,7 @@
       "enchanted_book": "2024-08-01 07:06:00 +0000",
       "wheat_seeds": "2024-08-01 07:22:11 +0000",
       "coast_armor_trim": "2024-08-01 08:02:15 +0000",
+      "phantom_membrane": "2024-08-02 04:58:04 +0000",
       "salmon": "2024-08-01 07:43:09 +0000",
       "gunpowder": "2024-08-01 07:15:17 +0000",
       "leather": "2024-08-01 07:06:00 +0000",
@@ -3369,6 +3405,7 @@
       "diamond_helmet": "2024-08-01 13:22:46 +0000",
       "lapis_lazuli": "2024-08-01 07:06:00 +0000",
       "ender_pearl": "2024-08-01 13:12:33 +0000",
+      "wind_charge": "2024-08-02 04:37:59 +0000",
       "iron_pickaxe": "2024-08-01 07:06:00 +0000",
       "wheat": "2024-08-01 07:06:00 +0000",
       "diamond_chestplate": "2024-08-01 13:22:43 +0000",
@@ -3383,6 +3420,7 @@
       "ominous_bottle": "2024-08-01 13:11:55 +0000",
       "gold_nugget": "2024-08-01 07:06:00 +0000",
       "rotten_flesh": "2024-08-01 07:16:02 +0000",
+      "wooden_pickaxe": "2024-08-02 05:02:49 +0000",
       "diamond_pickaxe": "2024-08-01 07:06:00 +0000",
       "quartz": "2024-08-01 13:12:25 +0000",
       "melon_slice": "2024-08-01 07:06:00 +0000",
@@ -3412,16 +3450,18 @@
     "criteria": {
       "dead_dont_die": "2024-08-01 07:16:03 +0000",
       "a_watery_grave": "2024-08-01 07:42:16 +0000",
-      "root": "2024-08-01 07:06:00 +0000",
-      "there_has_to_be_another_way": "2024-08-01 08:40:07 +0000",
       "what_a_creep": "2024-08-01 07:15:18 +0000",
-      "keep_your_distance": "2024-08-01 07:15:18 +0000",
-      "ooh_baby": "2024-08-01 07:16:03 +0000",
+      "well_handle_this": "2024-08-02 04:58:04 +0000",
       "monster_hunter": "2024-08-01 07:15:18 +0000",
       "ew_ew_ew": "2024-08-01 07:15:29 +0000",
+      "poultry_boy": "2024-08-01 07:16:03 +0000",
+      "root": "2024-08-01 07:06:00 +0000",
+      "there_has_to_be_another_way": "2024-08-01 08:40:07 +0000",
+      "keep_your_distance": "2024-08-01 07:15:18 +0000",
+      "ooh_baby": "2024-08-01 07:16:03 +0000",
       "the_phantom_menace": "2024-08-01 14:26:23 +0000",
-      "spooky_skeleton": "2024-08-01 07:16:30 +0000",
-      "poultry_boy": "2024-08-01 07:16:03 +0000"
+      "not_today_thank_you": "2024-08-02 04:59:32 +0000",
+      "spooky_skeleton": "2024-08-01 07:16:30 +0000"
     },
     "done": false
   },
@@ -3586,36 +3626,43 @@
       "boaty_mcboatface": "2024-08-01 07:51:09 +0000",
       "the_sea_calls_you": "2024-08-01 07:52:58 +0000",
       "ahoy": "2024-08-01 07:52:58 +0000",
+      "bamboom": "2024-08-02 05:12:47 +0000",
       "boatception": "2024-08-01 08:03:45 +0000"
     },
     "done": false
   },
   "blazeandcave:challenges/all_the_blocks": {
     "criteria": {
+      "poppy": "2024-08-01 07:14:58 +0000",
+      "soul_sand": "2024-08-02 04:54:47 +0000",
+      "tripwire_hook": "2024-08-01 07:55:11 +0000",
+      "iron_block": "2024-08-01 13:20:57 +0000",
+      "oak_door": "2024-08-01 07:17:04 +0000",
+      "note_block": "2024-08-01 14:07:38 +0000",
+      "oak_pressure_plate": "2024-08-01 14:08:55 +0000",
+      "basalt": "2024-08-02 05:05:46 +0000",
+      "cobblestone": "2024-08-01 07:17:05 +0000",
+      "iron_trapdoor": "2024-08-01 14:09:26 +0000",
+      "netherrack": "2024-08-01 13:12:27 +0000",
+      "soul_soil": "2024-08-02 05:02:50 +0000",
+      "coal_block": "2024-08-01 13:52:23 +0000",
       "chest": "2024-08-01 13:17:49 +0000",
       "cobweb": "2024-08-01 07:15:23 +0000",
-      "poppy": "2024-08-01 07:14:58 +0000",
       "crafting_table": "2024-08-01 14:33:08 +0000",
       "oak_planks": "2024-08-01 07:31:02 +0000",
-      "tripwire_hook": "2024-08-01 07:55:11 +0000",
       "white_banner": "2024-08-01 13:14:37 +0000",
       "dirt": "2024-08-01 07:52:09 +0000",
       "oak_fence": "2024-08-01 14:02:23 +0000",
       "moss_block": "2024-08-01 08:12:00 +0000",
-      "iron_block": "2024-08-01 13:20:57 +0000",
       "torch": "2024-08-01 13:57:42 +0000",
-      "oak_door": "2024-08-01 07:17:04 +0000",
-      "note_block": "2024-08-01 14:07:38 +0000",
-      "oak_pressure_plate": "2024-08-01 14:08:55 +0000",
       "gravel": "2024-08-01 08:30:22 +0000",
+      "bamboo": "2024-08-02 05:12:47 +0000",
       "oak_log": "2024-08-01 13:59:44 +0000",
-      "cobblestone": "2024-08-01 07:17:05 +0000",
-      "iron_trapdoor": "2024-08-01 14:09:26 +0000",
       "granite": "2024-08-01 08:30:42 +0000",
       "tuff": "2024-08-01 07:17:04 +0000",
-      "netherrack": "2024-08-01 13:12:27 +0000",
+      "magma_block": "2024-08-02 05:01:25 +0000",
       "hopper": "2024-08-01 14:02:01 +0000",
-      "coal_block": "2024-08-01 13:52:23 +0000"
+      "blackstone": "2024-08-02 05:07:29 +0000"
     },
     "done": false
   },
@@ -3707,6 +3754,7 @@
   },
   "blazeandcave:monsters/baby_baby_baby_noo": {
     "criteria": {
+      "zombified_piglin": "2024-08-02 05:07:18 +0000",
       "zombie": "2024-08-01 07:16:02 +0000"
     },
     "done": false
@@ -3771,6 +3819,7 @@
       "raid_omen": "2024-08-01 13:13:11 +0000",
       "bad_omen": "2024-08-01 13:12:08 +0000",
       "hero_of_the_village": "2024-08-01 13:16:23 +0000",
+      "glowing": "2024-08-02 04:55:23 +0000",
       "slowness": "2024-08-01 07:17:55 +0000"
     },
     "done": false
@@ -3867,10 +3916,13 @@
       "pufferfish": "2024-08-01 07:43:27 +0000",
       "potion": "2024-08-01 13:50:16 +0000",
       "saddle": "2024-08-01 07:46:40 +0000",
+      "string": "2024-08-02 04:43:30 +0000",
       "tripwire_hook": "2024-08-01 07:55:11 +0000",
       "salmon": "2024-08-01 07:43:08 +0000",
       "cod": "2024-08-01 07:40:42 +0000",
+      "bone": "2024-08-02 04:28:08 +0000",
       "bow": "2024-08-01 13:43:52 +0000",
+      "bowl": "2024-08-02 04:39:21 +0000",
       "name_tag": "2024-08-01 07:57:43 +0000",
       "tropical_fish": "2024-08-01 08:00:10 +0000"
     },
@@ -4093,6 +4145,7 @@
     "criteria": {
       "root": "2024-08-01 14:07:30 +0000",
       "space_hopper": "2024-08-01 14:02:01 +0000",
+      "under_pressure": "2024-08-02 04:41:11 +0000",
       "click": "2024-08-01 08:36:55 +0000",
       "quirky_quartz": "2024-08-01 13:12:25 +0000",
       "mozart": "2024-08-01 14:07:39 +0000"
@@ -4224,8 +4277,12 @@
   },
   "blazeandcave:challenges/stack_all_the_blocks": {
     "criteria": {
+      "bamboo": "2024-08-02 05:12:47 +0000",
+      "poppy": "2024-08-02 05:12:47 +0000",
       "oak_planks": "2024-08-01 14:01:49 +0000",
-      "iron_block": "2024-08-01 13:21:14 +0000"
+      "dirt": "2024-08-02 05:12:44 +0000",
+      "iron_block": "2024-08-01 13:21:14 +0000",
+      "netherrack": "2024-08-02 05:05:46 +0000"
     },
     "done": false
   },
@@ -4247,102 +4304,6 @@
     },
     "done": true
   },
-  "blazeandcave:redstone/root": {
-    "criteria": {
-      "redstone": "2024-08-01 14:07:30 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:building/en_garde": {
-    "criteria": {
-      "fence": "2024-08-01 14:02:30 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:redstone/space_hopper": {
-    "criteria": {
-      "hopper": "2024-08-01 14:02:01 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:technical/bacap_branch_end": {
-    "criteria": {
-      "crafting_table": "2024-08-01 14:33:08 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/coal": {
-    "criteria": {
-      "has_coal_block": "2024-08-01 13:52:23 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:building/its_a_trap": {
-    "criteria": {
-      "trapdoor": "2024-08-01 14:09:45 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:building/root": {
-    "criteria": {
-      "crafting_table": "2024-08-01 14:33:08 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:redstone/travelling_bard": {
-    "criteria": {
-      "plains": "2024-08-01 14:09:38 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:animal/aquarium": {
-    "criteria": {
-      "salmon_bucket": "2024-08-01 14:02:32 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:building/yay_i_got_my_wood": {
-    "criteria": {
-      "oak_log": "2024-08-01 13:59:44 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:redstone/noteworthy": {
-    "criteria": {
-      "harp": "2024-08-01 14:09:38 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:redstone/take_notes": {
-    "criteria": {
-      "note1": "2024-08-01 14:09:38 +0000"
-    },
-    "done": false
-  },
-  "minecraft:husbandry/tactical_fishing": {
-    "criteria": {
-      "salmon_bucket": "2024-08-01 13:59:32 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:monsters/the_phantom_menace": {
-    "criteria": {
-      "phantom": "2024-08-01 14:26:23 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:mining/seeing_red": {
-    "criteria": {
-      "redstone": "2024-08-01 14:07:30 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:bacap/getting_wood": {
-    "criteria": {
-      "oak_log": "2024-08-01 13:59:44 +0000"
-    },
-    "done": true
-  },
   "blazeandcave:enchanting/like_a_cat": {
     "criteria": {
       "feather_falling": "2024-08-01 13:32:46 +0000"
@@ -4355,9 +4316,350 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-08-01 13:52:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tactical_fishing": {
+    "criteria": {
+      "salmon_bucket": "2024-08-01 13:59:32 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/yay_i_got_my_wood": {
+    "criteria": {
+      "oak_log": "2024-08-01 13:59:44 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/getting_wood": {
+    "criteria": {
+      "oak_log": "2024-08-01 13:59:44 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/space_hopper": {
+    "criteria": {
+      "hopper": "2024-08-01 14:02:01 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/en_garde": {
+    "criteria": {
+      "fence": "2024-08-01 14:02:30 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/aquarium": {
+    "criteria": {
+      "salmon_bucket": "2024-08-01 14:02:32 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:redstone/root": {
+    "criteria": {
+      "redstone": "2024-08-01 14:07:30 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:mining/seeing_red": {
+    "criteria": {
+      "redstone": "2024-08-01 14:07:30 +0000"
+    },
+    "done": true
+  },
   "blazeandcave:redstone/mozart": {
     "criteria": {
       "noteblock": "2024-08-01 14:07:38 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/travelling_bard": {
+    "criteria": {
+      "plains": "2024-08-01 14:09:38 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:redstone/noteworthy": {
+    "criteria": {
+      "harp": "2024-08-01 14:09:38 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:redstone/take_notes": {
+    "criteria": {
+      "note3": "2024-08-02 04:44:29 +0000",
+      "note1": "2024-08-01 14:09:38 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:building/its_a_trap": {
+    "criteria": {
+      "trapdoor": "2024-08-01 14:09:45 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/the_phantom_menace": {
+    "criteria": {
+      "phantom": "2024-08-01 14:26:23 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:technical/bacap_branch_end": {
+    "criteria": {
+      "crafting_table": "2024-08-01 14:33:08 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/root": {
+    "criteria": {
+      "crafting_table": "2024-08-01 14:33:08 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:weaponry/master_shieldsman": {
+    "criteria": {
+      "skeleton": "2024-08-02 04:59:32 +0000",
+      "zombified_piglin": "2024-08-02 05:06:44 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_skeleton": "2024-08-02 04:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-08-02 05:07:29 +0000"
+    },
+    "done": true
+  },
+  "nmr:progression/kill_rare_mob": {
+    "criteria": {
+      "requirement": "2024-08-02 05:02:22 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/hell_hunter": {
+    "criteria": {
+      "skeleton": "2024-08-02 04:54:41 +0000",
+      "zombified_piglin": "2024-08-02 04:53:52 +0000",
+      "piglin": "2024-08-02 04:54:31 +0000",
+      "ghast": "2024-08-02 05:02:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "soul_sand_valley": "2024-08-02 04:53:37 +0000",
+      "crimson_forest": "2024-08-02 05:00:13 +0000",
+      "nether_wastes": "2024-08-02 04:53:33 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:weaponry/shield_luck": {
+    "criteria": {
+      "deflected_trident": "2024-08-02 04:59:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether_portal": "2024-08-02 04:53:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-08-02 05:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-08-02 05:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-08-02 05:07:29 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/burnt_right_into_your_soul": {
+    "criteria": {
+      "soul_fire": "2024-08-02 04:57:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-08-02 05:07:29 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/blackstonehenge": {
+    "criteria": {
+      "blackstone": "2024-08-02 05:07:29 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:nether/giant_floating_jellyfish": {
+    "criteria": {
+      "ghast": "2024-08-02 05:02:07 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/under_pressure": {
+    "criteria": {
+      "oak_pressure_plate": "2024-08-02 04:41:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-08-02 05:07:29 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/cultural_misunderstandings": {
+    "criteria": {
+      "piglin": "2024-08-02 04:54:31 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/quicksand": {
+    "criteria": {
+      "soul_sand": "2024-08-02 04:54:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-08-02 05:07:29 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/bamboom": {
+    "criteria": {
+      "bamboo": "2024-08-02 05:12:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-08-02 05:05:46 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/well_handle_this": {
+    "criteria": {
+      "nether": "2024-08-02 04:58:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-08-02 05:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-08-02 05:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-08-02 05:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "nether": "2024-08-02 04:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-08-02 05:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-08-02 05:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-08-02 05:07:29 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/the_tribal_snouts": {
+    "criteria": {
+      "zombified_piglin": "2024-08-02 04:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-08-02 05:07:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-08-02 05:05:46 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/highway_to_hell": {
+    "criteria": {
+      "skeleton": "2024-08-02 04:54:41 +0000",
+      "phantom": "2024-08-02 04:58:04 +0000",
+      "zombified_piglin": "2024-08-02 04:53:52 +0000",
+      "piglin": "2024-08-02 04:54:31 +0000",
+      "ghast": "2024-08-02 05:02:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-08-02 05:07:29 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/dark_ages": {
+    "criteria": {
+      "blackstone": "2024-08-02 05:07:29 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/nether_rock_collection": {
+    "criteria": {
+      "netherrack": "2024-08-02 05:05:46 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-08-02 05:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-08-02 05:07:29 +0000"
     },
     "done": true
   },

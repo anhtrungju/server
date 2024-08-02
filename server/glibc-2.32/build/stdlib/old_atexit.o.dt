@@ -1,0 +1,21 @@
+/workspaces/server/server/glibc-2.32/build/stdlib/old_atexit.o: \
+ old_atexit.c ../include/stdc-predef.h \
+ /workspaces/server/server/glibc-2.32/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /workspaces/server/server/glibc-2.32/build/config.h \
+ ../sysdeps/generic/symbol-hacks.h ../include/shlib-compat.h \
+ /workspaces/server/server/glibc-2.32/build/abi-versions.h
+
+../include/stdc-predef.h:
+
+/workspaces/server/server/glibc-2.32/build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/workspaces/server/server/glibc-2.32/build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
+
+../include/shlib-compat.h:
+
+/workspaces/server/server/glibc-2.32/build/abi-versions.h:
