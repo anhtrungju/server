@@ -16,17 +16,17 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1722574964684
-  login: 1722573480959
+  logout: 1722587977178
+  login: 1722586663579
 money: '0'
 logoutlocation:
   world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
   world-name: world
-  x: -455.8536546899525
-  y: 67.00749860632239
-  z: 252.4242236094349
-  yaw: -1.814697265625
-  pitch: 7.350020408630371
+  x: -482.57105822700953
+  y: 65.0
+  z: 218.56714238498765
+  yaw: -119.26409912109375
+  pitch: 2.100259304046631
 last-account-name: an8bithahaha
 lastlocation:
   world: e26a6c9a-0229-4acd-976c-c2213e33bf7e

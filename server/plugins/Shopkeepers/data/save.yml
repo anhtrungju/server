@@ -247,6 +247,34 @@ data-version: 3|2|3953
         ==: org.bukkit.inventory.ItemStack
         v: 3953
         type: ROTTEN_FLESH
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: CARROT_ON_A_STICK
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          item-name: '{"translate":"thepa.item.name.gun_8","italic":false,"color":"yellow"}'
+          lore:
+          - '{"translate":"thepa.item.desc.line1","italic":false,"color":"gray"}'
+          - '{"translate":"thepa.item.desc.line2","extra":["3","s"],"italic":false,"color":"blue"}'
+          - '"Uses Light Rounds"'
+          custom-model-data: 88889
+          attribute-modifiers:
+            minecraft:generic.movement_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 0.0
+              slot: offhand
+              operation: 1
+              key: minecraft:speed
+          Damage: 100
+          custom: H4sIAAAAAAAA/xXL0Q1AMBRG4Z8GxRJmMITYornc26ZJhdA+sJzV1Hn+TgcUaGfPMgVy19ChcY9hiqTQLCkEiRdyFWqWJVn74j9Kz7pAf0rYiU30mygFvdJBq493JiPwAWqlfUFbAAAA
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: IRON_INGOT
+        amount: 64
   snapshots: []
 '6':
   uniqueId: 800892fc-d36d-4343-bdb1-92acbd2c7acf
@@ -340,6 +368,148 @@ data-version: 3|2|3953
         v: 3953
         type: EMERALD
         amount: 10
+    '6':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: PLAYER_HEAD
+        meta:
+          ==: ItemMeta
+          meta-type: SKULL
+          display-name: '{"text":"Herobrine Skull","italic":false,"color":"dark_red","bold":true}'
+          lore:
+          - '{"text":"+ Permanent Slow Falling","italic":false,"color":"blue"}'
+          - '{"text":"+ Permanent Strength II","italic":false,"color":"blue"}'
+          - '{"text":"+ Magic Enchant Fly","italic":false,"color":"blue"}'
+          - '{"text":"+ Soul Fire Trail","italic":false,"color":"blue"}'
+          attribute-modifiers:
+            minecraft:generic.armor:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 1.0
+              slot: head
+              operation: 0
+              key: minecraft:9640b2db-7a10-4602-81e8-ff597090fa06
+            minecraft:generic.movement_speed:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 0.5
+              slot: head
+              operation: 2
+              key: minecraft:3e5daeb1-0e06-4f55-8667-12804fe266eb
+            minecraft:generic.knockback_resistance:
+            - ==: org.bukkit.attribute.AttributeModifier
+              amount: 1.0
+              slot: head
+              operation: 0
+              key: minecraft:1a723b19-5242-4e9b-9273-d311cf790274
+          custom: H4sIAAAAAAAA/wXBSw6AIAwFwNeNGhJ3nsMrGUA+jdgmUBbe3hkHOKzjZavpdli4iPZE2GL32VgKEfY8JRqr+Mb2EUA4auoaOku6go5xjme2RvgBCFJX404AAAA=
+          skull-owner:
+            ==: PlayerProfile
+            properties:
+            - name: textures
+              value: e3RleHR1cmVzOntTS0lOOnt1cmw6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzBkNjIxZTQ2OWNiYmZkMTk3NmQ0ODA1ZDQyZDhlZDY4N2Y2ZWRlMzgwNDE2MDY1MGM0MWNjYzRlZiJ9fX0=
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: NETHER_STAR
+    '7':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: RED_WOOL
+        meta:
+          ==: ItemMeta
+          meta-type: UNSPECIFIC
+          item-name: '{"translate":"One-Punch Man''s Fist","italic":false,"color":"#86200A","bold":true}'
+          lore:
+          - '{"translate":"ONE PUUUUUNNNCCHHH!!!","color":"#86200A"}'
+          - '{"translate":"(though in honesty killing everything in one punch","color":"#86200A"}'
+          - '{"translate":"gets kinda boring after awhile…)","color":"#86200A"}'
+          - '" "'
+          - '{"translate":"Awarded for achieving","color":"gray"}'
+          - '{"translate":"Over-Overkill","italic":false,"color":"light_purple"}'
+          custom-model-data: 131
+          ItemFlags:
+          - HIDE_ADDITIONAL_TOOLTIP
+          enchantment-glint-override: true
+          custom: H4sIAAAAAAAA/+NiYGBmYAspyi/IqGRgYGBkAADz5aHwEQAAAA==
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: NETHERITE_INGOT
+    '8':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: TOTEM_OF_UNDYING
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: GOLDEN_APPLE
+        amount: 5
+    '9':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: WRITTEN_BOOK
+        meta:
+          ==: ItemMeta
+          meta-type: BOOK_SIGNED
+          lore:
+          - '{"text":"","extra":[{"text":"Guns and Ammo Recipes for Guns++","italic":false}]}'
+          title: Guns++ Recipes
+          author: ThePatriotsFan
+          pages:
+          - '{"text":"","extra":[{"text":"         GUNS        ","underlined":true,"color":"dark_green"},"\n",{"text":"Revolver           ","hoverEvent":{"contents":"䙔","action":"show_text"}},"  \n",{"text":"Musket             ","hoverEvent":{"contents":"䙕","action":"show_text"}},"\n",{"text":"Laser
+            Minigun      ","hoverEvent":{"contents":"䙖","action":"show_text"}},"\n",{"text":"Tommy
+            Gun          ","hoverEvent":{"contents":"䙗","action":"show_text"}},"\n",{"text":"Pump
+            Shotgun       ","hoverEvent":{"contents":"䙘","action":"show_text"}},"\n",{"text":"P90                ","hoverEvent":{"contents":"䙙","action":"show_text"}},"\n",{"text":"Flare
+            Gun          ","hoverEvent":{"contents":"䙚","action":"show_text"}},"\n",{"text":"M1
+            Garand          ","hoverEvent":{"contents":"䙛","action":"show_text"}},"\n",{"text":"AWP                ","hoverEvent":{"contents":"䙜","action":"show_text"}},"\n",{"text":"Supersizer         ","hoverEvent":{"contents":"䙝","action":"show_text"}},"\n",{"text":"Shrink
+            Ray         ","hoverEvent":{"contents":"䙞","action":"show_text"}},"\n",{"text":"Dragon
+            Shotgun     ","hoverEvent":{"contents":"䙟","action":"show_text"}},"\n",{"text":"Dualies            ","hoverEvent":{"contents":"䙠","action":"show_text"}}]}'
+          - '{"text":"","extra":[{"text":"AR-15              ","hoverEvent":{"contents":"䙡","action":"show_text"}},"\n",{"text":"44
+            Magnum          ","hoverEvent":{"contents":"䙢","action":"show_text"}},"\n",{"text":"Glock              ","hoverEvent":{"contents":"䙣","action":"show_text"}},"\n",{"text":"Rocket
+            Launcher    ","hoverEvent":{"contents":"䙤","action":"show_text"}},"\n",{"text":"Tactical
+            AR        ","hoverEvent":{"contents":"䙥","action":"show_text"}},"\n",{"text":"Hunting
+            Rifle      ","hoverEvent":{"contents":"䙦","action":"show_text"}},"\n",{"text":"SGG08              ","hoverEvent":{"contents":"䙧","action":"show_text"}},"\n",{"text":"AK-47              ","hoverEvent":{"contents":"䙨","action":"show_text"}},"\n",{"text":"Light
+            Machine Gun  ","hoverEvent":{"contents":"䙩","action":"show_text"}},"\n",{"text":"Tesla
+            Gun          ","hoverEvent":{"contents":"䙪","action":"show_text"}},"\n",{"text":"Desert
+            Eagle       ","hoverEvent":{"contents":"䙫","action":"show_text"}},"\n",{"text":"Dragon
+            Breath Sniper","hoverEvent":{"contents":"䙶","action":"show_text"}},"\n",{"text":"M32
+            Grenade Launcher","hoverEvent":{"contents":"䙷","action":"show_text"}}]}'
+          - '{"text":"","extra":[{"text":"Rapid Fire Flare Gun","hoverEvent":{"contents":"䙸","action":"show_text"}},"\n",{"text":"Automatic
+            Sniper Rifle","hoverEvent":{"contents":"䙹","action":"show_text"}},"\n",{"text":"Longarm
+            Enforcer   ","hoverEvent":{"contents":"䙺","action":"show_text"}},"\n",{"text":"Dragon
+            Drum Shotgun","hoverEvent":{"contents":"䙺","action":"show_text"}},"\n",{"text":"Quad
+            Launcher      ","hoverEvent":{"contents":"䙼","action":"show_text"}},"\n",{"text":"Tactical
+            Shotgun   ","hoverEvent":{"contents":"䙽","action":"show_text"}},"\n",{"text":"Mounted
+            M2 Browning","hoverEvent":{"contents":"䚚","action":"show_text"}},"\n",{"text":"Steyr
+            AUG","hoverEvent":{"contents":"䚜","action":"show_text"}},"\n",{"text":"BFG
+            9000","hoverEvent":{"contents":"䚝","action":"show_text"}},"\n \n",{"text":"Suppressor         ","hoverEvent":{"contents":"䙾","action":"show_text"}},"
+            \n",{"text":"Laser Sight        ","hoverEvent":{"contents":"䙿","action":"show_text"}},"
+            "]}'
+          - '{"text":"","extra":[{"text":"        AMMO        ","underlined":true,"color":"gold"},"\n",{"text":"Bullets             ","hoverEvent":{"contents":"䙬","action":"show_text"}},"\n",{"text":"Shotgun
+            Shells      ","hoverEvent":{"contents":"䙭","action":"show_text"}},"\n",{"text":"Musket
+            Balls        ","hoverEvent":{"contents":"䙮","action":"show_text"}},"\n",{"text":"Medium
+            Rounds       ","hoverEvent":{"contents":"䙯","action":"show_text"}},"\n",{"text":"Light
+            Rounds        ","hoverEvent":{"contents":"䙰","action":"show_text"}},"\n",{"text":"Flares              ","hoverEvent":{"contents":"䙱","action":"show_text"}},"\n",{"text":"Heavy
+            Ammo          ","hoverEvent":{"contents":"䙲","action":"show_text"}},"\n",{"text":"Dragon
+            Shells        ","hoverEvent":{"contents":"䙳","action":"show_text"}},"\n",{"text":"Rockets              ","hoverEvent":{"contents":"䙴","action":"show_text"}},"\n",{"text":"Desert
+            Eagle Rounds","hoverEvent":{"contents":"䙵","action":"show_text"}},"\n",{"text":"Energy
+            Cells","hoverEvent":{"contents":"䚞","action":"show_text"}},"  "]}'
+          - '{"text":"To attach the suppressors or the laser sights, throw the gun
+            and the scope at the ground together\n\n","extra":[{"text":"List of Suppressable
+            Guns","hoverEvent":{"contents":"M1 Garand     \nAWP     \nDualies     \nAssault
+            Rifle     \n44 Magnum     \nGlock     \nTactical Assault Rifle     \nHunting
+            Rifle     \nSGG08     \nAK-47","action":"show_text"}},"\n\n",{"text":"List
+            of Laser Sightable Guns","hoverEvent":{"contents":"AWP     \nHunting Rifle     \nSGG08","action":"show_text"}}]}'
+          - '"To reload the Tesla Gun, throw it on top of a lightning rod and strike
+            with lightning!"'
+          resolved: true
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: DIAMOND
   snapshots: []
 '7':
   uniqueId: e8732874-98f2-4a4e-9267-c78e9db78b87
