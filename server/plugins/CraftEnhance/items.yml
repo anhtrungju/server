@@ -106,3 +106,11 @@ STONE_BRICK_WALL1:
   v: 3953
   type: STONE_BRICK_WALL
   amount: 2
+NAME_TAG:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: NAME_TAG
+GRASS_BLOCK:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: GRASS_BLOCK

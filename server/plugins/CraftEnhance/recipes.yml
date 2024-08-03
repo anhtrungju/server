@@ -121,23 +121,6 @@ recipe8:
   - null
   allowed_worlds: []
   shapeless: false
-recipe9:
-  ==: com.dutchjelly.craftenhance.crafthandling.recipes.FurnaceRecipe
-  page: -1
-  slot: -1
-  result_slot: 1
-  category: furnace
-  permission: null
-  matchtype: MATCH_META
-  hidden: false
-  check_partial_match: false
-  oncraftcommand: null
-  result: BONE_MEAL
-  recipe:
-  - ROTTEN_FLESH
-  allowed_worlds: []
-  exp: 0.0
-  duration: 160
 recipe1:
   ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
   page: -1
@@ -181,6 +164,30 @@ recipe5:
   - null
   - COBBLESTONE_WALL
   - null
+  - null
+  - null
+  - null
+  allowed_worlds: []
+  shapeless: false
+recipe10:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.WBRecipe
+  page: -1
+  slot: -1
+  result_slot: 9
+  category: null
+  permission: null
+  matchtype: MATCH_META
+  hidden: false
+  check_partial_match: false
+  oncraftcommand: null
+  result: NAME_TAG
+  recipe:
+  - null
+  - null
+  - null
+  - null
+  - GRASS_BLOCK
+  - GRASS_BLOCK
   - null
   - null
   - null
