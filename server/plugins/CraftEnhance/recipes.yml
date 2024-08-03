@@ -174,7 +174,7 @@ recipe10:
   page: -1
   slot: -1
   result_slot: 9
-  category: null
+  category: default
   permission: null
   matchtype: MATCH_META
   hidden: false
