@@ -3087,6 +3087,7 @@
       "soul_sand": "2024-08-01 03:21:44 +0000",
       "oak_sapling": "2024-08-01 03:34:23 +0000",
       "iron_block": "2024-08-02 08:11:24 +0000",
+      "white_bed": "2024-08-04 06:08:33 +0000",
       "glowstone": "2024-08-01 05:24:49 +0000",
       "brown_mushroom": "2024-08-03 03:03:08 +0000",
       "red_wool": "2024-08-02 07:13:08 +0000",
@@ -3100,6 +3101,7 @@
       "crying_obsidian": "2024-08-01 08:57:06 +0000",
       "cobbled_deepslate": "2024-08-01 08:10:24 +0000",
       "andesite": "2024-08-01 08:09:18 +0000",
+      "campfire": "2024-08-04 06:52:07 +0000",
       "magenta_bed": "2024-08-01 08:47:22 +0000",
       "chiseled_tuff_bricks": "2024-08-01 08:22:45 +0000",
       "iron_bars": "2024-08-02 08:25:59 +0000",
@@ -3109,6 +3111,7 @@
       "redstone_torch": "2024-08-02 07:09:06 +0000",
       "obsidian": "2024-08-01 04:39:40 +0000",
       "cobweb": "2024-08-01 07:16:47 +0000",
+      "white_banner": "2024-08-04 07:11:35 +0000",
       "dirt": "2024-08-01 03:31:12 +0000",
       "waxed_exposed_copper_bulb": "2024-08-01 08:45:16 +0000",
       "grass_block": "2024-08-01 03:55:05 +0000",
@@ -3121,6 +3124,7 @@
       "gold_block": "2024-08-02 07:08:24 +0000",
       "oak_log": "2024-08-01 03:34:33 +0000",
       "netherite_block": "2024-08-02 07:08:41 +0000",
+      "powered_rail": "2024-08-04 05:51:49 +0000",
       "waxed_copper_block": "2024-08-01 08:13:59 +0000",
       "birch_sapling": "2024-08-01 04:44:03 +0000",
       "heavy_core": "2024-08-02 07:10:30 +0000",
@@ -3130,6 +3134,7 @@
       "stone_brick_wall": "2024-08-01 04:23:16 +0000",
       "poppy": "2024-07-31 14:02:42 +0000",
       "anvil": "2024-08-04 03:06:58 +0000",
+      "birch_fence": "2024-08-04 06:05:09 +0000",
       "crimson_roots": "2024-08-01 03:21:37 +0000",
       "stone_brick_stairs": "2024-08-01 04:22:58 +0000",
       "oak_stairs": "2024-08-01 05:00:30 +0000",
@@ -3138,6 +3143,7 @@
       "netherrack": "2024-08-01 09:03:41 +0000",
       "red_bed": "2024-08-01 08:47:22 +0000",
       "spruce_log": "2024-08-02 08:10:39 +0000",
+      "coal_block": "2024-08-04 07:10:33 +0000",
       "birch_log": "2024-08-01 04:43:24 +0000",
       "birch_planks": "2024-08-01 04:46:16 +0000",
       "crafting_table": "2024-07-31 14:10:20 +0000",
@@ -3192,6 +3198,7 @@
       "copper_bulb": "2024-08-01 08:45:25 +0000",
       "minecart": "2024-08-01 07:46:18 +0000",
       "iron_trapdoor": "2024-08-02 08:20:19 +0000",
+      "powered_rail": "2024-08-04 05:51:49 +0000",
       "stone_button": "2024-08-02 08:11:24 +0000",
       "redstone": "2024-07-31 13:31:10 +0000",
       "decorated_pot": "2024-08-01 08:13:36 +0000",
@@ -3412,6 +3419,7 @@
       "magma_cream": "2024-08-01 08:56:36 +0000",
       "enchanted_golden_apple": "2024-08-02 07:13:12 +0000",
       "sugar_cane": "2024-07-31 14:06:52 +0000",
+      "bolt_armor_trim_smithing_template": "2024-08-04 06:52:55 +0000",
       "carrot": "2024-08-01 03:44:47 +0000"
     },
     "done": false
@@ -3479,6 +3487,7 @@
       "repeating_repeater": "2024-08-02 08:20:20 +0000",
       "powerful_light": "2024-08-02 07:09:09 +0000",
       "root": "2024-07-31 13:31:11 +0000",
+      "electric_rails": "2024-08-04 05:51:50 +0000",
       "under_pressure": "2024-08-01 08:33:24 +0000",
       "quirky_quartz": "2024-08-01 08:56:42 +0000",
       "click": "2024-08-01 08:19:34 +0000",
@@ -3545,6 +3554,7 @@
       "gold_rush": "2024-07-31 13:31:11 +0000",
       "just_keep_swimming": "2024-07-31 14:07:01 +0000",
       "nugget_in_a_biscuit": "2024-07-31 13:31:13 +0000",
+      "camping_out": "2024-08-04 06:52:08 +0000",
       "spring_in_your_step": "2024-07-31 13:31:13 +0000",
       "overpowered": "2024-08-02 07:13:12 +0000",
       "newtons_flaming_laser_sword": "2024-08-02 07:49:04 +0000",
@@ -3595,6 +3605,7 @@
       "repopulation": "2024-08-04 02:27:16 +0000",
       "indiana_jones": "2024-08-03 02:17:52 +0000",
       "ooh_baby": "2024-08-01 03:14:26 +0000",
+      "electric_rails": "2024-08-04 05:51:50 +0000",
       "hopping_mad": "2024-08-04 02:24:35 +0000",
       "stairs_no": "2024-08-01 04:22:58 +0000",
       "diamonds": "2024-07-31 13:31:11 +0000",
@@ -3644,6 +3655,7 @@
       "the_walls": "2024-08-01 03:58:46 +0000",
       "stationary_storage": "2024-08-01 04:09:01 +0000",
       "getting_wood": "2024-08-01 03:34:33 +0000",
+      "good_lookin_treasure": "2024-08-04 06:52:55 +0000",
       "its_original_form": "2024-07-31 13:31:11 +0000",
       "postmortal": "2024-08-03 02:51:14 +0000",
       "blast_it": "2024-08-01 04:20:06 +0000",
@@ -3882,6 +3894,7 @@
       "clay_dough": "2024-08-01 06:46:31 +0000",
       "its_original_form": "2024-07-31 13:31:11 +0000",
       "blast_it": "2024-08-01 04:20:06 +0000",
+      "camping_out": "2024-08-04 06:52:08 +0000",
       "sweet_dreams": "2024-07-31 13:31:11 +0000",
       "root": "2024-07-31 14:10:20 +0000",
       "ladder_climbers_inc": "2024-07-31 14:03:22 +0000",
@@ -3909,6 +3922,7 @@
       "under_lock_and_key": "2024-08-01 08:31:07 +0000",
       "minecraft_trials_edition": "2024-07-31 13:31:11 +0000",
       "ghostbuster": "2024-08-03 02:49:45 +0000",
+      "good_lookin_treasure": "2024-08-04 06:52:55 +0000",
       "postmortal": "2024-08-03 02:51:14 +0000",
       "root": "2024-07-31 13:31:11 +0000",
       "overpowered": "2024-08-02 07:13:12 +0000",
@@ -4061,18 +4075,19 @@
   },
   "blazeandcave:challenges/stack_all_the_blocks": {
     "criteria": {
-      "bamboo": "2024-07-31 14:00:01 +0000",
-      "sand": "2024-08-01 04:41:59 +0000",
-      "cobblestone": "2024-08-01 03:53:33 +0000",
       "oak_planks": "2024-08-01 04:30:54 +0000",
       "dirt": "2024-08-01 03:31:12 +0000",
       "cobblestone_wall": "2024-08-03 03:32:34 +0000",
       "grass_block": "2024-08-01 03:55:27 +0000",
       "blue_bed": "2024-08-01 08:47:20 +0000",
+      "white_bed": "2024-08-04 06:08:33 +0000",
+      "stone": "2024-08-01 04:33:24 +0000",
+      "bamboo": "2024-07-31 14:00:01 +0000",
+      "sand": "2024-08-01 04:41:59 +0000",
+      "cobblestone": "2024-08-01 03:53:33 +0000",
       "magenta_bed": "2024-08-01 08:47:22 +0000",
       "green_bed": "2024-08-01 08:47:18 +0000",
-      "red_bed": "2024-08-01 08:47:22 +0000",
-      "stone": "2024-08-01 04:33:24 +0000"
+      "red_bed": "2024-08-01 08:47:22 +0000"
     },
     "done": false
   },
@@ -4671,6 +4686,7 @@
     "criteria": {
       "birch_planks": "2024-08-01 04:46:16 +0000",
       "birch_fence_gate": "2024-08-01 08:01:48 +0000",
+      "birch_fence": "2024-08-04 06:05:09 +0000",
       "birch_log": "2024-08-01 04:43:24 +0000"
     },
     "done": false
@@ -4911,6 +4927,7 @@
     "criteria": {
       "scrape_pottery_sherd": "2024-08-01 08:12:37 +0000",
       "guster_pottery_sherd": "2024-08-01 08:15:52 +0000",
+      "bolt_armor_trim_smithing_template": "2024-08-04 06:52:55 +0000",
       "heavy_core": "2024-08-02 07:10:30 +0000"
     },
     "done": false
@@ -5128,6 +5145,7 @@
   "blazeandcave:building/rainbow_dreams": {
     "criteria": {
       "blue_bed": "2024-08-01 08:47:20 +0000",
+      "white_bed": "2024-08-04 06:08:33 +0000",
       "magenta_bed": "2024-08-01 08:47:22 +0000",
       "green_bed": "2024-08-01 08:47:18 +0000",
       "red_bed": "2024-08-01 08:47:22 +0000"
@@ -5276,7 +5294,8 @@
     "criteria": {
       "gold_block": "2024-08-02 07:08:24 +0000",
       "netherite_block": "2024-08-02 07:08:41 +0000",
-      "iron_block": "2024-08-02 08:11:24 +0000"
+      "iron_block": "2024-08-02 08:11:24 +0000",
+      "coal_block": "2024-08-04 07:10:33 +0000"
     },
     "done": false
   },
@@ -5802,6 +5821,54 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion_remnant": "2024-08-04 03:59:33 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/no_banner_only_color": {
+    "criteria": {
+      "white_banner": "2024-08-04 07:11:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-08-04 07:10:33 +0000"
+    },
+    "done": true
+  },
+  "nmr:progression/kill_legendary_mob": {
+    "criteria": {
+      "requirement": "2024-08-04 06:52:47 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/electric_rails": {
+    "criteria": {
+      "powered_rail": "2024-08-04 05:51:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template": {
+    "criteria": {
+      "has_bolt_armor_trim_smithing_template": "2024-08-04 06:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bolt_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2024-08-04 06:52:55 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/camping_out": {
+    "criteria": {
+      "campfire": "2024-08-04 06:52:08 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/good_lookin_treasure": {
+    "criteria": {
+      "trim_templates": "2024-08-04 06:52:55 +0000"
     },
     "done": true
   },
