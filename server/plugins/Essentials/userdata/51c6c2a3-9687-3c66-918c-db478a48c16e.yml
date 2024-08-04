@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 127.27.74.251
+ip-address: 127.252.227.12
 afk: false
 socialspy: false
 npc: false
@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1722571861811
+  lastteleport: 1722781187091
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1722572122790
-  login: 1722570234049
+  logout: 1722781201763
+  login: 1722779373032
 money: '0'
 last-account-name: aben
 lastlocation:
   world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
   world-name: world
-  x: -318.76249998807907
-  y: 31.0
-  z: 305.4157192099229
-  yaw: 94.7874755859375
-  pitch: 3.149940013885498
+  x: -1549.171553992377
+  y: 63.0
+  z: 373.2694902195022
+  yaw: 140.8349609375
+  pitch: 16.799968719482422
 logoutlocation:
   world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
   world-name: world
-  x: -473.32311905025466
-  y: 63.0
-  z: 262.4500919356258
-  yaw: 132.73397827148438
-  pitch: -30.14986228942871
+  x: -459.5
+  y: 67.0
+  z: 262.5
+  yaw: -4.9415598368796054E-6
+  pitch: 0.0

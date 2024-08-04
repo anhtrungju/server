@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 0:0:0:0:0:0:0:1%0
+ip-address: 127.225.119.194
 afk: false
 socialspy: false
 npc: false
@@ -11,28 +11,28 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 0
+  lastteleport: 1722781065841
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1722020832021
-  login: 1722019119629
+  logout: 1722781085243
+  login: 1722774851393
 money: '0'
 last-account-name: Thuandepzai
 logoutlocation:
   world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
   world-name: world
-  x: -456.388320884926
-  y: 64.0
-  z: 256.69999998807907
-  yaw: -64.59710693359375
-  pitch: 10.500171661376953
+  x: -448.44276985290696
+  y: 67.0
+  z: 315.08272877837516
+  yaw: 97.635009765625
+  pitch: 46.499908447265625
 lastlocation:
   world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
   world-name: world
-  x: 205.78229563242306
-  y: 64.0
-  z: 735.896948676365
-  yaw: 114.75244140625
-  pitch: 47.24996566772461
+  x: -1607.300000011921
+  y: 60.0
+  z: 389.30000001192093
+  yaw: 59.8314208984375
+  pitch: 52.64999771118164
