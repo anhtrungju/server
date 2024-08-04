@@ -3139,6 +3139,7 @@
       "stone_brick_stairs": "2024-08-01 04:22:58 +0000",
       "oak_stairs": "2024-08-01 05:00:30 +0000",
       "cobblestone": "2024-07-31 13:31:10 +0000",
+      "jungle_log": "2024-08-04 07:22:55 +0000",
       "lily_of_the_valley": "2024-08-01 03:58:02 +0000",
       "netherrack": "2024-08-01 09:03:41 +0000",
       "red_bed": "2024-08-01 08:47:22 +0000",
@@ -4473,6 +4474,7 @@
   "blazeandcave:building/yay_i_got_my_wood": {
     "criteria": {
       "oak_log": "2024-08-01 03:34:33 +0000",
+      "jungle_log": "2024-08-04 07:22:55 +0000",
       "spruce_log": "2024-08-02 08:10:39 +0000",
       "birch_log": "2024-08-01 04:43:24 +0000"
     },
@@ -5824,27 +5826,21 @@
     },
     "done": true
   },
-  "blazeandcave:building/no_banner_only_color": {
+  "blazeandcave:redstone/electric_rails": {
     "criteria": {
-      "white_banner": "2024-08-04 07:11:35 +0000"
+      "powered_rail": "2024-08-04 05:51:49 +0000"
     },
-    "done": false
+    "done": true
   },
-  "minecraft:recipes/misc/coal": {
+  "blazeandcave:building/camping_out": {
     "criteria": {
-      "has_coal_block": "2024-08-04 07:10:33 +0000"
+      "campfire": "2024-08-04 06:52:08 +0000"
     },
     "done": true
   },
   "nmr:progression/kill_legendary_mob": {
     "criteria": {
       "requirement": "2024-08-04 06:52:47 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:redstone/electric_rails": {
-    "criteria": {
-      "powered_rail": "2024-08-04 05:51:49 +0000"
     },
     "done": true
   },
@@ -5860,17 +5856,41 @@
     },
     "done": true
   },
-  "blazeandcave:building/camping_out": {
-    "criteria": {
-      "campfire": "2024-08-04 06:52:08 +0000"
-    },
-    "done": true
-  },
   "blazeandcave:adventure/good_lookin_treasure": {
     "criteria": {
       "trim_templates": "2024-08-04 06:52:55 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2024-08-04 07:10:33 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/no_banner_only_color": {
+    "criteria": {
+      "white_banner": "2024-08-04 07:11:35 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2024-08-04 07:22:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2024-08-04 07:22:55 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/the_jungler": {
+    "criteria": {
+      "jungle_log": "2024-08-04 07:22:55 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3953
 }
