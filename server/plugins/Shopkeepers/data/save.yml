@@ -543,6 +543,15 @@ data-version: 3|2|3953
         ==: org.bukkit.inventory.ItemStack
         v: 3953
         type: EMERALD
+    '12':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: LEATHER
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: PUFFERFISH
   snapshots: []
 '7':
   uniqueId: e8732874-98f2-4a4e-9267-c78e9db78b87

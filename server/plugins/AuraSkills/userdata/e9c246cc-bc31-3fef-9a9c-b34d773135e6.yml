@@ -1,17 +1,17 @@
 uuid: e9c246cc-bc31-3fef-9a9c-b34d773135e6
 skills:
   auraskills/farming:
-    level: 45
-    xp: 116915.25
+    level: 55
+    xp: 30649.650000000154
   auraskills/fighting:
     level: 5
-    xp: 607.9000000000059
+    xp: 1358.1000000000085
   auraskills/excavation:
     level: 14
-    xp: 4856.310000000009
+    xp: 9679.310000000009
   auraskills/agility:
-    level: 24
-    xp: 33476.09659999996
+    level: 25
+    xp: 45588.74499999996
   auraskills/alchemy:
     level: 8
     xp: 2113.0
@@ -22,20 +22,25 @@ skills:
     level: 6
     xp: 1859.6499999999633
   auraskills/enchanting:
-    level: 6
-    xp: 616.3999999999997
+    level: 7
+    xp: 1482.3999999999999
   auraskills/foraging:
     level: 10
-    xp: 7035.520000000045
+    xp: 7073.920000000039
   auraskills/archery:
-    level: 6
-    xp: 2619.4
+    level: 7
+    xp: 987.4000000000001
   auraskills/defense:
     level: 6
-    xp: 3018.9023824691913
-mana: 242.0
+    xp: 3400.445786762247
+mana: 268.0
 action_bar:
   idle: true
+stat_modifiers:
+  '0':
+    name: AbilityModifier-WiseEffect
+    stat: auraskills/wisdom
+    value: 1.0
 trait_modifiers:
   '0':
     name: excavation_luck_ability
@@ -56,12 +61,12 @@ trait_modifiers:
   '4':
     name: farming_luck_ability
     trait: auraskills/farming_luck
-    value: 90.0
+    value: 110.0
 ability_data:
+  auraskills/xp_convert:
+    xp: 16.578186762294308
   auraskills/charged_shot:
     toggle_cooldown: 0
     enabled: false
   auraskills/first_strike:
-    counter: 31
-  auraskills/xp_convert:
-    xp: 10.886382469195453
+    counter: 40

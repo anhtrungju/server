@@ -1,55 +1,57 @@
-[02:04:41] [ServerMain/WARN]: resource-pack-id missing, using default of 4610f1da-b6fb-3c72-be91-6f89d74f145c
-[02:04:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/stone_tier}.pools[0].entries[4]: Unknown loot table called automaticons:stone/axe
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[0]: Unknown loot table called automaticons:wood_tier
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/stone_tier}.pools[0].entries[2]: Unknown loot table called automaticons:stone/pickaxe
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/gold_tier}.pools[0].entries[3]: Unknown loot table called automaticons:gold/hoe
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/stone_tier}.pools[0].entries[0]: Unknown loot table called automaticons:stone/sword
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[4]: Unknown loot table called automaticons:diamond_tier
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[4]: Unknown loot table called automaticons:diamond_tier
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[2]: Unknown loot table called automaticons:gold_tier
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[2]: Unknown loot table called automaticons:gold_tier
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[2]: Unknown loot table called automaticons:gold_tier
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/netherite_tier}.pools[0].entries[4]: Unknown loot table called automaticons:netherite/axe
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[4]: Unknown loot table called automaticons:diamond_tier
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/netherite_tier}.pools[0].entries[0]: Unknown loot table called automaticons:netherite/sword
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/iron_tier}.pools[0].entries[1]: Unknown loot table called automaticons:iron/shovel
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/diamond_tier}.pools[0].entries[2]: Unknown loot table called automaticons:diamond/pickaxe
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/netherite_tier}.pools[0].entries[2]: Unknown loot table called automaticons:netherite/pickaxe
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/gold_tier}.pools[0].entries[1]: Unknown loot table called automaticons:gold/shovel
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/diamond_tier}.pools[0].entries[4]: Unknown loot table called automaticons:diamond/axe
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/iron_tier}.pools[0].entries[3]: Unknown loot table called automaticons:iron/hoe
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/diamond_tier}.pools[0].entries[0]: Unknown loot table called automaticons:diamond/sword
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/wood_tier}.pools[0].entries[1]: Unknown loot table called automaticons:wood/shovel
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[0]: Unknown loot table called automaticons:wood_tier
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/wood_tier}.pools[0].entries[3]: Unknown loot table called automaticons:wood/hoe
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/stone_tier}.pools[0].entries[3]: Unknown loot table called automaticons:stone/hoe
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/gold_tier}.pools[0].entries[4]: Unknown loot table called automaticons:gold/axe
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[5]: Unknown loot table called automaticons:netherite_tier
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[5]: Unknown loot table called automaticons:netherite_tier
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[3]: Unknown loot table called automaticons:iron_tier
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/stone_tier}.pools[0].entries[1]: Unknown loot table called automaticons:stone/shovel
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[3]: Unknown loot table called automaticons:iron_tier
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[1]: Unknown loot table called automaticons:stone_tier
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[1]: Unknown loot table called automaticons:stone_tier
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[1]: Unknown loot table called automaticons:stone_tier
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[0]: Unknown loot table called automaticons:wood_tier
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/netherite_tier}.pools[0].entries[3]: Unknown loot table called automaticons:netherite/hoe
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[3]: Unknown loot table called automaticons:iron_tier
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/iron_tier}.pools[0].entries[2]: Unknown loot table called automaticons:iron/pickaxe
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/gold_tier}.pools[0].entries[0]: Unknown loot table called automaticons:gold/sword
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/diamond_tier}.pools[0].entries[1]: Unknown loot table called automaticons:diamond/shovel
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[5]: Unknown loot table called automaticons:netherite_tier
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/iron_tier}.pools[0].entries[0]: Unknown loot table called automaticons:iron/sword
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/gold_tier}.pools[0].entries[2]: Unknown loot table called automaticons:gold/pickaxe
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/diamond_tier}.pools[0].entries[3]: Unknown loot table called automaticons:diamond/hoe
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/netherite_tier}.pools[0].entries[1]: Unknown loot table called automaticons:netherite/shovel
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/wood_tier}.pools[0].entries[4]: Unknown loot table called automaticons:wood/axe
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/iron_tier}.pools[0].entries[4]: Unknown loot table called automaticons:iron/axe
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/wood_tier}.pools[0].entries[0]: Unknown loot table called automaticons:wood/sword
-[02:04:44] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/wood_tier}.pools[0].entries[2]: Unknown loot table called automaticons:wood/pickaxe
-[02:04:51] [ServerMain/INFO]: Loaded 1386 recipes
-[02:04:51] [ServerMain/ERROR]: Failed to load function give:herobrine_boss/skull
+[03:32:08] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/worldedit-bukkit-7.3.5.jar'...
+[03:32:12] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/worldedit-bukkit-7.3.5.jar' in 3807ms.
+[03:32:20] [ServerMain/WARN]: resource-pack-id missing, using default of 4610f1da-b6fb-3c72-be91-6f89d74f145c
+[03:32:21] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/stone_tier}.pools[0].entries[4]: Unknown loot table called automaticons:stone/axe
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[0]: Unknown loot table called automaticons:wood_tier
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/stone_tier}.pools[0].entries[2]: Unknown loot table called automaticons:stone/pickaxe
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/gold_tier}.pools[0].entries[3]: Unknown loot table called automaticons:gold/hoe
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/stone_tier}.pools[0].entries[0]: Unknown loot table called automaticons:stone/sword
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[4]: Unknown loot table called automaticons:diamond_tier
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[4]: Unknown loot table called automaticons:diamond_tier
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[2]: Unknown loot table called automaticons:gold_tier
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[2]: Unknown loot table called automaticons:gold_tier
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[2]: Unknown loot table called automaticons:gold_tier
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/netherite_tier}.pools[0].entries[4]: Unknown loot table called automaticons:netherite/axe
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[4]: Unknown loot table called automaticons:diamond_tier
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/netherite_tier}.pools[0].entries[0]: Unknown loot table called automaticons:netherite/sword
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/iron_tier}.pools[0].entries[1]: Unknown loot table called automaticons:iron/shovel
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/diamond_tier}.pools[0].entries[2]: Unknown loot table called automaticons:diamond/pickaxe
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/netherite_tier}.pools[0].entries[2]: Unknown loot table called automaticons:netherite/pickaxe
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/gold_tier}.pools[0].entries[1]: Unknown loot table called automaticons:gold/shovel
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/diamond_tier}.pools[0].entries[4]: Unknown loot table called automaticons:diamond/axe
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/iron_tier}.pools[0].entries[3]: Unknown loot table called automaticons:iron/hoe
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/diamond_tier}.pools[0].entries[0]: Unknown loot table called automaticons:diamond/sword
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/wood_tier}.pools[0].entries[1]: Unknown loot table called automaticons:wood/shovel
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[0]: Unknown loot table called automaticons:wood_tier
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/wood_tier}.pools[0].entries[3]: Unknown loot table called automaticons:wood/hoe
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/stone_tier}.pools[0].entries[3]: Unknown loot table called automaticons:stone/hoe
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/gold_tier}.pools[0].entries[4]: Unknown loot table called automaticons:gold/axe
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[5]: Unknown loot table called automaticons:netherite_tier
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[5]: Unknown loot table called automaticons:netherite_tier
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[3]: Unknown loot table called automaticons:iron_tier
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/stone_tier}.pools[0].entries[1]: Unknown loot table called automaticons:stone/shovel
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[3]: Unknown loot table called automaticons:iron_tier
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[1]: Unknown loot table called automaticons:stone_tier
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[1]: Unknown loot table called automaticons:stone_tier
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[1]: Unknown loot table called automaticons:stone_tier
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[0]: Unknown loot table called automaticons:wood_tier
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/netherite_tier}.pools[0].entries[3]: Unknown loot table called automaticons:netherite/hoe
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[3]: Unknown loot table called automaticons:iron_tier
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/iron_tier}.pools[0].entries[2]: Unknown loot table called automaticons:iron/pickaxe
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/gold_tier}.pools[0].entries[0]: Unknown loot table called automaticons:gold/sword
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/diamond_tier}.pools[0].entries[1]: Unknown loot table called automaticons:diamond/shovel
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[5]: Unknown loot table called automaticons:netherite_tier
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/iron_tier}.pools[0].entries[0]: Unknown loot table called automaticons:iron/sword
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/gold_tier}.pools[0].entries[2]: Unknown loot table called automaticons:gold/pickaxe
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/diamond_tier}.pools[0].entries[3]: Unknown loot table called automaticons:diamond/hoe
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/netherite_tier}.pools[0].entries[1]: Unknown loot table called automaticons:netherite/shovel
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/wood_tier}.pools[0].entries[4]: Unknown loot table called automaticons:wood/axe
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/iron_tier}.pools[0].entries[4]: Unknown loot table called automaticons:iron/axe
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/wood_tier}.pools[0].entries[0]: Unknown loot table called automaticons:wood/sword
+[03:32:23] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/wood_tier}.pools[0].entries[2]: Unknown loot table called automaticons:wood/pickaxe
+[03:32:30] [ServerMain/INFO]: Loaded 1386 recipes
+[03:32:30] [ServerMain/ERROR]: Failed to load function give:herobrine_boss/skull
 java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Malformed 'minecraft:attribute_modifiers' component: 'No key id in MapLike[{amount:1,name:"generic.knockback_resistance",operation:"add_value",slot:"head",type:"generic.knockback_resistance",uuid:[I;443693849,1380077211,-1837903087,-814153100]}]; No key id in MapLike[{amount:0.5d,name:"generic.movement_speed",operation:"add_multiplied_total",slot:"head",type:"generic.movement_speed",uuid:[I;1046326961,235294549,-2040065408,1340237547]}]; No key id in MapLike[{amount:1,name:"generic.armor",operation:"add_value",slot:"head",type:"generic.armor",uuid:[I;-1774144805,2047886850,-2115436711,1888549382]}]' at position 489: ...modifiers=<--[HERE]
 	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
 	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
@@ -62,320 +64,173 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
 	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
 	... 3 more
-[02:04:52] [ServerMain/INFO]: Loaded 2567 advancements
-[02:04:52] [ServerMain/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: thepa:tnt
-[02:04:52] [Server thread/INFO]: Starting minecraft server version 1.21
-[02:04:53] [Server thread/INFO]: Loading properties
-[02:04:53] [Server thread/INFO]: This server is running Paper version 1.21-27-master@76c2f16 (2024-06-22T18:19:36Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[02:04:53] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[02:04:53] [Server thread/INFO]: Using 4 threads for Netty based IO
-[02:04:54] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+[03:32:31] [ServerMain/INFO]: Loaded 2569 advancements
+[03:32:31] [ServerMain/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: thepa:tnt
+[03:32:32] [Server thread/INFO]: Starting minecraft server version 1.21
+[03:32:32] [Server thread/INFO]: Loading properties
+[03:32:32] [Server thread/INFO]: This server is running Paper version 1.21-27-master@76c2f16 (2024-06-22T18:19:36Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[03:32:32] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[03:32:32] [Server thread/INFO]: Using 4 threads for Netty based IO
+[03:32:33] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
     We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
     For more information please visit: https://github.com/PaperMC/Paper/issues/8948
-[02:04:54] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[02:04:55] [Server thread/INFO]: Default game type: SURVIVAL
-[02:04:55] [Server thread/INFO]: Generating keypair
-[02:04:55] [Server thread/INFO]: Starting Minecraft server on *:25565
-[02:04:55] [Server thread/INFO]: Using epoll channel type
-[02:04:55] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[02:04:55] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
-[02:04:59] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
-[02:04:59] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.22.3
-[02:05:01] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (1749 ms).
-[02:05:01] [Server thread/INFO]: [Shopkeepers] Loading config.
-[02:05:01] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
-[02:05:01] [Server thread/INFO]: [Shopkeepers] Registering defaults.
-[02:05:01] [Server thread/INFO]: [CraftEnhance] Loading server plugin CraftEnhance v2.5.6.1
-[02:05:01] [Server thread/INFO]: [ChestSort] Loading server plugin ChestSort v14.1.0
-[02:05:01] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.1.5
-[02:05:01] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+106-8b08a8f
-[02:05:01] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[02:05:01] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
-[02:05:02] [Server thread/INFO]:         __    
-[02:05:02] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
-[02:05:02] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[02:05:02] [Server thread/INFO]: 
-[02:05:02] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[02:05:02] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[02:05:03] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[02:05:03] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[02:05:03] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2079ms)
-[02:05:03] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[02:05:03] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[02:05:03] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[02:05:03] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[02:05:03] [Server thread/INFO]: Preparing level "world"
-[02:05:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[02:05:07] [Server thread/INFO]: Time elapsed: 2549 ms
-[02:05:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[02:05:08] [Server thread/INFO]: Time elapsed: 479 ms
-[02:05:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[02:05:08] [Server thread/INFO]: Time elapsed: 259 ms
-[02:05:08] [Server thread/INFO]: Preparing start region for dimension nmr:astral_plane
-[02:05:08] [Server thread/INFO]: Time elapsed: 234 ms
-[02:05:08] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.22.3
-[02:05:08] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[02:05:08] [Server thread/INFO]: [Shopkeepers] Loading the data of 6 shopkeepers ...
-[02:05:08] [Server thread/INFO]: [CraftEnhance] Enabling CraftEnhance v2.5.6.1
-[02:05:08] [Server thread/INFO]: [com.dutchjelly.craftenhance.libs.menu.library.RegisterMenuAPI] Now starting MenuApi.. Any errors will be shown below.
-[02:05:10] [Server thread/INFO]: [CraftEnhance] CraftEnhance is managed and developed by DutchJelly.
-[02:05:10] [Server thread/INFO]: [CraftEnhance] If you find a bug in the plugin, please report it to https://github.com/DutchJelly/CraftEnhance/issues .
-[02:05:10] [Server thread/INFO]: [CraftEnhance] Running a version check to check that the server is compatible with game version 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20.
-[02:05:10] [Server thread/INFO]: [CraftEnhance] 
-[02:05:10] [Server thread/INFO]: [CraftEnhance] !! Incompatibility found !!
-[02:05:10] [Server thread/INFO]: [CraftEnhance] The installed version of CraftEnhance only supports spigot/bukkit versions "1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20"
-[02:05:10] [Server thread/INFO]: [CraftEnhance] while your server is running 1.21-R0.1-SNAPSHOT.
-[02:05:10] [Server thread/INFO]: [CraftEnhance] The correct version can be installed here: https://www.spigotmc.org/resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/ or https://dev.bukkit.org/projects/craftenhance/files .
-[02:05:10] [Server thread/INFO]: [CraftEnhance] Alternatively do you find latest here: https://github.com/broken1arrow/CraftEnhance/releases .
-[02:05:10] [Server thread/INFO]: [CraftEnhance] When installing the plugin make sure that the game version matches your bukkit or spigot version.
-[02:05:10] [Server thread/INFO]: [CraftEnhance] Please note that this incompatibility could cause duping glitches.
-[02:05:10] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
-[02:05:10] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
-[02:05:10] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
-[02:05:10] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
-[02:05:10] [Server thread/INFO]: [ChestSort] Enabling ChestSort v14.1.0
-[02:05:11] [Server thread/INFO]: [ChestSort] Use permissions: true
-[02:05:11] [Server thread/INFO]: [ChestSort] Current sorting method: {category},{itemsFirst},{name},{color},{customName}
-[02:05:11] [Server thread/INFO]: [ChestSort] Allow automatic chest sorting:true
-[02:05:11] [Server thread/INFO]: [ChestSort]   |- Chest sorting enabled by default: false
-[02:05:11] [Server thread/INFO]: [ChestSort]   |- Sort time: close
-[02:05:11] [Server thread/INFO]: [ChestSort] Allow automatic inventory sorting:true
-[02:05:11] [Server thread/INFO]: [ChestSort]   |- Inventory sorting enabled by default: false
-[02:05:11] [Server thread/INFO]: [ChestSort] Auto generate category files: true
-[02:05:11] [Server thread/INFO]: [ChestSort] Allow hotkeys: true
-[02:05:11] [Server thread/INFO]: [ChestSort] Hotkeys enabled by default:
-[02:05:11] [Server thread/INFO]: [ChestSort]   |- Middle-Click: true
-[02:05:11] [Server thread/INFO]: [ChestSort]   |- Shift-Click: true
-[02:05:11] [Server thread/INFO]: [ChestSort]   |- Double-Click: true
-[02:05:11] [Server thread/INFO]: [ChestSort]   |- Shift-Right-Click: true
-[02:05:11] [Server thread/INFO]: [ChestSort] Allow additional hotkeys: true
-[02:05:11] [Server thread/INFO]: [ChestSort] Additional hotkeys enabled by default:
-[02:05:11] [Server thread/INFO]: [ChestSort]   |- Left-Click: false
-[02:05:11] [Server thread/INFO]: [ChestSort]   |- Right-Click: false
-[02:05:11] [Server thread/INFO]: [ChestSort] Check for updates: true
-[02:05:11] [Server thread/INFO]: [ChestSort] Check interval: 4 hours (4.0 seconds)
-[02:05:11] [Server thread/INFO]: [ChestSort] Categories: 900-weapons (6), 905-common-tools (4), 907-other-tools (6), 909-food (33), 910-valuables (47), 920-armor-and-arrows (9), 930-brewing (18), 950-redstone (23), 960-wood (60), 970-stone (38), 980-plants (50), 981-corals (1)
-[02:05:11] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.1.5
-[02:05:13] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
-[02:05:14] [Server thread/INFO]: [AuraSkills] Successfully registered hook LuckPerms
-[02:05:14] [Server thread/INFO]: [AuraSkills] Loaded 126 config options in 113 ms
-[02:05:14] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21! Trying to find NMS support
-[02:05:14] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
-[02:05:14] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
-[02:05:14] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
-[02:05:15] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
-[02:05:16] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+106-8b08a8f
-[02:05:18] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[02:05:18] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[02:05:18] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
-[02:05:18] [Server thread/INFO]: [Essentials] Using locale en
-[02:05:19] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[02:05:20] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[02:05:20] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[02:05:20] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[02:05:20] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[02:05:20] [Server thread/INFO]: Running delayed init tasks
-[02:05:20] [Craft Scheduler Thread - 1 - Essentials/INFO]: [Essentials] Fetching version information...
-[02:05:20] [Craft Scheduler Thread - 3 - CraftEnhance/INFO]: [CraftEnhance] CraftEnhance is up to date.
-[02:05:21] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 312 total sources
-[02:05:21] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
-[02:05:21] [Server thread/INFO]: [AuraSkills] Loaded 36 pattern rewards and 0 level rewards
-[02:05:21] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
-[02:05:22] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
-[02:05:22] [Server thread/INFO]: Done (29.589s)! For help, type "help"
-[02:05:22] [Server thread/INFO]: Timings Reset
-[02:05:22] [Craft Scheduler Thread - 1 - Essentials/WARN]: [Essentials] You're 1 EssentialsX dev build(s) out of date!
-[02:05:22] [Craft Scheduler Thread - 1 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
-[02:05:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2525ms or 50 ticks behind
-[02:07:12] [User Authenticator #0/INFO]: UUID of player an8bithahaha is e9c246cc-bc31-3fef-9a9c-b34d773135e6
-[02:07:18] [Server thread/INFO]: an8bithahaha joined the game
-[02:07:18] [Server thread/INFO]: an8bithahaha[/127.175.157.233:51729] logged in with entity id 37 at ([world]-456.9351523527818, 63.0, 282.2860729523202)
-[02:07:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2540ms or 50 ticks behind
-[02:24:34] [Server thread/INFO]: an8bithahaha issued server command: /time set night
-[02:28:01] [Server thread/INFO]: an8bithahaha issued server command: /skill
-[02:31:42] [Server thread/INFO]: an8bithahaha lost connection: Disconnected
-[02:31:42] [Server thread/INFO]: an8bithahaha left the game
-[02:32:06] [User Authenticator #1/INFO]: UUID of player an8bithahaha is e9c246cc-bc31-3fef-9a9c-b34d773135e6
-[02:32:10] [Server thread/INFO]: an8bithahaha joined the game
-[02:32:10] [Server thread/INFO]: an8bithahaha[/127.175.157.233:50319] logged in with entity id 7997 at ([world]-351.036377891952, 64.0, 194.8105286130871)
-[02:33:04] [User Authenticator #1/INFO]: UUID of player gzzgzz is f79c49cf-4b08-337c-ba1d-f97dafc4a4e9
-[02:33:16] [Server thread/INFO]: gzzgzz joined the game
-[02:33:16] [Server thread/INFO]: gzzgzz[/127.23.220.49:53633] logged in with entity id 8292 at ([world]55.5, 71.0, 31.5)
-[02:33:31] [Server thread/INFO]: an8bithahaha issued server command: /tp an8bithahaha gzzgzz
-[02:33:35] [Server thread/INFO]: an8bithahaha issued server command: /home
-[02:33:39] [Server thread/INFO]: an8bithahaha issued server command: /tp gzzgzz an8bithahaha
-[02:39:23] [Server thread/INFO]: death.attack.shot
-[02:41:23] [Server thread/INFO]: an8bithahaha issued server command: /fly
-[02:42:05] [Server thread/INFO]: an8bithahaha issued server command: /setwarp lang1
-[02:42:51] [Server thread/INFO]: an8bithahaha issued server command: /gamemode 1
-[02:47:10] [Server thread/INFO]: Named entity Skeleton['Herobrine Minion'/15047, uuid='9aae07c1-cff6-48e3-bde5-66e4efb8212c', l='ServerLevel[world]', x=-1201.59, y=75.25, z=-12.32, cpos=[-76, -1], tl=10, v=true] died: Herobrine Minion was slain by an8bithahaha
-[02:47:20] [Server thread/INFO]: an8bithahaha issued server command: /gamemode 0
-[02:47:54] [Server thread/INFO]: Named entity Zombie['Herobrine Minion'/15463, uuid='08c266a7-dc32-4e47-a2c4-a5aaeeef480e', l='ServerLevel[world]', x=-1188.50, y=72.00, z=-20.36, cpos=[-75, -2], tl=82, v=true] died: Herobrine Minion was slain by an8bithahaha
-[02:48:21] [Server thread/INFO]: Named entity Skeleton['Herobrine Minion'/15350, uuid='bad2427f-8f75-42b0-a8b5-d3bad592b600', l='ServerLevel[world]', x=-1194.52, y=73.42, z=-18.05, cpos=[-75, -2], tl=818, v=true] died: Herobrine Minion was slain by an8bithahaha
-[02:48:36] [Server thread/INFO]: Named entity Skeleton['Herobrine Minion'/15895, uuid='bc550351-f485-49d1-89c3-b09d8b6427a9', l='ServerLevel[world]', x=-1202.50, y=67.37, z=-21.46, cpos=[-76, -2], tl=219, v=true] died: Herobrine Minion was slain by an8bithahaha
-[02:49:04] [Server thread/INFO]: Named entity Zombie['Herobrine Minion'/16248, uuid='5040d2e4-2f0b-4c5c-b615-82fa78413e7d', l='ServerLevel[world]', x=-1220.12, y=65.00, z=-27.10, cpos=[-77, -2], tl=183, v=true] died: Herobrine Minion was slain by an8bithahaha
-[02:49:10] [Server thread/INFO]: Named entity Skeleton['Herobrine Minion'/16353, uuid='4d3d7224-4cd4-4891-8d6c-89cb06b335f4', l='ServerLevel[world]', x=-1219.67, y=64.38, z=-28.39, cpos=[-77, -2], tl=107, v=true] died: Herobrine Minion was slain by an8bithahaha
-[02:49:17] [Server thread/INFO]: Named entity Zombie['Herobrine Minion'/16488, uuid='923dcc6e-3f94-47ac-85f4-b0802ed7a393', l='ServerLevel[world]', x=-1216.02, y=65.00, z=-28.80, cpos=[-77, -2], tl=49, v=true] died: Herobrine Minion was slain by an8bithahaha
-[02:49:19] [Server thread/INFO]: Named entity Blaze['Herobrine Minion'/16446, uuid='a0db71ca-97b3-4039-ae4e-60905e4a5846', l='ServerLevel[world]', x=-1216.05, y=65.49, z=-27.28, cpos=[-77, -2], tl=190, v=true] died: Herobrine Minion was slain by an8bithahaha
-[02:49:27] [Server thread/INFO]: Named entity Vex['Herobrine Minion'/16576, uuid='83f8ac41-532a-46aa-95b7-54ef66461fcf', l='ServerLevel[world]', x=-1212.76, y=65.84, z=-34.67, cpos=[-76, -3], tl=91, v=true] died: Herobrine Minion blew up
-[02:49:44] [Server thread/INFO]: Named entity Vex['Herobrine Minion'/16219, uuid='de006328-6e4c-4692-8e97-90c70ade4557', l='ServerLevel[world]', x=-1212.24, y=63.97, z=-28.99, cpos=[-76, -2], tl=1034, v=true] died: Herobrine Minion was slain by an8bithahaha
-[02:49:50] [Server thread/INFO]: Named entity Vex['Herobrine Minion'/16574, uuid='9855852f-0aa3-4c30-b2f3-747614689d59', l='ServerLevel[world]', x=-1215.42, y=64.38, z=-29.59, cpos=[-76, -2], tl=545, v=true] died: Herobrine Minion was killed by Herobrine Boss using magic
-[02:50:10] [Server thread/INFO]: Named entity Skeleton['Herobrine Minion'/16760, uuid='d486b9cb-0478-44ac-b3e1-ea69196fb5e8', l='ServerLevel[world]', x=-1230.41, y=68.03, z=-43.83, cpos=[-77, -3], tl=698, v=true] died: Herobrine Minion was slain by an8bithahaha
-[02:50:17] [Server thread/INFO]: Named entity Zombie['Herobrine Minion'/17048, uuid='bc6aff9f-da04-43e1-a850-e98d8960e569', l='ServerLevel[world]', x=-1229.35, y=63.00, z=-48.36, cpos=[-77, -4], tl=239, v=true] died: Herobrine Minion was slain by an8bithahaha
-[02:50:20] [Server thread/INFO]: Named entity Zombie['Herobrine Minion'/17121, uuid='5b818155-81ae-4ade-8423-806d3746bf18', l='ServerLevel[world]', x=-1226.38, y=64.00, z=-36.61, cpos=[-77, -3], tl=207, v=true] died: Herobrine Minion was slain by an8bithahaha
-[02:50:25] [Server thread/INFO]: Named entity Zombie['Herobrine Minion'/17211, uuid='26b2a6c5-e2be-4c72-80a5-c5c973724de3', l='ServerLevel[world]', x=-1235.44, y=64.00, z=-37.50, cpos=[-78, -3], tl=93, v=true] died: Herobrine Minion was slain by an8bithahaha
-[02:50:28] [Server thread/INFO]: Named entity Skeleton['Herobrine Minion'/17275, uuid='a4974161-66bd-4fbb-9c56-651f9c46c2ce', l='ServerLevel[world]', x=-1238.01, y=64.00, z=-37.24, cpos=[-78, -3], tl=45, v=true] died: Herobrine Minion was slain by an8bithahaha
-[02:50:47] [Server thread/INFO]: Named entity Vex['Herobrine Minion'/14825, uuid='57e20b0b-37a7-4f79-809e-d65f211931bc', l='ServerLevel[world]', x=-1227.94, y=65.22, z=-37.81, cpos=[-77, -3], tl=4688, v=true] died: Herobrine Minion blew up
-[02:50:47] [Server thread/INFO]: Named entity Zombie['Herobrine Minion'/17525, uuid='2637d40b-588b-4766-bfd9-9319f5d3c6e0', l='ServerLevel[world]', x=-1224.44, y=62.00, z=-35.03, cpos=[-77, -3], tl=51, v=true] died: Herobrine Minion blew up
-[02:51:00] [Server thread/INFO]: Named entity Skeleton['Herobrine Minion'/17605, uuid='5ff9766b-bc53-4139-a2dd-ed267f464d1c', l='ServerLevel[world]', x=-1239.17, y=60.30, z=-36.29, cpos=[-78, -3], tl=201, v=true] died: Herobrine Minion suffocated in a wall
-[02:51:29] [Server thread/INFO]: Named entity Zombie['Herobrine Minion'/17882, uuid='4c1aea09-5d5f-4ccb-aeb6-79bbb7549d1d', l='ServerLevel[world]', x=-1247.83, y=63.00, z=-17.50, cpos=[-78, -2], tl=288, v=true] died: Herobrine Minion was slain by an8bithahaha
-[02:51:33] [Server thread/INFO]: Named entity Zombie['Herobrine Minion'/17740, uuid='b3751846-f2af-41fb-893a-ab6d5dd67efa', l='ServerLevel[world]', x=-1243.35, y=64.00, z=-18.68, cpos=[-78, -2], tl=563, v=true] died: Herobrine Minion was slain by an8bithahaha
-[02:51:43] [Server thread/INFO]: Named entity Skeleton['Herobrine Minion'/17120, uuid='0794650a-65e2-4078-84ef-d721214213a1', l='ServerLevel[world]', x=-1234.98, y=64.00, z=-12.58, cpos=[-78, -1], tl=1866, v=true] died: Herobrine Minion was slain by an8bithahaha
-[02:51:50] [Server thread/INFO]: an8bithahaha issued server command: /setwarp boss
-[02:51:52] [Server thread/INFO]: Named entity Skeleton['Herobrine Minion'/17828, uuid='8a7987da-839b-4842-9c2c-60b18388f1b8', l='ServerLevel[world]', x=-1236.54, y=64.12, z=-13.39, cpos=[-78, -1], tl=834, v=true] died: Herobrine Minion was slain by an8bithahaha
-[02:51:56] [Server thread/INFO]: an8bithahaha issued server command: /home
-[02:53:21] [Server thread/INFO]: Server Plugins (6):
-[02:53:21] [Server thread/INFO]: Bukkit Plugins:
-[02:53:21] [Server thread/INFO]:  - AuraSkills, ChestSort, CraftEnhance, Essentials, LuckPerms, Shopkeepers
-[03:01:43] [Server thread/INFO]: an8bithahaha issued server command: /warp boss
-[03:01:56] [Server thread/INFO]: Named entity Skeleton['Herobrine Minion'/21858, uuid='3d416fda-f6ad-4b74-aedc-3b2d8758dd22', l='ServerLevel[world]', x=-1232.66, y=68.56, z=-19.57, cpos=[-78, -2], tl=114, v=true] died: Herobrine Minion was burned to a crisp while fighting an8bithahaha
-[03:02:08] [Server thread/INFO]: Named entity Zombie['Herobrine Minion'/21954, uuid='fe39d048-caa1-4d38-90d4-439884613a25', l='ServerLevel[world]', x=-1235.61, y=64.00, z=-21.77, cpos=[-78, -2], tl=172, v=true] died: Herobrine Minion was slain by an8bithahaha
-[03:02:13] [Server thread/INFO]: Named entity Zombie['Herobrine Minion'/21859, uuid='8f7c4574-e9b3-41f3-b801-fd7baa292c21', l='ServerLevel[world]', x=-1235.77, y=64.00, z=-16.23, cpos=[-78, -2], tl=468, v=true] died: Herobrine Minion was slain by an8bithahaha
-[03:02:16] [Server thread/INFO]: Named entity Vex['Herobrine Minion'/21879, uuid='90cbac8f-c1ab-4063-a4d8-b8a6135d189f', l='ServerLevel[world]', x=-1236.89, y=65.55, z=-12.44, cpos=[-78, -1], tl=476, v=true] died: Herobrine Minion was slain by an8bithahaha
-[03:02:50] [Server thread/INFO]: Named entity Zombie['Herobrine Minion'/22401, uuid='afc05141-a06c-44ff-8923-1acdd6522229', l='ServerLevel[world]', x=-1234.48, y=62.00, z=-7.58, cpos=[-78, -1], tl=111, v=true] died: Herobrine Minion was slain by an8bithahaha
-[03:03:06] [Server thread/INFO]: Named entity Skeleton['Herobrine Minion'/22647, uuid='d808084e-f221-452f-899b-364d6ae5b614', l='ServerLevel[world]', x=-1241.21, y=63.35, z=3.75, cpos=[-78, 0], tl=19, v=true] died: Herobrine Minion was slain by an8bithahaha
-[03:03:20] [Server thread/INFO]: Named entity Skeleton['Herobrine Minion'/22815, uuid='d21ab1d6-b218-4aea-8ce9-ae3c2d380677', l='ServerLevel[world]', x=-1244.01, y=63.23, z=0.34, cpos=[-78, 0], tl=10, v=true] died: Herobrine Minion was slain by an8bithahaha
-[03:03:27] [Server thread/INFO]: Named entity Vex['Herobrine Minion'/21881, uuid='642cd7f5-66ef-4a93-8d94-fcbaf3d60558', l='ServerLevel[world]', x=-1244.08, y=64.47, z=-8.41, cpos=[-78, -1], tl=1888, v=true] died: Herobrine Minion blew up
-[03:03:27] [Server thread/INFO]: Named entity Vex['Herobrine Minion'/21880, uuid='018cf572-8848-4c2b-a426-e2ec192d9c76', l='ServerLevel[world]', x=-1243.86, y=65.25, z=-9.54, cpos=[-78, -1], tl=1890, v=true] died: Herobrine Minion blew up
-[03:03:35] [Server thread/INFO]: Named entity Stray['Herobrine Boss'/21532, uuid='2683784e-12b8-4c42-9b74-852fde5cb880', l='ServerLevel[world]', x=-1244.76, y=60.17, z=4.66, cpos=[-78, 0], tl=8452, v=true] died: Herobrine Boss was slain by an8bithahaha
-[03:03:35] [Server thread/INFO]: Named entity Blaze['Herobrine Minion'/22555, uuid='ed1ef0e8-ee2d-4056-9083-b0502c522903', l='ServerLevel[world]', x=-1241.81, y=-68.97, z=-3.30, cpos=[-78, -1], tl=798, v=true] died: Herobrine Minion was killed
-[03:03:35] [Server thread/INFO]: Named entity Blaze['Herobrine Minion'/22499, uuid='178ae6c3-50a2-4507-ae2a-ff5af6baf276', l='ServerLevel[world]', x=-1229.51, y=-65.00, z=-14.30, cpos=[-77, -1], tl=898, v=true] died: Herobrine Minion was killed
-[03:03:35] [Server thread/INFO]: Named entity Vex['Herobrine Minion'/22146, uuid='f83d6376-dd60-408d-a892-efeceddddfb3', l='ServerLevel[world]', x=-1235.02, y=-49.56, z=-7.79, cpos=[-78, -1], tl=1444, v=true] died: Herobrine Minion was killed
-[03:03:35] [Server thread/INFO]: Named entity Zombie['Herobrine Minion'/22500, uuid='49a58ce7-89c7-4853-8560-4d438b09d9e1', l='ServerLevel[world]', x=-1248.36, y=-70.00, z=-8.34, cpos=[-79, -1], tl=898, v=true] died: Herobrine Minion was killed
-[03:03:35] [Server thread/INFO]: Named entity Vex['Herobrine Minion'/22148, uuid='826ce928-5076-4786-ab68-5d10a704efdd', l='ServerLevel[world]', x=-1225.28, y=-49.11, z=-5.04, cpos=[-77, -1], tl=1444, v=true] died: Herobrine Minion was killed
-[03:03:35] [Server thread/INFO]: Named entity Vex['Herobrine Minion'/22147, uuid='7175c72e-6516-4ccf-85c4-351058219edd', l='ServerLevel[world]', x=-1244.54, y=-54.11, z=-0.97, cpos=[-78, -1], tl=1444, v=true] died: Herobrine Minion was killed
-[03:04:25] [Server thread/INFO]: an8bithahaha issued server command: /home
-[03:05:43] [Server thread/INFO]: an8bithahaha issued server command: /give an8bithahaha diamond 64
-[03:14:13] [Server thread/INFO]: death.attack.shot
-[03:17:58] [Server thread/INFO]: gzzgzz lost connection: Disconnected
-[03:17:58] [Server thread/INFO]: gzzgzz left the game
-[03:19:02] [Server thread/INFO]: an8bithahaha issued server command: /ceh
-[03:19:06] [Server thread/INFO]: an8bithahaha issued server command: /ceh createrecipe
-[03:19:59] [Server thread/INFO]: an8bithahaha issued server command: /home
-[03:21:53] [Server thread/INFO]: an8bithahaha issued server command: /ceh
-[03:22:07] [Server thread/INFO]: an8bithahaha issued server command: /ceh
-[03:22:11] [Server thread/INFO]: an8bithahaha issued server command: /ceh viewer
-[03:24:43] [Server thread/INFO]: an8bithahaha issued server command: /home
-[03:25:51] [Server thread/INFO]: an8bithahaha issued server command: /ceh
-[03:25:55] [Server thread/INFO]: an8bithahaha issued server command: /ceh createrecipe
-[03:30:20] [Server thread/INFO]: an8bithahaha issued server command: /ceh
-[03:30:26] [Server thread/INFO]: an8bithahaha issued server command: /ceh viewer
-[03:30:47] [Server thread/INFO]: an8bithahaha issued server command: /ceh viewer
-[03:44:50] [Server thread/INFO]: an8bithahaha issued server command: /fly
-[03:45:09] [Server thread/INFO]: an8bithahaha lost connection: Disconnected
-[03:45:09] [Server thread/INFO]: an8bithahaha left the game
-[03:45:16] [Server thread/INFO]: Server Plugins (6):
-[03:45:16] [Server thread/INFO]: Bukkit Plugins:
-[03:45:16] [Server thread/INFO]:  - AuraSkills, ChestSort, CraftEnhance, Essentials, LuckPerms, Shopkeepers
-[03:47:30] [Server thread/INFO]: Stopping the server
-[03:47:30] [Server thread/INFO]: Stopping server
-[03:47:30] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.0-dev+106-8b08a8f
-[03:47:30] [Server thread/INFO]: [AuraSkills] Disabling AuraSkills v2.1.5
-[03:47:30] [Server thread/INFO]: [ChestSort] Disabling ChestSort v14.1.0
-[03:47:30] [Server thread/INFO]: [CraftEnhance] Disabling CraftEnhance v2.5.6.1
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/stone_tier}.pools[0].entries[4]: Unknown loot table called automaticons:stone/axe
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[0]: Unknown loot table called automaticons:wood_tier
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/stone_tier}.pools[0].entries[2]: Unknown loot table called automaticons:stone/pickaxe
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/gold_tier}.pools[0].entries[3]: Unknown loot table called automaticons:gold/hoe
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/stone_tier}.pools[0].entries[0]: Unknown loot table called automaticons:stone/sword
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[4]: Unknown loot table called automaticons:diamond_tier
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[4]: Unknown loot table called automaticons:diamond_tier
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[2]: Unknown loot table called automaticons:gold_tier
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[2]: Unknown loot table called automaticons:gold_tier
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[2]: Unknown loot table called automaticons:gold_tier
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/netherite_tier}.pools[0].entries[4]: Unknown loot table called automaticons:netherite/axe
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[4]: Unknown loot table called automaticons:diamond_tier
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/netherite_tier}.pools[0].entries[0]: Unknown loot table called automaticons:netherite/sword
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/iron_tier}.pools[0].entries[1]: Unknown loot table called automaticons:iron/shovel
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/diamond_tier}.pools[0].entries[2]: Unknown loot table called automaticons:diamond/pickaxe
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/netherite_tier}.pools[0].entries[2]: Unknown loot table called automaticons:netherite/pickaxe
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/gold_tier}.pools[0].entries[1]: Unknown loot table called automaticons:gold/shovel
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/diamond_tier}.pools[0].entries[4]: Unknown loot table called automaticons:diamond/axe
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/iron_tier}.pools[0].entries[3]: Unknown loot table called automaticons:iron/hoe
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/diamond_tier}.pools[0].entries[0]: Unknown loot table called automaticons:diamond/sword
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/wood_tier}.pools[0].entries[1]: Unknown loot table called automaticons:wood/shovel
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[0]: Unknown loot table called automaticons:wood_tier
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/wood_tier}.pools[0].entries[3]: Unknown loot table called automaticons:wood/hoe
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/stone_tier}.pools[0].entries[3]: Unknown loot table called automaticons:stone/hoe
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/gold_tier}.pools[0].entries[4]: Unknown loot table called automaticons:gold/axe
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[5]: Unknown loot table called automaticons:netherite_tier
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[5]: Unknown loot table called automaticons:netherite_tier
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[3]: Unknown loot table called automaticons:iron_tier
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/stone_tier}.pools[0].entries[1]: Unknown loot table called automaticons:stone/shovel
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[3]: Unknown loot table called automaticons:iron_tier
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[1]: Unknown loot table called automaticons:stone_tier
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_growth}.pools[5].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[1]: Unknown loot table called automaticons:stone_tier
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[1]: Unknown loot table called automaticons:stone_tier
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/any_tier}.pools[0].entries[0]: Unknown loot table called automaticons:wood_tier
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/netherite_tier}.pools[0].entries[3]: Unknown loot table called automaticons:netherite/hoe
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[3]: Unknown loot table called automaticons:iron_tier
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/iron_tier}.pools[0].entries[2]: Unknown loot table called automaticons:iron/pickaxe
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/gold_tier}.pools[0].entries[0]: Unknown loot table called automaticons:gold/sword
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/diamond_tier}.pools[0].entries[1]: Unknown loot table called automaticons:diamond/shovel
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:astral_plane_shrinkage}.pools[4].entries[0]->{nmr:automaticons/any_tier}.pools[0].entries[5]: Unknown loot table called automaticons:netherite_tier
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/iron_tier}.pools[0].entries[0]: Unknown loot table called automaticons:iron/sword
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/gold_tier}.pools[0].entries[2]: Unknown loot table called automaticons:gold/pickaxe
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/diamond_tier}.pools[0].entries[3]: Unknown loot table called automaticons:diamond/hoe
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/netherite_tier}.pools[0].entries[1]: Unknown loot table called automaticons:netherite/shovel
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/wood_tier}.pools[0].entries[4]: Unknown loot table called automaticons:wood/axe
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/iron_tier}.pools[0].entries[4]: Unknown loot table called automaticons:iron/axe
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/wood_tier}.pools[0].entries[0]: Unknown loot table called automaticons:wood/sword
-[03:47:31] [Worker-Main-1/WARN]: Found loot table element validation problem in {minecraft:loot_table/nmr:automaticons/wood_tier}.pools[0].entries[2]: Unknown loot table called automaticons:wood/pickaxe
-[03:47:38] [Worker-Main-1/INFO]: Loaded 1386 recipes
-[03:47:38] [Worker-Main-1/ERROR]: Failed to load function give:herobrine_boss/skull
-java.util.concurrent.CompletionException: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Malformed 'minecraft:attribute_modifiers' component: 'No key id in MapLike[{amount:1,name:"generic.knockback_resistance",operation:"add_value",slot:"head",type:"generic.knockback_resistance",uuid:[I;443693849,1380077211,-1837903087,-814153100]}]; No key id in MapLike[{amount:0.5d,name:"generic.movement_speed",operation:"add_multiplied_total",slot:"head",type:"generic.movement_speed",uuid:[I;1046326961,235294549,-2040065408,1340237547]}]; No key id in MapLike[{amount:1,name:"generic.armor",operation:"add_value",slot:"head",type:"generic.armor",uuid:[I;-1774144805,2047886850,-2115436711,1888549382]}]' at position 489: ...modifiers=<--[HERE]
-	at java.base/java.util.concurrent.CompletableFuture.encodeThrowable(CompletableFuture.java:315) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture.completeThrowable(CompletableFuture.java:320) ~[?:?]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1770) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
-	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
-	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1: Malformed 'minecraft:attribute_modifiers' component: 'No key id in MapLike[{amount:1,name:"generic.knockback_resistance",operation:"add_value",slot:"head",type:"generic.knockback_resistance",uuid:[I;443693849,1380077211,-1837903087,-814153100]}]; No key id in MapLike[{amount:0.5d,name:"generic.movement_speed",operation:"add_multiplied_total",slot:"head",type:"generic.movement_speed",uuid:[I;1046326961,235294549,-2040065408,1340237547]}]; No key id in MapLike[{amount:1,name:"generic.armor",operation:"add_value",slot:"head",type:"generic.armor",uuid:[I;-1774144805,2047886850,-2115436711,1888549382]}]' at position 489: ...modifiers=<--[HERE]
-	at net.minecraft.commands.functions.CommandFunction.fromLines(CommandFunction.java:86) ~[paper-1.21.jar:1.21-27-76c2f16]
-	at net.minecraft.server.ServerFunctionLibrary.lambda$reload$2(ServerFunctionLibrary.java:97) ~[paper-1.21.jar:1.21-27-76c2f16]
-	at java.base/java.util.concurrent.CompletableFuture$AsyncSupply.run(CompletableFuture.java:1768) ~[?:?]
-	... 3 more
-[03:47:39] [Worker-Main-1/INFO]: Loaded 2567 advancements
-[03:47:39] [Worker-Main-1/WARN]: Not all defined tags for registry ResourceKey[minecraft:root / minecraft:block] are present in data pack: thepa:tnt
-[03:47:41] [Server thread/INFO]: [Shopkeepers] Disabling Shopkeepers v2.22.3
-[03:47:41] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.4.131
-[03:47:41] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[03:47:41] [Server thread/INFO]: [LuckPerms] Closing storage...
-[03:47:41] [Server thread/INFO]: [LuckPerms] Goodbye!
-[03:47:41] [Server thread/INFO]: Saving players
-[03:47:41] [Server thread/INFO]: Saving worlds
-[03:47:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[03:47:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[03:47:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[03:47:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[03:47:41] [Server thread/INFO]: [ChunkHolderManager] Saved 5 block chunks, 222 entity chunks, 0 poi chunks in world 'world' in 0.16s
-[03:47:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[03:47:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[03:47:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[03:47:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[03:47:41] [Server thread/INFO]: [ChunkHolderManager] Saved 5 block chunks, 22 entity chunks, 0 poi chunks in world 'world_nether' in 0.06s
-[03:47:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[03:47:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[03:47:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[03:47:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[03:47:42] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.04s
-[03:47:42] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nmr_astral_plane]'/nmr:astral_plane
-[03:47:42] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nmr_astral_plane'
-[03:47:42] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nmr_astral_plane'
-[03:47:42] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nmr_astral_plane'
-[03:47:42] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nmr_astral_plane' in 0.01s
-[03:47:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[03:47:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[03:47:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[03:47:42] [Server thread/INFO]: ThreadedAnvilChunkStorage (astral_plane): All chunks are saved
-[03:47:42] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:32:33] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[03:32:34] [Server thread/INFO]: Default game type: SURVIVAL
+[03:32:34] [Server thread/INFO]: Generating keypair
+[03:32:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[03:32:34] [Server thread/INFO]: Using epoll channel type
+[03:32:34] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[03:32:34] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[03:32:38] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.4.131
+[03:32:38] [Server thread/INFO]: [Shopkeepers] Loading server plugin Shopkeepers v2.22.3
+[03:32:41] [Server thread/INFO]: [Shopkeepers] Loaded all plugin classes (2166 ms).
+[03:32:41] [Server thread/INFO]: [Shopkeepers] Loading config.
+[03:32:41] [Server thread/INFO]: [Shopkeepers] Loading language file: language-en-default.yml
+[03:32:41] [Server thread/INFO]: [Shopkeepers] Registering defaults.
+[03:32:41] [Server thread/INFO]: [CraftEnhance] Loading server plugin CraftEnhance v2.5.6.1
+[03:32:41] [Server thread/INFO]: [ChestSort] Loading server plugin ChestSort v14.1.0
+[03:32:41] [Server thread/INFO]: [AuraSkills] Loading server plugin AuraSkills v2.1.5
+[03:32:41] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.5+6880-8ba3d89
+[03:32:43] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@3dd5bd46]
+[03:32:43] [Server thread/INFO]: [WorldEdit] Default configuration file written: config.yml
+[03:32:43] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.0-dev+106-8b08a8f
+[03:32:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[03:32:43] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.4.131
+[03:32:43] [Server thread/INFO]:         __    
+[03:32:43] [Server thread/INFO]:   |    |__)   LuckPerms v5.4.131
+[03:32:43] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[03:32:43] [Server thread/INFO]: 
+[03:32:43] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[03:32:44] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[03:32:44] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[03:32:45] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[03:32:45] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1983ms)
+[03:32:45] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.5+6880-8ba3d89
+[03:32:45] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[03:32:45] [Server thread/INFO]: WEPIF: Updated config file
+[03:32:45] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[03:32:46] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_21.PaperweightAdapter as the Bukkit adapter
+[03:32:50] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[03:32:50] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[03:32:50] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[03:32:50] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[03:32:50] [Server thread/INFO]: Preparing level "world"
+[03:32:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[03:32:55] [Server thread/INFO]: Time elapsed: 2626 ms
+[03:32:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[03:32:55] [Server thread/INFO]: Time elapsed: 450 ms
+[03:32:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[03:32:55] [Server thread/INFO]: Time elapsed: 195 ms
+[03:32:55] [Server thread/INFO]: Preparing start region for dimension nmr:astral_plane
+[03:32:56] [Server thread/INFO]: Time elapsed: 335 ms
+[03:32:56] [Server thread/INFO]: [Shopkeepers] Enabling Shopkeepers v2.22.3
+[03:32:56] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[03:32:56] [Server thread/INFO]: [Shopkeepers] Loading the data of 6 shopkeepers ...
+[03:32:56] [Server thread/INFO]: [CraftEnhance] Enabling CraftEnhance v2.5.6.1
+[03:32:56] [Server thread/INFO]: [com.dutchjelly.craftenhance.libs.menu.library.RegisterMenuAPI] Now starting MenuApi.. Any errors will be shown below.
+[03:32:59] [Server thread/INFO]: [CraftEnhance] CraftEnhance is managed and developed by DutchJelly.
+[03:32:59] [Server thread/INFO]: [CraftEnhance] If you find a bug in the plugin, please report it to https://github.com/DutchJelly/CraftEnhance/issues .
+[03:32:59] [Server thread/INFO]: [CraftEnhance] Running a version check to check that the server is compatible with game version 1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20.
+[03:32:59] [Server thread/INFO]: [CraftEnhance] 
+[03:32:59] [Server thread/INFO]: [CraftEnhance] !! Incompatibility found !!
+[03:32:59] [Server thread/INFO]: [CraftEnhance] The installed version of CraftEnhance only supports spigot/bukkit versions "1.9, 1.10, 1.11, 1.12, 1.13, 1.14, 1.15, 1.16, 1.17, 1.18, 1.19, 1.20"
+[03:32:59] [Server thread/INFO]: [CraftEnhance] while your server is running 1.21-R0.1-SNAPSHOT.
+[03:32:59] [Server thread/INFO]: [CraftEnhance] The correct version can be installed here: https://www.spigotmc.org/resources/1-9-1-19-custom-recipes-and-crafting-craftenhance.65058/ or https://dev.bukkit.org/projects/craftenhance/files .
+[03:32:59] [Server thread/INFO]: [CraftEnhance] Alternatively do you find latest here: https://github.com/broken1arrow/CraftEnhance/releases .
+[03:32:59] [Server thread/INFO]: [CraftEnhance] When installing the plugin make sure that the game version matches your bukkit or spigot version.
+[03:32:59] [Server thread/INFO]: [CraftEnhance] Please note that this incompatibility could cause duping glitches.
+[03:32:59] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[03:32:59] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[03:32:59] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[03:32:59] [Server thread/INFO]: [CraftEnhance] WARN: The installed version isn't tested to work with this version of the server.
+[03:32:59] [Server thread/INFO]: [ChestSort] Enabling ChestSort v14.1.0
+[03:32:59] [Server thread/INFO]: [ChestSort] Use permissions: true
+[03:32:59] [Server thread/INFO]: [ChestSort] Current sorting method: {category},{itemsFirst},{name},{color},{customName}
+[03:32:59] [Server thread/INFO]: [ChestSort] Allow automatic chest sorting:true
+[03:32:59] [Server thread/INFO]: [ChestSort]   |- Chest sorting enabled by default: false
+[03:32:59] [Server thread/INFO]: [ChestSort]   |- Sort time: close
+[03:32:59] [Server thread/INFO]: [ChestSort] Allow automatic inventory sorting:true
+[03:32:59] [Server thread/INFO]: [ChestSort]   |- Inventory sorting enabled by default: false
+[03:32:59] [Server thread/INFO]: [ChestSort] Auto generate category files: true
+[03:32:59] [Server thread/INFO]: [ChestSort] Allow hotkeys: true
+[03:32:59] [Server thread/INFO]: [ChestSort] Hotkeys enabled by default:
+[03:32:59] [Server thread/INFO]: [ChestSort]   |- Middle-Click: true
+[03:32:59] [Server thread/INFO]: [ChestSort]   |- Shift-Click: true
+[03:32:59] [Server thread/INFO]: [ChestSort]   |- Double-Click: true
+[03:32:59] [Server thread/INFO]: [ChestSort]   |- Shift-Right-Click: true
+[03:32:59] [Server thread/INFO]: [ChestSort] Allow additional hotkeys: true
+[03:32:59] [Server thread/INFO]: [ChestSort] Additional hotkeys enabled by default:
+[03:32:59] [Server thread/INFO]: [ChestSort]   |- Left-Click: false
+[03:32:59] [Server thread/INFO]: [ChestSort]   |- Right-Click: false
+[03:32:59] [Server thread/INFO]: [ChestSort] Check for updates: true
+[03:32:59] [Server thread/INFO]: [ChestSort] Check interval: 4 hours (4.0 seconds)
+[03:32:59] [Server thread/INFO]: [ChestSort] Categories: 900-weapons (6), 905-common-tools (4), 907-other-tools (6), 909-food (33), 910-valuables (47), 920-armor-and-arrows (9), 930-brewing (18), 950-redstone (23), 960-wood (60), 970-stone (38), 980-plants (50), 981-corals (1)
+[03:32:59] [Server thread/INFO]: [AuraSkills] Enabling AuraSkills v2.1.5
+[03:33:01] [Server thread/INFO]: [AuraSkills] Loaded 21 message files
+[03:33:02] [Server thread/INFO]: [AuraSkills] Successfully registered hook LuckPerms
+[03:33:02] [Server thread/INFO]: [AuraSkills] Loaded 126 config options in 107 ms
+[03:33:02] [Server thread/INFO]: [NBTAPI] [NBTAPI] Found Minecraft: 1.21! Trying to find NMS support
+[03:33:02] [Server thread/INFO]: [NBTAPI] [NBTAPI] NMS support 'MC1_21_R1' loaded!
+[03:33:02] [Server thread/INFO]: [NBTAPI] [NBTAPI] Using the plugin 'AuraSkills' to create a bStats instance!
+[03:33:03] [Server thread/INFO]: [AuraSkills] Loaded 3 blocked/disabled worlds
+[03:33:03] [Server thread/INFO]: [AuraSkills] [ACF] Enabled Asynchronous Tab Completion Support!
+[03:33:04] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.0-dev+106-8b08a8f
+[03:33:06] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[03:33:06] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[03:33:06] [Server thread/INFO]: [Essentials] Loaded 42679 items from items.json.
+[03:33:06] [Server thread/INFO]: [Essentials] Using locale en
+[03:33:07] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[03:33:08] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[03:33:08] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[03:33:08] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[03:33:08] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[03:33:08] [Server thread/INFO]: Running delayed init tasks
+[03:33:09] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
+[03:33:09] [Craft Scheduler Thread - 4 - CraftEnhance/INFO]: [CraftEnhance] CraftEnhance is up to date.
+[03:33:09] [Server thread/INFO]: [AuraSkills] Loaded 11 skills with 312 total sources
+[03:33:09] [Server thread/INFO]: [AuraSkills] Loaded 9 stats and 17 traits
+[03:33:09] [Server thread/INFO]: [AuraSkills] Loaded 36 pattern rewards and 0 level rewards
+[03:33:10] [Server thread/INFO]: [AuraSkills] Loaded 53 loot entries in 4 pools and 2 tables
+[03:33:10] [Server thread/INFO]: [AuraSkills] Loaded 6 menus
+[03:33:10] [Server thread/INFO]: Done (38.807s)! For help, type "help"
+[03:33:10] [Server thread/INFO]: Timings Reset
+[03:33:11] [Craft Scheduler Thread - 6 - Essentials/WARN]: [Essentials] You're 1 EssentialsX dev build(s) out of date!
+[03:33:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2505ms or 50 ticks behind
+[03:33:11] [Craft Scheduler Thread - 6 - Essentials/WARN]: [Essentials] Download it here: https://essentialsx.net/downloads.html
+[03:33:16] [User Authenticator #0/INFO]: UUID of player an8bithahaha is e9c246cc-bc31-3fef-9a9c-b34d773135e6
+[03:33:20] [Server thread/INFO]: an8bithahaha joined the game
+[03:33:21] [Server thread/INFO]: an8bithahaha[/127.175.157.233:50049] logged in with entity id 36 at ([world]-4888.565187492885, 70.0, -764.3915578299933)
+[03:33:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 10733ms or 214 ticks behind
+[03:34:04] [Server thread/INFO]: an8bithahaha issued server command: /wand
+[03:34:18] [Server thread/INFO]: an8bithahaha issued server command: /pl
+[03:34:24] [Server thread/INFO]: an8bithahaha issued server command: //wand
+[03:34:39] [Server thread/INFO]: an8bithahaha issued server command: //wand
+[03:36:06] [Server thread/INFO]: an8bithahaha issued server command: //copy
+[03:36:20] [Server thread/INFO]: an8bithahaha issued server command: /home
+[03:36:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2541ms or 50 ticks behind
+[03:36:37] [Server thread/INFO]: an8bithahaha issued server command: //paste
+[03:39:35] [Server thread/INFO]: an8bithahaha issued server command: //redo
+[03:41:03] [Server thread/INFO]: an8bithahaha issued server command: /warp mansion
+[03:43:07] [Server thread/INFO]: an8bithahaha issued server command: //copy
+[03:43:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2831ms or 56 ticks behind
+[03:43:27] [Server thread/INFO]: an8bithahaha issued server command: //paste
+[03:44:40] [Server thread/INFO]: an8bithahaha issued server command: //copy
+[03:44:46] [Server thread/INFO]: an8bithahaha issued server command: /homes
+[03:45:27] [Server thread/INFO]: an8bithahaha issued server command: //paste
+[03:47:56] [Server thread/INFO]: an8bithahaha issued server command: //redo
+[03:48:18] [Server thread/INFO]: an8bithahaha issued server command: //reset 0
+[03:48:31] [Server thread/INFO]: an8bithahaha issued server command: //r
+[03:48:39] [Server thread/INFO]: an8bithahaha issued server command: //removeabove
+[03:50:41] [Server thread/INFO]: an8bithahaha issued server command: //set 0
+[03:53:14] [Server thread/INFO]: an8bithahaha issued server command: /warpinfo mansion
+[03:53:20] [Server thread/INFO]: an8bithahaha issued server command: /warp mansion
+[03:54:06] [Server thread/INFO]: an8bithahaha issued server command: //copy -e
+[03:54:13] [Server thread/INFO]: an8bithahaha issued server command: /home
+[03:54:49] [Server thread/INFO]: an8bithahaha issued server command: //paste -e
+[03:57:46] [Server thread/INFO]: an8bithahaha issued server command: //set 0
+[03:58:26] [Server thread/INFO]: an8bithahaha issued server command: /warp lang1
+[03:59:19] [Server thread/INFO]: an8bithahaha issued server command: /warp caibua
+[03:59:32] [Server thread/INFO]: an8bithahaha issued server command: /warp heo2
+[03:59:41] [Server thread/INFO]: an8bithahaha issued server command: /home
+[04:06:50] [Server thread/INFO]: an8bithahaha lost connection: Disconnected
+[04:06:50] [Server thread/INFO]: an8bithahaha left the game
