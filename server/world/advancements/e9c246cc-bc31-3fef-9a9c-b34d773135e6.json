@@ -711,7 +711,8 @@
       "minecraft:zombie": "2024-07-14 09:23:48 +0000",
       "minecraft:creeper": "2024-07-24 12:23:52 +0000",
       "minecraft:drowned": "2024-07-24 09:05:41 +0000",
-      "minecraft:zombie_villager": "2024-07-14 09:56:18 +0000"
+      "minecraft:zombie_villager": "2024-07-14 09:56:18 +0000",
+      "minecraft:evoker": "2024-08-08 10:07:26 +0000"
     },
     "done": false
   },
@@ -3067,6 +3068,7 @@
       "iron_leggings": "2024-07-31 13:31:10 +0000",
       "stone_hoe": "2024-07-31 13:31:10 +0000",
       "iron_shovel": "2024-07-31 13:31:10 +0000",
+      "hopper_minecart": "2024-08-08 11:47:07 +0000",
       "beetroot_seeds": "2024-08-01 03:45:32 +0000",
       "diamond": "2024-08-03 03:05:43 +0000",
       "sugar_cane": "2024-07-31 14:07:00 +0000",
@@ -3091,6 +3093,7 @@
       "tuff_bricks": "2024-08-01 08:10:47 +0000",
       "spruce_sapling": "2024-08-03 02:47:15 +0000",
       "oak_fence_gate": "2024-08-01 04:30:50 +0000",
+      "stripped_jungle_wood": "2024-08-08 11:29:18 +0000",
       "oak_sign": "2024-08-01 09:14:39 +0000",
       "soul_sand": "2024-08-01 03:21:44 +0000",
       "oak_sapling": "2024-08-01 03:34:23 +0000",
@@ -3099,7 +3102,9 @@
       "glowstone": "2024-08-01 05:24:49 +0000",
       "brown_mushroom": "2024-08-03 03:03:08 +0000",
       "dandelion": "2024-08-07 13:56:27 +0000",
+      "birch_slab": "2024-08-08 11:59:17 +0000",
       "red_wool": "2024-08-02 07:13:08 +0000",
+      "white_shulker_box": "2024-08-08 10:45:52 +0000",
       "smoker": "2024-08-01 04:20:09 +0000",
       "rose_bush": "2024-08-01 04:58:26 +0000",
       "iron_trapdoor": "2024-08-02 08:20:19 +0000",
@@ -3119,6 +3124,7 @@
       "soul_soil": "2024-08-01 03:24:31 +0000",
       "diorite": "2024-08-01 08:09:33 +0000",
       "chest": "2024-08-01 04:08:58 +0000",
+      "glass": "2024-08-08 11:24:00 +0000",
       "redstone_torch": "2024-08-02 07:09:06 +0000",
       "obsidian": "2024-08-01 04:39:40 +0000",
       "cobweb": "2024-08-01 07:16:47 +0000",
@@ -3144,8 +3150,10 @@
       "decorated_pot": "2024-08-01 08:13:36 +0000",
       "blast_furnace": "2024-08-01 04:20:06 +0000",
       "stone_brick_wall": "2024-08-01 04:23:16 +0000",
+      "detector_rail": "2024-08-08 11:47:00 +0000",
       "poppy": "2024-07-31 14:02:42 +0000",
       "anvil": "2024-08-04 03:06:58 +0000",
+      "tripwire_hook": "2024-08-08 11:05:06 +0000",
       "birch_fence": "2024-08-04 06:05:09 +0000",
       "sandstone": "2024-08-04 14:13:16 +0000",
       "crimson_roots": "2024-08-01 03:21:37 +0000",
@@ -3205,13 +3213,16 @@
   "blazeandcave:redstone/engineer": {
     "criteria": {
       "oak_fence_gate": "2024-08-01 04:30:50 +0000",
+      "detector_rail": "2024-08-08 11:47:00 +0000",
       "chest": "2024-08-01 04:08:58 +0000",
       "redstone_torch": "2024-08-02 07:09:06 +0000",
       "string": "2024-07-31 14:01:51 +0000",
       "piston": "2024-08-02 08:11:24 +0000",
+      "tripwire_hook": "2024-08-08 11:05:06 +0000",
       "exposed_copper_bulb": "2024-08-01 08:45:16 +0000",
       "lever": "2024-08-02 08:11:24 +0000",
       "copper_bulb": "2024-08-01 08:45:25 +0000",
+      "hopper_minecart": "2024-08-08 11:47:07 +0000",
       "minecart": "2024-08-01 07:46:18 +0000",
       "iron_trapdoor": "2024-08-02 08:20:19 +0000",
       "powered_rail": "2024-08-04 05:51:49 +0000",
@@ -3383,6 +3394,7 @@
       "iron_shovel": "2024-07-31 13:31:10 +0000",
       "beetroot_seeds": "2024-08-01 03:45:32 +0000",
       "cod": "2024-08-03 02:12:24 +0000",
+      "shulker_shell": "2024-08-08 10:45:52 +0000",
       "disc_fragment_5": "2024-08-04 02:53:03 +0000",
       "raw_iron": "2024-08-01 04:20:06 +0000",
       "golden_sword": "2024-08-04 14:09:46 +0000",
@@ -3439,6 +3451,7 @@
       "bone": "2024-07-31 14:00:30 +0000",
       "trial_key": "2024-08-01 08:23:16 +0000",
       "golden_carrot": "2024-08-01 08:32:13 +0000",
+      "hopper_minecart": "2024-08-08 11:47:07 +0000",
       "diamond": "2024-08-01 03:47:33 +0000",
       "magma_cream": "2024-08-01 08:56:36 +0000",
       "enchanted_golden_apple": "2024-08-02 07:13:12 +0000",
@@ -3506,14 +3519,18 @@
       "savanna": "2024-08-04 13:20:50 +0000",
       "beach": "2024-08-03 02:49:24 +0000",
       "river": "2024-07-31 14:06:54 +0000",
-      "old_growth_taiga": "2024-08-04 13:20:45 +0000"
+      "old_growth_taiga": "2024-08-04 13:20:45 +0000",
+      "meadow": "2024-08-08 11:05:43 +0000"
     },
     "done": false
   },
   "blazeandcave:bacap/redstone_milestone": {
     "criteria": {
       "repeating_repeater": "2024-08-02 08:20:20 +0000",
+      "moving_moving_storage": "2024-08-08 11:47:08 +0000",
+      "leveraging_synergy": "2024-08-08 10:11:16 +0000",
       "powerful_light": "2024-08-02 07:09:09 +0000",
+      "pressure_detector": "2024-08-08 11:47:00 +0000",
       "root": "2024-07-31 13:31:11 +0000",
       "electric_rails": "2024-08-04 05:51:50 +0000",
       "under_pressure": "2024-08-01 08:33:24 +0000",
@@ -3596,6 +3613,7 @@
       "cover_me_with_diamonds": "2024-07-31 13:31:11 +0000",
       "meet_the_flintstones": "2024-08-02 07:10:59 +0000",
       "brute_force": "2024-08-04 13:28:41 +0000",
+      "moving_moving_storage": "2024-08-08 11:47:08 +0000",
       "who_needs_cars": "2024-08-01 08:03:09 +0000",
       "mollusc_man": "2024-08-01 03:21:52 +0000",
       "ice_bucket_challenge": "2024-07-31 13:31:11 +0000",
@@ -3609,6 +3627,7 @@
       "ol_betsy": "2024-08-01 08:29:35 +0000",
       "marathon": "2024-08-01 09:04:35 +0000",
       "boing_boing": "2024-08-01 07:51:39 +0000",
+      "murderer": "2024-08-08 10:08:40 +0000",
       "bake_bread": "2024-08-01 08:32:27 +0000",
       "pathways": "2024-08-01 04:45:25 +0000",
       "aww_it_broke": "2024-07-31 14:21:37 +0000",
@@ -3618,6 +3637,7 @@
       "stationary_storage": "2024-08-01 04:09:01 +0000",
       "getting_wood": "2024-08-01 03:34:33 +0000",
       "its_original_form": "2024-07-31 13:31:11 +0000",
+      "classy_glassy": "2024-08-08 11:24:01 +0000",
       "those_were_the_days": "2024-08-04 03:59:34 +0000",
       "frosty": "2024-08-02 07:13:08 +0000",
       "acquire_hardware": "2024-07-31 13:31:11 +0000",
@@ -3670,9 +3690,11 @@
       "nugget_in_a_biscuit": "2024-07-31 13:31:13 +0000",
       "spring_in_your_step": "2024-07-31 13:31:13 +0000",
       "newtons_flaming_laser_sword": "2024-08-02 07:49:04 +0000",
+      "limbo_walker": "2024-08-08 09:48:44 +0000",
       "getting_an_upgrade": "2024-07-31 13:31:11 +0000",
       "we_need_to_go_deeper": "2024-08-01 03:21:13 +0000",
       "time_to_strike": "2024-07-31 14:15:14 +0000",
+      "leveraging_synergy": "2024-08-08 10:11:16 +0000",
       "dead_dont_die": "2024-07-31 14:00:16 +0000",
       "loot_em": "2024-08-04 13:30:31 +0000",
       "war_pigs": "2024-08-04 13:29:28 +0000",
@@ -3725,8 +3747,10 @@
       "adventure_root": "2024-07-31 13:31:11 +0000",
       "good_lookin_treasure": "2024-08-04 06:52:55 +0000",
       "postmortal": "2024-08-03 02:51:14 +0000",
+      "pressure_detector": "2024-08-08 11:47:00 +0000",
       "blast_it": "2024-08-01 04:20:06 +0000",
       "sugar_sugar": "2024-07-31 14:06:52 +0000",
+      "portable_storage": "2024-08-08 10:45:53 +0000",
       "i_dont_like_sand": "2024-08-01 03:41:00 +0000",
       "whats_the_time_mr_wolf": "2024-08-02 08:12:25 +0000",
       "die_potato": "2024-08-01 08:19:12 +0000",
@@ -3820,7 +3844,8 @@
       "plains": "2024-07-31 13:31:11 +0000",
       "beach": "2024-08-03 02:49:24 +0000",
       "windswept_forest": "2024-08-04 13:20:49 +0000",
-      "river": "2024-07-31 14:06:54 +0000"
+      "river": "2024-07-31 14:06:54 +0000",
+      "meadow": "2024-08-08 11:05:43 +0000"
     },
     "done": false
   },
@@ -3914,6 +3939,7 @@
       "time_to_upgrade": "2024-08-04 13:30:04 +0000",
       "basis_of_brewing": "2024-08-01 07:40:16 +0000",
       "cultural_misunderstandings": "2024-08-01 09:03:37 +0000",
+      "limbo_walker": "2024-08-08 09:48:44 +0000",
       "those_were_the_days": "2024-08-04 03:59:34 +0000"
     },
     "done": false
@@ -3955,6 +3981,7 @@
       "root": "2024-07-31 14:10:20 +0000",
       "raise_the_flag": "2024-08-04 13:52:59 +0000",
       "ladder_climbers_inc": "2024-07-31 14:03:22 +0000",
+      "classy_glassy": "2024-08-08 11:24:01 +0000",
       "en_garde": "2024-08-01 04:31:14 +0000",
       "change_of_sheets": "2024-08-01 08:47:19 +0000",
       "i_dont_like_sand": "2024-08-01 03:41:00 +0000",
@@ -3974,6 +4001,7 @@
     "criteria": {
       "hero_of_the_village": "2024-07-31 13:31:11 +0000",
       "i_hereby_dub_thee": "2024-08-01 03:55:05 +0000",
+      "murderer": "2024-08-08 10:08:40 +0000",
       "filthy_rich": "2024-08-03 03:20:14 +0000",
       "do_you_want_to_trade": "2024-07-31 14:02:46 +0000",
       "under_lock_and_key": "2024-08-01 08:31:07 +0000",
@@ -4143,6 +4171,7 @@
       "stone": "2024-08-01 04:33:24 +0000",
       "bamboo": "2024-07-31 14:00:01 +0000",
       "sand": "2024-08-01 04:41:59 +0000",
+      "white_shulker_box": "2024-08-08 10:45:52 +0000",
       "cobblestone": "2024-08-01 03:53:33 +0000",
       "melon": "2024-08-07 13:53:46 +0000",
       "magenta_bed": "2024-08-01 08:47:22 +0000",
@@ -4416,6 +4445,7 @@
   },
   "blazeandcave:monsters/baby_baby_baby_noo": {
     "criteria": {
+      "zombified_piglin": "2024-08-08 09:50:18 +0000",
       "zombie": "2024-08-01 03:14:26 +0000"
     },
     "done": false
@@ -4598,6 +4628,7 @@
   },
   "blazeandcave:redstone/master_engineer": {
     "criteria": {
+      "hopper_minecart": "2024-08-08 11:47:07 +0000",
       "minecart": "2024-08-01 07:46:18 +0000",
       "redstone": "2024-08-01 03:48:27 +0000"
     },
@@ -4682,7 +4713,8 @@
   },
   "blazeandcave:building/slabs_for_days": {
     "criteria": {
-      "cobblestone_slab": "2024-08-01 04:12:27 +0000"
+      "cobblestone_slab": "2024-08-01 04:12:27 +0000",
+      "birch_slab": "2024-08-08 11:59:17 +0000"
     },
     "done": false
   },
@@ -4765,6 +4797,7 @@
       "birch_planks": "2024-08-01 04:46:16 +0000",
       "birch_fence_gate": "2024-08-01 08:01:48 +0000",
       "birch_fence": "2024-08-04 06:05:09 +0000",
+      "birch_slab": "2024-08-08 11:59:17 +0000",
       "birch_log": "2024-08-01 04:43:24 +0000"
     },
     "done": false
@@ -5182,7 +5215,9 @@
   "blazeandcave:monsters/dungeon_crawler": {
     "criteria": {
       "vindicator": "2024-08-04 14:00:20 +0000",
+      "pillager": "2024-08-08 10:07:04 +0000",
       "blaze": "2024-08-03 02:49:19 +0000",
+      "evoker": "2024-08-08 10:07:26 +0000",
       "vex": "2024-08-03 02:49:44 +0000",
       "piglin_brute": "2024-08-04 13:28:41 +0000",
       "breeze": "2024-08-01 08:34:59 +0000"
@@ -5972,6 +6007,7 @@
   },
   "blazeandcave:building/the_jungler": {
     "criteria": {
+      "stripped_jungle_wood": "2024-08-08 11:29:18 +0000",
       "jungle_log": "2024-08-04 07:22:55 +0000"
     },
     "done": false
@@ -5990,7 +6026,8 @@
   },
   "blazeandcave:biomes/high_feet": {
     "criteria": {
-      "windswept_forest": "2024-08-04 13:20:49 +0000"
+      "windswept_forest": "2024-08-04 13:20:49 +0000",
+      "meadow": "2024-08-08 11:05:43 +0000"
     },
     "done": false
   },
@@ -6167,6 +6204,78 @@
   "blazeandcave:farming/scientific_inaccuracy": {
     "criteria": {
       "melon_block": "2024-08-07 13:53:46 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:nether/limbo_walker": {
+    "criteria": {
+      "world_height": "2024-08-08 09:48:43 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:adventure/murderer": {
+    "criteria": {
+      "villager": "2024-08-08 10:08:39 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/leveraging_synergy": {
+    "criteria": {
+      "lever": "2024-08-08 10:11:16 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/end_milestone": {
+    "criteria": {
+      "portable_storage": "2024-08-08 10:45:53 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:redstone/moving_moving_storage": {
+    "criteria": {
+      "hopper_minecart": "2024-08-08 11:47:07 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:end/somewhere_over_the_rainbow": {
+    "criteria": {
+      "white_shulker_box": "2024-08-08 10:45:52 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-08-08 11:59:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2024-08-08 11:05:06 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/pressure_detector": {
+    "criteria": {
+      "detector_rail": "2024-08-08 11:47:00 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:building/classy_glassy": {
+    "criteria": {
+      "glass": "2024-08-08 11:24:00 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:end/portable_storage": {
+    "criteria": {
+      "shulker_box": "2024-08-08 10:45:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-08-08 10:45:52 +0000"
     },
     "done": true
   },

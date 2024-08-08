@@ -5,22 +5,22 @@ skills:
     xp: 114670.65000000018
   auraskills/fighting:
     level: 6
-    xp: 621.5000000000103
+    xp: 795.3000000000104
   auraskills/excavation:
     level: 15
-    xp: 17684.26000000001
+    xp: 17872.11000000001
   auraskills/agility:
     level: 28
-    xp: 31655.42019999994
+    xp: 47002.56159999994
   auraskills/alchemy:
     level: 8
-    xp: 5353.0
+    xp: 5713.0
   auraskills/fishing:
     level: 10
     xp: 1036.0
   auraskills/mining:
     level: 6
-    xp: 2530.6499999999633
+    xp: 3410.6499999999633
   auraskills/enchanting:
     level: 7
     xp: 3570.3999999999996
@@ -32,7 +32,7 @@ skills:
     xp: 3706.6000000000004
   auraskills/defense:
     level: 7
-    xp: 1457.5707316398714
+    xp: 1587.2150237083522
 mana: 274.0
 action_bar:
   idle: true
@@ -63,10 +63,10 @@ trait_modifiers:
     trait: auraskills/farming_luck
     value: 110.0
 ability_data:
-  auraskills/xp_convert:
-    xp: 15.988331639925674
+  auraskills/first_strike:
+    counter: 58
   auraskills/charged_shot:
     toggle_cooldown: 0
     enabled: false
-  auraskills/first_strike:
-    counter: 57
+  auraskills/xp_convert:
+    xp: 13.924023708406764
