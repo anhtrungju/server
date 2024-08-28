@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.28.163.23
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1724838305532
+  login: 1724838294718
+money: '0'
+last-account-name: anhahaha13
+logoutlocation:
+  world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
+  world-name: world
+  x: 40.5
+  y: 69.0
+  z: 42.5
+  yaw: 6.299999713897705
+  pitch: -0.30000102519989014

@@ -832,4 +832,14 @@ data-version: 3|2|3953
         v: 3953
         type: HAY_BLOCK
         amount: 64
+    '13':
+      resultItem:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: DIAMOND
+      item1:
+        ==: org.bukkit.inventory.ItemStack
+        v: 3953
+        type: BAMBOO
+        amount: 64
   snapshots: []

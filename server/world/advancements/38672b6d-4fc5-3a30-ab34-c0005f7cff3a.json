@@ -1,0 +1,103 @@
+{
+  "blazeandcave:challenges/stack_all_the_items": {
+    "criteria": {
+      "writable_book": "2024-08-28 09:44:54 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/advancement_legend": {
+    "criteria": {
+      "bacap_root": "2024-08-28 09:45:01 +0000",
+      "an_amazing_story": "2024-08-28 09:44:59 +0000",
+      "write_your_thoughts": "2024-08-28 09:44:59 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/farming_milestone": {
+    "criteria": {
+      "an_amazing_story": "2024-08-28 09:44:59 +0000",
+      "write_your_thoughts": "2024-08-28 09:44:59 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-08-28 09:44:55 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/write_your_thoughts": {
+    "criteria": {
+      "writable_book": "2024-08-28 09:44:54 +0000"
+    },
+    "done": true
+  },
+  "global:wyvernity": {
+    "criteria": {
+      "trigger": "2024-08-28 09:44:55 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/explorer_of_worlds": {
+    "criteria": {
+      "snowy_plains": "2024-08-28 09:44:59 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:farming/an_amazing_story": {
+    "criteria": {
+      "written_book": "2024-08-28 09:44:54 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "requirement": "2024-08-28 09:44:55 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/root": {
+    "criteria": {
+      "location": "2024-08-28 09:44:59 +0000"
+    },
+    "done": true
+  },
+  "nmr:technical/setup_player_bossbar": {
+    "criteria": {
+      "requirement": "2024-08-28 09:44:59 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/all_the_items": {
+    "criteria": {
+      "writable_book": "2024-08-28 09:44:54 +0000",
+      "written_book": "2024-08-28 09:44:54 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:biomes/cold_feet": {
+    "criteria": {
+      "snowy_plains": "2024-08-28 09:44:59 +0000"
+    },
+    "done": false
+  },
+  "enchantmentplus:installation": {
+    "criteria": {
+      "trigger": "2024-08-28 09:44:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "snowy_plains": "2024-08-28 09:44:59 +0000"
+    },
+    "done": false
+  },
+  "nmr:progression/root": {
+    "criteria": {
+      "requirement": "2024-08-28 09:44:55 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3953
+}

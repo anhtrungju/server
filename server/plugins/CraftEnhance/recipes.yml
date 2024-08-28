@@ -193,3 +193,20 @@ recipe10:
   - null
   allowed_worlds: []
   shapeless: false
+recipe9:
+  ==: com.dutchjelly.craftenhance.crafthandling.recipes.FurnaceRecipe
+  page: -1
+  slot: -1
+  result_slot: 1
+  category: furnace
+  permission: null
+  matchtype: MATCH_META
+  hidden: false
+  check_partial_match: false
+  oncraftcommand: null
+  result: LEATHER
+  recipe:
+  - ROTTEN_FLESH
+  allowed_worlds: []
+  exp: 0.0
+  duration: 160

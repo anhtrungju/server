@@ -114,3 +114,8 @@ GRASS_BLOCK:
   ==: org.bukkit.inventory.ItemStack
   v: 3953
   type: GRASS_BLOCK
+LEATHER:
+  ==: org.bukkit.inventory.ItemStack
+  v: 3953
+  type: LEATHER
+  amount: 2
