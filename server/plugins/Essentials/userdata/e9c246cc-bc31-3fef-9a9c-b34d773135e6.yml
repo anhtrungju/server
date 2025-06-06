@@ -3,7 +3,11 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
+<<<<<<< HEAD
 ip-address: 127.28.163.23
+=======
+ip-address: 127.203.223.220
+>>>>>>> cfb4ec41 (dư)
 afk: false
 socialspy: false
 npc: false
@@ -11,17 +15,27 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
+<<<<<<< HEAD
   lastteleport: 1724846185624
+=======
+  lastteleport: 1723640369446
+>>>>>>> cfb4ec41 (dư)
   lastheal: 0
   mute: 0
   jail: 0
   onlinejail: 0
+<<<<<<< HEAD
   logout: 1724846223156
   login: 1724841001350
+=======
+  logout: 1723640813038
+  login: 1723639418621
+>>>>>>> cfb4ec41 (dư)
 money: '0'
 logoutlocation:
   world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
   world-name: world
+<<<<<<< HEAD
   x: -1366.092561892094
   y: 122.77269301097533
   z: 841.4774493872019
@@ -36,6 +50,22 @@ lastlocation:
   z: 3391.746105839861
   yaw: 82.958984375
   pitch: 68.39997100830078
+=======
+  x: -320.32388341245564
+  y: 65.5
+  z: 320.91392167549907
+  yaw: 17.2347412109375
+  pitch: 13.800094604492188
+last-account-name: an8bithahaha
+lastlocation:
+  world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
+  world-name: world
+  x: -1638.9756082851427
+  y: 66.0
+  z: 404.6173096484274
+  yaw: -88.368408203125
+  pitch: 7.50002384185791
+>>>>>>> cfb4ec41 (dư)
 homes:
   home:
     world: e26a6c9a-0229-4acd-976c-c2213e33bf7e

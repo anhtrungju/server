@@ -1,8 +1,13 @@
 uuid: e9c246cc-bc31-3fef-9a9c-b34d773135e6
 skills:
   auraskills/farming:
+<<<<<<< HEAD
     level: 58
     xp: 316570.6500000002
+=======
+    level: 55
+    xp: 170845.6500000002
+>>>>>>> cfb4ec41 (dư)
   auraskills/fighting:
     level: 8
     xp: 320.6000000000113
@@ -10,8 +15,13 @@ skills:
     level: 15
     xp: 17891.220000000016
   auraskills/agility:
+<<<<<<< HEAD
     level: 29
     xp: 56603.74659999996
+=======
+    level: 28
+    xp: 65465.102399999945
+>>>>>>> cfb4ec41 (dư)
   auraskills/alchemy:
     level: 10
     xp: 6853.0
@@ -29,15 +39,27 @@ skills:
     xp: 7852.240000000019
   auraskills/archery:
     level: 7
+<<<<<<< HEAD
     xp: 4054.6000000000004
   auraskills/defense:
     level: 7
     xp: 3474.1494650840837
 mana: 310.0
+=======
+    xp: 4328.2
+  auraskills/defense:
+    level: 7
+    xp: 3176.2081759452903
+mana: 17.76600000000001
+>>>>>>> cfb4ec41 (dư)
 action_bar:
   idle: true
 stat_modifiers:
   '0':
+    name: AbilityModifier-EnchantedStrength
+    stat: auraskills/strength
+    value: 1.5
+  '1':
     name: AbilityModifier-WiseEffect
     stat: auraskills/wisdom
     value: 4.0
@@ -67,6 +89,10 @@ ability_data:
     toggle_cooldown: 0
     enabled: true
   auraskills/xp_convert:
+<<<<<<< HEAD
     xp: 13.763465084189534
   auraskills/first_strike:
     counter: 67
+=======
+    xp: 14.557975945346357
+>>>>>>> cfb4ec41 (dư)

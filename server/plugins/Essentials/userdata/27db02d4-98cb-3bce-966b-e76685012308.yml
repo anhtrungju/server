@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.185.125.140
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1723640810364
+  login: 1723639449361
+money: '0'
+last-account-name: tuandao8826
+lastlocation:
+  world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
+  world-name: world
+  x: -447.0860457393486
+  y: 67.0
+  z: 309.6236200326761
+  yaw: 127.72572326660156
+  pitch: -7.631893634796143
+logoutlocation:
+  world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
+  world-name: world
+  x: -318.2300518984609
+  y: 65.5
+  z: 319.9811469510036
+  yaw: 78.071533203125
+  pitch: 22.790063858032227

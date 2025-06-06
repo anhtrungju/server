@@ -3852,6 +3852,7 @@
       "whats_the_time_mr_wolf": "2024-08-02 08:12:25 +0000",
       "die_potato": "2024-08-01 08:19:12 +0000",
       "level_up": "2024-07-31 13:31:13 +0000",
+      "diamonds_to_you": "2024-08-14 12:50:50 +0000",
       "a_terrible_fortress": "2024-07-31 13:31:11 +0000",
       "what_a_creep": "2024-07-31 14:01:13 +0000",
       "wax_off": "2024-07-31 13:31:11 +0000",
@@ -3995,6 +3996,7 @@
       "diamonds": "2024-07-31 13:31:11 +0000",
       "eeuuwww": "2024-08-01 07:16:47 +0000",
       "acquire_hardware": "2024-07-31 13:31:11 +0000",
+      "diamonds_to_you": "2024-08-14 12:50:50 +0000",
       "fossil_fuel": "2024-08-01 04:22:27 +0000",
       "deep_slate_nine": "2024-08-01 08:10:25 +0000",
       "strike_a_light": "2024-08-02 07:10:59 +0000",
@@ -6399,6 +6401,7 @@
   },
   "blazeandcave:bacap/end_milestone": {
     "criteria": {
+<<<<<<< HEAD
       "the_city_at_the_end_of_the_game": "2024-08-28 11:44:16 +0000",
       "void_walker": "2024-08-28 11:43:06 +0000",
       "free_the_end": "2024-08-28 11:19:59 +0000",
@@ -6409,6 +6412,9 @@
       "for_mother_clarence": "2024-08-28 11:45:55 +0000",
       "end_bricks": "2024-08-28 11:44:33 +0000",
       "remote_getaway": "2024-08-28 11:41:01 +0000"
+=======
+      "portable_storage": "2024-08-08 10:45:53 +0000"
+>>>>>>> cfb4ec41 (dư)
     },
     "done": false
   },
@@ -6442,6 +6448,7 @@
     },
     "done": true
   },
+<<<<<<< HEAD
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2024-08-28 10:00:58 +0000"
@@ -6876,6 +6883,11 @@
   "minecraft:recipes/building_blocks/purpur_slab_from_purpur_block_stonecutting": {
     "criteria": {
       "has_purpur_block": "2024-08-28 11:44:17 +0000"
+=======
+  "blazeandcave:mining/diamonds_to_you": {
+    "criteria": {
+      "diamonds_to_you": "2024-08-14 12:50:50 +0000"
+>>>>>>> cfb4ec41 (dư)
     },
     "done": true
   },

@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 0:0:0:0:0:0:0:1%0
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1749206804375
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1749206904203
+  login: 1749202572672
+money: '0'
+last-account-name: thanh
+logoutlocation:
+  world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
+  world-name: world
+  x: 122.33490645135997
+  y: 70.0
+  z: 430.7627609236608
+  yaw: -46.946929931640625
+  pitch: 46.04999923706055
+lastlocation:
+  world: e26a6c9a-0229-4acd-976c-c2213e33bf7e
+  world-name: world
+  x: 378.0131697574281
+  y: -40.0
+  z: -167.46391157634193
+  yaw: 24.445852279663086
+  pitch: 5.700026988983154

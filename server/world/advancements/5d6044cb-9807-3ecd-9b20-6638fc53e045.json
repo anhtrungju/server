@@ -1,0 +1,103 @@
+{
+  "blazeandcave:challenges/stack_all_the_items": {
+    "criteria": {
+      "writable_book": "2025-06-06 10:01:38 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-06-06 10:01:38 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/write_your_thoughts": {
+    "criteria": {
+      "writable_book": "2025-06-06 10:01:38 +0000"
+    },
+    "done": true
+  },
+  "global:wyvernity": {
+    "criteria": {
+      "trigger": "2025-06-06 10:01:38 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/an_amazing_story": {
+    "criteria": {
+      "written_book": "2025-06-06 10:01:38 +0000"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "requirement": "2025-06-06 10:01:38 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:challenges/all_the_items": {
+    "criteria": {
+      "writable_book": "2025-06-06 10:01:38 +0000",
+      "written_book": "2025-06-06 10:01:38 +0000"
+    },
+    "done": false
+  },
+  "enchantmentplus:installation": {
+    "criteria": {
+      "trigger": "2025-06-06 10:01:38 +0000"
+    },
+    "done": true
+  },
+  "nmr:progression/root": {
+    "criteria": {
+      "requirement": "2025-06-06 10:01:38 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/advancement_legend": {
+    "criteria": {
+      "bacap_root": "2025-06-06 10:01:40 +0000",
+      "an_amazing_story": "2025-06-06 10:01:39 +0000",
+      "write_your_thoughts": "2025-06-06 10:01:39 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/farming_milestone": {
+    "criteria": {
+      "an_amazing_story": "2025-06-06 10:01:39 +0000",
+      "write_your_thoughts": "2025-06-06 10:01:39 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:challenges/explorer_of_worlds": {
+    "criteria": {
+      "snowy_plains": "2025-06-06 10:01:39 +0000"
+    },
+    "done": false
+  },
+  "blazeandcave:bacap/root": {
+    "criteria": {
+      "location": "2025-06-06 10:01:39 +0000"
+    },
+    "done": true
+  },
+  "nmr:technical/setup_player_bossbar": {
+    "criteria": {
+      "requirement": "2025-06-06 10:01:39 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/cold_feet": {
+    "criteria": {
+      "snowy_plains": "2025-06-06 10:01:39 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "snowy_plains": "2025-06-06 10:01:39 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 3953
+}

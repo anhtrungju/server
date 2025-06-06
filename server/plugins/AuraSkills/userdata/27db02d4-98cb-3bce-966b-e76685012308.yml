@@ -1,0 +1,48 @@
+uuid: 27db02d4-98cb-3bce-966b-e76685012308
+skills:
+  auraskills/farming:
+    level: 29
+    xp: 69628.2
+  auraskills/foraging:
+    level: 0
+    xp: 0.0
+  auraskills/mining:
+    level: 0
+    xp: 0.0
+  auraskills/fishing:
+    level: 0
+    xp: 0.0
+  auraskills/excavation:
+    level: 0
+    xp: 0.0
+  auraskills/agility:
+    level: 7
+    xp: 2344.861600000001
+  auraskills/alchemy:
+    level: 11
+    xp: 2340.0
+  auraskills/enchanting:
+    level: 0
+    xp: 0.0
+  auraskills/fighting:
+    level: 0
+    xp: 66.0
+  auraskills/archery:
+    level: 1
+    xp: 40.0
+  auraskills/defense:
+    level: 3
+    xp: 609.6959907531735
+mana: 89.19200000000012
+action_bar:
+  idle: true
+stat_modifiers:
+  '0':
+    name: AbilityModifier-WiseEffect
+    stat: auraskills/wisdom
+    value: 2.0
+trait_modifiers:
+  '0':
+    name: farming_luck_ability
+    trait: auraskills/farming_luck
+    value: 60.0
