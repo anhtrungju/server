@@ -11,6 +11,7 @@ BossBaoVe:
     PreventOtherDrops: true
     PreventLeashing: true
     Despawn: false
+    LeashRange: 5
     PreventMobDespawn: true
   BossBar:
     Enabled: true
@@ -25,9 +26,10 @@ BossBaoVe:
     - DIAMOND_BOOTS:1
   Skills:
     - skill{s=LightningBurst} @PIR{r=20} ~onTimer:100  # Tạo vụ nổ sét xung quanh boss mỗi 5 giây
-    - skill{s=SummonPiglets} @target ~onTimer:200 0.5  # Triệu hồi heo con vào mục tiêu mỗi 10 giây với 50% tỉ lệ
+    - skill{s=SummonPiglets} @target  # Triệu hồi heo con vào mục tiêu mỗi 10 giây với 50% tỉ lệ
+    - skill{s=GiveRandomItems} @self
   Spawn:
-    Radius: 10
+    Radius: 4
     Location: 'world:-86,114,-807.256'  # Vị trí spawn của boss
     SpawnRadius: 5
     Delay: 200

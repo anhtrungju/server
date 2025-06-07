@@ -3154,21 +3154,22 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
+  "nmr:progression/spawner": {
     "criteria": {
-      "has_leather": "2025-06-07 12:00:20 +0000"
+      "requirement": "2025-06-07 10:40:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_leggings": {
+  "blazeandcave:bacap/nether_milestone": {
     "criteria": {
-      "has_leather": "2025-06-07 12:00:20 +0000"
+      "roadhog": "2025-06-07 11:58:41 +0000",
+      "et_tu_brute": "2025-06-07 10:40:48 +0000"
     },
-    "done": true
+    "done": false
   },
-  "blazeandcave:bacap/time_to_farm": {
+  "blazeandcave:nether/et_tu_brute": {
     "criteria": {
-      "diamond_hoe": "2025-06-07 11:11:29 +0000"
+      "piglin_brute": "2025-06-07 10:40:48 +0000"
     },
     "done": true
   },
@@ -3184,42 +3185,6 @@
     },
     "done": true
   },
-  "blazeandcave:monsters/hell_hunter": {
-    "criteria": {
-      "hoglin": "2025-06-07 11:58:40 +0000"
-    },
-    "done": false
-  },
-  "blazeandcave:redstone/space_hopper": {
-    "criteria": {
-      "hopper": "2025-06-07 11:11:35 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:animal/cow_tipper": {
-    "criteria": {
-      "leather": "2025-06-07 12:00:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-06-07 12:00:20 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:farming/root": {
-    "criteria": {
-      "hoe": "2025-06-07 11:11:29 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/emerald_block": {
-    "criteria": {
-      "has_emerald": "2025-06-07 11:11:28 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-06-07 11:11:25 +0000"
@@ -3229,30 +3194,6 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-06-07 11:11:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
-    "criteria": {
-      "has_dandelion": "2025-06-07 11:11:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-06-07 12:00:20 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:biomes/kilometre_walk": {
-    "criteria": {
-      "outer_neg_z": "2025-06-07 11:41:50 +0000"
-    },
-    "done": true
-  },
-  "nmr:progression/spawner": {
-    "criteria": {
-      "requirement": "2025-06-07 10:40:23 +0000"
     },
     "done": true
   },
@@ -3268,28 +3209,9 @@
     },
     "done": true
   },
-  "blazeandcave:bacap/nether_milestone": {
-    "criteria": {
-      "roadhog": "2025-06-07 11:58:41 +0000",
-      "et_tu_brute": "2025-06-07 10:40:48 +0000"
-    },
-    "done": false
-  },
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-06-07 11:11:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/item_frame": {
-    "criteria": {
-      "has_leather": "2025-06-07 12:00:20 +0000"
-    },
-    "done": true
-  },
-  "blazeandcave:nether/et_tu_brute": {
-    "criteria": {
-      "piglin_brute": "2025-06-07 10:40:48 +0000"
     },
     "done": true
   },
@@ -3305,9 +3227,93 @@
     },
     "done": true
   },
+  "blazeandcave:building/professor_oak": {
+    "criteria": {
+      "oak_planks": "2025-06-07 11:11:25 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-06-07 11:11:28 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:bacap/time_to_farm": {
+    "criteria": {
+      "diamond_hoe": "2025-06-07 11:11:29 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:farming/root": {
+    "criteria": {
+      "hoe": "2025-06-07 11:11:29 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:redstone/space_hopper": {
+    "criteria": {
+      "hopper": "2025-06-07 11:11:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-06-07 11:11:36 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:biomes/kilometre_walk": {
+    "criteria": {
+      "outer_neg_z": "2025-06-07 11:41:50 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:monsters/hell_hunter": {
+    "criteria": {
+      "hoglin": "2025-06-07 11:58:40 +0000"
+    },
+    "done": false
+  },
   "blazeandcave:nether/roadhog": {
     "criteria": {
       "hoglin": "2025-06-07 11:58:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-06-07 12:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-06-07 12:00:20 +0000"
+    },
+    "done": true
+  },
+  "blazeandcave:animal/cow_tipper": {
+    "criteria": {
+      "leather": "2025-06-07 12:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-06-07 12:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-06-07 12:00:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-06-07 12:00:20 +0000"
     },
     "done": true
   },
@@ -3316,12 +3322,6 @@
       "has_leather": "2025-06-07 12:00:20 +0000"
     },
     "done": true
-  },
-  "blazeandcave:building/professor_oak": {
-    "criteria": {
-      "oak_planks": "2025-06-07 11:11:25 +0000"
-    },
-    "done": false
   },
   "DataVersion": 3953
 }

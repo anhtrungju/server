@@ -25,15 +25,15 @@ skills:
     level: 10
     xp: 8903.3
   auraskills/fighting:
-    level: 2
-    xp: 225.49999999999994
+    level: 3
+    xp: 125.89999999999972
   auraskills/agility:
     level: 17
-    xp: 7569.2408000000105
+    xp: 17220.04380000001
   auraskills/enchanting:
     level: 0
     xp: 0.0
-mana: 102.0
+mana: 104.0
 action_bar:
   idle: true
 trait_modifiers:
