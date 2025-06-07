@@ -1,0 +1,65 @@
+SmashAttack:
+  Cooldown: 8
+  Conditions:
+  - targetwithin{d=25}
+  Skills:
+  - message{cooldown=30;m="<mob.name><&co> Hahahah! I will crush you, fool!"} @PlayersInRadius{r=40}
+  - teleport @target
+  - effect:sound{s=mob.endermen.portal;volume=1.0;pitch=0.5}
+  - delay 10
+  - damage{amount=5;ignorearmor=true} @PlayersInRadius{r=5}
+  - throw{velocity=10;velocityY=5} @PlayersInRadius{r=5}
+  - effect:explosion @Self
+SummonSkeletons:
+  Cooldown: 15
+  Skills:
+  - message{m="<caster.name><&co> Arise, my minions!"} @PlayersInRadius{r=40}
+  - delay 20
+  - summon{mob=SkeletalMinion;amount=2;noise=5} @Self
+  - delay 20
+  - summon{mob=SkeletalMinion;amount=2;noise=5} @Self
+  - delay 20
+  - summon{mob=SkeletalMinion;amount=2;noise=5} @Self
+AngrySludgePoison:
+  Cooldown: 10
+  Skills:
+  - potion{type=POISON;lvl=2;duration=100} @PlayersInRadius{r=15}
+  - effect:particles{p=happyVillager;amount=1000;hSpread=15;ySpread=1;speed=0;yOffset=0.5}
+    @Self
+# Kỹ năng tấn công diện rộng
+ExplosionAttack:
+  Cooldown: 10               # Thời gian hồi chiêu 10 giây
+  Skills:
+  - effect:particles{p=flame;a=50;h=2;v=2} @self     # Tạo hiệu ứng hạt lửa
+  - sound{s=minecraft:entity.generic.explode;v=1;p=1} @self # Phát âm thanh nổ
+  - damage{a=15;i=false} @PIR{r=5}                  # Gây 15 sát thương cho người chơi trong bán kính 5 khối
+LightningBurst:
+  Cooldown: 5 # Thời gian hồi chiêu 5 giây
+  Skills:
+  - lightning # Gây sét
+BlindingStrike:
+  Cooldown: 10 # Thời gian hồi chiêu 10 giây
+  Skills:
+  - lightning # Gây sét
+  - potion{type=BLINDNESS;duration=100;level=1} @target # Gây hiệu ứng mù trong 5 giây (100 ticks)
+SummonLightning:
+  Cooldown: 15 # Thời gian hồi chiêu 15 giây
+  Skills:
+  - lightning # Gây sét tại vị trí của boss
+  - effect:sound{s=entity.enderdragon.death;p=1;v=1} @self # Phát ra âm thanh giống rồng chết khi skill được dùng
+ChainLightning:
+  Cooldown: 3 # Thời gian hồi chiêu 3 giây
+  Skills:
+  - lightning # Gây sét tại mục tiêu
+  - lightning{spread=3} @PlayersInRadius{r=10} # Gây sét cho 3 người chơi ngẫu nhiên khác trong bán kính 5 ô
+SummonPiglets:
+  Cooldown: 15 # Thời gian hồi chiêu của kỹ năng (15 giây)
+  Skills:
+  - effect:sound{s=entity.pig.ambient;p=1;v=1.5} @self # Phát ra âm thanh heo
+  - effect:particles{p=HEART;amount=10;hS=0.5;vS=0.5;y=0.1;speed=0.1} @self # Hạt hình trái tim (tùy chọn)
+  - summon{m=NetherPiglet;a=3;y=0.5;spread=2} @self # Triệu hồi 3 BabyPiglet quanh vị trí của boss
+ShootTNT:
+  Cooldown: 10 # Thời gian hồi chiêu 10 giây
+  Skills:
+  - effect:sound{s=entity.ghast.shoot;p=1;v=1} @self # Âm thanh giống Ghast bắn
+  - shoot{type=PRIMED_TNT;velocity=15;inaccuracy=5;target=true} @target # Bắn một khối TNT đã kích hoạt về phía mục tiêu

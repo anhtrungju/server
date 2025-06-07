@@ -1,0 +1,162 @@
+# Script Nhiều Balo Cá Nhân (Với Điều Khiển Bằng Nút)
+# Made by Gemini - Fixed & Complete Version
+#
+# YÊU CẦU ADDON SKJSON ĐỂ LƯU TRỮ VÀ TẢI NỘI DUNG BALO MỘT CÁCH VĨNH VIỄN!
+# Tải SkJson tại: https://www.spigotmc.org/resources/skjson.106019/
+# Sau khi cài đặt SkJson.jar vào thư mục plugins/, HÃY KHỞI ĐỘNG LẠI TOÀN BỘ MÁY CHỦ CỦA BẠN.
+
+# ==== BIẾN SKRIPT ====
+# {current_backpack_id::%player%} : Lưu trữ ID balo hiện tại mà người chơi đang chọn trong menu.
+# {backpack::%player%::%id_balo%} : Lưu trữ nội dung JSON (chuỗi) của từng balo cá nhân.
+# {opened_backpack::%player%} : Lưu trữ ID của balo mà người chơi ĐANG MỞ, dùng để xác định balo nào cần lưu lại khi đóng.
+
+variables:
+    {current_backpack_id::%player%} = 1 # Mặc định bắt đầu với balo số 1
+    # Biến {backpack::%player%::%id_balo%} sẽ được tạo khi cần.
+
+# ==== LỆNH MỞ MENU CHỌN BALO ====
+command /backpackmenu:
+    aliases: bpmenu, balomenu
+    permission: skript.backpack.menu
+    permission message: &cBạn không có quyền mở menu balo!
+    trigger:
+        # Khởi tạo ID balo hiện tại nếu chưa có
+        if {current_backpack_id::%player%} is not set:
+            set {current_backpack_id::%player%} to 1
+            
+        # Tạo menu chính để điều khiển balo (1 hàng)
+        set {_main_menu} to a new chest inventory with 1 row named "&8Chọn Balo"
+
+        # Nút Balo Trước đó (vị trí slot 0)
+        set slot 0 of {_main_menu} to arrow named "&6Balo Trước đó"
+        # Nút Mở Balo Hiện Tại (vị trí slot 4)
+        # Tên nút sẽ hiển thị ID balo đang được chọn
+        set slot 4 of {_main_menu} to chest named "&bMở Balo Của Bạn &7(#%{current_backpack_id::%player%}%)&b"
+        # Nút Balo Tiếp theo (vị trí slot 8)
+        set slot 8 of {_main_menu} to arrow named "&6Balo Tiếp theo"
+
+        open {_main_menu} to player
+        send "&7Chọn balo để mở hoặc điều khiển!" to player
+
+# ==== XỬ LÝ SỰ KIỆN KHI NHẤP VÀO MENU CHỌN BALO ====
+on inventory click:
+    # Chỉ xử lý nếu inventory vừa click là menu chọn balo của chúng ta
+    if name of event-inventory is not "&8Chọn Balo":
+        stop
+    
+    cancel event # Luôn hủy sự kiện để người chơi không thể lấy/đặt vật phẩm vào menu điều khiển
+
+    # Khởi tạo ID balo hiện tại nếu chưa có (đề phòng trường hợp lỗi)
+    if {current_backpack_id::%player%} is not set:
+        set {current_backpack_id::%player%} to 1
+
+    # Xử lý khi nhấp vào nút "Balo Trước đó" (Slot 0)
+    if index of event-slot is 0:
+        set {_next_id} to {current_backpack_id::%player%} - 1
+        if {_next_id} < 1: # Giới hạn balo tối thiểu là 1
+            send "&cĐây là balo đầu tiên rồi!" to player
+            stop
+        set {current_backpack_id::%player%} to {_next_id}
+        # Cập nhật tên nút giữa để phản hồi người dùng
+        set slot 4 of event-inventory to chest named "&bMở Balo Của Bạn &7(#%{current_backpack_id::%player%}%)&b"
+        send "&7Đã chọn Balo &6#%{_next_id}%&7. Nhấp 'Mở Balo Của Bạn' để mở." to player
+        
+    # Xử lý khi nhấp vào nút "Mở Balo Của Bạn" (Slot 4)
+    else if index of event-slot is 4:
+        close player's inventory # Đóng menu chọn balo
+        set {_backpack_id} to {current_backpack_id::%player%}
+
+        # Giới hạn số lượng balo tối đa (ví dụ: từ 1 đến 5)
+        if {_backpack_id} < 1:
+            send "&cSố balo không hợp lệ! Vui lòng chọn từ 1 đến 5." to player
+            stop
+        if {_backpack_id} > 5:
+            send "&cSố balo không hợp lệ! Vui lòng chọn từ 1 đến 5." to player
+            stop
+            
+        # Kiểm tra quyền cho balo cụ thể
+        if player is not op:
+            if player does not have permission "skript.backpack.%{_backpack_id}%":
+                send "&cBạn không có quyền mở balo số này!" to player
+                stop
+
+        # Tên balo sẽ hiển thị trên rương khi mở
+        set {_backpack_name} to "&8Balo Cá Nhân #%{_backpack_id}%"
+
+        # Kiểm tra xem balo này đã được tạo cho người chơi chưa
+        if {backpack::%player%::%{_backpack_id}%} is not set:
+            # Tạo một balo mới với 3 hàng (27 ô)
+            set {_new_inventory} to a new chest inventory with 3 rows named "%{_backpack_name}%"
+            # LƯU Ý QUAN TRỌNG: Lưu inventory dưới dạng chuỗi JSON (YÊU CẦU SKJSON)
+            set {backpack::%player%::%{_backpack_id}%} to json from inventory {_new_inventory}
+            send "&aBạn vừa tạo balo &6#%{_backpack_id}% &amới!" to player
+        
+        # Lưu trữ ID của balo đang mở vào biến tạm thời
+        set {opened_backpack::%player%} to {_backpack_id}
+        
+        # Mở balo cho người chơi (chuyển đổi từ chuỗi JSON thành inventory, YÊU CẦU SKJSON)
+        open inventory from json {backpack::%player%::%{_backpack_id}%} to player
+        send "&7Đã mở %{_backpack_name}%. Đóng balo để lưu." to player
+
+    # Xử lý khi nhấp vào nút "Balo Tiếp theo" (Slot 8)
+    else if index of event-slot is 8:
+        set {_next_id} to {current_backpack_id::%player%} + 1
+        if {_next_id} > 5: # Giới hạn balo tối đa là 5 (tương ứng với giới hạn bạn đặt)
+            send "&cĐây là balo cuối cùng rồi!" to player
+            stop
+        set {current_backpack_id::%player%} to {_next_id}
+        # Cập nhật tên nút giữa để phản hồi người dùng
+        set slot 4 of event-inventory to chest named "&bMở Balo Của Bạn &7(#%{current_backpack_id::%player%}%)&b"
+        send "&7Đã chọn Balo &6#%{_next_id}%&7. Nhấp 'Mở Balo Của Bạn' để mở." to player
+
+# ==== XỬ LÝ SỰ KIỆN KHI ĐÓNG BALO ====
+on inventory close:
+    # Chỉ xử lý nếu người chơi vừa đóng một balo đã được hệ thống của chúng ta mở
+    if {opened_backpack::%player%} is set:
+        set {_backpack_id} to {opened_backpack::%player%}
+        
+        # Để đảm bảo an toàn, kiểm tra tên của inventory vừa đóng có khớp với balo của chúng ta không
+        if name of event-inventory contains "Balo Cá Nhân #%{_backpack_id}%":
+            # Lưu lại nội dung hiện tại của event-inventory (là balo đang mở) vào biến
+            # dưới dạng chuỗi JSON (YÊU CẦU SKJSON)
+            set {backpack::%player%::%{_backpack_id}%} to json from inventory event-inventory
+            send "&aBalo #%{_backpack_id}% của bạn đã được lưu lại." to player
+        
+        # Xóa biến tạm thời báo hiệu balo đang mở
+        delete {opened_backpack::%player%}
+
+# ==== LỆNH MỞ TRỰC TIẾP BALO THEO SỐ (Tùy chọn, vẫn giữ lại) ====
+command /backpack <number>:
+    aliases: bp <number>, balo <number>
+    permission: skript.backpack.%arg 1%
+    permission message: &cBạn không có quyền mở balo số này!
+    trigger:
+        set {_backpack_id} to arg 1
+
+        # Giới hạn số lượng balo tối đa
+        if {_backpack_id} < 1:
+            send "&cSố balo không hợp lệ! Vui lòng chọn từ 1 đến 5." to player
+            stop
+        if {_backpack_id} > 5:
+            send "&cSố balo không hợp lệ! Vui lòng chọn từ 1 đến 5." to player
+            stop
+
+        # Kiểm tra quyền cho balo cụ thể
+        if player is not op:
+            if player does not have permission "skript.backpack.%{_backpack_id}%":
+                send "&cBạn không có quyền mở balo số này!" to player
+                stop
+
+        set {_backpack_name} to "&8Balo Cá Nhân #%{_backpack_id}%"
+
+        # Kiểm tra xem balo này đã được tạo cho người chơi chưa
+        if {backpack::%player%::%{_backpack_id}%} is not set:
+            set {_new_inventory} to a new chest inventory with 3 rows named "%{_backpack_name}%"
+            set {backpack::%player%::%{_backpack_id}%} to json from inventory {_new_inventory}
+            send "&aBạn vừa tạo balo &6#%{_backpack_id}% &amới!" to player
+
+        # Lưu thông tin balo đang mở
+        set {opened_backpack::%player%} to {_backpack_id}
+            
+        #open inventory from json {backpack::%player%::%{_backpack_id}%} to player
+        send "&7Đã mở %{_backpack_name}%. Đóng balo để lưu." to player

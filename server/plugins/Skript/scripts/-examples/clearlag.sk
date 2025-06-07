@@ -1,0 +1,17 @@
+#made by AzureDev7
+
+function clearlag():
+    broadcast "&4&lBÁC AN DỌN RÁC &7• &cDọn lag trong 15 giây"
+    wait 15 seconds
+    broadcast "&4&lBÁC AN DỌN RÁC &7• &cĐã xóa %size of dropped items% vật phẩm rơi"
+    kill dropped items
+
+command clearlag:
+    aliases: cl
+    permission: clearlag
+    permission message: &4&l[LỖI] &7• &cBạn không có quyền để thực hiện lệnh này!
+    trigger:
+        clearlag()
+
+every 3 minutes:
+    clearlag()

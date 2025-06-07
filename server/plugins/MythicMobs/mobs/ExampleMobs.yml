@@ -1,0 +1,139 @@
+SkeletalKnight:
+  Type: WITHER_SKELETON
+  Display: '&aSkeletal Knight'
+  Health: 40
+  Damage: 8
+  Equipment:
+  - IRON_HELMET HEAD
+  - IRON_CHESTPLATE CHEST
+  - IRON_LEGGINGS LEGS
+  - IRON_BOOTS FEET
+  - IRON_SWORD HAND
+  - SHIELD OFFHAND
+  Drops:
+  - GOLD_NUGGET{display="Gold Coin"} 1to2 0.5
+  LevelModifiers:
+  - health 5
+  - damage 0.5
+  Options:
+    MovementSpeed: 0.1
+SkeletonKing:
+  Type: WITHER_SKELETON
+  Display: '&6Skeleton King'
+  Health: 500
+  Damage: 10
+  Skills:
+  - speak{m="None may challenge the Skeleton King!";cooldown=20} @PlayersInRadius{r=40}
+    ~onCombat 0.2
+  - speak{m="Ahahahahah! Die, <trigger.name>!"} @PlayersInRadius{r=40} ~onPlayerKill
+  - skill{s=SummonSkeletons} @self 0.1
+  - skill{s=SmashAttack} @target 0.2
+  Equipment:
+  - KingsCrown HEAD
+  - SkeletonKingSword HAND
+  Drops:
+  - SkeletonKingDrops
+  Options:
+    AlwaysShowName: true
+    MovementSpeed: 0.2
+    MaxCombatDistance: 25
+    PreventOtherDrops: true
+SkeletalMinion:
+  Type: SKELETON
+  Display: '&2Skeletal Minion'
+  Health: 10
+  Damage: 2
+  Options:
+    MovementSpeed: 0.1
+StaticallyChargedSheep:
+  Type: SHEEP
+  Display: '&aStatically Charged Sheep'
+  Health: 100
+  Damage: 2
+  Options:
+    MovementSpeed: 0.3
+  DamageModifiers:
+  - LIGHTNING 0
+  - FIRE 0.5
+  Skills:
+  - lightning @LivingInRadius{r=10} ~onTimer:100
+AngrySludge:
+  Type: SLIME
+  Display: '&aAngry Sludge'
+  Health: 100
+  Damage: 2
+  Options:
+    Size: 20
+    MovementSpeed: 0.1
+    PreventSlimeSplit: true
+    PreventOtherDrops: true
+    MaxCombatDistance: 30
+    KnockbackResistance: 1
+  Skills:
+  - skill{s=AngrySludgePoison} 0.2
+  - blockmask{material=SLIME_BLOCK;r=1;duration=100} @self ~onTimer:20
+# Định nghĩa một Mob mới với ID là WarriorZombie
+WarriorZombie:
+  Type: ZOMBIE                     # Loại mob cơ bản của Minecraft (có thể là Skeleton, Creeper, Giant, Wither, EnderDragon, v.v.)
+  Display: '&cChiến Binh Zombie'   # Tên sẽ hiển thị trong game (dùng mã màu &c cho màu đỏ)
+  Health: 200                      # Máu của boss (mặc định zombie có 20 máu)
+  Damage: 10                       # Sát thương cơ bản (mặc định zombie là 2-3)
+  Options:                         # Các tùy chọn bổ sung cho mob
+    PreventMobDespawn: true        # Ngăn không cho mob tự động biến mất
+    MovementSpeed: 0.25            # Tốc độ di chuyển (mặc định zombie là 0.23)
+  Skills:                          # Các kỹ năng mà mob này sẽ sử dụng
+  - summon{m=SkeletalMinion;a=2} @Self ~onCombat >0 10  # Triệu hồi 2 ZombieMinion khi bắt đầu chiến đấu, cứ 10 giây 1 lần
+  Drops:                           # Vật phẩm sẽ rơi ra khi mob bị đánh bại
+  - gold_ingot 5-10 1              # Rơi 5-10 cục vàng với tỉ lệ 100%
+  - diamond 1 0.5                  # Rơi 1 viên kim cương với tỉ lệ 50%
+  Equipment:                       # Trang bị cho mob (lưu ý: số sau dấu hai chấm là slot)
+  - DIAMOND_SWORD:0                # Kiếm kim cương (0 là slot chính ở tay)
+  - DIAMOND_HELMET:4               # Mũ kim cương (4 là slot mũ)
+  - DIAMOND_CHESTPLATE:3           # Giáp ngực kim cương (3 là slot giáp ngực)
+  - DIAMOND_LEGGINGS:2             # Quần kim cương (2 là slot quần)
+  - DIAMOND_BOOTS:1                # Giày kim cương (1 là slot giày)
+ChuaTeDatCam:
+  Type: WITHER # Boss sẽ dựa trên Wither để có 3 đầu và kích thước lớn
+  Display: '&6&lChúa tể đất Cam' # Tên hiển thị của boss
+  Health: 1000 # Máu của boss
+  Damage: 25 # Sát thương cơ bản
+  MythicMobDrops: # Sử dụng DropTables để quản lý vật phẩm rơi
+    - ChuaTeDatCam
+  Options:
+    MovementSpeed: 0.2 # Tốc độ di chuyển chậm rãi nhưng uy nghi
+    KnockbackResistance: 1 # Miễn nhiễm hiệu ứng đẩy lùi
+    PreventOtherDrops: true # Ngăn boss rơi đồ mặc định của Wither
+    PreventLeashing: true # Không thể buộc dây
+    Despawn: false # Không tự biến mất
+    BossBar: # Thanh máu boss
+      Enabled: true
+      Title: '&6&lChúa tể đất Cam'
+      Color: YELLOW
+      Style: NOTCHED_20
+  Skills:
+  # Kỹ năng 1: Sấm sét bùng nổ (Lightning Burst)
+  - skill{s=LightningBurst} @PIR{r=20} ~onTimer:100 # Gây sét cho người chơi trong bán kính 20 ô mỗi 5 giây (100 ticks)
+
+  # Kỹ năng 2: Sấm sét chói lóa (BlindingStrike)
+  - skill{s=BlindingStrike} @target ~onTimer:200 0.5 # Gây sét và hiệu ứng mù cho mục tiêu mỗi 10 giây với 50% tỉ lệ
+
+  # Kỹ năng 3: Triệu hồi Sấm sét (SummonLightning) - Chỉ kích hoạt khi boss còn ít máu
+  - skill{s=SummonLightning} @self ~onTimer:300 0.25 # Triệu hồi sét xung quanh boss mỗi 15 giây với 25% tỉ lệ
+
+  # Kỹ năng 4: Tấn công sấm sét liên hoàn (ChainLightning)
+  - skill{s=ChainLightning} @target ~onCombat 0.2 # Kích hoạt khi boss tấn công, 20% cơ hội gây sét lan
+NetherPiglet:
+  Type: HOGLIN # Hoặc ZOMBIFIED_PIGLIN, PIGLIN nếu bạn muốn chúng giống dân địa ngục hơn
+  Display: '&4Heo Địa Ngục' # Tên hiển thị màu đỏ thẫm
+  Health: 25 # Máu nhiều hơn heo con bình thường
+  Damage: 6 # Có khả năng gây sát thương
+  MythicMobDrops: # Sử dụng DropTables để quản lý vật phẩm rơi
+    - ChuaTeDatCam
+  Options:
+    PreventMobDespawn: true # Không tự biến mất
+    MovementSpeed: 0.28 # Nhanh hơn một chút
+    FollowRange: 20 # Tầm theo dõi rộng hơn
+    KnockbackResistance: 0.2 # Kháng đẩy lùi nhẹ
+    # Có thể thêm hiệu ứng khi tấn công
+    # OnAttack:
+    # - effect:particles{p=FLAME;amount=5} @target # Phát hạt lửa khi tấn công

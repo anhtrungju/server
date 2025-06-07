@@ -1,0 +1,12 @@
+# Tạo rương dịch để dịch chuyển người chơi đến các khu boss
+command /bossmenu:
+    trigger:
+        # Tạo một rương với 9 ô (tùy chỉnh số ô tùy vào bạn)
+        open chest with 9 slots named "&6Boss Menu" to player
+        
+        # Đặt vật phẩm cho các ô trong rương
+        format slot 0 with minecraft:stone named "&bKhu Boss 1" with lore "&7Click để vào Khu Boss 1" to run [teleport player to location(100, 64, -100)] # Vị trí Khu Boss 1
+        format slot 1 with minecraft:stone named "&bKhu Boss 2" with lore "&7Click để vào Khu Boss 2" to run [teleport player to location(200, 64, -100)] # Vị trí Khu Boss 2
+        format slot 2 with minecraft:stone named "&bKhu Boss 3" with lore "&7Click để vào Khu Boss 3" to run [teleport player to location(300, 64, -100)] # Vị trí Khu Boss 3
+        format slot 8 with minecraft:barrier named "&cĐóng menu" with lore "&7Click để đóng menu" to close the inventory
+        

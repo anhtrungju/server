@@ -1,0 +1,220 @@
+# Tệp ngôn ngữ tiếng Việt mặc định
+
+# Phiên bản Skript mà tệp ngôn ngữ này được viết cho
+version: 2.11.2
+
+# Giá trị null (không có gì) sẽ hiển thị như thế nào trong chuỗi/văn bản
+none: <none>
+
+# -- Skript --
+skript:
+	copyright: ~ được tạo bởi & © Peter Güttinger hay còn gọi là Njol ~
+	prefix: <gray>[<gold>Skript<gray>] <reset>
+	quotes error: Sử dụng dấu ngoặc kép (") không hợp lệ. Nếu bạn muốn dùng dấu ngoặc kép trong "văn bản có ngoặc kép", hãy dùng hai dấu: "".
+	brackets error: Số lượng hoặc vị trí dấu ngoặc vuông không hợp lệ. Hãy đảm bảo rằng mỗi dấu ngoặc mở đều có một dấu ngoặc đóng tương ứng.
+	invalid reload: Skript chỉ có thể được tải lại bằng lệnh '/reload' của Bukkit hoặc lệnh '/skript reload' của Skript.
+	no scripts: Không tìm thấy script nào, có lẽ bạn nên viết một vài cái ;)
+	no errors: Tất cả các script đã tải không có lỗi.
+	scripts loaded: Đã tải %s script¦¦s¦ với tổng số %s cấu trúc trong %s
+	finished loading: Đã hoàn tất tải.
+	warning message: Có vẻ như /reload hoặc một plugin khác đã tải lại Skript. Hành vi này không được hỗ trợ và có thể gây ra vấn đề.
+	restart message: Vui lòng cân nhắc khởi động lại máy chủ thay vì dùng lệnh.
+
+# -- Lệnh Skript --
+skript command:
+	usage: Cách dùng:
+	help:
+		description: Lệnh chính của Skript
+		help: In ra thông báo trợ giúp này. Dùng '/skript reload/enable/disable/update' để biết thêm thông tin.
+		reload:
+			description: Tải lại một script cụ thể, tất cả các script, cấu hình, hoặc mọi thứ.
+			all: Tải lại cấu hình, tất cả cấu hình bí danh và tất cả các script.
+			config: Tải lại cấu hình chính.
+			aliases: Tải lại cấu hình bí danh (aliases-english.zip hoặc tệp jar của plugin).
+			scripts: Tải lại tất cả các script.
+			<script>: Tải lại một script cụ thể hoặc một thư mục script.
+		enable:
+			description: Bật tất cả các script hoặc một script cụ thể.
+			all: Bật tất cả các script.
+			<script>: Bật một script cụ thể hoặc một thư mục script.
+		disable:
+			description: Tắt tất cả các script hoặc một script cụ thể.
+			all: Tắt tất cả các script.
+			<script>: Tắt một script cụ thể hoặc một thư mục script.
+		update:
+			description: Kiểm tra cập nhật hoặc đọc nhật ký thay đổi.
+			check: Kiểm tra phiên bản mới.
+			changes: Liệt kê tất cả các thay đổi kể từ phiên bản hiện tại.
+		list: Liệt kê tất cả các script đã bật và bị tắt.
+		info: In ra một thông báo với các liên kết đến các bí danh và tài liệu của Skript.
+		gen-docs: Tạo tài liệu bằng cách sử dụng docs/templates trong thư mục plugin.
+		test: Dùng để chạy các bài kiểm tra nội bộ của Skript.
+
+	invalid script: Không tìm thấy script <grey>'<gold>%s<grey>'<red> trong thư mục scripts!
+	invalid folder: Không tìm thấy thư mục <grey>'<gold>%s<grey>'<red> trong thư mục scripts!
+	reload:
+		warning line info: <gold><bold>Dòng %s:<gray> (%s)<reset>\n
+		error line info: <light red><bold>Dòng %s:<gray> (%s)<reset>\n
+		reloading: Đang tải lại <gold>%s<reset>...
+		reloaded: <lime>Đã tải lại thành công <gold>%s<lime>. <gray>(<gold>%2$sms<gray>)
+		player reload: <lime>%s <reset>đang tải lại <gold>%s<reset>...
+		error: <light red>Đã gặp <gold>%2$s <light red>lỗi khi tải lại <gold>%1$s<light red>! <gray>(<gold>%3$sms<gray>)
+		script disabled: <gold>%s<reset> hiện đang bị tắt. Dùng <gray>/<gold>skript <cyan>enable <red>%s<reset> để bật nó.
+		warning details: <yellow>    %s<reset>\n
+		error details: <light red>    %s<reset>\n
+		other details: <white>    %s<reset>\n
+		line details: <gold>    Dòng: <gray>%s<reset>\n <reset>
+
+		config, aliases and scripts: cấu hình, bí danh và tất cả các script
+		scripts: tất cả các script
+		main config: cấu hình chính
+		aliases: các bí danh
+		script: <gold>%s<reset>
+		scripts in folder: tất cả các script trong <gold>%s<reset>
+		x scripts in folder success: <gold>%2$s <lime>script¦¦s¦ trong <gold>%1$s<reset>
+		x scripts in folder error: <gold>%2$s <light red>script¦¦s¦ trong <gold>%1$s<reset>
+		empty folder: <gold>%s<reset> không chứa bất kỳ script nào đã bật.
+	enable:
+		all:
+			enabling: Đang bật tất cả các script đã tắt...
+			enabled: Đã bật & phân tích thành công tất cả các script đã tắt trước đó.
+			error: <light red>Đã gặp <gold>%s <light red>lỗi khi phân tích các script bị tắt!
+			io error: <light red>Không thể tải một hoặc nhiều script - một số script có thể đã được đổi tên và sẽ được bật khi máy chủ khởi động lại: <gold>%s
+		single:
+			already enabled: <gold>%s<reset> đã được bật rồi! Dùng <gray>/<gold>skript <cyan>reload <red>%s<reset> để tải lại nếu nó đã thay đổi.
+			enabling: Đang bật <gold>%s<reset>...
+			enabled: Đã bật & phân tích thành công <gold>%s<reset>.
+			error: <light red>Đã gặp <gold>%2$s <light red>lỗi khi phân tích <gold>%1$s<light red>!
+			io error: <light red>Không thể bật <gold>%s<light red>: <gold>%s
+		folder:
+			empty: <gold>%s<reset> không chứa bất kỳ script nào bị tắt.
+			enabling: Đang bật <gold>%2$s <reset>script¦¦s¦ trong <gold>%1$s<reset>...
+			enabled: Đã bật & phân tích thành công <gold>%2$s<reset> script đã tắt trước đó trong <gold>%1$s<reset>.
+			error: <light red>Đã gặp <gold>%2$s <light red>lỗi khi phân tích script trong <gold>%1$s<light red>!
+			io error: <light red>Lỗi khi bật một hoặc nhiều script trong <gold>%s <light red>(một số script có thể được bật khi máy chủ khởi động lại): <gold>%s
+	disable:
+		all:
+			disabled: Đã tắt thành công tất cả các script.
+			io error: <light red>Không thể đổi tên một hoặc nhiều script - một số script có thể đã được đổi tên và sẽ bị tắt khi máy chủ khởi động lại: <gold>%s
+		single:
+			already disabled: <gold>%s<reset> đã bị tắt rồi!
+			disabled: Đã tắt thành công <gold>%s<reset>.
+			io error: <light red>Không thể đổi tên <gold>%s<light red>, nó sẽ được bật lại khi bạn khởi động lại máy chủ: <gold>%s
+		folder:
+			empty: <gold>%s<reset> không chứa bất kỳ script nào đã bật.
+			disabled: Đã tắt thành công <gold>%2$s<reset> script(s) trong <gold>%1$s<reset>.
+			io error: <light red>Không thể tắt một hoặc nhiều script trong <gold>%s <light red>(một số script có thể bị tắt khi máy chủ khởi động lại): <gold>%s
+	update:
+		# check/download: xem Updater
+		changes:
+			# multiple versions:
+			# 	title: <gold>%s<r> update¦ has¦s have¦ been released since this version (<gold>%s<r>) of Skript:
+			# 	footer: To show the changelog of a version type <gold>/skript update changes <version><reset>
+			# invalid version: No changelog for the version <gold>%s<red> available
+			title: <bold><cyan>%s<reset> (%s)
+			next page: <grey>trang %s trên %s. Gõ <gold>/skript update changes %s<gray> cho trang tiếp theo (gợi ý: dùng phím mũi tên lên)
+	list:
+		enabled:
+			header: <white>Các script đã bật:
+			element: <lime green>  %s
+		disabled:
+			header: <white>Các script đã tắt:
+			element: <light red>  %s
+	info:
+		aliases: Các bí danh của Skript có thể tìm thấy tại đây: <aqua>https://github.com/SkriptLang/skript-aliases
+		documentation: Tài liệu của Skript có thể tìm thấy tại đây: <aqua>https://docs.skriptlang.org/
+		tutorials: Các hướng dẫn của Skript có thể tìm thấy tại đây: <aqua>https://docs.skriptlang.org/tutorials
+		version: Phiên bản Skript: <aqua>%s
+		server: Phiên bản máy chủ: <aqua>%s
+		addons: Các Addon Skript đã cài: <aqua>%s
+		dependencies: Các phụ thuộc đã cài: <aqua>%s
+
+# -- Tin nhắn nhật ký --
+log:
+	# lỗi thời gian chạy
+	runtime:
+		error: <light red>Script '<gray>%s<light red>' đã gặp lỗi khi thực thi '<gray>%s<light red>' %s<light red>:\n
+		errors skipped: <gold>%d<light red> lỗi thời gian chạy đã được ném nhưng không được in trong khung cuối cùng. Từ: <gray>%s
+		errors timed out: <gold>Dòng %d<light red> của script '<gray>%s<light red>' đã tạo ra quá nhiều lỗi thời gian chạy (<gray>%d<light red> cho phép mỗi khung). Không có lỗi nào từ dòng này sẽ được in trong %d khung.
+		error notification: <light red>Script '<gray>%s<light red>' đã tạo ra lỗi thời gian chạy. Vui lòng kiểm tra nhật ký console để biết chi tiết.
+		error notification plural: <light red>Script '<gray>%s<light red>' và %d script khác đã tạo ra lỗi thời gian chạy. Vui lòng kiểm tra nhật ký console để biết chi tiết.
+
+		warning: <yellow>Script '<gray>%s<yellow>' đã gặp cảnh báo khi thực thi '<gray>%s<yellow>' %s<yellow>:\n
+		warnings skipped: <yellow>%d<yellow> cảnh báo thời gian chạy đã được ném nhưng không được in trong khung cuối cùng. Từ: <gray>%s
+		warnings timed out: <gold>Dòng %d<yellow> của script '<gray>%s<yellow>' đã tạo ra quá nhiều cảnh báo thời gian chạy (<gray>%d<yellow> cho phép mỗi khung). Không có cảnh báo nào từ dòng này sẽ được in trong %d khung.
+		warning notification: <yellow>Script '<gray>%s<yellow>' đã tạo ra cảnh báo thời gian chạy. Vui lòng kiểm tra nhật ký console để biết chi tiết.
+		warning notification plural: <gold>Script '<gray>%s<yellow>' và %d script khác đã tạo ra cảnh báo thời gian chạy. Vui lòng kiểm tra nhật ký console để biết chi tiết.
+
+		line info: <gold>    Dòng %s<white>: <gray>%s\n \n
+
+
+# -- Trình cập nhật --
+updater:
+	not started: Skript chưa kiểm tra phiên bản mới nhất. Dùng <gold>/skript update check<reset> để làm điều đó.
+	checking: Đang kiểm tra phiên bản Skript mới nhất...
+	check in progress: Đang trong quá trình kiểm tra phiên bản mới.
+	updater disabled: Trình cập nhật đã bị tắt, do đó không kiểm tra phiên bản Skript mới nhất.
+	check error: <red>Đã xảy ra lỗi khi kiểm tra phiên bản Skript mới nhất:<light red> %s
+	running latest version: Bạn đang chạy phiên bản ổn định mới nhất của Skript.
+	running latest version (beta): Bạn đang chạy phiên bản <i>beta<r> của Skript, và không có phiên bản <i>ổn định<r> mới nào khả dụng. Xin lưu ý rằng bạn phải tự cập nhật lên các phiên bản beta mới hơn!
+	update available: Có phiên bản Skript mới: <gold>%s<reset> (bạn đang chạy <gold>%s<reset>)
+	downloading: Đang tải xuống Skript <gold>%s<reset>...
+	download in progress: Phiên bản Skript mới nhất hiện đang được tải xuống.
+	download error: <red>Đã xảy ra lỗi khi tải xuống phiên bản Skript mới nhất:<light red> %s
+	downloaded: Phiên bản Skript mới nhất đã được tải xuống! Khởi động lại máy chủ hoặc dùng /reload để áp dụng các thay đổi.
+	internal error: Đã xảy ra lỗi nội bộ khi kiểm tra phiên bản Skript mới nhất. Vui lòng tham khảo nhật ký máy chủ để biết chi tiết.
+	custom version: Bạn đang chạy một phiên bản Skript tùy chỉnh. Không có bản cập nhật nào sẽ được cài đặt tự động.
+	nightly build: Bạn đang chạy bản dựng phát triển của Skript. Không có bản cập nhật nào sẽ được cài đặt tự động.
+
+# -- Lệnh --
+commands:
+	no permission message: Bạn không có quyền cần thiết để sử dụng lệnh này.
+	cooldown message: Bạn đang sử dụng lệnh này quá thường xuyên, vui lòng thử lại sau.
+	executable by players: Lệnh này chỉ có thể được sử dụng bởi người chơi.
+	executable by console: Lệnh này chỉ có thể được sử dụng bởi console.
+	correct usage: Cách dùng đúng:
+	invalid argument: Đối số không hợp lệ <gray>'%s<gray>'<reset>. Các đối số cho phép là:
+	too many arguments: Lệnh này chỉ có thể chấp nhận một %2$s.
+	internal error: Đã xảy ra lỗi nội bộ khi cố gắng thực hiện lệnh này.
+	no player starts with: Không có người chơi nào đang online mà tên bắt đầu bằng '%s'.
+	multiple players start with: Có nhiều người chơi đang online mà tên bắt đầu bằng '%s'.
+
+# -- Móc nối (Hooks) --
+hooks:
+	hooked: Đã móc nối thành công vào %s
+	error: Không thể móc nối vào %1$s. Điều này có thể xảy ra nếu Skript không hỗ trợ phiên bản %1$s đã cài đặt.
+
+# -- Bí danh (Aliases) --
+aliases:
+	# Lỗi và cảnh báo
+	empty string: '' không phải là một loại vật phẩm
+	invalid item type: '%s' không phải là một loại vật phẩm
+	empty name: Một bí danh phải có tên
+	brackets error: Sử dụng dấu ngoặc vuông không hợp lệ
+	not enough brackets: Phần bắt đầu từ ký tự %s ('%s') phải được đóng
+	too many brackets: Ký tự %s ('%s') đóng một phần không tồn tại
+	unknown variation: Biến thể %s chưa được định nghĩa trước đó
+	missing aliases: Các ID Minecraft sau không có bí danh:
+	empty alias: Bí danh không có ID Minecraft hoặc thẻ được định nghĩa
+	invalid minecraft id: ID Minecraft %s không hợp lệ
+	useless variation: Biến thể không có ID Minecraft hoặc thẻ được chỉ định, nên nó vô dụng
+	invalid tags: Các thẻ được chỉ định không được định nghĩa trong JSON hợp lệ
+	unexpected section: Các phần không được phép ở đây
+	invalid variation section: Một phần phải là phần biến thể, nhưng %s không phải là tên biến thể hợp lệ
+	outside section: Các bí danh phải được đặt trong các phần
+
+	# Các tin nhắn khác
+	loaded x aliases from: Đã tải %s bí danh tiếng Việt từ %s
+	loaded x aliases: Đã tải tổng cộng %s bí danh tiếng Việt
+
+# -- Thời gian --
+time:
+	errors:
+		24 hours: Một ngày chỉ có 24 giờ
+		12 hours: Sử dụng định dạng 12 giờ không cho phép quá 12 giờ
+		60 minutes: Một giờ chỉ có 60 phút
+
+# -- Ngoại lệ I/O --
+io exceptions:
+	unknownhostexception: Không thể kết nối tới %s
+	accessdeniedexception: Quyền truy cập bị từ chối đối với %s

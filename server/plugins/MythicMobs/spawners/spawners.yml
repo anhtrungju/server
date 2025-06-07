@@ -1,0 +1,47 @@
+# Spawners Configuration
+
+BossSpawner:
+  Type: ZOMBIE
+  Display: '&4&lKẻ Bảo Vệ Lãnh Địa'
+  Health: 1000
+  Damage: 70
+  MythicMobDrops:
+  - KeBaoVe
+  Options:
+    MovementSpeed: 0.25
+    KnockbackResistance: 0.8
+    PreventOtherDrops: true
+    PreventLeashing: true
+    Despawn: false
+    PreventMobDespawn: true
+  BossBar:
+    Enabled: true
+    Title: '&4&lKẻ Bảo Vệ Lãnh Địa'
+    Color: RED
+    Style: NOTCHED_20
+  Equipment:
+  - DIAMOND_SWORD:0
+  - DIAMOND_HELMET:4
+  - DIAMOND_CHESTPLATE:3
+  - DIAMOND_LEGGINGS:2
+  - DIAMOND_BOOTS:1
+  Skills:
+  - attack @target
+  Spawn:
+    # Thiết lập vị trí spawn (tạo tại tọa độ cố định hoặc trong vùng nhất định)
+    Location: world:-78,111,-820 # Tọa độ spawn
+    Radius: 10 # Bán kính spawn (spawning mobs trong khu vực này)
+    Delay: 200 # Delay giữa các lần spawn (tính bằng ticks, 20 ticks = 1 giây)
+    MaxSpawns: 5 # Số lượng mobs tối đa có thể spawn trong mỗi lần
+  
+  # Thiết lập thông báo cho người chơi khi boss spawn
+  Messages:
+  - '&4Kẻ Bảo Vệ Lãnh Địa đã xuất hiện tại khu vực!'
+  
+  Respawn:
+    Enabled: true
+    Delay: 600 # Thời gian hồi sinh sau khi bị tiêu diệt
+    Location: world:-78,111,-820 # Vị trí hồi sinh của boss
+    Conditions:
+    - healthpercentage{p=100}
+  MobName: ''

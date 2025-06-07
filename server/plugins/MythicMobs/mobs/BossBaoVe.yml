@@ -1,0 +1,42 @@
+BossBaoVe:
+  Type: ZOMBIE
+  Display: '&4&lKẻ Bảo Vệ Lãnh Địa'
+  Health: 400  # Giảm sức khỏe xuống còn 400 để giáp kim cương có thể hạ được
+  Damage: 10  # Giảm sát thương xuống một chút, đủ để giáp kim cương có thể giảm sát thương hiệu quả
+  MythicMobDrops:
+    - BossBaoVe # Tham chiếu đến loot table "Kẻ Bảo Vệ Lãnh Địa"
+  Options:
+    MovementSpeed: 0.25
+    KnockbackResistance: 0.6  # Giảm một chút khả năng chống đẩy để người chơi có thể dễ dàng tấn công hơn
+    PreventOtherDrops: true
+    PreventLeashing: true
+    Despawn: false
+    PreventMobDespawn: true
+  BossBar:
+    Enabled: true
+    Title: '&4&lKẻ Bảo Vệ Lãnh Địa'
+    Color: RED
+    Style: NOTCHED_20
+  Equipment:
+    - DIAMOND_SWORD:0  # Giảm sức mạnh của vũ khí boss, không cần kiếm quá mạnh
+    - DIAMOND_HELMET:4
+    - DIAMOND_CHESTPLATE:3
+    - DIAMOND_LEGGINGS:2
+    - DIAMOND_BOOTS:1
+  Skills:
+    - skill{s=LightningBurst} @PIR{r=20} ~onTimer:100  # Tạo vụ nổ sét xung quanh boss mỗi 5 giây
+    - skill{s=SummonPiglets} @target ~onTimer:200 0.5  # Triệu hồi heo con vào mục tiêu mỗi 10 giây với 50% tỉ lệ
+  Spawn:
+    Radius: 10
+    Location: 'world:-86,114,-807.256'  # Vị trí spawn của boss
+    SpawnRadius: 5
+    Delay: 200
+  Messages:
+    - '&4Kẻ Bảo Vệ Lãnh Địa đã xuất hiện chat /boss 1 để đến khu boss! Hãy chuẩn bị chiến đấu!'
+  Respawn:
+    Enabled: true
+    Delay: 10
+    Location: 'world:-86,114,-807.256'
+    SpawnRadius: 5
+    Conditions:
+      - healthpercentage{p=100}

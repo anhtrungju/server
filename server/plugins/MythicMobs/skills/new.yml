@@ -1,0 +1,6 @@
+SummonPiglets:
+  Cooldown: 15
+  Skills:
+  - effect:sound{s=entity.hoglin.ambient;p=1;v=1.5} @self # Âm thanh Hoglin
+  - effect:particles{p=FLAME;amount=10;hS=0.5;vS=0.5;y=0.1;speed=0.1} @self # Hạt lửa
+  - summon{m=NetherPiglet;a=3;y=0.5;spread=2} @self # Triệu hồi 3 NetherPiglet quanh boss

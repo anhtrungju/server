@@ -1,0 +1,31 @@
+# Script Thùng Rác Ảo
+
+command /trash:
+    aliases: dispose, dump
+    permission: skript.trash
+    permission message: &cBạn không có quyền dùng thùng rác!
+    trigger:
+        set {_trash_can} to a new chest inventory with 3 rows named "&8Thùng Rác"
+        open {_trash_can} to player
+        send "&7Kéo và thả vật phẩm vào đây để xóa chúng. Đóng hòm để xác nhận."
+
+# Khi người chơi đóng thùng rác
+on inventory close:
+    name of event-inventory is "&8Thùng Rác" # Đảm bảo đó là thùng rác của chúng ta
+    
+    # Hỏi người chơi có chắc chắn muốn xóa không (tùy chọn)
+    # Nếu muốn xác nhận, bạn sẽ cần một hệ thống menu phức tạp hơn hoặc lệnh riêng
+    
+    send "&aĐã dọn dẹp thùng rác của bạn!"
+    # Skript sẽ tự động loại bỏ inventory này khi nó không còn được tham chiếu,
+    # tức là các vật phẩm trong đó sẽ bị xóa.
+
+# Ngăn người chơi lấy vật phẩm từ thùng rác sau khi đã đặt vào (nếu không phải là vật phẩm của họ)
+on inventory click:
+    name of event-inventory is "&8Thùng Rác"
+    # Bạn có thể thêm logic để người chơi chỉ có thể lấy vật phẩm họ tự bỏ vào,
+    # nhưng đơn giản nhất là chỉ cho họ vứt bỏ.
+    # Trong trường hợp này, không cần cancel event nếu mục đích là vứt đồ.
+    # Nếu bạn muốn họ không lấy lại được đồ đã vứt, hãy cancel event.
+    # Tuy nhiên, cách thiết kế "thùng rác" đơn giản này thường là "một đi không trở lại".
+    # Ví dụ trên đã dùng cancel event ở on inventory click của menu, nhưng ở đây có thể không cần.
